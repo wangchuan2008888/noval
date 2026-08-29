@@ -1,0 +1,193 @@
+[
+  {
+    "id": "xiao-yan",
+    "name": "萧炎",
+    "one_sentence": "萧家三少爷，自绝境崛起吞噬二十二种异火，最终登临斗帝尊位、万火归一的炎帝。",
+    "first_chapter": 1,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "岩枭",
+      "药岩",
+      "萧门门主",
+      "炎盟盟主",
+      "天府联盟盟主",
+      "炎帝"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "yao-lao",
+    "name": "药老（药尘）",
+    "one_sentence": "中州第一炼药师药圣、星陨阁阁主，萧炎恩师兼如父领路人，重塑身躯后位列半圣及斗圣。",
+    "first_chapter": 8,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "药尊者",
+      "药圣",
+      "药尊",
+      "药尘"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "xiao-xun-er",
+    "name": "萧薰儿（古薰儿）",
+    "one_sentence": "古族千金神品斗帝血脉，金帝焚天炎掌火者，萧炎挚爱妻子与一生相伴的红颜。",
+    "first_chapter": 1,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "薰儿",
+      "古薰儿",
+      "神品血脉"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "medusa",
+    "name": "美杜莎女王（彩鳞）",
+    "one_sentence": "蛇人族至高女王，吞噬异火进化九彩吞天蟒，与萧炎共历生死终成夫妻并诞下萧潇。",
+    "first_chapter": 196,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "彩鳞",
+      "美杜莎",
+      "七彩吞天蟒",
+      "九彩吞天蟒"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "xiao-yi-xian",
+    "name": "小医仙",
+    "one_sentence": "青山镇温婉采药女，身负厄难毒体化身天毒女，被萧炎化解毒体后终生伴其左右的莫逆挚友。",
+    "first_chapter": 48,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "天毒女",
+      "厄难毒体"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "yun-yun",
+    "name": "云韵（云芝）",
+    "one_sentence": "加玛帝国云岚宗前宗主、中州花宗宗主，魔兽山脉与萧炎情缘纠葛难断的知己红颜。",
+    "first_chapter": 76,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "云芝",
+      "云岚宗主",
+      "花宗宗主"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "na-lan-yan-ran",
+    "name": "纳兰嫣然",
+    "one_sentence": "纳兰家族骄傲掌珠，三年之约退婚始作俑者，战败后斩断骄纵踏上自我救赎之路。",
+    "first_chapter": 3,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "嫣然",
+      "纳兰少小姐"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "hai-bo-dong",
+    "name": "海波东",
+    "one_sentence": "加玛帝国一代冰皇，米特尔家族太上长老，萧炎落难与决战云岚宗时最坚定的忠诚盟友。",
+    "first_chapter": 140,
+    "last_confirmed_chapter": 720,
+    "aliases": [
+      "冰皇",
+      "海老"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "zi-yan",
+    "name": "紫研",
+    "one_sentence": "太虚古龙一族至尊龙皇，烛坤之女，贪吃灵草的小女孩成长为威压四海的龙族少主。",
+    "first_chapter": 480,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "蛮力王",
+      "龙皇",
+      "太虚古龙"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "feng-zun-zhe",
+    "name": "风尊者（风闲）",
+    "one_sentence": "星陨阁副阁主，药老患难与共的生死至交，倾尽全阁之力辅佐萧炎营救药老。",
+    "first_chapter": 920,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "风老",
+      "风闲"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "hun-tian-di",
+    "name": "魂天帝",
+    "one_sentence": "远古八族魂族族长，千古枭雄，以中州苍生为祭铸就血帝之位，终被萧炎永恒封印。",
+    "first_chapter": 1450,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "魂帝",
+      "魂族族长"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "zhu-kun",
+    "name": "烛坤",
+    "one_sentence": "太虚古龙族老龙皇，紫研之父，受困陀舍古帝洞府万年，脱困后助萧炎平定魂天帝。",
+    "first_chapter": 1560,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "老龙皇",
+      "太虚古龙皇"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "gu-yuan",
+    "name": "古元",
+    "one_sentence": "远古八族古族族长，薰儿之父，九星斗圣巅峰至强者，古族与联盟的中流砥柱。",
+    "first_chapter": 1180,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "古家族长",
+      "古元岳丈"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "xiao-zhan",
+    "name": "萧战",
+    "one_sentence": "乌坦城萧家族长，萧炎深沉慈爱的父亲，遭魂殿秘密掳走多年后终被萧炎救回团聚。",
+    "first_chapter": 1,
+    "last_confirmed_chapter": 1574,
+    "aliases": [
+      "萧伯父",
+      "萧族长"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "han-feng",
+    "name": "韩枫",
+    "one_sentence": "药老首徒兼叛徒，弑师夺焚决未遂盘踞黑角域自号药皇，终被萧炎清理门户神魂俱灭。",
+    "first_chapter": 410,
+    "last_confirmed_chapter": 800,
+    "aliases": [
+      "药皇",
+      "逆徒韩枫"
+    ],
+    "spoiler_level": "full"
+  }
+]

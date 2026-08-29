@@ -1,0 +1,140 @@
+[
+  {
+    "from": "xiao-yan",
+    "to": "yao-lao",
+    "type": "master-disciple",
+    "description": "恩同再造的传道恩师与如山父子情深，焚决与异火之路的真正领路人。",
+    "evidence_chapters": [
+      9,
+      408,
+      1140,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "xiao-xun-er",
+    "type": "romance",
+    "description": "青梅竹马两小无猜，跨越远古八族阶级鸿沟、至死不渝的结发之妻。",
+    "evidence_chapters": [
+      1,
+      556,
+      1220,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "medusa",
+    "type": "romance",
+    "description": "由蛇人族死敌、地底异火合体情缘，到并肩守卫萧门、诞女萧潇的生死之妻。",
+    "evidence_chapters": [
+      196,
+      625,
+      710,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "xiao-yi-xian",
+    "type": "ally",
+    "description": "魔兽山脉相逢患难与共，纵然身负万毒厄难亦誓死相护的至交红颜。",
+    "evidence_chapters": [
+      48,
+      770,
+      945,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "yun-yun",
+    "type": "romance",
+    "description": "魔兽山脉山洞春毒暗生情愫，碍于云岚宗宿命纠葛终成相思知己。",
+    "evidence_chapters": [
+      76,
+      718,
+      1260,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "na-lan-yan-ran",
+    "type": "rival",
+    "description": "一纸休书三年之约死敌，云岚宗破灭后恩怨尽释，重归故人坦然相待。",
+    "evidence_chapters": [
+      7,
+      335,
+      875,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "hai-bo-dong",
+    "type": "ally",
+    "description": "大沙漠破封之缘，米特尔家族与萧炎血火并肩、倾力相助的忘年之交。",
+    "evidence_chapters": [
+      140,
+      395,
+      700
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "zi-yan",
+    "type": "ally",
+    "description": "内院贪吃药丸结下深厚兄妹情谊，助其平定龙岛并肩横扫中州。",
+    "evidence_chapters": [
+      480,
+      1455,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "hun-tian-di",
+    "type": "enemy",
+    "description": "宿命死敌，萧族与魂族万年血仇，双帝决战之永恒封印对决。",
+    "evidence_chapters": [
+      1450,
+      1610,
+      1624
+    ]
+  },
+  {
+    "from": "yao-lao",
+    "to": "han-feng",
+    "type": "enemy",
+    "description": "养育授业首徒恩将仇报暗害师尊，最终被萧炎与药老清理门户。",
+    "evidence_chapters": [
+      410,
+      630,
+      798
+    ]
+  },
+  {
+    "from": "yao-lao",
+    "to": "feng-zun-zhe",
+    "type": "ally",
+    "description": "生死与共的数百年故友，共建星陨阁并守护萧炎成长。",
+    "evidence_chapters": [
+      920,
+      1140,
+      1624
+    ]
+  },
+  {
+    "from": "xiao-yan",
+    "to": "xiao-zhan",
+    "type": "family",
+    "description": "父爱如山，不顾家族非议全力庇护幼年萧炎，萧炎救父主线核心动力。",
+    "evidence_chapters": [
+      1,
+      395,
+      1581
+    ]
+  }
+]

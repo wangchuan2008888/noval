@@ -1,0 +1,4960 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "batch-020",
+  "status": "ready_for_integration",
+  "source_sha256": "ad75aa30839896f8df0ec550399720ab35452693fe66d49ced410bb4468cf706",
+  "owned_range": [
+    1901,
+    2000
+  ],
+  "read_range": [
+    1899,
+    2002
+  ],
+  "skeleton_version": "2026-08-29-final-v1",
+  "chapters": [
+    {
+      "id": 1901,
+      "title": "去找大虾皇",
+      "source": {
+        "start_line": 312425,
+        "end_line": 312596
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《去找大虾皇》展开，推动后续主线进展。",
+      "summary": "【剧情起因】“好厉害！” 混沌噬心虫也忍不住感叹起来。\n【交锋过程】混沌噬神蜂只是用了三个时辰，就将吞天塔第九层空间内那些狂暴的能量全部都吞噬了，然后它化作一道黑光，钻进方尘的丹田之中。；当混沌噬神蜂进入方尘的丹田之后，方尘身体猛地一震，紧接着他感觉到一股强大的力量从丹田爆发出来，然后沿着经脉涌向全身，这可是一百多个虾王的力量，现在全部都集中到他...；方尘忍不住笑了起来，说道：「这修为，果然还是在外面闯荡比自己闭关苦修来得快！」；从吞天塔里面出来之后，八哥立刻开口对方尘问道：「这么快就搞定了？」\n【本章结局】看到吞天塔的变化之后，方尘也愣了一下，在心里感叹：“看来，随着我的实力提升，我全力催动吞天塔，吞天塔的高度也会变得更高！”",
+      "key_events": [
+        "第1901章：去找大虾皇",
+        "经过：混沌噬神蜂只是用了三个时辰，就将吞天塔第九层空间内那些狂暴的能量全部都...",
+        "结果：方尘忍不住笑了起来，说道：「这修为，果然还是在外面闯荡比自己闭关苦修来..."
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "第1901章主线结果：看到吞天塔的变化之后，方尘也愣了一下，在心里感叹：“看来，随着我的实力提升，我全力催动吞天塔，吞天塔的高度也会...",
+        "核心线索：围绕《去找大虾皇》推进【大帝征途篇】发展。"
+      ],
+      "evidence_chapters": [
+        1901
+      ],
+      "continuity_in": [
+        1900
+      ],
+      "continuity_out": [
+        1902
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1902,
+      "title": "黑玉噬魂虾皇出现",
+      "source": {
+        "start_line": 312597,
+        "end_line": 312768
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《黑玉噬魂虾皇出现》展开，推动后续主线进展。",
+      "summary": "【剧情起因】方尘控制着吞天塔，对准黑玉噬魂虾的洞穴，开始吞噬。 那些黑玉噬魂虾王感觉到吞天塔上传出来的恐怖吞噬之力后，立刻躲进洞穴之中。\n【交锋过程】那些黑玉噬魂虾王感觉到吞天塔上传出来的恐怖吞噬之力后，立刻躲进洞穴之中。；可是那些黑玉噬魂虾王的身体卡在洞穴里面，无论方尘怎么拉，都无法将这些黑玉噬魂虾王拉出来。；八哥看到这情况，和方尘传音道：「方尘，这样子是无法将黑玉噬魂虾王拉出来的！」；「这些黑玉噬魂虾王，遇到方尘，也算是倒八辈子的霉了！」\n【本章结局】黑玉噬魂虾皇说完，立刻震动它那两只巨大的虾螯，虾螯在震动的瞬间，爆发出恐怖的冲击波，让周围的岩浆都扭曲起来，那冲击波在岩浆之中传递的速度，比在空气之中传递的速度更快，几乎是一瞬间，那冲击波就...",
+      "key_events": [
+        "第1902章：黑玉噬魂虾皇出现",
+        "经过：那些黑玉噬魂虾王感觉到吞天塔上传出来的恐怖吞噬之力后，立刻躲进洞穴之中...",
+        "结果：八哥看到这情况，和方尘传音道：「方尘，这样子是无法将黑玉噬魂虾王拉出来..."
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "第1902章主线结果：黑玉噬魂虾皇说完，立刻震动它那两只巨大的虾螯，虾螯在震动的瞬间，爆发出恐怖的冲击波，让周围的岩浆都扭曲起来，那...",
+        "核心线索：围绕《黑玉噬魂虾皇出现》推进【大帝征途篇】发展。"
+      ],
+      "evidence_chapters": [
+        1902
+      ],
+      "continuity_in": [
+        1901
+      ],
+      "continuity_out": [
+        1903
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1903,
+      "title": "实力比青天魔帝还强",
+      "source": {
+        "start_line": 312769,
+        "end_line": 312907
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《实力比青天魔帝还强》展开，推动后续主线进展。",
+      "summary": "【剧情起因】方尘的身体猛地一震，他感觉到体内气血翻滚，灵魂深处，也传来强烈的撕裂感，方尘感觉有些不适应，但也仅此而已，而且，浮仙剑在吸收了这冲击波的时候，剑身上浮现出星辰图案，然后一...\n【交锋过程】方尘一声低喝，脚踩浮现绝影身法，身体一晃，一瞬间就出现在黑玉噬魂虾皇跟前，浮仙剑猛地劈向黑玉噬魂虾皇。；黑玉噬魂虾皇那巨大的眼睛闪烁着淡淡的红光，它立刻举起虾鳌，挡住了浮仙剑。；又一股强大的力量爆发出来，方尘和黑玉噬魂虾皇都被震飞，但是这一次，方尘的身体立刻在岩浆之中转身，一声低喝：「一重浪！」\n【本章结局】施展完九重浪之后，浮仙剑上的剑势，并没有立刻消散，方尘握着浮仙剑，打算再次转身，可是他的身体只是转到一半的时候，浮仙剑上的剑势顿时就消散了，方尘的身体微微一震，身体顿时有种被掏空的感觉，但是...",
+      "key_events": [
+        "第1903章：实力比青天魔帝还强",
+        "经过：方尘一声低喝，脚踩浮现绝影身法，身体一晃，一瞬间就出现在黑玉噬魂虾皇跟...",
+        "结果：又一股强大的力量爆发出来，方尘和黑玉噬魂虾皇都被震飞，但是这一次，方尘..."
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "第1903章主线结果：施展完九重浪之后，浮仙剑上的剑势，并没有立刻消散，方尘握着浮仙剑，打算再次转身，可是他的身体只是转到一半的时候...",
+        "核心线索：围绕《实力比青天魔帝还强》推进【大帝征途篇】发展。"
+      ],
+      "evidence_chapters": [
+        1903
+      ],
+      "continuity_in": [
+        1902
+      ],
+      "continuity_out": [
+        1904
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1904,
+      "title": "拴住了你就别想跑",
+      "source": {
+        "start_line": 312908,
+        "end_line": 313064
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《拴住了你就别想跑》展开，推动后续主线进展。",
+      "summary": "【剧情起因】“还是不行，这十重浪，比我想象之中的还要难！” 方尘微微皱眉，抬头看向黑玉噬魂虾皇，此刻的黑玉噬魂虾皇立刻化作一道流光朝着岩浆世界的深处逃遁。\n【交锋过程】他立刻将浮现绝影身法运转到极致境界，跟着黑玉噬魂虾皇追了上去。；在这种环境下，一般的准帝别说移动了，光是站在那里，都会被周围的岩浆压得喘不过气来，实力稍微弱一点的准帝强者，身体有可能会直接被压爆炸。；「想让我放开，你想多了，今日你遇到了我，只能说你运气不好，不要做无谓的挣扎了！」；「嗯，不管这些石头的事情了，这只虾皇，我是杀定了！」\n【本章结局】洞穴深处，是一条很长的通道，这些通道壁垒上，都篆刻着很多大帝阵纹。 越是深入，帝之源力就越浓郁，当然，周围的压力也越来越大，而且方尘感觉到周围的温度也越来越高。",
+      "key_events": [
+        "第1904章：拴住了你就别想跑",
+        "经过：他立刻将浮现绝影身法运转到极致境界，跟着黑玉噬魂虾皇追了上去。...",
+        "结果：「想让我放开，你想多了，今日你遇到了我，只能说你运气不好，不要做无谓的..."
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "第1904章主线结果：洞穴深处，是一条很长的通道，这些通道壁垒上，都篆刻着很多大帝阵纹。 越是深入，帝之源力就越浓郁，当然，周围的压...",
+        "核心线索：围绕《拴住了你就别想跑》推进【大帝征途篇】发展。"
+      ],
+      "evidence_chapters": [
+        1904
+      ],
+      "continuity_in": [
+        1903
+      ],
+      "continuity_out": [
+        1905
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1905,
+      "title": "遛虾是一种什么体验?",
+      "source": {
+        "start_line": 313065,
+        "end_line": 313224
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《遛虾是一种什么体验?》展开，推动后续主线进展。",
+      "summary": "黑玉噬魂虾皇试图利用深海洞穴的极端环境逼退方尘，却发现方尘耐力惊人，于是拼尽全力拽着方尘向洞穴深处逃窜。方尘佯装不敌，将吞天塔掷出，虾皇得意闪避，却不知吞天塔已悄然堵住洞穴深处去路。当虾皇发现前方被堵时，方尘立刻催动吞天塔释放吞噬之力，同时以补天神女异象投出黑色巨石，将虾皇砸入塔中。虾皇被通天魔链束缚于第九层空间，方尘入塔嘲讽，虾皇怒斥其狡诈。然而虾皇突然施展蜕壳秘术，分泌黏液黏住魔链，真身脱壳而出，体型从万丈暴涨至三万丈，气息不降反升。原来虾壳上的符文是封印阵纹，用于延缓寿元流失却限制了力量，如今为对付方尘被迫解除封印，实力尽复。方尘虽感惊讶，但在吞天塔内仍胸有成竹，不惧其准帝级威压。",
+      "key_events": [
+        "第1905章：方尘以吞天塔堵路配合巨石偷袭，成功将黑玉噬魂虾皇收入塔中",
+        "交锋：虾皇被通天魔链束缚后怒骂方尘狡诈，方尘入塔嘲讽",
+        "重大转折：虾皇施展蜕壳秘术脱困，解除封印阵纹后体型暴涨至三万丈，实力暴增至准帝级"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：黑玉噬魂虾皇虾壳上的符文是封印阵纹，用于减缓寿元流失但限制力量，蜕壳后实力完全释放",
+        "核心线索：八哥发现虾壳符文与其体内封印阵纹相似，暗示二者可能存在某种关联"
+      ],
+      "evidence_chapters": [
+        1905
+      ],
+      "continuity_in": [
+        1904
+      ],
+      "continuity_out": [
+        1906
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1906,
+      "title": "大人饶命啊",
+      "source": {
+        "start_line": 313225,
+        "end_line": 313387
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《大人饶命啊》展开，推动后续主线进展。",
+      "summary": "黑玉噬魂虾皇被方尘擒入吞天塔第九层后仍嚣张挑衅，方尘遂化出万丈法身持浮仙剑强攻，却被虾皇金鳌震退。虾皇趁机施展天赋秘法将方尘等人尽数石化，并猛击其头颅欲灭其魂。危急时刻，浮仙剑受击自鸣，青光破咒，方尘体内红色符文爆发瞬间解咒，反手一剑重创虾皇。随后，方尘施展出黑暗噬神领域的第四重形态，凝聚出威压恐怖的混沌噬神蜂。虾皇受血脉压制，本能恐惧，瞬间跪地求饶，甚至对族人之死也表示既往不咎。就在方尘因对方臣服而松懈之际，虾皇却突然发难，以光芒禁锢方尘，并用额前尖刺直刺其眉心，灌入强大灵魂之力企图夺舍反杀。",
+      "key_events": [
+        "方尘石化破咒重创虾皇，并凝聚混沌噬神蜂",
+        "虾皇受血脉压制假意求饶，实则伺机反杀",
+        "虾皇趁方尘松懈，以尖刺刺入其眉心注入灵魂之力"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘的黑暗噬神领域第四重形态可凝聚混沌噬神蜂，对虾皇有极强的血脉压制。",
+        "核心线索：黑玉噬魂虾皇求饶是假，其真正目的是趁方尘松懈时进行灵魂攻击/夺舍。"
+      ],
+      "evidence_chapters": [
+        1906
+      ],
+      "continuity_in": [
+        1905
+      ],
+      "continuity_out": [
+        1907
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1907,
+      "title": "虾皇的阴谋",
+      "source": {
+        "start_line": 313388,
+        "end_line": 313556
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《虾皇的阴谋》展开，推动后续主线进展。",
+      "summary": "黑玉噬魂虾皇因自身年迈寿元无多，觊觎方尘强大的血气，佯装跪地求饶使方尘放松警惕，趁机将灵魂侵入方尘脑海企图夺舍。然而，当它突破灰色魂气抵达深处时，却震惊地发现方尘的灵魂竟已凝聚为人形，强大无比。夺舍无望的虾皇试图谈判求和，方尘断然拒绝。虾皇随即以灵魂自爆同归于尽相威胁，方尘却毫无惧色，甚至主动发起灵魂肉搏。双方灵魂势均力敌之际，方尘运转万佛战经与弑神诀，死死抱住虾皇并疯狂吞噬其灵魂本源。虾皇拼死挣扎却无法挣脱，再次以自爆要挟，方尘则冷然揭示自己已将虾皇收入吞天塔，即便自爆也伤不了自己分毫。至此，虾皇彻底陷入绝境，阴谋不仅落空，自身灵魂也沦为方尘的养料。",
+      "key_events": [
+        "阴谋入侵：黑玉噬魂虾皇佯装求饶，实则趁方尘大意侵入其脑海企图夺舍。",
+        "灵魂碾压：方尘灵魂凝聚为人形，实力远超虾皇预期，并在灵魂空间中以弑神诀强行吞噬虾皇本源。",
+        "绝境受制：虾皇以自爆威胁未果，方尘揭示其已被收入吞天塔，彻底断绝虾皇同归于尽的可能。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：黑玉噬魂虾皇夺舍失败，反被方尘用弑神诀吞噬灵魂本源。",
+        "核心线索：方尘拥有吞天塔，能将敌人灵魂锁住，即便对方自爆也无法伤及方尘。"
+      ],
+      "evidence_chapters": [
+        1907
+      ],
+      "continuity_in": [
+        1906
+      ],
+      "continuity_out": [
+        1908
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1908,
+      "title": "有种你爆一个给我看看",
+      "source": {
+        "start_line": 313557,
+        "end_line": 313752
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《有种你爆一个给我看看》展开，推动后续主线进展。",
+      "summary": "方尘在吞噬黑玉噬魂虾皇的灵魂本源时，虾皇以在方尘脑海中自爆相威胁，企图同归于尽。然而方尘毫无惧色，反而不断挑衅，直言即便自爆也杀不死自己，并继续疯狂吞噬。虾皇绝望之下，果真在方尘脑海内引爆灵魂本源，瞬间将方尘的灵魂撕碎，强大的灵魂余波甚至震伤了八哥与混沌噬心虫。方尘肉身虽未受损，却陷入眼神空洞的静止状态。但方尘意识未失，他默念万佛战经重聚碎裂的灵魂，再运转弑神诀将虾皇遗留的庞大灵魂之力尽数吞噬。三天后，方尘不仅完全恢复，灵魂体更得到了强化，令八哥与混沌噬心虫对其变态的恢复力惊叹不已。",
+      "key_events": [
+        "虾皇以自爆威胁方尘，反遭方尘无情挑衅与吞噬",
+        "虾皇绝望自爆撕碎方尘灵魂，方尘默念万佛战经重聚灵魂",
+        "方尘运转弑神诀吞噬虾皇遗留之力，灵魂不仅恢复还大幅强化"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "黑玉噬魂虾皇在方尘脑海内自爆，但未能杀死方尘",
+        "方尘吞噬虾皇遗留的灵魂之力后，灵魂体反而变得更加强大"
+      ],
+      "evidence_chapters": [
+        1908
+      ],
+      "continuity_in": [
+        1907
+      ],
+      "continuity_out": [
+        1909
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1909,
+      "title": "石头上的眼睛",
+      "source": {
+        "start_line": 313753,
+        "end_line": 313912
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《石头上的眼睛》展开，推动后续主线进展。",
+      "summary": "方尘在吞噬黑玉噬魂虾皇的灵魂本源后，灵魂虽有所增强但仍感不足，遂施展黑暗噬神领域将其肉身力量也吞噬殆尽。十天后，方尘实力大增，却依然未能突破至大成准帝境界，八哥感叹其体质过强导致突破极慢。随后，方尘等人整理虾皇遗留的宝物时，混沌噬心虫发现一块刻有眼睛的黑色诡异石头。此石眼蕴含强大魔力，能吸扯灵魂，八哥察觉危险，但方尘的灵魂瞬间被吸入石中，眼睛闭合，肉身陷入空洞禁锢状态。方尘的灵魂进入一个阴沉沉的神秘空间，遭遇大量独眼蛙的围攻，它们吐出青光攻击。危急关头，方尘下意识召唤浮仙剑，外界的浮仙剑感应到召唤，化作青光射入石头中救援。",
+      "key_events": [
+        "方尘吞噬黑玉噬魂虾皇肉身力量，实力大增却未突破大成准帝",
+        "发现刻有眼睛的黑色诡异石头，方尘灵魂被吸入其中，肉身被禁锢",
+        "方尘灵魂在神秘空间遭独眼蛙围攻，浮仙剑感应召唤射入石头救援"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘吞噬黑玉噬魂虾皇后实力大增，但仍未突破至大成准帝境界。",
+        "核心线索：黑色石头上的眼睛能吸扯灵魂，方尘灵魂被吸入后遭遇独眼蛙攻击，浮仙剑已飞入石头救援。"
+      ],
+      "evidence_chapters": [
+        1909
+      ],
+      "continuity_in": [
+        1908
+      ],
+      "continuity_out": [
+        1910
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1910,
+      "title": "生命之眼",
+      "source": {
+        "start_line": 313913,
+        "end_line": 314105
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《生命之眼》展开，推动后续主线进展。",
+      "summary": "方尘的浮仙剑意外飞入一块黑色石头，在神秘空间中，他遭遇独眼蛙袭击，开启剑域将其绞杀。独眼蛙化为绿色光点融入其灵魂，带来陌生信息。随后方尘被漩涡吸入，灵魂与剑回归本体，黑石碎裂。方尘整理信息后，发现石头中承载的秘法名为“生命之眼”，可窥探高一级修为者的寿元。八哥与混沌噬心虫认为此秘法对战斗力无提升，略显鸡肋，但方尘指出，配合自身的“黄昏之力”，此术妙用无穷。方尘尝试修炼，因与轮回眼有相通之处，仅一个时辰便大功告成，双眸泛青。他随即为八哥和混沌噬心虫探查寿元，测得八哥还剩八千年寿元，混沌噬心虫更是拥有一万三千年寿元。",
+      "key_events": [
+        "浮仙剑入石，方尘在神秘空间以剑域绞杀独眼蛙并吸收生命光点，获得秘法传承。",
+        "方尘习得“生命之眼”秘法，可窥探高一级修为者寿元，并凭借轮回眼基础一个时辰速成。",
+        "方尘施展生命之眼，测得八哥寿元八千年，混沌噬心虫寿元一万三千年。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘获得新秘法“生命之眼”，可窥探高一级修为者的寿元，并能与自身的“黄昏之力”结合发挥奇效。",
+        "八哥剩余寿元为八千年，混沌噬心虫剩余寿元为一万三千年。"
+      ],
+      "evidence_chapters": [
+        1910
+      ],
+      "continuity_in": [
+        1909
+      ],
+      "continuity_out": [
+        1911
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1911,
+      "title": "来都来了，肯定要进去看看",
+      "source": {
+        "start_line": 314106,
+        "end_line": 314280
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《来都来了，肯定要进去看看》展开，推动后续主线进展。",
+      "summary": "方尘发现自己因命轮有缺，寿元仅剩四百年，八哥与混沌噬心虫虽感难受，却仍安慰他突破大帝后或可修复。随后，众人离开吞天塔，决定继续探索岩浆世界深处的神秘通道。方尘推测被击杀的黑玉噬魂虾皇曾想将他引至此处，便带着同伴深入。他们先后穿过两道残破的大帝阵纹结界，发现第二道结界上有强大生物留下的爪痕。穿过结界后，帝之源力愈发浓郁，并出现了大量比黑玉噬魂虾皇体积更大的虾壳。八哥判断这些是蜕下的皮，推测此地正是黑玉噬魂虾皇实力暴涨的根源，其帝之源力浓度甚至超过了琉璃剑宗的第九秘境。",
+      "key_events": [
+        "方尘发现自身寿元仅剩四百年，同伴安慰其突破大帝或可修复命轮",
+        "方尘带领八哥与混沌噬心虫深入神秘通道，先后穿越两道残破的大帝阵纹结界",
+        "在通道尽头发现浓郁帝之源力与巨大蜕皮虾壳，推断此地是黑玉噬魂虾皇变强的关键"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘因命轮有缺，寿元仅剩四百年，远低于同境界修士",
+        "核心线索：通道深处存在帝之源力浓郁之地，黑玉噬魂虾皇的蜕皮表明此地是其力量来源"
+      ],
+      "evidence_chapters": [
+        1911
+      ],
+      "continuity_in": [
+        1910
+      ],
+      "continuity_out": [
+        1912
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1912,
+      "title": "一条沉睡的翼龙",
+      "source": {
+        "start_line": 314281,
+        "end_line": 314446
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《一条沉睡的翼龙》展开，推动后续主线进展。",
+      "summary": "方尘继续深入探索，混沌噬心虫请求吞噬蕴含帝之源力的黑玉噬魂虾壳以增强实力，方尘应允并将虾壳收入吞天塔，让噬心虫和八哥入塔享用。随后，方尘连破数层高级结界，又收集了大量更高级的破碎虾壳。当破开布满大帝阵纹的结界后，方尘遭遇极强压力，并发现一条长达五万丈、石化且皮包骨的翼龙，其体内不断散发帝之源力。八哥见状要求出塔，发现此地压力竟能破除体内封印，实力随之大涨，并推测翼龙可能是沉睡的妖皇。面对可能苏醒的强敌，方尘毫不畏惧，直接用黑暗噬神领域覆盖翼龙，疯狂吞噬帝之源力，摆出若翼龙苏醒便正面硬刚的姿态。",
+      "key_events": [
+        "方尘收集高级虾壳供混沌噬心虫吞噬，并连破结界深入",
+        "八哥出塔借此地压力破除体内封印，实力大增，并推测石化翼龙为沉睡妖皇",
+        "方尘以黑暗噬神领域覆盖沉睡翼龙，强行吞噬帝之源力，无惧其苏醒"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：此地极强压力能助八哥破除体内封印提升实力，石化翼龙可能是沉睡妖皇",
+        "核心线索：翼龙虽石化且皮包骨，但体内散发浓郁帝之源力，方尘正以领域覆盖强行吸收"
+      ],
+      "evidence_chapters": [
+        1912
+      ],
+      "continuity_in": [
+        1911
+      ],
+      "continuity_out": [
+        1913
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1913,
+      "title": "翼龙醒来",
+      "source": {
+        "start_line": 314447,
+        "end_line": 314624
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《翼龙醒来》展开，推动后续主线进展。",
+      "summary": "方尘深知有浮仙剑相助，与妖皇交战能极速提升实力。他施展黑暗噬神领域，放出混沌噬神蜂疯狂吞噬帝之源力，甚至吸走翼龙身上的封印道纹与能量。一日后，方尘实力倍增却未达大成准帝。此时，翼龙封印破碎，猛然苏醒，强大的龙威瞬间震碎黑暗噬神领域，方尘急忙收回混沌噬神蜂。翼龙怒斥方尘打扰其沉睡，方尘以生命之眼探查，发现这看似强大的妖皇竟只剩三百余年寿元。八哥劝其速逃，方尘却决定先发制人，施展“诸神的黄昏”削去翼龙五年寿元，却被龙吟震散法相。方尘将黄昏之力灌入浮仙剑冲向翼龙，却被翼龙一爪轻易拍飞，陷入苦战。",
+      "key_events": [
+        "方尘施展黑暗噬神领域与混沌噬神蜂吞噬翼龙封印与帝之源力，实力暴涨",
+        "翼龙苏醒，龙威震碎领域，方尘探查发现其寿元仅剩三百余年",
+        "方尘先发制人施展“诸神的黄昏”削其寿元，却被翼龙一爪拍飞，陷入危机"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "翼龙虽强但寿元将尽，仅剩约三百年寿元",
+        "方尘的黑暗噬神领域被翼龙龙威震碎，但混沌噬神蜂未消失且储存了大量帝之源力"
+      ],
+      "evidence_chapters": [
+        1913
+      ],
+      "continuity_in": [
+        1912
+      ],
+      "continuity_out": [
+        1914
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1914,
+      "title": "一剑砍掉两百三十年",
+      "source": {
+        "start_line": 314625,
+        "end_line": 314799
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《一剑砍掉两百三十年》展开，推动后续主线进展。",
+      "summary": "方尘与翼龙激战，凭借浮仙剑施展黄昏之力，一剑削去翼龙两百三十年寿元。翼龙本就寿元不足四百年，遭此重创后暴怒，喷出恐怖龙炎欲将方尘烧成灰烬。然而方尘凭借浮仙剑吞噬龙炎转化为己用，不仅毫发无损，力量反而暴涨，并顺势催动吞天塔护身。为求速战速决，方尘躲入坚不可摧的吞天塔内，利用法相天地修炼以积攒黄昏之力，意图再出一剑终结只剩百余年寿元的翼龙。翼龙疯狂攻击吞天塔，抽打、撕咬、喷火皆无法撼动其分毫，久攻不下之际，它决定祭出本命极道帝兵“赤炎刀”，誓要破塔杀人。",
+      "key_events": [
+        "方尘一剑削去翼龙两百三十年寿元，翼龙暴怒喷出龙炎",
+        "方尘借浮仙剑吞噬龙炎，躲入吞天塔内修炼积攒黄昏之力",
+        "翼龙久攻吞天塔不破，祭出本命极道帝兵赤炎刀"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "翼龙寿元仅剩百余年，方尘只需再出一剑即可将其斩杀",
+        "吞天塔坚硬程度堪比极道帝兵，翼龙普通攻击与龙炎均无法对其造成损伤"
+      ],
+      "evidence_chapters": [
+        1914
+      ],
+      "continuity_in": [
+        1913
+      ],
+      "continuity_out": [
+        1915
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1915,
+      "title": "攒够力量再出来",
+      "source": {
+        "start_line": 314800,
+        "end_line": 314938
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《攒够力量再出来》展开，推动后续主线进展。",
+      "summary": "翼龙祭出赤炎刀猛砍吞天塔，却只留下浅痕，反被震退。它深知自己作为妖皇若贸然出世，必成大帝强者的养料，于是决定暂留此地收敛气息，将吞天塔卷住压在身下假寐修炼。一日后，方尘在塔内攒够黄昏之力，散掉法相天地，持浮仙剑冲出。翼龙假寐设伏，瞬间苏醒发出龙吟震慑，并吐出顶级极道帝兵本命龙珠，以强横的空间禁锢将方尘冻住并不断挤压。方尘凭借浮仙剑吸收龙珠力量抵御不适，当翼龙催动本命龙珠的先天道纹试图碾杀他时，方尘挥剑刮落道纹，浮仙剑竟将道纹吞噬并反哺方尘，使其力量暴增。翼龙震惊于浮仙剑的诡异能力，意识到此剑绝不简单。",
+      "key_events": [
+        "翼龙攻击吞天塔受挫，因忌惮外界大帝强者，决定暂留此地收敛气息并假寐修炼",
+        "方尘攒够黄昏之力后冲出吞天塔，遭翼龙假寐伏击，被本命龙珠禁锢碾压",
+        "方尘以浮仙剑刮落并吞噬翼龙珠内的先天道纹，力量大增，令翼龙震惊于浮仙剑的诡异"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "翼龙因沉睡超百万年，不知外界大帝强者已稀少，故不敢贸然出世，企图先收敛气息",
+        "浮仙剑拥有吞噬翼龙本命龙珠先天道纹并反哺方尘的诡异能力，令翼龙震惊"
+      ],
+      "evidence_chapters": [
+        1915
+      ],
+      "continuity_in": [
+        1914
+      ],
+      "continuity_out": [
+        1916
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1916,
+      "title": "我看你能坚持多久",
+      "source": {
+        "start_line": 314939,
+        "end_line": 315092
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《我看你能坚持多久》展开，推动后续主线进展。",
+      "summary": "翼龙试图以龙须卷走方尘的浮仙剑，反被剑身吸住力量，只得忍痛断须。方尘意外发现龙须能搅动龙珠光幕以减轻压力，而翼龙催动本命龙珠释放的道纹被浮仙剑吸收后，竟化为灼热能量助其炼体，实力大增。翼龙误以为方尘在负隅顽抗，冷笑挑衅，方尘便顺水推舟，刻意掩饰气息衰弱。十天后，翼龙喷吐龙炎，驱使黑色道纹猛攻，方尘虽受重创，却借浮仙剑吞噬更多能量，并运转琉璃金身修复，继续伪装濒死。待翼龙以为胜券在握挥刀斩下时，方尘骤然暴起，一剑挡下攻击并撕碎龙珠禁锢，气息暴涨。翼龙震惊于方尘非但未死反而更强，恼羞成怒，全身燃烧化作巨大火球，方尘持剑严阵以待，双方进入新的对峙。",
+      "key_events": [
+        "方尘借浮仙剑吞噬翼龙龙珠道纹炼体，实力暴涨",
+        "方尘伪装气息衰弱，诱使翼龙持续消耗力量强攻",
+        "翼龙挥刀斩下时，方尘暴起反击，撕碎龙珠禁锢，翼龙恼羞成怒化身火球"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "浮仙剑能吸收翼龙珠子的道纹转化为能量助方尘炼体",
+        "方尘通过伪装虚弱成功诱骗翼龙，并在最后关头暴起反击，实力大增"
+      ],
+      "evidence_chapters": [
+        1916
+      ],
+      "continuity_in": [
+        1915
+      ],
+      "continuity_out": [
+        1917
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1917,
+      "title": "第二剑，生机断绝",
+      "source": {
+        "start_line": 315093,
+        "end_line": 315255
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《第二剑，生机断绝》展开，推动后续主线进展。",
+      "summary": "翼龙深知庞大身躯在方尘面前毫无优势，遂化为人形，手持赤炎刀化作红光突袭。方尘施展混沌巨人异象，以“开天辟地”硬撼赤炎刀，虽被震飞却借浮仙剑恢复。面对翼龙的强势压制，方尘祭出“一剑轮回”，恐怖旋涡直欲吞噬翼龙。翼龙为避轮回之力，瞬间恢复五万丈本体，使旋涡失效。方尘抓住翼龙恢复本体、无暇他顾的契机，绕至其背，将黄金实力与黄昏之力尽数灌入浮仙剑，以“一重浪”破开龙甲防御。黄昏之力如电流般席卷翼龙全身，致其命轮狂转、寿元飞速枯竭。随着翼龙瞳孔涣散、庞大身躯轰然坠地，这尊曾经的妖皇大帝就此陨落。方尘确认其命轮碎裂后长舒一口气，八哥与混沌噬心虫被放出查验，皆惊叹不已，方尘则谦称是运气好碰上寿元将尽的妖皇。",
+      "key_events": [
+        "翼龙化形突袭，方尘以“开天辟地”硬撼被震飞",
+        "方尘使出“一剑轮回”迫使翼龙恢复本体躲避，抓住破绽绕后",
+        "方尘以“一重浪”配合黄昏之力破防，翼龙寿元耗尽命轮碎裂而亡"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的“一剑轮回”因范围有限无法吞噬翼龙本体，但成功制造了破绽",
+        "翼龙因寿元仅剩几百年，被方尘的黄昏之力直接耗尽寿元而死，方尘自认胜在运气"
+      ],
+      "evidence_chapters": [
+        1917
+      ],
+      "continuity_in": [
+        1916
+      ],
+      "continuity_out": [
+        1918
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1918,
+      "title": "寿元提升二十年",
+      "source": {
+        "start_line": 315256,
+        "end_line": 315412
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《寿元提升二十年》展开，推动后续主线进展。",
+      "summary": "方尘以黄昏之力击杀翼龙妖皇后，八哥与混沌噬心虫盛赞其力量之逆天，方尘则凭借吞天塔与浮仙剑的组合，已无惧妖皇级强者。他随即吞噬翼龙全身力量，期盼借此突破至大成准帝境界，然而修为虽大增却未能突破。意外之喜是，命轮裂痕修复，寿元从四百年提升至四百二十年，这让他对猎杀更多妖皇充满干劲。随后，方尘与同伴耗时三日整理翼龙宝藏，虽未寻得类似生命之眼的逆天秘法，却发现体内储存的黄昏之力较之前增加了三分之一，意味着同等条件下对敌人的寿元杀伤力也提升了三分之一，实力底蕴更加深厚。",
+      "key_events": [
+        "方尘吞噬翼龙妖皇全部力量，修为未突破大成准帝，但寿元提升二十年，达到四百二十年。",
+        "整理翼龙宝藏无特殊秘法，但发现体内黄昏之力储量增加三分之一，杀伤力随之提升。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘寿元增至四百二十年，黄昏之力储量提升三分之一，后续战斗中对妖皇的寿元消耗能力更强。",
+        "方尘已具备与妖皇正面对抗的资本，吞天塔防御无敌，浮仙剑配合黄昏之力可越级斩杀。"
+      ],
+      "evidence_chapters": [
+        1918
+      ],
+      "continuity_in": [
+        1917
+      ],
+      "continuity_out": [
+        1919
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1919,
+      "title": "树木不长叶子长羽毛",
+      "source": {
+        "start_line": 315413,
+        "end_line": 315548
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《树木不长叶子长羽毛》展开，推动后续主线进展。",
+      "summary": "斩杀翼龙后，方尘实力大增，对一年多苦修带来的增幅颇为满足。他与八哥离开封印空间，决定继续寻找妖皇或古皇，并确立了以黄昏之力为核心、消耗敌方寿元的高效战术。途经黑玉失魂虾领地时，方尘因实力提升已看不上虾王那点微薄的帝之源力，不愿浪费时间捕捉，径直返回地面。三日后，他们踏入一片诡异山脉，这里遍布破碎的天人族雕像，灵气枯竭，却生长着长满羽毛的树木与石头。方尘推测此等异变与沉睡古皇的气息外泄有关。深入山脉后，方尘发现石山上有大帝以帝威刻下的“荒古禁区，擅闯禁区者死”八字，杀意凛然。面对帝威震慑，方尘挥动浮仙剑隔空斩出百丈剑芒，在石山留下深痕。然而，如此巨大的动静过后，四周却死寂一片，毫无生命迹象，暗示此地凶险异常。",
+      "key_events": [
+        "方尘实力大增后离开翼龙封印地，确立以黄昏之力消耗寿元的战术，并看不上黑玉失魂虾王的能量。",
+        "方尘与八哥进入诡异山脉，发现天人族雕像与长满羽毛的树木，推测是沉睡古皇气息所致。",
+        "方尘发现大帝刻字“荒古禁区”，无视帝威以浮仙剑劈山试探，却未引出任何生命。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘实力已今非昔比，战斗核心转变为利用黄昏之力消耗敌方寿元。",
+        "核心线索：荒古禁区长满羽毛的树木是受沉睡古皇气息影响，且此地有大帝留下的禁制刻字，凶险未知。"
+      ],
+      "evidence_chapters": [
+        1919
+      ],
+      "continuity_in": [
+        1918
+      ],
+      "continuity_out": [
+        1920
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1920,
+      "title": "效仿古之大帝，平禁区",
+      "source": {
+        "start_line": 315549,
+        "end_line": 315690
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《效仿古之大帝，平禁区》展开，推动后续主线进展。",
+      "summary": "为寻找沉睡的古皇，方尘毅然深入禁区。穿越界限后，神秘力量加速了众人血液流速，意外解开了八哥体内的封印，而混沌噬心虫因不适被收入吞天塔。前行不久，方尘发现遍布羽毛植被的悬空岛屿，并感知到诸多准帝级别的生命气息。今非昔比的方尘豪情万丈，决定效仿古之大帝平禁区，不再小心翼翼，而是直接驾驭暴涨至三万三千丈的吞天塔，以最粗暴的方式横冲直撞。巨塔势如破竹撞碎无数岛屿，岛上羽毛燃烧化作白、红、黑三色光团。最终，吞天塔刺穿了一面强横结界，直指古皇沉睡之地。然而，那三色光团竟凝聚成三名手持长枪、实力堪比准帝的天人族女子。白发女子怒斥方尘擅闯禁地，挥枪攻来，方尘以浮仙剑从容挡下枪芒，双方激战一触即发。",
+      "key_events": [
+        "方尘为寻古皇深入禁区，神秘力量意外解开八哥体内封印",
+        "方尘效仿古之大帝平禁区，驾驭吞天塔暴力破局撞碎悬空岛",
+        "羽毛燃烧化作三名天人族准帝女子，向方尘发起攻击"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘实力大增，吞天塔已增至三万三千丈，具备平禁区的底气",
+        "禁区深处由羽毛凝聚出三名准帝级天人族女子，是古皇沉眠之地的守护者"
+      ],
+      "evidence_chapters": [
+        1920
+      ],
+      "continuity_in": [
+        1919
+      ],
+      "continuity_out": [
+        1921
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1921,
+      "title": "混沌噬神蜂的实力",
+      "source": {
+        "start_line": 315691,
+        "end_line": 315814
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《混沌噬神蜂的实力》展开，推动后续主线进展。",
+      "summary": "面对三位天人族女子的联手围攻，方尘手持浮仙剑，以雷霆之势破开她们的枪芒，瞬间将三人劈成两半。当三人试图重组身体时，方尘施展出黑暗噬神领域将其困住，并催动噬神印记凝聚出混沌噬神蜂。这混沌噬神蜂实力惊人，震动翅膀发出的特殊声波竟在三个呼吸间将三位实力堪比黑玉噬魂虾皇的强者震碎成光点符文，随后将其吞噬。更令人意外的是，这股声波还冲开了八哥体内的部分封印。吞噬完成后，混沌噬神蜂钻回方尘丹田，反哺了浑厚的帝之源力。解决守护者后，方尘与八哥突破九层结界，抵达禁区核心，发现了一口长千丈、生有三对青铜羽翼的神秘青桐棺。方尘当即召唤补天神女异象，以黑石猛砸棺身，震落大量封印道纹，然而棺内却暂无任何动静。",
+      "key_events": [
+        "方尘秒杀三位天人族守护者，混沌噬神蜂展现恐怖实力，声波震碎并吞噬三人",
+        "混沌噬神蜂的声波意外冲开八哥体内封印，并反哺方尘浑厚帝之源力",
+        "方尘突破结界抵达核心区，召唤补天神女异象轰击带青铜羽翼的青桐棺"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "混沌噬神蜂实力极为恐怖，其声波能瞬间震碎天人族强者并吞噬，且能冲击封印",
+        "禁区核心的青桐棺带有三对青铜羽翼，封印道纹正在脱落，方尘已开始强行破棺"
+      ],
+      "evidence_chapters": [
+        1921
+      ],
+      "continuity_in": [
+        1920
+      ],
+      "continuity_out": [
+        1922
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1922,
+      "title": "天人族古皇",
+      "source": {
+        "start_line": 315815,
+        "end_line": 315980
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《天人族古皇》展开，推动后续主线进展。",
+      "summary": "方尘为开启青桐棺，施展琉璃金身秘法化为千丈巨人，将浮仙剑插入棺盖缝隙。缝隙难开，他借补天神女异象以黑石重击剑柄，终使浮仙剑破入。棺内随即涌出蕴含强盛生命气息的黏稠液体，方尘推断此为古皇延缓衰老的浸泡液；八哥饮用后发现此液能解其体内封印，遂大肆吸收。随着方尘不断撬动，棺身剧烈震颤，表面道纹与三对青铜羽翼金光大作，羽刃如神剑般射向方尘，却被其十二柄本命飞剑尽数挡下。方尘趁势猛力一撬，棺盖轰然冲开，一位身负六对金翼的绝美天人族古皇浮现，疯狂吞噬天地灵气。方尘以生命之眼窥得其命轮黯淡仅剩一千五百年寿元，正欲挥剑斩杀，古皇却猛然睁眼，爆发出恐怖力量，将方尘与八哥双双震飞。",
+      "key_events": [
+        "方尘借黑石重击浮仙剑破开青桐棺缝隙，棺内涌出蕴含生命气息的黏稠液体。",
+        "青桐棺内青铜羽翼化作神剑攻击方尘，被其本命飞剑挡下，最终棺盖被撬开。",
+        "天人族古皇苏醒，爆发出强大力量将方尘与八哥震飞。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：青桐棺内流出的黏稠液体蕴含强大生命气息，能解除八哥体内封印。",
+        "核心线索：棺中苏醒的天人族古皇命轮暗淡，仅剩一千五百年寿元，实力却极为恐怖。"
+      ],
+      "evidence_chapters": [
+        1922
+      ],
+      "continuity_in": [
+        1921
+      ],
+      "continuity_out": [
+        1923
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1923,
+      "title": "一剑砍死个男的",
+      "source": {
+        "start_line": 315981,
+        "end_line": 316122
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【大帝征途篇】围绕《一剑砍死个男的》展开，推动后续主线进展。",
+      "summary": "方尘撬开青桐棺，却意外惊醒了沉睡其中的两尊天人族古皇——一男一女。面对强敌，方尘发现男子寿元不足两百年，决定冒险反杀。天人族男子怒斥方尘打断沉睡，挺枪刺来。方尘竟以胸口硬接长枪，顺势贴近，将黄昏之力灌入浮仙剑，一剑砍中男子肩膀。男子起初不以为意，随后却惊恐地发现寿元疯狂流失，迅速衰老致死。女子悲痛欲绝，对方尘恨意滔天，挥鞭化蛇猛攻。方尘呼唤小鹤趁机收取男子尸体，并在浮仙剑的庇护下抵御住黑蛇的灵魂冲击，准备迎接下一轮激战。",
+      "key_events": [
+        "惊变：方尘撬棺惊醒两尊天人族古皇，发现男子寿元将尽，决意反杀",
+        "绝杀：方尘以身为饵硬接长枪，借机以浮仙剑附带的黄昏之力一剑削去天人族男子剩余寿元，致其衰老毙命",
+        "余波：天人族女子悲愤出手，方尘唤出小鹤准备收取尸体，并抵御女子鞭化黑蛇的灵魂攻击"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：浮仙剑蕴含的“黄昏之力”可加速目标寿元流逝，对寿元将尽者具有一击必杀的奇效",
+        "核心线索：天人族古皇以沉睡躲避岁月等待成仙契机，方尘的闯入不仅打断其沉睡，更直接导致男子陨落，双方已成死仇"
+      ],
+      "evidence_chapters": [
+        1923
+      ],
+      "continuity_in": [
+        1922
+      ],
+      "continuity_out": [
+        1924
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1924,
+      "title": "抱着美女一浪接一浪",
+      "source": {
+        "start_line": 316123,
+        "end_line": 316303
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《抱着美女一浪接一浪》展开，推动后续主线进展。",
+      "summary": "方尘为收取天人族男子尸体，先用“上苍之手”与“通天魔链”困住天人族女子，却遭其以青铜光撞飞吞天塔。方尘急中生智，顺着魔链扑上紧紧抱住女子，假意轻薄使其分心，随即施展“一重浪”身法，借旋转之势将女子拖向吞天塔。女子燃烧命力极力挣脱，方尘则不断叠加浪劲，从二重浪直至九重浪，气势暴涨，更召唤补天神女异象相助。最终，在第九重浪的极限拉扯下，方尘操控黑色石头将两人一同砸入吞天塔第八层。入塔后，女子虽杀意滔天，却已成瓮中之鳖。方尘再施“诸神的黄昏”法相天地，加速其命轮运转以削其寿元，女子追击无果，欲撕裂空间逃离又被塔壁结界所阻，彻底陷入绝境。",
+      "key_events": [
+        "智取：方尘假意轻薄天人族女子使其分心，顺势施展“浪劲”秘法将其拖向吞天塔",
+        "拉扯：双方展开极限拉扯，方尘从一重浪叠加至九重浪，最终将女子砸入吞天塔第八层",
+        "困杀：塔内方尘施展“诸神的黄昏”削其寿元，女子欲破塔而出却被结界所阻，陷入绝境"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘将天人族女子收入吞天塔第八层，特意避开第九层（因第九层有混沌噬心虫）",
+        "核心线索：方尘的“浪劲”秘法可通过连续转身叠加气势与力量，配合吞天塔吞噬之力形成强控"
+      ],
+      "evidence_chapters": [
+        1924
+      ],
+      "continuity_in": [
+        1923
+      ],
+      "continuity_out": [
+        1925
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1925,
+      "title": "天人绝恋",
+      "source": {
+        "start_line": 316304,
+        "end_line": 316439
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《天人绝恋》展开，推动后续主线进展。",
+      "summary": "天人族古皇被方尘困于坚不可摧的吞天塔内，如无头苍蝇般疯狂冲撞却无法逃脱。方尘吸取前车之鉴，绝不靠近，仅以法相天地笼罩空间，坐等其寿元流失。冲撞一个时辰后，女子寿元已失三十年，濒临耗尽，只得质问方尘意图。方尘直言欲杀她，并以她曾视众生如蝼蚁为由反唇相讥，面对其自爆威胁亦不为所动。绝望之下，女子决意同归于尽，施展禁术“天人绝恋”，将方尘拖入粉色幻境。幻境中，叶青瓷依偎在前世挚爱身旁，告知方尘自己已心有所属，无法再爱他，随后携手步入仙界。方尘痛心之际，一声佛音将其惊醒，而叶青瓷竟提出带他入仙界作为补偿。",
+      "key_events": [
+        "第1925章：天人族古皇被困吞天塔寿元流失，方尘以逸待劳",
+        "交锋：女子质问杀人动机，方尘以‘蝼蚁论’回击且无惧自爆威胁",
+        "转折：女子施展禁术‘天人绝恋’制造幻境，叶青瓷现身称已爱他人并步入仙界"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天人族古皇因寿元将尽，施展禁术‘天人绝恋’试图与方尘同归于尽，却意外制造出叶青瓷背叛的幻境",
+        "核心线索：叶青瓷在幻境中明确表示已恢复前世记忆并另有挚爱，这暗示了其复杂的身世与方尘未来的情感纠葛"
+      ],
+      "evidence_chapters": [
+        1925
+      ],
+      "continuity_in": [
+        1924
+      ],
+      "continuity_out": [
+        1926
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1926,
+      "title": "我不想去仙界",
+      "source": {
+        "start_line": 316440,
+        "end_line": 316578
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《我不想去仙界》展开，推动后续主线进展。",
+      "summary": "叶青瓷以仙灵之气耗尽为由，力劝方尘抓住唯一成仙机会随她前往仙界。方尘回望身后众多同伴，断言成仙若无同伴相伴便毫无意义，毅然拒绝并挥剑送别叶青瓷。然而，这竟是天人族女子施展的“天人绝恋”幻境，旨在利用人心脆弱点磨灭灵魂。方尘识破虚妄，以“开天辟地”剑气击碎幻境，重回现实。天人族女子见手段尽失，绝望之下选择自爆，企图与方尘同归于尽。方尘虽肉身受损，但凭借浮仙剑吞噬自爆能量，在能量风暴中苦撑两月，终将古皇级能量吸收殆尽。此次吞噬虽使其灵魂、血气与肉身力量大增，却依旧未能突破至大成准帝境界，寿元也几无增长，方尘不禁怀疑自身修炼出了异状。八哥对此已习以为常，方尘则收起女子遗留的极道帝兵等宝物。",
+      "key_events": [
+        "幻境抉择：方尘拒绝叶青瓷的成仙邀请，认为失去同伴的成仙毫无意义，实则陷入天人族女子的“天人绝恋”幻境。",
+        "破境反杀：方尘识破幻境，以“开天辟地”击碎法相天地，逼得天人族女子走投无路选择自爆。",
+        "吞噬未果：方尘吞噬天人族古皇自爆能量，实力大增却依旧未能突破至大成准帝，且寿元未涨，疑身体有异。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘吞噬天人族古皇能量后，实力全面提升，但修为仍停滞在准帝境，未能突破至大成准帝，且寿元几乎未增加。",
+        "核心线索：方尘的体质极为特殊，即便吸收多位古皇的帝之源力也难以突破，连八哥都已对此习以为常。"
+      ],
+      "evidence_chapters": [
+        1926
+      ],
+      "continuity_in": [
+        1925
+      ],
+      "continuity_out": [
+        1927
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1927,
+      "title": "吸收天人族男子的力量",
+      "source": {
+        "start_line": 316579,
+        "end_line": 316735
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《吸收天人族男子的力量》展开，推动后续主线进展。",
+      "summary": "方尘在八哥的指引下获得一尊天人族古皇男子的尸体及黑色长枪，将其收入吞天塔后，耗费两年时间将其彻底炼化。虽然修为未获突破，但方尘实力大增，不仅得到一件无法认主的极道帝兵黑色大印，寿元也增至四百五十年。炼化期间，方尘与八哥探讨寿元增长的差异，发现此前自爆的天人族女子未能提供修复命轮的神秘能量，而未自爆的男子则提供了。由此得出关键结论：对手自爆会消耗修复命轮的能量，导致寿元无法提升，八哥建议日后对战古皇需阻止其自爆。尝到吞噬甜头后，方尘决定继续寻找沉睡的古皇，随后带着八哥和小鹤离开吞天塔，留下混沌噬心虫继续进食，踏上新的寻宝之旅。",
+      "key_events": [
+        "方尘耗时两年炼化天人族古皇男子尸体，实力大增并获得极道帝兵，寿元增至四百五十年。",
+        "方尘与八哥探讨发现：对手自爆会消耗修复命轮的神秘能量，导致寿元无法提升，因此日后需阻止古皇自爆。",
+        "方尘决定继续寻找沉睡古皇以吞噬力量，出关后带着八哥和小鹤离开吞天塔。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘炼化未自爆的古皇可获得修复命轮的能量增加寿元，而自爆的古皇则无法提供此能量。",
+        "核心线索：方尘修为虽未突破至大成准帝，但实力已大幅提升，且当前寿元为四百五十年。"
+      ],
+      "evidence_chapters": [
+        1927
+      ],
+      "continuity_in": [
+        1926
+      ],
+      "continuity_out": [
+        1928
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1928,
+      "title": "把结界都吞噬了",
+      "source": {
+        "start_line": 316736,
+        "end_line": 316868
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《把结界都吞噬了》展开，推动后续主线进展。",
+      "summary": "在吞天塔外，八哥建议方尘收走天人族古皇的青桐棺，方尘照做并将其存入塔内。当八哥认为封印空间已无宝可寻时，方尘却盯上了由大帝阵纹构成的结界。他利用浮仙剑注入黄昏之力，如切豆腐般将结界从根部切开并收入浮仙戒。在戒内神秘力量下，结界分解为道纹，被浮仙剑吞噬后反馈给方尘精纯能量，使其肌肉蜕变、浮现金色琉璃战纹，炼体效果惊人。尽管方尘担忧身体过强会阻碍突破大成准帝，但他发现炼化古皇尸体可延寿，便释然了。一个时辰内，九层结界被尽数吞噬。随后，方尘一行继续前行，三日后闯入新禁区，遭遇拥有混沌巨猿血脉、实力堪比巅峰圣人的黄金独角巨猿。",
+      "key_events": [
+        "方尘收走青桐棺，并发现封印空间内的结界是蕴含大帝阵纹的宝贝",
+        "方尘利用浮仙剑轻松切开并吞噬九层结界，浮仙剑反馈的能量使其肉体发生惊人蜕变",
+        "方尘一行进入新禁区，遭遇实力强大的黄金独角巨猿"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "浮仙剑吞噬结界道纹后反馈的能量具有极强的炼体效果，方尘担忧肉体过强会阻碍其突破至大成准帝境界",
+        "炼化古皇尸体可快速提升寿元（一尊约增二十至三十年），这成为方尘即便不成大帝也能持续变强的底气"
+      ],
+      "evidence_chapters": [
+        1928
+      ],
+      "continuity_in": [
+        1927
+      ],
+      "continuity_out": [
+        1929
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1929,
+      "title": "被诅咒的忘仙岛",
+      "source": {
+        "start_line": 316869,
+        "end_line": 317031
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《被诅咒的忘仙岛》展开，推动后续主线进展。",
+      "summary": "方尘踏入忘仙岛，灵识探查到大量独角黄金巨猿，其中不乏准帝级强者。一只千丈高的准帝巨猿率众围攻，方尘甩出通天魔链，瞬间崩碎其石斧并将其死死缠住。制服巨猿后，方尘逼问此地底细。巨猿交代此地既是忘仙岛，也称葬仙岛，传说埋葬仙人且是仙凡交汇之地。岛上禁区上百，有生命者约三十，准帝强者近万。当方尘问及为何这些强者不外出作乱时，巨猿道出惊天隐秘：岛上生灵皆受诅咒，离岛即暴毙。这一连灵心宫主等人都不知晓的真相令方尘与八哥震惊不已，也解开了忘仙岛强者从未踏足外界的谜团。",
+      "key_events": [
+        "方尘以通天魔链瞬间制服准帝级独角黄金巨猿",
+        "方尘逼问巨猿，得知忘仙岛即葬仙岛，拥有上百禁区及近万准帝强者",
+        "巨猿透露忘仙岛生灵皆受诅咒，离岛即暴毙的惊天隐秘"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "忘仙岛又称葬仙岛，岛上生灵受诅咒无法离岛，否则暴毙而亡",
+        "忘仙岛禁区众多，准帝级强者数量近万，整体实力远超外界圣地"
+      ],
+      "evidence_chapters": [
+        1929
+      ],
+      "continuity_in": [
+        1928
+      ],
+      "continuity_out": [
+        1930
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1930,
+      "title": "下次别让我再遇到你",
+      "source": {
+        "start_line": 317032,
+        "end_line": 317179
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《下次别让我再遇到你》展开，推动后续主线进展。",
+      "summary": "方尘在忘仙岛天猿谷向独角黄金巨猿打探沉睡古皇的来历未果后，放走了实力低微的巨猿，因为他志在平掉忘仙岛百个禁区以夺取古皇寿元，对普通准帝已不屑一顾。随后，方尘深入天猿谷，遭遇一群准帝级巨猿拦截。他果断施展“黑暗噬神领域”，以绝对实力压制并捆住数十只巨猿，接着召唤吞天塔将其尽数收入囊中。就在此时，谷中深处飞出一只身高万丈、寿元超万年的超级独角黄金巨猿，它挥舞黑色巨锤猛击方尘。方尘被震飞后，立刻激活琉璃金身化为万丈巨人，施展“一重浪”剑诀，一剑震飞巨锤并顺势砍中巨猿，成功重创了这头古皇级强敌。",
+      "key_events": [
+        "方尘放走初级准帝巨猿，展露其志在平禁区夺古皇寿元的宏大目标",
+        "方尘以黑暗噬神领域配合吞天塔，轻松收服天猿谷数十只准帝级巨猿",
+        "万丈古皇级巨猿持锤来袭，方尘化身万丈巨人施展一重浪剑诀，一剑重创古皇"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘当前目标是平掉忘仙岛一百多个禁区，通过亲手击杀沉睡古皇来大幅提升实力和寿元",
+        "核心线索：天猿谷深处存在一只寿元超万年的古皇级独角黄金巨猿，方尘与其激战并凭借琉璃金身和一重浪剑诀占据上风"
+      ],
+      "evidence_chapters": [
+        1930
+      ],
+      "continuity_in": [
+        1929
+      ],
+      "continuity_out": [
+        1931
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1931,
+      "title": "一朵石莲",
+      "source": {
+        "start_line": 317180,
+        "end_line": 317330
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《一朵石莲》展开，推动后续主线进展。",
+      "summary": "方尘在天猿谷深处遭遇准帝级别的独角黄金巨猿，一剑将其劈成两半并收入吞天塔，感叹对手太弱，八哥则称赞他实力今非昔比。随后，方尘无视“荒古禁地，擅闯者死”的警告，闯入禁区寻找古皇。他穿过十八层残破的结界，在核心区域发现了一朵巨大的石莲，推测古皇便沉睡其中。方尘靠近时被无形力量阻挡，激活琉璃金身诀强行破开，并用浮仙剑劈砍石莲，却发现其拥有极强的自我修复能力。于是方尘改变策略，释放先天八卦阵图，融合阵图人影后眉心浮现太极图，灵魂感知力大增，瞬间悟透了石莲上的阵纹。最终，方尘在石莲顶端找到阵眼，将浮仙剑与八把本命飞剑插入阵眼，试图破解封印，即将直面古皇。",
+      "key_events": [
+        "方尘一剑秒杀准帝级独角黄金巨猿，展现今非昔比的强大实力",
+        "方尘闯入荒古禁区，穿过十八层残破结界，发现沉睡古皇的巨大石莲",
+        "方尘以先天八卦阵图悟透石莲阵纹，将飞剑插入阵眼破解封印"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘实力大增，已能正面抗衡古皇，轻松秒杀准帝级妖兽",
+        "核心线索：禁区内的古皇沉睡于一朵具有极强自我修复能力的石莲中，方尘正通过破解阵眼试图开启石莲"
+      ],
+      "evidence_chapters": [
+        1931
+      ],
+      "continuity_in": [
+        1930
+      ],
+      "continuity_out": [
+        1932
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1932,
+      "title": "把棺材板压住",
+      "source": {
+        "start_line": 317331,
+        "end_line": 317517
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《把棺材板压住》展开，推动后续主线进展。",
+      "summary": "方尘催动浮仙大阵的一百零八根青铜柱，成功开启石莲显露出一口石棺。为获取古皇遗留之物，他先用浮仙剑试探，再以黄昏之力灌注剑身，轻松切开了石棺表面层层叠叠的帝级阵纹。然而石棺开启后却空空如也，仅有一团白雾消散。正当方尘与八哥疑惑之际，二人发现将头伸进棺内能听到直击灵魂的滴水声，伸出则消失。为探明诡异之处，八哥提议由方尘在外压住棺盖，自己入内查探。不料八哥飞入棺材后竟凭空消失，方尘呼喊无果。紧接着，棺材盖突发剧烈震动，方尘站上棺盖试图压制，但震动愈发狂暴，力量惊人，方尘竟渐渐无法压住这诡异的棺材板。",
+      "key_events": [
+        "方尘以浮仙大阵与黄昏之力破开石棺禁制，却发现棺内空空如也。",
+        "方尘与八哥发现棺内传出诡异滴水声，八哥入棺探查却凭空消失。",
+        "棺材盖突发剧烈震动，方尘试图压住却力不从心，局势失控。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "石棺内部存在异空间，能传出滴水声且会吞噬进入者（八哥已失联）。",
+        "棺材盖蕴含连方尘都无法压制的强大力量，暗示石棺背后藏有极大凶险。"
+      ],
+      "evidence_chapters": [
+        1932
+      ],
+      "continuity_in": [
+        1931
+      ],
+      "continuity_out": [
+        1933
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1933,
+      "title": "石棺内部的空间",
+      "source": {
+        "start_line": 317518,
+        "end_line": 317695
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《石棺内部的空间》展开，推动后续主线进展。",
+      "summary": "八哥进入石棺后，棺盖竟自行震动欲合拢，方尘恐其被困，急召吞天塔镇压却未能阻止。他灵机一动，唤出补天神女异象，以奇重无比的黑色石头成功镇住棺盖。片刻后八哥飞出，告知方尘石棺内别有洞天，连接着一个帝之源力充沛的神秘空间，内有准帝骸骨，且该空间的神秘力量能助其解开体内封印。方尘决意入内探索，为防意外，他以通天魔链连接黑石与自身，确保退路。然而，当方尘携八哥、小鹤进入石棺后，那股神秘力量却令他气血沸腾，濒临浴火焚身之险，而八哥因封印吸收此力安然无恙，二者反应截然不同，暗示此神秘空间对寻常修士暗藏致命危机。",
+      "key_events": [
+        "方尘用黑色石头镇压试图自动合拢的石棺棺盖",
+        "八哥从石棺内神秘空间返回，告知其中蕴含充沛帝之源力及助其解封的力量",
+        "方尘进入石棺后遭遇神秘力量反噬，气血沸腾，与八哥的无恙形成鲜明对比"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "石棺内部连接神秘空间，蕴含帝之源力与特殊水珠，可助八哥解开封印",
+        "神秘空间的力量会导致普通修士气血沸腾甚至浴火焚身，但对八哥无负面影响"
+      ],
+      "evidence_chapters": [
+        1933
+      ],
+      "continuity_in": [
+        1932
+      ],
+      "continuity_out": [
+        1934
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1934,
+      "title": "神秘水滴",
+      "source": {
+        "start_line": 317696,
+        "end_line": 317849
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《神秘水滴》展开，推动后续主线进展。",
+      "summary": "方尘一行决定继续探索充满神秘力量的空间。面对八哥对“浴火焚身”的担忧，方尘谎称已能抵挡神秘力量，实则依靠浮仙剑吸收神秘力量并反馈冰凉气流，不仅消除了体内燥热，更使灵魂本源之力飞速提升。八哥虽无法抵挡这股力量，却借其破开封印，并目睹浮仙剑吞噬自身封印道纹，方尘以“特殊炼器”为由搪塞过去。小鹤则完全不受影响。随后，方尘运转轮回眼，发现空间深处悬浮着蕴含更强能量的神秘水珠。他触碰水珠后，浮仙剑吸收转化出的冰凉气流令灵魂之力暴增。大喜之下，方尘将剑域扩张至千丈，疯狂吞噬水珠。然而，他在空间下方竟发现了遍布各族强者的骸骨，无数光点从骸骨飘出融入水滴，暗示此地虽为灵魂修炼的宝地，却也暗藏陨落的凶险。",
+      "key_events": [
+        "方尘借浮仙剑吸收神秘力量转化为冰凉气流，灵魂之力暴增，并隐瞒浮仙剑秘密",
+        "方尘发现神秘水珠蕴含更强能量，扩张剑域疯狂吸收以滋养灵魂",
+        "空间下方现各族强者骸骨，光点融入水珠，暗示此地凶险"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "浮仙剑能吸收神秘力量/水珠转化为冰凉气流，极大提升方尘灵魂之力，且方尘对此秘密严格隐瞒",
+        "神秘水珠由各族强者骸骨飘出的光点汇聚而成，越深处水珠蕴含能量越强"
+      ],
+      "evidence_chapters": [
+        1934
+      ],
+      "continuity_in": [
+        1933
+      ],
+      "continuity_out": [
+        1935
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1935,
+      "title": "水滴中的美女",
+      "source": {
+        "start_line": 317850,
+        "end_line": 318003
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《水滴中的美女》展开，推动后续主线进展。",
+      "summary": "方尘在禁区飞行时遭遇一层布满大帝阵纹的结界，八哥推测此处或为禁区主人的沉睡之地。方尘虽惊叹阵纹之完美，仍寻得破绽穿越而过。结界内，水珠化为丈许大的水球，每个水球中都沉睡着各族绝色美女，散发着致命诱惑。方尘险些欲火焚身，幸得浮仙戒冰寒能量相助才稳住心神，并发现满地骸骨，识破此乃禁区之主的阴险陷阱。经生命之眼探查，这些美女虽已死，但体内帝之源力浓郁，方尘便用吞天塔将其尽数收起。随后，方尘连穿九层结界，每层皆收走数量递增的水球美女。穿过第九层后，众人陷入神秘力量暴涨的水世界，方尘血液沸腾，幸得浮仙剑能量不仅化解危机，还令其灵魂之力暴涨，八哥亦实力大增。最终，他们在水世界中心发现一朵红色符文莲花，内躺一位身材高大、魅惑至极的女子。八哥瞬间被迷，被小鹤啄醒，而方尘则凭借定力抵挡住了这股邪魅之力。",
+      "key_events": [
+        "方尘穿越完美大帝阵纹结界，发现水球中沉睡着散发致命诱惑的各族美女，识破阴险陷阱后，用吞天塔收起这些蕴含帝之源力的女尸。",
+        "方尘连穿九层结界，在第九层陷入神秘力量暴涨的水世界，浮仙剑能量助其化解欲火并暴涨灵魂之力，八哥实力亦大增。",
+        "水世界中心现红色符文莲花，内躺魅惑至极的高大女子，八哥被迷由小鹤唤醒，方尘凭定力抵挡住魅惑。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "水球中的美女虽已死，但体内蕴含浓郁帝之源力，被方尘用吞天塔收取。",
+        "水世界中心的红色符文莲花中躺着一位身材高大、魅惑之力极强的女子，方尘凭浮仙剑能量抵挡住了其影响。"
+      ],
+      "evidence_chapters": [
+        1935
+      ],
+      "continuity_in": [
+        1934
+      ],
+      "continuity_out": [
+        1936
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1936,
+      "title": "红色莲花中的女子",
+      "source": {
+        "start_line": 318004,
+        "end_line": 318133
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《红色莲花中的女子》展开，推动后续主线进展。",
+      "summary": "方尘在忘仙岛禁区偶遇一朵内含神秘女子的红色莲花，因生命之眼受莲花道韵干扰无法探查，且女子体型高大疑似冥族，方尘决定将其唤醒。他持剑靠近时，女子骤然睁眼，莲花爆发强光将其震飞。苏醒后的女子赤足立于莲台，周身环绕红色道纹，眼神深邃充满魅惑，方尘凭借浮仙剑才勉强守住心神。双方互相探查，女子惊叹于方尘作为人族竟有如此旺盛的血气，而方尘则察觉她毫无寻常沉睡者苏醒后的戾气。女子解释自己沉睡上千万年并非为了成仙，而是为了等待一个人的归来，方尘的出现预示着那人已经回归。为感谢方尘的唤醒之恩，女子从身后的莲花中摘取一片花瓣赠予他，传其秘术作为酬劳，随后便飘然离去，踏上寻找故人之途。",
+      "key_events": [
+        "神秘女子骤然苏醒，以莲花强光震飞方尘，双方展开对峙与互相探查",
+        "女子透露自己沉睡千万年并非求仙，而是为了等待故人归来，方尘的出现意味着等待终结",
+        "女子为报唤醒之恩，摘取红色莲花花瓣传授秘术，随后离去寻人"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "神秘女子沉睡上千万年，实力极强且无戾气，其苏醒机制与男性接近有关",
+        "女子赠予方尘红色莲花花瓣秘术，并因等待之人已回归而离开禁区"
+      ],
+      "evidence_chapters": [
+        1936
+      ],
+      "continuity_in": [
+        1935
+      ],
+      "continuity_out": [
+        1937
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1937,
+      "title": "红莲女帝?",
+      "source": {
+        "start_line": 318134,
+        "end_line": 318326
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《红莲女帝?》展开，推动后续主线进展。",
+      "summary": "神秘女子红莲欲离开水世界寻人，方尘追问下得知其名，并获赠一片红色莲花瓣。八哥敏锐指出红莲绝非古皇，而是能抵抗圣土召唤的大帝，甚至可能是沉睡千万年的仙人，方尘震惊之余暂称其为“红莲女帝”。为探究花瓣奥秘，方尘尝试灵识探查无果，小鹤提议服用。方尘咬破花瓣，瞬间被极致的辣味与灼热气流席卷全身乃至灵魂，幸得浮仙剑冰寒能量压制。灵魂吞噬热流后，方尘成功获取了花瓣中蕴含的陌生秘法信息，完成了此次机缘的接收。",
+      "key_events": [
+        "红莲离去并赠予方尘红色莲花瓣，八哥推测其为能抵抗圣土召唤的红莲女帝。",
+        "方尘咬服红莲花瓣，经历灼热与冰寒的交织后，成功获取花瓣中蕴含的秘法信息。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "红莲女帝实力深不可测，至少是大帝级别，且能抵抗圣土召唤并沉睡千万年完好如初。",
+        "红莲花瓣需服用方能获取秘法，方尘借此获得了红莲女帝传授的秘法。"
+      ],
+      "evidence_chapters": [
+        1937
+      ],
+      "continuity_in": [
+        1936
+      ],
+      "continuity_out": [
+        1938
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1938,
+      "title": "公子，过来玩呀",
+      "source": {
+        "start_line": 318327,
+        "end_line": 318510
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《公子，过来玩呀》展开，推动后续主线进展。",
+      "summary": "为获取红莲女帝秘法，方尘决意吞服蕴含庞大能量的莲花瓣。入腹瞬间，恐怖灼热能量如火山喷发般在他体内横冲直撞，令他七窍喷火、经脉暴起。危急时刻，方尘挥动浮仙剑形成剑之领域，疯狂吸纳周围冰冷水能中和热流，灵魂趁机吞噬能量，终于获取了秘法传承。然而，极度疲惫的方尘随即陷入沉睡，并在梦中与众多美女嬉戏，身体不自觉地做出怪异动作。百年后，方尘醒来，震惊地发现外界已过百年，八哥与小鹤寿元皆减百年，唯独他的寿元丝毫未损。意识到自己在梦境中“白嫖”了百年时光，方尘不禁感叹自己赚大了。",
+      "key_events": [
+        "方尘吞服红莲女帝花瓣，以浮仙剑剑之领域中和灼热能量，成功获取秘法传承。",
+        "方尘吸收能量后陷入沉睡，在梦境中与美女嬉戏，身体无意识动作长达百年。",
+        "百年后醒来，方尘发现外界已过百年，自身寿元却未减分毫，白赚百年光阴。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘通过吞服红莲女帝花瓣获得了秘法传承。",
+        "方尘沉睡百年，外界时间流逝，但其自身寿元未减，获得百年额外时间。"
+      ],
+      "evidence_chapters": [
+        1938
+      ],
+      "continuity_in": [
+        1937
+      ],
+      "continuity_out": [
+        1939
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1939,
+      "title": "红莲之力",
+      "source": {
+        "start_line": 318511,
+        "end_line": 318670
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《红莲之力》展开，推动后续主线进展。",
+      "summary": "方尘历经百年沉睡，终于消化了红莲女帝的传承。在八哥的追问下，他整理脑海信息，发现传承秘法名为“浴火红莲”，可修炼出特殊的“红莲之力”。此力极为霸道，仅对男性生效，一旦接触便会令人浴火焚身，若无法压制便会焚体而亡。方尘当即盘坐修炼，将周围水中的红莲之力吸入丹田，形成红色液态旋涡，与原有的黄昏之力互不干涉，一个时辰后便修炼至饱和。为备日后消耗，他驱使吞天塔将蕴含红莲之力的水尽数收走。随后，方尘进入吞天塔第九层探望被困百年的混沌噬心虫。百年间，此虫实力暴涨，体长突破五千丈，甚至啃食了两件极道帝兵充饥。方尘不仅未加责怪，反而大方地将更多极道帝兵转移给它享用。",
+      "key_events": [
+        "方尘领悟并修炼红莲女帝传承“浴火红莲”，成功凝聚红莲之力",
+        "方尘驱使吞天塔收走蕴含红莲之力的水世界以备后用",
+        "混沌噬心虫百年间实力暴涨，吞噬两件极道帝兵，方尘赐下更多帝兵供其吞噬"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "红莲之力只对男性有效，可致其浴火焚身而亡",
+        "混沌噬心虫实力暴涨，已具备吞噬极道帝兵的能力"
+      ],
+      "evidence_chapters": [
+        1939
+      ],
+      "continuity_in": [
+        1938
+      ],
+      "continuity_out": [
+        1940
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1940,
+      "title": "琉璃剑宗的现状",
+      "source": {
+        "start_line": 318671,
+        "end_line": 318815
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《琉璃剑宗的现状》展开，推动后续主线进展。",
+      "summary": "方尘因无法动用极道帝兵，便让混沌噬心虫吞噬以增强其实力，并叮嘱其先吃威力小的，保留血魔鼎等重器。随后，吞天塔吸干水世界，方尘切割结界收入浮仙戒后离开天猿谷。通过传讯，方尘得知琉璃剑宗百年间实力大增，叶青瓷已闯过第八关并进入第九关，成为唯一踏入第九层者。当年征战魔族的准帝大多被青草大阵复活，未复活者因本命灵宝被毁而彻底陨落。青草大阵因各族渡劫者借用而扩展至南荒三分之二，威力大增，但火璃准帝仍未出关，其所在区域青草已变异为蕴含剑意的神剑草。方尘随后联系黑炎准帝，得知复活者不仅修为恢复，灵根与天赋也大幅提升，根基更胜从前。如今琉璃剑宗上下盛行组队修炼剑阵，以弥补与顶级强者的差距。方尘确认宗门无恙后，安心继续修炼。",
+      "key_events": [
+        "方尘让混沌噬心虫吞噬极道帝兵提升实力，并切割水世界结界",
+        "叶青瓷进入第九秘境第九关，青草大阵扩展至南荒三分之二，火璃准帝未出关且所在区域青草变异",
+        "黑炎准帝等复活者灵根天赋提升，琉璃剑宗上下盛行组队修炼剑阵"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "叶青瓷是唯一进入第九秘境第九道关卡的人，火璃准帝仍未出关",
+        "青草大阵复活的准帝不仅修为恢复，灵根和天赋也大幅提升，宗门整体实力增强"
+      ],
+      "evidence_chapters": [
+        1940
+      ],
+      "continuity_in": [
+        1939
+      ],
+      "continuity_out": [
+        1941
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1941,
+      "title": "试一下红莲之力",
+      "source": {
+        "start_line": 318816,
+        "end_line": 318990
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《试一下红莲之力》展开，推动后续主线进展。",
+      "summary": "与黑炎准帝传讯确认琉璃剑宗无恙后，方尘安心前往忘仙岛深处修炼。他闯入一处妖气冲天的荒漠禁区，驱使吞天塔钻入沙海，连破十二层大帝阵纹结界，找到了沉睡的妖皇——黑炎龙狮兽。方尘用黑色石头将其唤醒，这头拥有混沌天狮与天龙血脉的顶级火系妖兽暴怒。方尘见它是雄性，便想试验红莲之力，挥动浮仙剑破防斩伤它，将红莲之力灌入其体内。黑炎龙狮兽顿时气血沸腾、燥热难耐，方尘戏谑称是帮它“重振雄风”。堂堂帝级妖兽刚苏醒便遭此暗算，气得暴跳如雷，而方尘则成功验证了红莲之力的奇效。",
+      "key_events": [
+        "方尘连破十二层结界，唤醒沉睡的妖皇黑炎龙狮兽",
+        "方尘拿黑炎龙狮兽试验红莲之力，一剑破防斩伤并灌入红莲之力",
+        "黑炎龙狮兽中招后气血沸腾、燥热难耐，方尘戏谑其“重振雄风”"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "黑炎龙狮兽是拥有混沌天狮和天龙血脉的顶级火系妖皇，曾为大帝，现跌落古皇境，寿元尚余三千年",
+        "红莲之力具有催情燥热效果，能让帝级妖兽气血沸腾、身体僵硬，方尘成功在黑炎龙狮兽身上验证了此效果"
+      ],
+      "evidence_chapters": [
+        1941
+      ],
+      "continuity_in": [
+        1940
+      ],
+      "continuity_out": [
+        1942
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1942,
+      "title": "疯狂撞钟的黑炎龙狮兽",
+      "source": {
+        "start_line": 318991,
+        "end_line": 319198
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《疯狂撞钟的黑炎龙狮兽》展开，推动后续主线进展。",
+      "summary": "红莲之力在黑炎龙狮兽体内肆虐，令其燥热难耐、陷入疯狂。方尘趁机以补天神女异象操控黑色石头猛砸，却未能伤其分毫，黑炎龙狮兽甚至亢奋地对石头做出了不可描述之举。眼见常规手段无效，方尘果断祭出吞天塔与通天魔链，趁其失控将其强行拽入吞天塔第二层。谁料黑炎龙狮兽在塔内吐出一口千丈古钟，竟疯狂撞击起来，钟声震天。八哥见此连连感叹红莲女帝绝学的威力，而纯洁的小鹤不解其意，方尘与八哥尴尬掩饰，方尘只好哄小鹤入睡。随后，方尘决定加大红莲之力的输出，再次挥剑劈砍黑炎龙狮兽。随着更多红莲之力涌入，黑炎龙狮兽肌肉膨胀，撞钟愈发癫狂。方尘对红莲之力初阶形态便有如此骇人功效深感震撼，暗自期待更高阶的力量。",
+      "key_events": [
+        "方尘利用红莲之力使黑炎龙狮兽陷入疯狂，并用吞天塔与通天魔链将其镇压进塔内。",
+        "黑炎龙狮兽在吞天塔内疯狂撞钟，方尘与八哥尴尬应对小鹤的纯洁发问。",
+        "方尘加大红莲之力输出劈砍黑炎龙狮兽，导致其彻底失控，撞钟更加疯狂。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "红莲之力具有极强的亢奋效果，能让古皇级妖兽失去理智。",
+        "方尘已将黑炎龙狮兽收入吞天塔第二层，并可通过持续输入红莲之力加剧其失控状态。"
+      ],
+      "evidence_chapters": [
+        1942
+      ],
+      "continuity_in": [
+        1941
+      ],
+      "continuity_out": [
+        1943
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1943,
+      "title": "欢迎人皇降临无忧谷",
+      "source": {
+        "start_line": 319199,
+        "end_line": 319358
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《欢迎人皇降临无忧谷》展开，推动后续主线进展。",
+      "summary": "方尘以红莲之力加持浮仙剑，仅十剑便令妖皇黑炎龙狮兽浴火焚身。他随即展开黑暗噬神领域，耗时三日将其力量与道纹吞噬殆尽，实力暴增，寿元更是突破至四百八十年。八哥惊叹其战力已近乎大帝之下无敌，方尘则收割了禁区封印阵纹，继续平推忘仙岛。随着消息传开，岛上生灵起初畏惧地称其为“人魔”，但很快意识到他斩杀古皇乃是拯救苍生，遂改尊称为“人皇”。当方尘抵达无忧谷时，白鹿群竟列队相迎，由一位白发老者带领，高呼“欢迎人皇降临”。方尘在忘仙岛的威名与形象，完成了从恐怖人魔到人皇的彻底逆转。",
+      "key_events": [
+        "方尘以红莲之力十剑焚杀妖皇黑炎龙狮兽，并吞噬其全部力量，寿元增至四百八十年。",
+        "忘仙岛生灵因方尘平推禁区而对其改观，从畏惧的“人魔”转变为敬畏的“人皇”。",
+        "方尘抵达无忧谷，受到白鹿群列队欢迎。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的红莲之力极为霸道，加持浮仙剑十剑即可焚灭妖皇，配合黑暗噬神领域吞噬效率极高。",
+        "方尘寿元已达四百八十年，若彻底修复命轮，预计可活万年。"
+      ],
+      "evidence_chapters": [
+        1943
+      ],
+      "continuity_in": [
+        1942
+      ],
+      "continuity_out": [
+        1944
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1944,
+      "title": "三天解决一位妖皇",
+      "source": {
+        "start_line": 319359,
+        "end_line": 319557
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《三天解决一位妖皇》展开，推动后续主线进展。",
+      "summary": "方尘踏入忘忧谷禁区，意外遭遇百余名准帝级白鹿化形者列队恭迎，被尊称为“人皇”。方尘虽感错愕，但得知白鹿族为求他铲除沉睡古皇已苦候三月，便坦然受之。进入禁区深处后，方尘遭遇沉睡的妖皇独眼玄蛙，他催动黄昏之力灌注浮仙剑，仅一剑便干脆利落地将其斩杀。事毕，白鹿族首领率众献上特产忘忧草以表感激，方尘推辞不过只好收下，白鹿族亦放下戒心，确认人皇只针对古皇而非滥杀。方尘离去后，白鹿族入禁区探查，发现层层大帝结界如割韭般被切开，深处战斗痕迹极轻，方知方尘竟在不足一个时辰内便解决了妖皇，其余时间皆在炼化妖皇尸体，众人对其逆天实力惊叹不已。",
+      "key_events": [
+        "白鹿族苦候三月恭迎方尘，尊其为人皇以求平禁区",
+        "方尘以黄昏之力加持浮仙剑，一剑秒杀妖皇独眼玄蛙",
+        "白鹿族探查禁区，发现结界被切、战斗痕迹轻微，证实方尘不足一个时辰便解决妖皇"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘斩杀妖皇独眼玄蛙仅用一剑，实际耗时不足一个时辰，其余时间用于炼化妖皇尸体",
+        "核心线索：白鹿族确认方尘（人皇）只针对古皇，并非滥杀无辜，并献上忘忧草"
+      ],
+      "evidence_chapters": [
+        1944
+      ],
+      "continuity_in": [
+        1943
+      ],
+      "continuity_out": [
+        1945
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1945,
+      "title": "妖族大能的传承之地",
+      "source": {
+        "start_line": 319558,
+        "end_line": 319738
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "intensive",
+      "priority_reason": "高能核心章节：包含重要突破/认主/重大胜负，建议逐字精读。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《妖族大能的传承之地》展开，推动后续主线进展。",
+      "summary": "方尘在忘仙岛稳扎稳打，平掉各大禁区后，不仅未对岛内排队等候的准帝级生命出手，反而获赠特产。十年后，他斩杀望仙山沉睡的鳄鱼妖皇，彻底平定全岛。蝶后献上忘仙水时，透露两百多年前曾有魔族（疑似青天魔帝）潜入偷盗。方尘追问岛上生命受诅咒无法离岛之谜，蝶后解释此乃一位能预知未来的妖族大能所为，旨在保护族人避祸，并提及大能留下了传承禁地。方尘决定前往一探。众人来到忘仙山脚裂缝，遭遇布满完美大帝阵纹的结界，方尘却轻松找到破绽带人穿过，其深不可测的实力令蝶族强者震撼不已。",
+      "key_events": [
+        "方尘平定忘仙岛最后禁区，蝶后透露曾有魔族偷盗忘仙水",
+        "蝶后解释岛上诅咒源自妖族大能保护族人的布局，并提及传承禁地",
+        "方尘轻松破解妖族大能留下的完美大帝阵纹结界，踏入传承之地"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "忘仙岛的诅咒是妖族大能为保护族人预知未来灾难所留，并非恶毒咒术",
+        "两百多年前偷盗忘仙水的魔族强者极有可能是青天魔帝"
+      ],
+      "evidence_chapters": [
+        1945
+      ],
+      "continuity_in": [
+        1944
+      ],
+      "continuity_out": [
+        1946
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1946,
+      "title": "一棵树，一只龟",
+      "source": {
+        "start_line": 319739,
+        "end_line": 319883
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《一棵树，一只龟》展开，推动后续主线进展。",
+      "summary": "本章开篇点明方尘在蝶后心中已是蛮荒第一强者，因为他能破解禁区阵纹而不损耗寿元，这是连大帝都做不到的。随后，方尘带领众人进入妖族大能的传承之地。途中，通道壁画蕴含万族混战的恐怖意境，蝶后和八哥意识深陷其中无法自拔，方尘凭借《万佛战经》将众人唤醒。穿越十八层结界后，众人进入传承空间，却发现此地极为寒酸，仅有一棵枯萎的巨树和一只死去的黑龟。蝶后认出此龟竟是能预知未来的望先龟，乃九窍灵龟的变异体，但施展神通会极大消耗寿元。八哥提议让方尘学习此天赋，方尘忆起自己曾借浮仙剑之力学会弑神诀，心中也燃起了掌握预知未来神通的期待。",
+      "key_events": [
+        "方尘以《万佛战经》唤醒被壁画意境吞噬意识的蝶后等人",
+        "众人穿越十八层结界，发现妖族大能传承地极为寒酸，只有一树一龟",
+        "蝶后揭示死去的黑龟是拥有预知未来天赋的望先龟，方尘对此天赋产生期待"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘凭借特殊能力破解禁区阵纹，无需消耗天地本源之力，被蝶后视为蛮荒第一强者",
+        "望先龟是九窍灵龟变异体，拥有预知未来的天赋神通，但施展会极大消耗寿元；方尘曾靠浮仙剑学会弑神诀，有望掌握此神通"
+      ],
+      "evidence_chapters": [
+        1946
+      ],
+      "continuity_in": [
+        1945
+      ],
+      "continuity_out": [
+        1947
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1947,
+      "title": "被吸进龟壳",
+      "source": {
+        "start_line": 319884,
+        "end_line": 320046
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《被吸进龟壳》展开，推动后续主线进展。",
+      "summary": "方尘与蝶后等人进入望先龟传承之地，方尘深知此龟能预知未来，必有后手，故对传承不急不躁，讲究缘分。蝶后表示古籍残缺，无更多线索。突然，传承空间震动，望先龟的龟壳滚向方尘。方尘挥剑劈砍，龟壳反馈暖流滋养其灵魂，随后被劈飞又反弹冲来。方尘正欲再战，龟壳突现青色符文，爆发吞噬力，将方尘吸入其中。蝶后惊呼，八哥却淡定安抚，称方尘大概率被望先龟看中，只需等待。进入龟壳内部后，方尘发现空间布满古老文字，灵识可用却无生命气息。他未坐以待毙，直接施展“诸神的黄昏”笼罩整个空间，准备应对未知。",
+      "key_events": [
+        "方尘挥剑试探望先龟龟壳，龟壳反馈暖流滋养其灵魂",
+        "龟壳突现青色符文，将方尘吸入其中，蝶后惊慌，八哥淡定安抚",
+        "方尘进入龟壳内部，施展“诸神的黄昏”笼罩空间，准备应对"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘被望先龟龟壳吸入内部，大概率是被望先龟看中",
+        "核心线索：方尘挥剑劈砍龟壳时，龟壳反馈的暖流对其灵魂有极大帮助"
+      ],
+      "evidence_chapters": [
+        1947
+      ],
+      "continuity_in": [
+        1946
+      ],
+      "continuity_out": [
+        1948
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1948,
+      "title": "望先龟，未来时空的画面",
+      "source": {
+        "start_line": 320047,
+        "end_line": 320260
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《望先龟，未来时空的画面》展开，推动后续主线进展。",
+      "summary": "方尘在传承之地触发异象，龟壳文字化作垂死的望先龟现身。方尘恭敬行礼，急切想从这位预知未来的前辈口中得知神秘大劫的真相。望先龟断言方尘离开忘仙岛后必成人皇，并否认他是仙人转世，却留下意味深长的沉默。当方尘追问大劫细节时，望先龟以“天机不可泄露”推脱，令方尘十分恼火。为证明所言非虚，望先龟用拐杖点碎虚空，展现出无数代表不同未来的空间碎片，并放大其中一片，让方尘看到自己与叶青瓷衣衫残破、并肩立于虚空的未来影像。方尘试图描述所见未来，却被一股无形力量禁言。望先龟借此点明，这便是真正的“天机不可泄露”——非不愿说，而是天道限制无法言说。方尘这才深刻体会到预知未来的无奈与天道禁制的可怕。",
+      "key_events": [
+        "望先龟现身，断言方尘未来必成人皇，并否认其仙人转世却态度暧昧",
+        "望先龟以“天机不可泄露”拒绝透露大劫真相，并用拐杖点碎虚空展示未来碎片",
+        "方尘看到自己与叶青瓷并肩作战的未来影像，试图描述时遭天道禁言，领悟“天机不可泄露”的真意"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：望先龟预知方尘离开忘仙岛后将成为人皇，且方尘与叶青瓷在未来有并肩作战、衣衫残破的宿命关联",
+        "核心线索：关于神秘大劫的真相受到天道禁制（天机不可泄露），即便是预知者也无法用语言透露，只能以画面暗示"
+      ],
+      "evidence_chapters": [
+        1948
+      ],
+      "continuity_in": [
+        1947
+      ],
+      "continuity_out": [
+        1949
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1949,
+      "title": "半仙境界的望先龟",
+      "source": {
+        "start_line": 320261,
+        "end_line": 320423
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《半仙境界的望先龟》展开，推动后续主线进展。",
+      "summary": "望先龟向方尘解释，先前让他窥见未来一隅虽属泄露天机，但反噬之力尚能承受，并点明天道并非完美无缺，能力决定极限。随后，望先龟道出当年大限将至时的推演：他虽见天地大劫与方尘推平禁区之景，却无力为苍生寻得生路，只能退而求其次，以仙术“乾坤咒”将妖族封于忘仙岛以避祸。正因如此，望先龟将方尘拉入此间，欲将乾坤咒传承于他，并托付一事。方尘谨慎询问，望先龟坦言需其修为达半仙之境时，替忘仙岛妖族解除乾坤咒。方尘不解其为何现在不解，望先龟才道出自己早已陨落，如今仅是一缕残魂，修为全无。方尘惊疑半仙之体何以腐朽至此，望先龟则确认自己确曾踏入半仙境界，留下悬念。",
+      "key_events": [
+        "望先龟向方尘解释泄露天机的代价与天道缺陷，并透露自己当年为避大劫，以仙术“乾坤咒”将妖族封于忘仙岛。",
+        "望先龟欲将乾坤咒传承给方尘，并托付其在达到半仙境界时，为忘仙岛妖族解除咒术。",
+        "望先龟揭示自己早已陨落，现仅余残魂，方尘对其半仙之体竟会腐朽产生质疑。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "望先龟掌握着来自仙人遗迹的仙术“乾坤咒”，此咒将妖族封于忘仙岛以躲避大劫。",
+        "望先龟已陨落，目前仅为残魂，他要求方尘达到半仙境界后方能解除乾坤咒。"
+      ],
+      "evidence_chapters": [
+        1949
+      ],
+      "continuity_in": [
+        1948
+      ],
+      "continuity_out": [
+        1950
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1950,
+      "title": "天地意志的走狗",
+      "source": {
+        "start_line": 320424,
+        "end_line": 320565
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《天地意志的走狗》展开，推动后续主线进展。",
+      "summary": "望先龟向方尘道出自身躯体异变的缘由：大限前施展天赋魔法消耗巨量仙灵之力，且为防止尸变诞生新灵智，他主动抽离了剩余仙灵之力。方尘不解，望先龟神色凝重地解释，尸变诞生的灵智会沦为“天奴”，即天地意志的走狗。他痛陈天道不公，修士逆天而行必遭天罚，无数天才因此陨落。方尘疑惑为何渡劫后会有天地本源洗礼，望先龟险些脱口而出本源并非天道所赐，却因誓言限制（仅能告知大帝以上强者）而缄口。随后，望先龟决定传授方尘仙术“乾坤咒”。传承开启，望先龟以拐杖点其眉心，海量信息涌入，方尘灵魂几欲崩溃。危急时刻，方尘将浮仙剑插入龟壳，剑身星辰之力涌入助其稳固灵魂，令望先龟惊叹不已，传承得以继续。",
+      "key_events": [
+        "望先龟揭示抽离仙灵之力的真相：防止尸变诞生沦为“天奴”（天地意志走狗）的新灵智",
+        "望先龟痛斥天道不公，欲言又止渡劫后天地本源洗礼的真正来源（非天道所赐，受誓言限制未全透露）",
+        "望先龟传授仙术“乾坤咒”，方尘在传承中灵魂濒临崩溃，借浮仙剑星辰之力稳住阵脚"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：尸变诞生的新灵智会沦为“天奴”（天地意志的走狗），且渡劫后的天地本源洗礼并非天道意志所赐",
+        "核心线索：望先龟因誓言限制，只能将本源之力的秘密告知大帝境界以上的强者"
+      ],
+      "evidence_chapters": [
+        1950
+      ],
+      "continuity_in": [
+        1949
+      ],
+      "continuity_out": [
+        1951
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1951,
+      "title": "两百年后，乾坤咒",
+      "source": {
+        "start_line": 320566,
+        "end_line": 320728
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《两百年后，乾坤咒》展开，推动后续主线进展。",
+      "summary": "方尘在龟壳内承受着望先龟不断增强的传承之力，灵魂承受力也随之提升。外界蝶后等人等候一月无果后开始修炼，八哥则酣睡。两百年后，传承终于完成，方尘习得无上秘法“乾坤咒”。此咒分为“乾坤咒域”与“乾坤咒印”：前者可限制区域内生灵离开，后者能越级封印强敌，但需积累咒印激活，极难修炼，望先龟当年亦未修成。方尘得知自己可随时解除所施咒印，心中大定。然而，望先龟因消耗过大，魂影已极度虚幻。方尘想起琉璃剑宗有能复活强者的青草大阵，便提议带望先龟前往一试。望先龟虽震惊于复活之机，但表示残魂尚能坚持。最终，望先龟将送出方尘的口诀点入其眉心，为这漫长的传承画上句号，也开启了复活前辈的新希望。",
+      "key_events": [
+        "方尘历经两百年完成望先龟的传承，习得可限制区域与越级封印的“乾坤咒”",
+        "望先龟因传授秘法导致魂影极度虚幻，方尘提出带其前往琉璃剑宗利用青草大阵复活",
+        "望先龟将离开龟壳的口诀传授给方尘"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "乾坤咒分为“乾坤咒域”（限制区域内生灵离开）和“乾坤咒印”（越级封印强敌，需积累激活，极难修炼）",
+        "方尘打算带残魂将散的望先龟回琉璃剑宗，尝试用青草大阵将其复活"
+      ],
+      "evidence_chapters": [
+        1951
+      ],
+      "continuity_in": [
+        1950
+      ],
+      "continuity_out": [
+        1952
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1952,
+      "title": "人皇竟然有准仙器",
+      "source": {
+        "start_line": 320729,
+        "end_line": 320891
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《人皇竟然有准仙器》展开，推动后续主线进展。",
+      "summary": "方尘在望先龟的龟壳空间内习得进出口诀，倒念后被送出龟壳，与苦等两百年的八哥和蝶后重逢。他透露自己获得了望先龟的传承“乾坤咒”，但无法预知未来。方尘计划将望先龟的尸体带回琉璃剑宗，试图用青草大阵将其复活。面对蝶后关于诅咒的疑问，方尘解释此诅咒正是望先龟所下的乾坤咒，目的是将忘仙岛生灵困于岛上以躲避即将到来的大劫，但大劫具体为何物连望先龟也不全知，且忘仙岛仅能抵御第一波劫难。随后，方尘祭出吞天塔，轻松将半仙境的望先龟尸体收入其中。蝶后和八哥震惊不已，没想到方尘竟能独自驾驭准仙器，方尘则准备抓紧时间离开此地。",
+      "key_events": [
+        "方尘出关并解释望先龟诅咒真相：诅咒是为保护忘仙岛生灵避劫，但大劫细节未知且仅能躲过第一波。",
+        "方尘欲用青草大阵复活望先龟，并祭出吞天塔轻松收取半仙级望先龟尸体。",
+        "蝶后和八哥震惊于方尘竟能独自驾驭准仙器（吞天塔）。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "望先龟的诅咒（乾坤咒）目的是保护忘仙岛生灵躲避大劫，但大劫细节未知，且仅能躲过第一波。",
+        "方尘的吞天塔被蝶后认定为准仙器，且他能独自一人驾驭。"
+      ],
+      "evidence_chapters": [
+        1952
+      ],
+      "continuity_in": [
+        1951
+      ],
+      "continuity_out": [
+        1953
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1953,
+      "title": "那些生命禁区都被我推平了",
+      "source": {
+        "start_line": 320892,
+        "end_line": 321084
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《那些生命禁区都被我推平了》展开，推动后续主线进展。",
+      "summary": "方尘在望先龟传承之地意外用吞天塔成功收取了望先龟的尸体，令八哥震惊不已。随后，他带领蝶后等人离开，以浮仙剑配合黄昏之力轻松切开保护禁地的大帝阵纹结界，并将结界收入浮仙戒，灵蝶族众人皆为其恐怖实力震撼。方尘向蝶后承诺，待其修为突破至半仙境界，便会重返忘仙岛帮灵蝶族解除乾坤咒。离开忘仙岛后，方尘在小鹤体内推演新得的仙术乾坤咒，并了解到自身能隔绝极道帝兵波动的特殊体质。一个月后，方尘回到阔别三百余年的琉璃剑宗，与云千雪及恢复如初的黑炎准帝等人汇合。当方尘轻描淡写地告知众人他已推平忘仙岛所有生命禁区时，深知禁区内有古皇沉睡且有大帝阵纹保护的众人无不目瞪口呆，震惊万分。",
+      "key_events": [
+        "方尘以浮仙剑配合黄昏之力轻松切割大帝阵纹结界，并承诺日后帮灵蝶族解除乾坤咒",
+        "方尘回到琉璃剑宗，告知众人自己已推平忘仙岛生命禁区",
+        "方尘意外用吞天塔收取望先龟尸体，并在返程中推演仙术乾坤咒"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘已获得望先龟传授的乾坤咒（仙术），并承诺达到半仙境界后为灵蝶族解除此咒",
+        "忘仙岛的生命禁区已被方尘推平，其实力已能轻易破开古皇沉睡地的大帝阵纹"
+      ],
+      "evidence_chapters": [
+        1953
+      ],
+      "continuity_in": [
+        1952
+      ],
+      "continuity_out": [
+        1954
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1954,
+      "title": "实力暴涨的琉璃剑宗",
+      "source": {
+        "start_line": 321085,
+        "end_line": 321214
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《实力暴涨的琉璃剑宗》展开，推动后续主线进展。",
+      "summary": "方尘从忘仙岛归来，向黑炎准帝等人讲述自己推平忘仙岛生命禁区的惊人经历，众人虽惊但联想到他打穿佛国的壮举便释然。方尘将所得宝物上交宗门后，询问宗门近况。黑炎准帝汇报了琉璃剑宗的惊人发展：准帝超200位，圣人超2万，叶空和叶青瓷更是在第九层关卡中。这得益于灵气复苏和青草大阵的百分百渡劫成功率，大阵不仅助弟子渡劫，还通过向各族收费创收，使宗门财力雄厚、福利顶尖。当年背叛者悔恨，留下者成骨干，南荒已成修炼圣地。听完汇报，方尘提出是否改变招人标准，不再局限于南荒。",
+      "key_events": [
+        "方尘归来讲述推平忘仙岛生命禁区的经历，并将所得宝物上交宗门",
+        "黑炎准帝汇报琉璃剑宗实力暴涨：准帝超200位，圣人超2万，得益于青草大阵的百分百渡劫成功率和创收能力",
+        "方尘提议改变宗门招人标准，不再局限于南荒"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：琉璃剑宗实力暴涨，拥有超200位准帝和超2万圣人，核心依仗是青草大阵的百分百渡劫成功率及创收能力",
+        "核心线索：方尘提议改变招人标准，不再限制只招南荒之人，暗示宗门即将向外扩张人才吸纳"
+      ],
+      "evidence_chapters": [
+        1954
+      ],
+      "continuity_in": [
+        1953
+      ],
+      "continuity_out": [
+        1955
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1955,
+      "title": "青草大阵内的胚胎",
+      "source": {
+        "start_line": 321215,
+        "end_line": 321359
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《青草大阵内的胚胎》展开，推动后续主线进展。",
+      "summary": "黑炎准帝告知方尘，南荒新生儿拥有灵根的比例高达三成，远超外界，且青草大阵已覆盖南荒三分之二面积，但近两百年来停止扩张。方尘本就计划探查大阵以复活望先龟，便与八哥前往。他发现大阵边缘草叶更绿、道纹更密，灵识深入后察觉核心阵眼有强大能量波动。进入核心区域，方尘见青草枯黄开花，灵识探入阵眼，竟被吸入一个九色光团内的彩色空间。在这里，他震惊地发现了一个胖嘟嘟的婴儿胚胎，这胚胎由神秘符纹凝聚，却拥有真实的五脏六腑，脐带连接着空间壁垒。青草大阵停止扩张的谜团，竟是因为它在孕育生命。",
+      "key_events": [
+        "黑炎准帝告知方尘南荒新生儿灵根比例高达三成，且青草大阵停止扩张",
+        "方尘探查青草大阵，发现核心阵眼出现异常能量波动",
+        "方尘灵识被吸入阵眼，发现其中孕育了一个由符纹构成的婴儿胚胎"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "南荒新生儿灵根比例高达三成，青草大阵已停止扩张两百年",
+        "青草大阵核心阵眼内孕育出了一个拥有五脏六腑的神秘婴儿胚胎，这可能是大阵停止扩张的原因"
+      ],
+      "evidence_chapters": [
+        1955
+      ],
+      "continuity_in": [
+        1954
+      ],
+      "continuity_out": [
+        1956
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1956,
+      "title": "青草大阵的阵灵",
+      "source": {
+        "start_line": 321360,
+        "end_line": 321537
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《青草大阵的阵灵》展开，推动后续主线进展。",
+      "summary": "方尘收回灵识后，向八哥透露青草大阵阵眼内竟孕育出一个胎儿。八哥震惊之余要求入内查看，认出此乃青草大阵的“阵灵”，堪比秘境之主。然而方尘发现灵胎脐带的道纹停止流动，灵胎濒临危机。他闭关十日参悟《阵经》寻找对策，随后施展补天神女异象凝聚道纹打入灵胎。过程中，先天八卦阵图中的神秘虚影脱离方尘，进入灵胎内疯狂修补道纹。三日后，灵胎消散，一名灵动的女婴诞生，睁眼便奶声奶气地喊方尘“主人”。方尘确认其为阵灵，并为其取名“小草”，八哥则私下吐槽其取名水平。至此，方尘成功拥有了一个拥有灵智且心意相通的强大阵灵。",
+      "key_events": [
+        "发现青草大阵阵眼孕育出胎儿，八哥认出其为阵灵",
+        "方尘参悟《阵经》并催动异象修补灵胎，神秘虚影脱离本体进入灵胎滋养女婴",
+        "阵灵女婴诞生，认方尘为主并被取名“小草”"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "青草大阵诞生了拥有灵智的阵灵（女婴），认方尘为主",
+        "阵灵由先天八卦阵图中的神秘虚影修补道纹后诞生，方尘为其取名“小草”"
+      ],
+      "evidence_chapters": [
+        1956
+      ],
+      "continuity_in": [
+        1955
+      ],
+      "continuity_out": [
+        1957
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1957,
+      "title": "无法复活望先龟",
+      "source": {
+        "start_line": 321538,
+        "end_line": 321727
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《无法复活望先龟》展开，推动后续主线进展。",
+      "summary": "方尘为青草大阵诞生的小草命名，小草乖巧懂事，向方尘和八哥（花花）介绍自己的能力：在领域内可复活被杀者，实力越强复活越久。小草解释自己两百年前已诞生灵智，通过吸收渡劫者融入大阵的记忆学习，故能流畅交流。随后，方尘带小草出核心空间，取出望先龟的尸体置于大阵之上，并进入龟壳与望先龟沟通。望先龟惊叹青草大阵的神奇，认为其细致程度甚至超越仙阵。方尘满怀希望询问大阵能否助其恢复灵魂，却遭望先龟否定。方尘出阵向小草求证，得知望先龟寿元已尽、命轮崩碎，灵魂溃散已不可逆转，以小草目前的能力，根本无法复活寿元耗尽之人。方尘复活望先龟的希望就此破灭。",
+      "key_events": [
+        "小草展示领域复活能力，并解释两百年前诞生灵智及通过渡劫者记忆学习的经历",
+        "方尘将望先龟尸体放入青草大阵，望先龟惊叹阵法神奇但表示无法恢复灵魂",
+        "小草告知方尘望先龟寿元耗尽、命轮崩碎，灵魂溃散不可逆转，无法复活"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：小草具有在领域内复活被杀者的能力，但无法复活寿元耗尽、命轮崩碎之人",
+        "核心线索：望先龟因寿元耗尽，灵魂溃散不可逆转，方尘复活望先龟的计划失败"
+      ],
+      "evidence_chapters": [
+        1957
+      ],
+      "continuity_in": [
+        1956
+      ],
+      "continuity_out": [
+        1958
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1958,
+      "title": "望先龟最后的选择",
+      "source": {
+        "start_line": 321728,
+        "end_line": 321854
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《望先龟最后的选择》展开，推动后续主线进展。",
+      "summary": "方尘向青草大阵的阵灵小草求助，试图复活寿元耗尽的望先龟，却被告知小草只能汇聚未耗尽的寿元，对油尽灯枯的望先龟无效。方尘失望地将噩耗相告，望先龟却坦然接受，坦言连仙人也无法逆转寿元耗尽的死亡，且其残魂最多仅存半年。正当方尘悲痛之际，大阵内突然爆发出惊天的剑意。望先龟的龟壳带着方尘飞至剑意源头——火璃准帝的闭关之地。望先龟惊叹火璃准帝的剑意已逼近大帝水准，决意助其突破。不顾方尘的震惊与阻拦，望先龟将方尘送出龟壳，毅然燃烧自身残魂与本命龟壳。耀眼的青光中，无数青色符文穿透火璃准帝的剑气融入其体，望先龟以魂飞魄散为代价，为蛮荒世界铸就了一位未来的剑道巅峰强者。",
+      "key_events": [
+        "求助遭拒：方尘得知阵灵只能复活寿元未耗尽者，望先龟因寿元耗尽无法复活，残魂仅存半年",
+        "剑意惊鸿：火璃准帝闭关处爆发强大剑意，望先龟惊叹其天赋并决意相助",
+        "燃魂馈赠：望先龟燃烧残魂与龟壳，将毕生道纹融入火璃准帝体内，完成最后的选择"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：望先龟因寿元耗尽无法被青草大阵复活，其残魂最多只能维持半年便会彻底溃散",
+        "核心线索：望先龟选择燃烧自身残魂和龟壳，将毕生修为化作青色符文馈赠火璃准帝，助其剑道突破"
+      ],
+      "evidence_chapters": [
+        1958
+      ],
+      "continuity_in": [
+        1957
+      ],
+      "continuity_out": [
+        1959
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1959,
+      "title": "先练降魔咒，再练乾坤咒",
+      "source": {
+        "start_line": 321855,
+        "end_line": 322023
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《先练降魔咒，再练乾坤咒》展开，推动后续主线进展。",
+      "summary": "望先龟的残魂彻底消散，化作青光与道纹融入火璃准帝的草窝，助其剑意更盛。方尘虽知前辈死而无憾，仍感伤怀，在草窝旁静坐一个时辰才平复。随后他决意修炼仙术乾坤咒，却发现此咒极难推演。为提升灵魂感知力，他借助浮仙剑插入青草大阵地底，疯狂吞噬草根能量，使周围草叶尽数指向自己，灵魂感知力随之暴涨。推演中，方尘惊觉乾坤咒竟有种似曾相识之感，细究后发现它与早年灵心宫主所赠的降魔咒极为相似。既然乾坤咒艰深，他决定先修炼降魔咒，再回头攻克乾坤咒。于是方尘取出黑色木鱼，一边用浮仙剑砍击木鱼，一边开始修炼降魔咒，八哥与小草虽疑惑却未打扰。",
+      "key_events": [
+        "望先龟残魂彻底消散，灵魂之力助火璃准帝剑意增强",
+        "方尘借浮仙剑吞噬青草大阵能量提升灵魂感知力，推演乾坤咒时发现其与降魔咒相似",
+        "方尘决定先练降魔咒再练乾坤咒，取出黑色木鱼开始修炼"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：乾坤咒与降魔咒存在高度相似性，方尘选择先修降魔咒以降低修炼难度",
+        "核心线索：浮仙剑可吞噬青草大阵能量，大幅提升方尘的灵魂感知力，是推演高阶秘法的关键辅助"
+      ],
+      "evidence_chapters": [
+        1959
+      ],
+      "continuity_in": [
+        1958
+      ],
+      "continuity_out": [
+        1960
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1960,
+      "title": "威力惊人的降魔咒",
+      "source": {
+        "start_line": 322024,
+        "end_line": 322216
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《威力惊人的降魔咒》展开，推动后续主线进展。",
+      "summary": "方尘在青草大阵核心一边以浮仙剑砍木鱼增强灵魂感知，一边修炼之前未能成功的“降魔咒”。咒语刚起，八哥便痛得惨叫逃遁，小草也头晕目眩紧随其后。八哥向小草吐槽这是灵心宫主的邪门咒语，小草却灵机一动，提议此咒在战斗中必能克敌。八哥恍然，决定日后提醒方尘使用。随后八哥向小草讲述二人过往冒险，小草心生向往却遗憾身为阵灵无法离开。此时，大阵核心灵气暴动，方尘周身金文环绕，竟成功炼成降魔咒。他收功后喊话二人欲展示威力，八哥回想起方才痛苦，吓得连连拒绝。",
+      "key_events": [
+        "方尘修炼降魔咒，咒语威力惊人，八哥与小草痛苦逃离",
+        "小草提议降魔咒可用于对敌，八哥决定日后提醒方尘使用，并向小草讲述往事",
+        "方尘成功炼成降魔咒，邀八哥和小草见识威力，八哥心有余悸"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘成功将之前未能修炼成功的“降魔咒”炼成。",
+        "核心线索：降魔咒具有极强的精神攻击效果，八哥提议方尘日后对敌时可使用此咒。"
+      ],
+      "evidence_chapters": [
+        1960
+      ],
+      "continuity_in": [
+        1959
+      ],
+      "continuity_out": [
+        1961
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1961,
+      "title": "手搓咒文",
+      "source": {
+        "start_line": 322217,
+        "end_line": 322421
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《手搓咒文》展开，推动后续主线进展。",
+      "summary": "小草和八哥因方尘修炼降魔咒时的可怕动静而心生畏惧，但八哥提议先去确认，毕竟方尘已修炼成功。小草带着八哥瞬间移动至方尘面前，揭示自己在青草大阵内拥有无处不在的瞬移能力。随后，方尘询问大阵扩展对生灵的影响，小草表示可绕开生灵区域，且即便生灵在阵外被杀也能复活。为消除二人顾虑，方尘展示新突破——双手搓出大量护身咒文，烙入二人体内以抵御降魔咒的伤害，并搓出十万枚备用。方尘欲用吞天塔内的黑玉噬魂虾测试降魔咒，却发现虾群已全部暴毙。他推断这些忘仙岛生物受乾坤咒束缚，离岛即死。无奈之下，方尘传讯黑炎准帝寻求新帮助。",
+      "key_events": [
+        "小草带八哥瞬移至方尘处，揭示青草大阵内瞬移及复活阵外生灵之能",
+        "方尘手搓护身咒文为二人抵御降魔咒，并搓出十万枚备用",
+        "黑玉噬魂虾因乾坤咒离岛暴毙，方尘传讯黑炎准帝求助"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "小草在青草大阵内可瞬移，且能复活阵外被杀的生灵",
+        "忘仙岛生物受乾坤咒束缚，离岛即死（黑玉噬魂虾因此全灭）"
+      ],
+      "evidence_chapters": [
+        1961
+      ],
+      "continuity_in": [
+        1960
+      ],
+      "continuity_out": [
+        1962
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1962,
+      "title": "乾坤咒成功",
+      "source": {
+        "start_line": 322422,
+        "end_line": 322629
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【大帝征途篇】围绕《乾坤咒成功》展开，推动后续主线进展。",
+      "summary": "方尘为试验新炼成的降魔咒，请黑炎准帝从魔窟抓来十位魔圣。施咒后，魔族仅听三句便纷纷炸裂消散，威力远超预期，却因对手太弱而无法测出真正极限。方尘意识到降魔咒只是修炼乾坤咒的跳板，随即闭关，以八卦阵图配合浮仙剑劈砍黑色木鱼，持续念诵乾坤咒。五年后，他终于功成，掌握了乾坤咒域与乾坤咒印的破解之法——咒域可逆向施展解咒，咒印则如本命灵宝般随心收回。出关后，方尘兴奋地想向八哥和小草展示，八哥却心有余悸，生怕成为下一个试验品。",
+      "key_events": [
+        "方尘用降魔咒试验于十位魔圣，咒语仅念三句便令魔族爆体，证实秘法威力惊人但缺乏合适测试对象。",
+        "方尘以修炼降魔咒为铺垫，闭关五年专攻乾坤咒，最终成功炼成乾坤咒域与乾坤咒印，并通晓其破解之法。",
+        "出关后方尘欲展示乾坤咒，八哥因降魔咒的惨状而惊恐躲避，形成诙谐反差。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已将乾坤咒修炼成功，此术分为咒域与咒印两部分，咒域需逆向施展方可破解，咒印可如本命灵宝般直接收回。",
+        "核心线索：降魔咒是修炼乾坤咒的前置跳板，方尘实力再获提升，为后续可能的大规模实战埋下伏笔。"
+      ],
+      "evidence_chapters": [
+        1962
+      ],
+      "continuity_in": [
+        1961
+      ],
+      "continuity_out": [
+        1963
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1963,
+      "title": "灵心宫主的召唤",
+      "source": {
+        "start_line": 322630,
+        "end_line": 322831
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《灵心宫主的召唤》展开，推动后续主线进展。",
+      "summary": "方尘为验证乾坤咒印的威力，以八哥为试验对象，将百余枚咒印打入其体内，激活后瞬间封印了八哥的本命灵珠与灵魂本源，使其力量完全消失。方尘确认这门仙术效果惊人，随即解除封印。此时灵心宫主的神识召唤骤然降临，语气急切。方尘立刻赶赴天元学宫，发现人族各大圣主、宗主以及南海龙族强者均已齐聚。灵心宫主未作解释，直接带领众人传送至精灵大陆。在精灵森林深处，精灵女皇向众人展示了一件准仙器——往生镜。她透露，此镜本源耗尽已百万年，一年前却突然波动并显现画面，族中先知燃烧寿元才将其短暂激活，窥见未来时空的片段，召集众人正是为了共同应对这则关乎未来的异兆。",
+      "key_events": [
+        "方尘以八哥试验乾坤咒印，成功封印其全部力量，验证了仙术的强大封印之能。",
+        "灵心宫主紧急召唤方尘及人族、龙族众强者齐聚天元学宫。",
+        "精灵女皇揭示往生镜异常波动，先知燃烧寿元激活后窥见未来画面，召集众人共商应对之策。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的乾坤咒可瞬间封印准帝级力量，是一门极为强大的仙术。",
+        "灵心宫主召集各族强者前往精灵大陆，核心原因是准仙器往生镜出现异动，先知以寿元为代价窥见了未来片段，暗示大劫或变局将至。"
+      ],
+      "evidence_chapters": [
+        1963
+      ],
+      "continuity_in": [
+        1962
+      ],
+      "continuity_out": [
+        1964
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1964,
+      "title": "准仙器，往生镜",
+      "source": {
+        "start_line": 322832,
+        "end_line": 322991
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《准仙器，往生镜》展开，推动后续主线进展。",
+      "summary": "精灵女皇催动准仙器往生镜，向众人展示了精灵族先知窥探到的末日预兆：天空裂开一道横亘天际的巨缝，背后隐约可见成片仙宫，疑似仙界重现。先知临终前狂喜高呼“仙路重现”，但方尘、灵心宫主等强者并未被冲昏头脑，反而神色凝重，推测这空间裂缝极可能与即将降临的神秘大劫有关。为求主动破局，方尘决定亲自尝试激活往生镜以窥探未来。他纵身站上镜面，霸道阵纹波动冲击肉身，而灵魂冲击则被脑海中的乾坤咒印尽数挡下，方尘由此发现乾坤咒印的护魂奇效。随后，方尘祭出浮仙剑划破镜面，竟引动一股特殊能量穿透咒印融入脑海，令其精神大振。精灵女皇虽对其拔剑举动心生疑惑，却并不担忧准仙器受损。方尘成功抵御反噬并引动镜中能量，为后续真正驾驭往生镜、洞悉大劫真相迈出了关键一步。",
+      "key_events": [
+        "精灵女皇展示往生镜画面，揭示天空裂缝与疑似仙界重现的异象，先知遗言称仙路重现。",
+        "方尘察觉大劫可能与仙界裂缝有关，决定亲自尝试激活往生镜以窥探未来。",
+        "方尘站上往生镜抵御阵纹冲击，发现乾坤咒印可护魂，并用浮仙剑引动镜中特殊能量融入脑海。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：往生镜显示天空巨缝后有仙宫，疑似仙界重现，但方尘等人认为这可能与即将降临的大劫有关。",
+        "核心线索：方尘发现脑海中的乾坤咒印能抵挡往生镜的灵魂冲击，且浮仙剑能引动镜中特殊能量穿透咒印，为驾驭准仙器奠定基础。"
+      ],
+      "evidence_chapters": [
+        1964
+      ],
+      "continuity_in": [
+        1963
+      ],
+      "continuity_out": [
+        1965
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1965,
+      "title": "往生镜中的石磨",
+      "source": {
+        "start_line": 322992,
+        "end_line": 323157
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《往生镜中的石磨》展开，推动后续主线进展。",
+      "summary": "方尘欲以剑试探往生镜，精灵女皇却提醒他此乃准仙器，恐遭自卫反击，方尘自有分寸。随后，方尘运转轮回眼秘法并展开八卦图，意外触发了往生镜的强烈反应。八卦图与往生镜阵纹融合，一股磅礴力量涌入方尘脑海，与其灵魂本源相融，方尘因此意外获得了往生镜的控制口诀。掌握口诀后，方尘决定独自催动往生镜窥探未来，不顾天地法则反噬的风险。他默念口诀结印，竟直接沉入镜中，令精灵族众人震惊不已，连先知都无法做到的事他却做到了。进入镜内空间，方尘身处无数灰蒙镜子环绕之中，他再次催动法诀，印记撞击下镜子亮起并散开，显现出一座古老殿堂。殿堂深处祭台上，赫然矗立着一尊推手缺失、散发沧桑气息的巨大石磨。",
+      "key_events": [
+        "方尘展开八卦图意外激活往生镜，获得控制口诀",
+        "方尘不顾反噬风险，独自催动法诀沉入往生镜内部",
+        "方尘在镜内空间发现古老殿堂与祭台上的无推手石磨"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘通过八卦图与往生镜融合，成功获得了往生镜的控制权",
+        "方尘在往生镜内部发现了一口古老且推手缺失的巨大石磨"
+      ],
+      "evidence_chapters": [
+        1965
+      ],
+      "continuity_in": [
+        1964
+      ],
+      "continuity_out": [
+        1966
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1966,
+      "title": "窥探未来",
+      "source": {
+        "start_line": 323158,
+        "end_line": 323329
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《窥探未来》展开，推动后续主线进展。",
+      "summary": "方尘身处往生境内，因无法开启储物法宝制作手柄，索性将浮仙剑插入石磨洞穴充当推手。此举引发异象，石磨涌出由黄转白的神秘粘液，冰凉能量灌入方尘体内令其灵魂大振。当他全力推动石磨时，脚下阵纹吞噬其力量，眼前空间扭曲，隐约窥见未来破碎的画面。外界，精灵女皇与众强者正注视往生境，却只见画面闪烁过快且支离破碎。大祭司直言无从解读，女皇则解释外界所见乃精灵族先知临终留存、仅能维持三年的旧影，与方尘亲历截然不同。众人忧心方尘遭反噬，唯独八哥对其信心满满。岂料窥探未来终触天威，恐怖劫云骤然凝聚，漫天雷电轰然劈下，不仅震飞旁观者，更令往生境镜面道纹崩落。然而八哥毫不畏惧，只因方尘乃连劫云都绕道走的逆天之人。",
+      "key_events": [
+        "方尘以浮仙剑为推手启动石磨，汲取神秘能量并窥见未来残影",
+        "外界众人所见为精灵族先知遗留的旧画面，与方尘亲历不同",
+        "窥探未来引发恐怖天罚，雷电轰击往生境致道纹崩落，但八哥坚信方尘无碍"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘在往生境内看到的画面与外界不同，外界所见仅是精灵族先知留存三年的旧影",
+        "使用往生境窥探未来会遭天道反噬降下天罚，但方尘实力超凡，连劫云都曾绕其道而行"
+      ],
+      "evidence_chapters": [
+        1966
+      ],
+      "continuity_in": [
+        1965
+      ],
+      "continuity_out": [
+        1967
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1967,
+      "title": "往生镜破碎",
+      "source": {
+        "start_line": 323330,
+        "end_line": 323513
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《往生镜破碎》展开，推动后续主线进展。",
+      "summary": "方尘在往生镜核心空间内承受天罚雷电洗礼，其筑基道台如无底洞般吞噬雷电，他反而感到畅快。为探寻更久远的时空真相，他全力推动石磨，终于看清了空间裂缝背后的仙界盛景，以及无数古皇、妖皇疯狂冲入仙路的景象。然而，仙路背后却暗藏杀机，黑色触手与红色旋涡疯狂吞噬生命与灵气，连极道帝兵也无法阻挡。随着方尘继续推磨，神秘压制力暴增，石磨与往生镜瞬间炸裂。一道灰色雷电直劈方尘灵魂本源，将其撕裂，外界众人惊骇万分。千钧一发之际，浮仙剑涌出磅礴力量，瞬间修复其灵魂。劫云散去，方尘从能量风暴中安然冲出，众人悬心方落。面对八哥的询问，方尘解释是因强行催动往生镜导致力量反噬，致使宝镜破碎。",
+      "key_events": [
+        "方尘在往生镜内承受天罚并推动石磨，窥见仙路重现及背后触手与旋涡吞噬生命的真相",
+        "方尘强行催动往生镜导致神秘力量反噬，石磨与往生镜炸裂，灰色雷电撕裂其灵魂本源",
+        "浮仙剑涌出力量瞬间修复方尘灵魂，劫云散去，方尘安然从能量风暴中冲出"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘因强行催动往生镜探寻时空真相，导致神秘力量反噬，最终致使往生镜彻底破碎",
+        "核心线索：方尘在破碎的时空画面中窥见仙路重现，但仙路背后存在黑色触手与红色旋涡等恐怖力量，疯狂吞噬蛮荒世界的生命与灵气"
+      ],
+      "evidence_chapters": [
+        1967
+      ],
+      "continuity_in": [
+        1966
+      ],
+      "continuity_out": [
+        1968
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1968,
+      "title": "不接受叛徒",
+      "source": {
+        "start_line": 323514,
+        "end_line": 323652
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《不接受叛徒》展开，推动后续主线进展。",
+      "summary": "准仙器“往生境”因方尘使用时引发的天地意志反噬超出极限而破碎，令众人惋惜。方尘虽无法再借其窥探未来，却已洞悉大劫真相：天空裂缝背后并非仙界，而是会吞噬蛮荒世界能量的恐怖存在。因受天地禁制，方尘无法明言所见，只能以“天机不可泄露”回应众人，并下令各族即刻迁往南荒琉璃剑宗，依托青草大阵集中力量对抗裂缝吞噬。各族代表因感念方尘复活之恩及对抗魔族的功绩，对其绝对信任，当即应允转移。然而，在是否通知天人族共同避难的问题上，众人产生分歧。精灵女皇等人因天人族曾在魔族大陆背叛联盟，强烈反对接纳叛徒。最终，这一决定权交到了方尘手中，众人静待他的裁决。",
+      "key_events": [
+        "准仙器“往生境”因方尘使用时引发的天地意志反噬超出极限而破碎",
+        "方尘虽受禁制无法明言，但已洞悉大劫真相，下令各族迁往南荒琉璃剑宗依托青草大阵备战",
+        "各族代表因天人族曾背叛联盟而强烈反对接纳，最终决定权交予方尘"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "天空裂缝背后并非仙界，而是会吞噬蛮荒世界能量的恐怖存在，大劫将至",
+        "方尘计划集中各族力量，依托南荒青草大阵对抗裂缝吞噬"
+      ],
+      "evidence_chapters": [
+        1968
+      ],
+      "continuity_in": [
+        1967
+      ],
+      "continuity_out": [
+        1969
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1969,
+      "title": "应对之策",
+      "source": {
+        "start_line": 323653,
+        "end_line": 323824
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《应对之策》展开，推动后续主线进展。",
+      "summary": "灵心宫主向方尘询问如何处置天人族，方尘因痛恨其当年临阵脱逃的恶劣行径，断然拒绝接纳。随后，方尘安排各族领袖将族人转移至琉璃剑宗，以应对即将到来的大劫。回到宗门后，方尘召集云千雪、黑炎准帝等核心成员，透露自己通过精灵族准仙器“往生镜”窥见未来大劫降临的恐怖画面，因此才做出转移万族的决定。黑炎准帝等人虽担忧宗门容纳能力与灵气争夺问题，但在方尘“生存优先、单凭本宗难以渡劫”的劝说下，最终同意统筹规划，安排各族入驻。众人感慨今非昔比，昔日岌岌可危的琉璃剑宗已成天下第一宗门。方尘则抽身前往青草大阵，着手处理另一隐患——天竺城佛修因需镇守镇魔渊而无法撤离的难题。",
+      "key_events": [
+        "方尘因天人族当年临阵脱逃，拒绝接纳其进入南荒。",
+        "方尘以“往生镜”窥见未来大劫为由，说服各族转移至琉璃剑宗共抗大劫。",
+        "方尘着手处理镇魔渊隐患，天竺城佛修因镇守无法撤离。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘通过“往生镜”预见了未来大劫，决定汇聚万族之力于琉璃剑宗共同抵御。",
+        "核心线索：天竺城佛修因需镇守镇魔渊而无法随大部队撤离，成为方尘下一步需解决的隐患。"
+      ],
+      "evidence_chapters": [
+        1969
+      ],
+      "continuity_in": [
+        1968
+      ],
+      "continuity_out": [
+        1970
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1970,
+      "title": "再临佛土",
+      "source": {
+        "start_line": 323825,
+        "end_line": 323999
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《再临佛土》展开，推动后续主线进展。",
+      "summary": "方尘因预知大劫将至，且西荒佛土的镇魔渊极可能是魔界入口，急需守护，故返回琉璃剑宗询问小草能否控制青草大阵的生长方向。小草表示大阵已近西荒，且自身成型后能量充沛，可集中力量朝佛土生长，预计十年内便能抵达天筑城。方尘随即前往佛土天竺城，三葬佛帝率众恭迎。方尘向佛土准帝级强者透露，他已通过精灵族往生镜窥见未来，大劫将至，其他种族已转移，但佛土必须留下死守镇魔渊，三葬佛帝等人坚定承诺誓死坚守。方尘决定留下带领众人修炼，他盘坐虚空念诵万佛战经，不仅引动海量信仰之力，更在身后凝聚出一尊高达十丈的金色法身，此异象令八哥惊叹，其诵经之声更是传遍佛土，引发众生灵魂共鸣，佛土上下由此进入备战状态。",
+      "key_events": [
+        "方尘命小草控制青草大阵定向朝佛土生长，以守护魔界入口镇魔渊",
+        "方尘抵达佛土，向三葬佛帝等准帝宣告大劫将至，佛土必须留下死守镇魔渊",
+        "方尘念诵万佛战经，身后凝聚出十丈金色法身，引发佛土众生灵魂共鸣"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：镇魔渊极可能是魔界入口，大劫将至，佛土必须死守此地",
+        "核心线索：方尘念诵万佛战经时凝聚出十丈金色法身，此功法威力远超以往"
+      ],
+      "evidence_chapters": [
+        1970
+      ],
+      "continuity_in": [
+        1969
+      ],
+      "continuity_out": [
+        1971
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1971,
+      "title": "金泉海，瞬间移动",
+      "source": {
+        "start_line": 324000,
+        "end_line": 324156
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《金泉海，瞬间移动》展开，推动后续主线进展。",
+      "summary": "方尘带领众人念诵万佛战经，体内飞出大量金色光点。随后，天竺城地底涌出蕴含浓郁灵力的金色泉水，不仅无害，反而让修士们振奋不已。泉水蔓延成海，金莲盛开，每朵莲花中盘坐方尘的金色人影继续念经。方尘灵识与泉水融合，意外发现自己能在泉水覆盖的区域内瞬间移动。他尝试后确认，在泉水覆盖区及万里高空内皆可瞬移。八哥惊叹之余建议取名，方尘将其命名为“金泉海”。方尘意识到这是一种特殊的真实领域，即便他停止念经，其他佛修继续念诵也能维持并扩大金泉海。与此同时，人族各大势力开始将普通人转移至南荒的青阳界。",
+      "key_events": [
+        "方尘念诵万佛战经引发地底金泉涌出，形成蕴含灵力的金泉海，金莲中显现方尘人影。",
+        "方尘灵识与金泉海融合，领悟并验证了在金泉海覆盖范围内（含万里高空）的瞬间移动能力。",
+        "方尘将此地命名为金泉海，并发现其作为特殊领域可由其他佛修维持扩大；人族开始转移普通人至青阳界。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘获得新能力“金泉海”，可在泉水覆盖区域（含万里高空）瞬间移动，且该领域可由其他佛修念经维持扩大。",
+        "人族势力开始将普通人转移至南荒青阳界。"
+      ],
+      "evidence_chapters": [
+        1971
+      ],
+      "continuity_in": [
+        1970
+      ],
+      "continuity_out": [
+        1972
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1972,
+      "title": "不要脸的天人皇",
+      "source": {
+        "start_line": 324157,
+        "end_line": 324340
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《不要脸的天人皇》展开，推动后续主线进展。",
+      "summary": "青阳界地广人稀，灵药丰茂却未采摘。大劫将至，各族纷纷转移至蛮荒大陆共抗大劫，唯独天人族被孤立。天人皇后悔当年魔族大陆的退缩之举，决定拉下脸面求援。他通过禁地雕像联系冥皇，希望冥皇能帮自己在方尘面前求情，让大家接纳天人族。然而冥皇对天人皇当年的背叛行径深恶痛绝，不仅严词拒绝，还痛骂其无耻，直接切断了传讯。天人皇虽感屈辱，却仍不愿亲自向方尘低头。冥皇随后立刻联系方尘，表明自己绝不接纳叛徒的立场，方尘也坚决表态不会原谅背叛者，天人族被拒之门外的命运已定。与此同时，时间跳转三年后，方尘的万佛战经取得惊人突破，金色海洋已覆盖超三分之一佛土，万丈佛像齐诵经文，磅礴的能量波动震撼了整个人族势力。",
+      "key_events": [
+        "天人皇因天人族被孤立，拉下脸面联系冥皇求情，却遭冥皇痛骂并拒绝",
+        "冥皇主动联系方尘表忠心，方尘亦坚决表态绝不接纳背叛的天人族",
+        "三年后，方尘万佛战经大成，金色海洋覆盖三分之一佛土，引发各族震撼"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天人皇因当年魔族大陆临阵退缩导致天人族被各族孤立，试图求和但被方尘与冥皇坚决拒绝",
+        "核心线索：方尘的万佛战经取得重大突破，金色海洋覆盖面积已超三分之一佛土，其实力再度暴涨"
+      ],
+      "evidence_chapters": [
+        1972
+      ],
+      "continuity_in": [
+        1971
+      ],
+      "continuity_out": [
+        1973
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1973,
+      "title": "金泉海与青草大阵融合",
+      "source": {
+        "start_line": 324341,
+        "end_line": 324524
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《金泉海与青草大阵融合》展开，推动后续主线进展。",
+      "summary": "本章开篇，众人因佛土异象而担忧，但得知方尘正在佛土坐镇便放下心来。随后，方尘在佛土吟诵万佛战经后形成的金色海洋——金泉海不断扩散，五年后，小草操控的青草大阵如青色草原般从南荒蔓延而来，与金泉海相遇。小草在泉水中感应到方尘的气息，方尘现身，发现两人提前两年相遇，原来此处已是金泉海边缘。方尘向小草解释金泉海乃特殊异象，在泉海中可瞬间移动，且泉水蕴含精纯能量，但只有佛修才能吸收提升实力。小草吸收金泉水后生长速度暴增百倍，甚至能在海底生长。方尘决定让青草大阵继续在金泉海中扩展，使复活能力与战斗力提升叠加。十天后，青草大阵抵达天竺城，小草发现城下的镇魔渊禁制，主动将根须渗透进封印阵纹，大幅加固了封印。随后小草出现在八哥面前，兴奋地分享青草大阵已覆盖天竺城，并盛赞金泉海的灵力充沛。两大阵法融合，为后续对抗奠定了更强根基。",
+      "key_events": [
+        "金泉海与青草大阵相遇融合，小草吸收金泉水后生长速度暴增，可在海底疯狂扩展",
+        "小草主动将根须渗透进天竺城下的镇魔渊封印阵纹，大幅加固了封印",
+        "小草与八哥重逢，告知青草大阵已覆盖天竺城，并盛赞金泉海灵力"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "金泉海是方尘在佛土吟诵万佛战经后产生的异象，只有佛修才能吸收金泉水提升实力，且方尘在泉海中可瞬间移动",
+        "青草大阵与金泉海融合后，小草生长速度提升百倍，并能加固镇魔渊封印，两大阵法能力叠加"
+      ],
+      "evidence_chapters": [
+        1973
+      ],
+      "continuity_in": [
+        1972
+      ],
+      "continuity_out": [
+        1974
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1974,
+      "title": "大家一起修佛法",
+      "source": {
+        "start_line": 324525,
+        "end_line": 324690
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《大家一起修佛法》展开，推动后续主线进展。",
+      "summary": "小草能吸收金泉水加速成长，方尘遂命其扩展青草大阵。意识到佛土佛修稀少会限制金泉海的威力，方尘召集各族首领齐聚天竺城。面对被金泉水淹没的天竺城，方尘解释此水由万佛战经所生，蕴含特殊灵力，唯佛修可吸收。他提议各族派人来佛土修佛法，以增强金泉海抵御风险的能力。各族首领虽顾虑族人成为方尘信徒会削弱自身，但出于信任与同舟共济之心，纷纷应允。方尘进一步透露佛法可兼修，并邀请各族首领同修万佛战经。神族女皇甚至欲全族迁来，方尘建议先派部分族人尝试。最终，各族决定先派遣一批族人跟随方尘研修佛法，视效果再定全族去留，共同为金泉海添砖加瓦。",
+      "key_events": [
+        "方尘命小草吸收金泉海能量扩展青草大阵，并召集各族首领共商增加佛修数量大计。",
+        "各族首领齐聚天竺城，方尘解释金泉水奥秘，提议各族派人修佛法以增强金泉海威力。",
+        "各族首领同意派遣族人修佛，甚至计划全族迁来，方尘透露佛法可兼修并邀请同修万佛战经。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "金泉水由万佛战经所生，蕴含特殊灵力，仅佛修可吸收，佛修越多金泉海威力越大。",
+        "佛法可兼修，无需废掉原有修为，各族首领亦可同修万佛战经。"
+      ],
+      "evidence_chapters": [
+        1974
+      ],
+      "continuity_in": [
+        1973
+      ],
+      "continuity_out": [
+        1975
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1975,
+      "title": "那万佛战经太神奇了",
+      "source": {
+        "start_line": 324691,
+        "end_line": 324862
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《那万佛战经太神奇了》展开，推动后续主线进展。",
+      "summary": "方尘送别众人后，灵心宫主提议派人向他学习佛法，方尘建议先尝试。随后，白灵准帝带领天元学宫众圣人抵达天竺城，众人起初对修道者兼修佛法颇有微词。方尘带领众人诵念万佛战经，众人从最初的拗口逐渐找到节奏，纷纷修炼出佛光，灵魂感知与灵气吸收大幅提升。白灵准帝（本体为白兔）也修出精纯佛光，发现修炼效率提升百倍。众人从抵触转为盛赞佛法神奇，因其不仅不冲突原有功法，反而有极大增益。白灵准帝将喜讯传回天元学宫，灵心宫主震惊之余下令学宫全员前往佛土，并通传人族各大势力，各方纷纷响应，派人前往佛土修习万佛战经。",
+      "key_events": [
+        "白灵准帝率天元学宫圣人赴佛土，起初对修道者修佛法心存抵触",
+        "方尘带领众人诵念万佛战经，众人修出佛光，白灵准帝发现修炼效率提升百倍，彻底折服",
+        "灵心宫主得知效果后下令学宫全员及人族各大势力前往佛土修习佛法"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "万佛战经对修道者同样有效，不仅不冲突原有功法，还能使修炼效率提升百倍以上",
+        "天元学宫及人族各大势力决定大规模前往佛土，跟随方尘修习佛法"
+      ],
+      "evidence_chapters": [
+        1975
+      ],
+      "continuity_in": [
+        1974
+      ],
+      "continuity_out": [
+        1976
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1976,
+      "title": "天人皇求见",
+      "source": {
+        "start_line": 324863,
+        "end_line": 325037
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《天人皇求见》展开，推动后续主线进展。",
+      "summary": "方尘在佛土带领各族修士诵念《万佛战经》，众人不仅修炼出佛光，灵魂感知力大增，更惊喜发现佛法与道法可同修。各族强者蜂拥而至，方尘亦召来琉璃剑宗弟子共享机缘。随着信仰之力暴涨，金泉海迅速扩展，方尘身后的金色法相越发凝实。更令人震惊的是，青草大阵已扩展至佛土，不仅能吸收金泉海能量，修士亦可在此渡劫。三十年间，各族修士几乎尽数迁往南荒与佛土，其他大陆日渐荒芜。天人皇察觉此异象，惶恐不安，认定大劫将至且荒盟已有所行动。为求自保，天人皇不顾一国之君的颜面，亲自驾驭极道帝兵方舟前往蛮荒大陆西岸，求见天元学宫宫主灵心，恳求荒盟能带天人族一把避劫。",
+      "key_events": [
+        "方尘率各族诵经，佛法道法同修，青草大阵扩展至佛土并助修士渡劫",
+        "各族强者尽迁蛮荒，天人皇察觉异象心生惶恐",
+        "天人皇放下颜面，亲赴蛮荒求见灵心宫主以求自保"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "佛法与道法可同时修炼，青草大阵已覆盖佛土并助修士渡劫",
+        "天人皇亲赴蛮荒求见灵心，表明天人族欲投靠荒盟避劫"
+      ],
+      "evidence_chapters": [
+        1976
+      ],
+      "continuity_in": [
+        1975
+      ],
+      "continuity_out": [
+        1977
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1977,
+      "title": "大劫降临",
+      "source": {
+        "start_line": 325038,
+        "end_line": 325224
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《大劫降临》展开，推动后续主线进展。",
+      "summary": "昔日战场背叛的天人皇厚颜求见灵心宫主，企图求情被荒盟接纳。灵心宫主与方尘商议后，对其深恶痛绝，直接下令让其“有多远滚多远”。天人皇虽怒火中烧，但忌惮荒盟威势，只得忍气吞声退去。十年后，蛮荒世界突生异象，天空闪现耀眼白光，恐怖威压席卷天地，一条巨大空间裂缝横贯天际，喷涌出海量灵气。方尘识破这是空间裂缝背后势力的“钓鱼”阴谋，立刻命令众人祭出灵宝吸收灵气。天人族见状，也纷纷跟风祭出灵宝吞噬灵气。",
+      "key_events": [
+        "天人皇求情被拒，遭灵心宫主怒斥驱逐",
+        "大劫降临，蛮荒天空出现空间裂缝喷涌灵气",
+        "方尘识破阴谋，率众祭宝吸收灵气，天人族跟风"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "天人皇因昔日背叛被荒盟彻底排斥，求情无果",
+        "空间裂缝喷涌灵气是背后势力的“钓鱼”阴谋，方尘已识破并率众应对"
+      ],
+      "evidence_chapters": [
+        1977
+      ],
+      "continuity_in": [
+        1976
+      ],
+      "continuity_out": [
+        1978
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1978,
+      "title": "仙界重现?",
+      "source": {
+        "start_line": 325225,
+        "end_line": 325414
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《仙界重现?》展开，推动后续主线进展。",
+      "summary": "天空突现巨大空间裂缝，背后显现连片仙宫、仙兽与阵阵仙乐，众修惊呼传说中的仙界降临。紧接着，天人族生命禁区能量暴动，沉睡无尽岁月的古皇纷纷破棺而出，疯狂吞噬灵气，狂喜高呼“成仙路终于降临”。眼见空间裂缝开始收缩，古皇与无数天人族强者争先恐后冲入其中。然而，天人皇却敏锐察觉到异常：人族、神族、冥族等为“共抗大劫”而迁徙至蛮荒的各族强者，竟无一人冲入裂缝，反而只是疯狂吞噬涌出的灵气。断定此事必有猫腻，天人皇当即下令坚称裂缝背后并非仙界，严令族人稳住阵脚，切勿贸然闯入。",
+      "key_events": [
+        "空间裂缝现仙界异象，天人族古皇苏醒狂呼成仙路降临",
+        "各族强者对成仙路反应迥异，唯天人族与妖族狂热涌入",
+        "天人皇察觉异样，下令族人稳住切勿闯入"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "空间裂缝显现仙界景象，古皇称其为“成仙路”并争先恐后冲入",
+        "人族、神族等此前为“共抗大劫”迁徙的各族强者均未冲入裂缝，仅吞噬灵气，天人皇因此生疑下令族人按兵不动"
+      ],
+      "evidence_chapters": [
+        1978
+      ],
+      "continuity_in": [
+        1977
+      ],
+      "continuity_out": [
+        1979
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1979,
+      "title": "大日佛帝出现",
+      "source": {
+        "start_line": 325415,
+        "end_line": 325595
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《大日佛帝出现》展开，推动后续主线进展。",
+      "summary": "面对天空显现的空间裂缝，天人族下层因长期受压榨与成仙的诱惑，彻底疯狂，无视天人皇的禁令冲向仙路。天人皇无力阻拦，无奈感叹此乃真正大劫的开端，只得收拢愿意留下之人备战。与此同时，佛土各族在方尘引领下安心念经未受诱惑，忘仙岛妖族则被乾坤咒所困，蝶后方知望先龟的深意。三日后，空间裂缝即将闭合，圣土中沉睡的魔蛙、金鳄两位远古妖帝苏醒并冲向裂缝。紧接着，天佛塔自蛮荒之海腾空，大日佛帝等人终于现身。方尘立刻以通天魔链缠住天佛塔，并催动吞天塔猛砸。大日佛帝见行踪暴露且仙路将断，被迫带领塔内佛修冲出，决意拼死一搏，否则必将死于方尘之手。",
+      "key_events": [
+        "天人皇无力阻止疯狂的民众冲击空间裂缝，无奈收拢残部备战，感叹大劫将至。",
+        "方尘拦截并攻击大日佛帝的天佛塔，迫使对方现身。",
+        "大日佛帝因仙路将断且不敌方尘，被迫带领佛修冲出天佛塔拼死一搏。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "大日佛帝、降龙佛帝、伏虎佛帝藏身于天佛塔中，被方尘发现并攻击。",
+        "忘仙岛妖族受乾坤咒限制无法离开，而佛土各族因跟随方尘念经未受成仙诱惑影响。"
+      ],
+      "evidence_chapters": [
+        1979
+      ],
+      "continuity_in": [
+        1978
+      ],
+      "continuity_out": [
+        1980
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1980,
+      "title": "空间裂缝中的触手",
+      "source": {
+        "start_line": 325596,
+        "end_line": 325764
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《空间裂缝中的触手》展开，推动后续主线进展。",
+      "summary": "大日佛帝等佛修受空间裂缝吸引，不顾一切冲出天佛塔冲入裂缝，方尘因忌惮吞天塔被吸入而未能阻止。十日后，裂缝异变，先前冲入的魔蛙与金色鳄鱼等古皇竟浑身浴血地冲出，怒吼“这不是仙界，是千古骗局”，但随即便被裂缝中伸出的恐怖红色触手强行拖回，后续冲入者亦无一幸免。真相大白，裂缝背后并非仙界，而是收割强者的恐怖陷阱。天人皇痛心族人损失惨重，欲前往蛮荒大陆求存却遭部下反对，只得退入禁地迎敌；而佛土各族则庆幸听从方尘安排躲过一劫。面对未至的大劫，众人继续在方尘带领下念经备战，金泉海与青草大阵已覆盖佛土及南荒，连成一片。",
+      "key_events": [
+        "大日佛帝等佛修受空间裂缝吸引冲入，方尘因忌惮吞天塔被吸入未能阻止。",
+        "魔蛙、金色鳄鱼等古皇从裂缝冲出怒吼“非仙界”，随即被恐怖红色触手拖回，真相揭露为收割陷阱。",
+        "天人皇欲求援蛮荒大陆遭拒退入禁地，佛土各族庆幸躲劫，继续在方尘带领下以金泉海与青草大阵备战。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "空间裂缝背后并非仙界，而是存在红色触手、收割强者的恐怖陷阱，连古皇都无法逃脱。",
+        "方尘的吞天塔因忌惮裂缝吸力未出动，其布置的金泉海与青草大阵已覆盖佛土及南荒，成为抵御大劫的关键。"
+      ],
+      "evidence_chapters": [
+        1980
+      ],
+      "continuity_in": [
+        1979
+      ],
+      "continuity_out": [
+        1981
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1981,
+      "title": "血色漩涡",
+      "source": {
+        "start_line": 325765,
+        "end_line": 325942
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《血色漩涡》展开，推动后续主线进展。",
+      "summary": "随着小草操控青草大阵向中荒蔓延，方尘召回了众人吸收完灵气的法宝，众人庆幸未落入假仙界的陷阱。然而，空间裂缝骤然扩张，释放出无数血色旋涡，疯狂吞噬蛮荒各域的生命。旋涡汇聚佛土，方尘指挥众人以极道帝兵远程击碎旋涡，爆出的红色光点被青草大阵吸收，反哺自身。与此同时，忘仙岛与天人族大陆却陷入苦战，旋涡发出的古怪声音直击灵魂，令天人族死伤惨重，且他们无法吸收旋涡能量。相比之下，佛土因佛音抵消怪声而稳住阵脚。战局胶着之际，八哥提议方尘动用吞天塔直接收取旋涡，方尘当即操控吞天塔飞向金泉海上空，试图以此破解危局。",
+      "key_events": [
+        "血色漩涡肆虐：空间裂缝释放无数血色旋涡吞噬蛮荒生命，佛土、忘仙岛、天人族大陆均遭袭击。",
+        "佛土反击与吞噬：方尘指挥以极道帝兵击碎旋涡，青草大阵吸收旋涡能量，佛音抵消灵魂攻击，佛土稳住阵脚。",
+        "吞天塔出手：八哥提议用吞天塔收取旋涡，方尘操控吞天塔飞向金泉海尝试。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：血色旋涡破碎后的红色光点蕴含精纯能量，青草大阵可吸收，但其他势力无法吸收。",
+        "核心线索：血色旋涡发出的古怪声音能攻击灵魂，佛音可抵消此攻击；方尘正尝试用吞天塔收取旋涡。"
+      ],
+      "evidence_chapters": [
+        1981
+      ],
+      "continuity_in": [
+        1980
+      ],
+      "continuity_out": [
+        1982
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1982,
+      "title": "悲催的天人族",
+      "source": {
+        "start_line": 325943,
+        "end_line": 326105
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《悲催的天人族》展开，推动后续主线进展。",
+      "summary": "方尘催动已暴涨至四万丈的吞天塔，在金泉海上空大肆吞噬侵袭佛土的血色旋涡，为各族强者赢得喘息之机。众人惊叹此塔威能，星辰宗弟子自豪道出吞天塔乃宗门守护的半成品至宝。然而，天人大陆却遭灭顶之灾，血色旋涡突破准帝们的防线，疯狂吞噬结界。天人皇拒绝独自逃生，率众撤入准仙器天人殿，但大量未及撤离的族人惨遭吞噬。面对旋涡的猛烈围攻，天人皇催动天人殿沉入蛮荒之海才勉强脱险，旋涡则掉头扑向忘仙岛。十天后，空间裂缝骤然扩大，爆发出毁天灭地的吞噬力，不仅吸走山川河海，连吞天塔都险些被拖拽而去，蛮荒世界灵气骤降，悬空岛被吞，末日浩劫降临。",
+      "key_events": [
+        "方尘催动吞天塔吞噬佛土血色旋涡，解佛土之围",
+        "天人大陆结界崩溃，天人皇率众撤入天人殿沉海逃生，大量天人族被吞噬",
+        "空间裂缝扩大爆发恐怖吞噬力，蛮荒世界陷入末日浩劫"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "吞天塔是星辰宗守护的半成品至宝，表面无道纹，并非极道帝兵或准仙器",
+        "天人皇率残部躲入天人殿沉入蛮荒之海，血色旋涡未再追击，转而攻向忘仙岛"
+      ],
+      "evidence_chapters": [
+        1982
+      ],
+      "continuity_in": [
+        1981
+      ],
+      "continuity_out": [
+        1983
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1983,
+      "title": "蛮荒之海干枯",
+      "source": {
+        "start_line": 326106,
+        "end_line": 326307
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《蛮荒之海干枯》展开，推动后续主线进展。",
+      "summary": "空间裂缝持续下降，恐怖的吞噬力席卷蛮荒。忘仙岛崩碎之际，望先龟留下的金色大阵启动，护住全岛妖修，蝶后等人虽庆幸获救，却无法与方尘联系。与此同时，四大龙族镇压的天魔残躯脱困飞出，方尘首次目睹真正的天魔残躯，而魔族的准仙器天魔幡也被吸入裂缝，令他深感惋惜。面对大劫，方尘传音各族领袖，决定一边诵经一边炼制噬魔圣器。另一边，天人皇率众躲入天人殿在深海躲避，却因无法吸收外界能量而消耗巨大。随着时间推移，蛮荒之海海水被不断抽干，无数生灵遭劫。三百年后，蛮荒之海彻底干涸，油尽灯枯的天人皇再也无力驾驭天人殿，连人带殿被空间裂缝吞噬。",
+      "key_events": [
+        "忘仙岛崩碎，望先龟遗留的金色大阵启动护住妖修，蝶后等人与方尘失联",
+        "四大龙族镇压的天魔残躯与魔族准仙器天魔幡被吸入空间裂缝，方尘决定炼制噬魔圣器",
+        "三百年后蛮荒之海彻底干涸，天人皇无力维持天人殿，连人带殿被空间裂缝吞噬"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：蛮荒之海在三百年后被空间裂缝彻底抽干，天人皇及天人殿被吞噬",
+        "核心线索：四大龙族镇压的天魔残躯并非完整体，方尘开始炼制噬魔圣器应对大劫"
+      ],
+      "evidence_chapters": [
+        1983
+      ],
+      "continuity_in": [
+        1982
+      ],
+      "continuity_out": [
+        1984
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1984,
+      "title": "空间裂缝消失",
+      "source": {
+        "start_line": 326308,
+        "end_line": 326479
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《空间裂缝消失》展开，推动后续主线进展。",
+      "summary": "天人殿化作金光飞入空间裂缝，冥皇目睹此景，不禁感叹天人皇因当初背叛而葬送整个天人族的悲剧。两百年后，空间裂缝缓缓上升收缩，最终彻底消失，佛土修士欢呼雀跃，却被方尘泼了冷水，告诫众人天地大劫尚未结束。为探明外界虚实，方尘唤醒沉睡三百年的小鹤，命其与八哥外出勘察。一月后，二者归来禀报：外界灵气几近枯竭，蛮荒之海与各大陆皆化为坚硬废土，圣土风暴亦消散，空间极不稳定。面对这近乎死域的惨状，方尘神色凝重，紧急召集各族代表进入吞天塔，如实告知外界情况，共商生存大计。",
+      "key_events": [
+        "天人殿飞入空间裂缝，冥皇感叹天人皇背叛致天人族覆灭",
+        "空间裂缝消失，方尘警告大劫未过，派小鹤与八哥外出勘察",
+        "小鹤与八哥归来报告外界灵气枯竭、化为废土，方尘召集各族代表商议对策"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：空间裂缝虽消失，但天地大劫并未结束，外界灵气枯竭，蛮荒之海与各大陆皆化为废土",
+        "核心线索：方尘派小鹤与八哥勘察外界，发现圣土风暴消散但空间极不稳定，各族代表被召集共商大计"
+      ],
+      "evidence_chapters": [
+        1984
+      ],
+      "continuity_in": [
+        1983
+      ],
+      "continuity_out": [
+        1985
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1985,
+      "title": "来自圣土的魔族",
+      "source": {
+        "start_line": 326480,
+        "end_line": 326624
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《来自圣土的魔族》展开，推动后续主线进展。",
+      "summary": "面对未知的未来，方尘决定以不变应万变，带领众人念诵万佛战经以获取金泉修炼。冥皇询问金泉来源，方尘推测是沟通了异界，但也坦言金泉缺乏帝之源力，修为提升受限，只能强化肉身与灵魂。方尘念经时背后显现十倍金身，远超他人。三十年后，圣土深处突现异动，方尘派小鹤与八哥查探，竟发现无数被魔气感染的伪魔族（包含各族生灵）如潮水般涌出。方尘紧急召集各族首领共商对策，众人见此皆惊。然而，方尘却毫无惧色，反而视这些伪魔族为机缘，认为其体内蕴含的庞大能量不仅可供自身吸收，也能被青草大阵所用，危机中暗藏转机。",
+      "key_events": [
+        "方尘带领众人念诵万佛战经获取金泉修炼，但金泉缺乏帝之源力，修为提升遇瓶颈",
+        "圣土深处突现异动，方尘派人查探，发现无数被魔气感染的伪魔族如潮涌出",
+        "面对伪魔族大军，方尘毫无惧意，视其为可被青草大阵吸收的能量来源"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "万佛战经产生的金泉缺乏帝之源力，众人修为提升受限，只能强化肉身灵魂",
+        "圣土深处涌现大量由各族生灵被魔气感染而成的伪魔族，方尘认为其能量可被青草大阵吸收利用"
+      ],
+      "evidence_chapters": [
+        1985
+      ],
+      "continuity_in": [
+        1984
+      ],
+      "continuity_out": [
+        1986
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1986,
+      "title": "诱敌深入",
+      "source": {
+        "start_line": 326625,
+        "end_line": 326778
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《诱敌深入》展开，推动后续主线进展。",
+      "summary": "面对圣土深处涌出的魔族与伪魔族，方尘视其为修炼养料，镇定自若地分发噬魔圣器，并部署众人防御。小鹤与八哥深入探查，发现魔物源自一处被撕破结界的巨大洞穴，疑似远古封印被破，方尘随即召回它们以免涉险。一月后，魔族跨越干涸的蛮荒之海进犯，方尘下令“诱敌深入”，将其放入青草大阵内围杀。大战爆发，荒盟战士虽死伤惨重，但凭借青草大阵与金泉海，战士尸体坠入海底后迅速被复活，满血再战；而魔族尸体则被大阵草根缠绕吞噬，化为大阵养料。方尘与准帝强者按兵不动，仅吟诵战经，让下层修士历练。青草大阵因吞噬魔族能量而愈发强盛，持续扩展覆盖范围，战局呈现一边倒的消耗态势。",
+      "key_events": [
+        "探查与发现：小鹤和八哥发现魔族源自圣土深处被撕破结界的洞穴，疑似封印被破",
+        "战术部署：方尘下令“诱敌深入”，将魔族放入青草大阵内围杀",
+        "战局逆转：青草大阵与金泉海配合，实现荒盟战士无限复活，同时吞噬魔族尸体化为养料，大阵持续扩展"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：魔族和伪魔族是从圣土深处被撕破结界的巨大洞穴中涌出的，疑似远古封印被破",
+        "核心线索：青草大阵不仅能复活己方战士，还能吞噬魔族尸体作为养料，且大阵因吞噬能量正在不断扩展覆盖范围"
+      ],
+      "evidence_chapters": [
+        1986
+      ],
+      "continuity_in": [
+        1985
+      ],
+      "continuity_out": [
+        1987
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1987,
+      "title": "圣人击的敌人出现",
+      "source": {
+        "start_line": 326779,
+        "end_line": 326917
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《圣人击的敌人出现》展开，推动后续主线进展。",
+      "summary": "方尘预判圣土深处必将涌现圣人级甚至准帝级魔族，当前虽未现，但魔族已从北面猛攻蛮荒大陆。荒盟战士凭借金泉海与青草大阵的加持，不仅挡住了攻势，更在战斗中疯狂提升实力。魔族久攻不下，转而包围蛮荒大陆并强攻忘仙岛，却均遭大阵吞噬，无奈撤回蛮荒大陆。方尘稳坐钓鱼台，视此战为练兵良机，圣人与准帝虽手痒却严守军令。一年后，青草大阵覆盖蛮荒大陆并持续扩张。四十年后，圣土深处爆发恐怖能量，方尘遣小鹤与八哥探查，发现真正的魔族与圣人级伪魔族已骑着魔化妖兽汹涌杀来。方尘下令备战，众圣人实力今非昔比，个个摩拳擦掌。二十日后，这支圣人级魔族大军终于兵临蛮荒大陆边缘，终极大战一触即发。",
+      "key_events": [
+        "魔族围攻蛮荒大陆与忘仙岛，均被青草大阵等强力防御吞噬，荒盟战士借战练兵实力飙升",
+        "四十年后圣土异变，方尘探查发现真正的魔族与圣人级伪魔族大军现世",
+        "方尘下令备战，实力大增的众圣人磨刀霍霍，圣人级魔族大军终抵蛮荒大陆边缘"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：青草大阵与金泉海是荒盟抵御魔族的核心防御与增幅手段，且大阵能吞噬魔族能量不断扩张",
+        "核心线索：四十年后，真正的魔族与圣人级伪魔族从圣土深处涌出，终极大战的序幕正式拉开"
+      ],
+      "evidence_chapters": [
+        1987
+      ],
+      "continuity_in": [
+        1986
+      ],
+      "continuity_out": [
+        1988
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1988,
+      "title": "准帝级敌人到来",
+      "source": {
+        "start_line": 326918,
+        "end_line": 327080
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《准帝级敌人到来》展开，推动后续主线进展。",
+      "summary": "方尘虽凭青草大阵在蛮荒大陆立于不败，但为探明通天光幕背后的圣土隐秘，他令小草吞噬魔族以读取记忆。交战中，荒盟战士借大阵死战，而小草也获取了惊人情报：洞穴后是名为“大弈魔界”的封印空间，内藏大帝级魔族，数百年前封印松动，逃出的各族受魔气侵蚀沦为伪魔族。方尘召集众人分享情报，决定静观其变。十年后，封印裂缝加剧，铺天盖地的准帝级魔族与伪魔族汹涌杀来。方尘非但不惧，反而热血沸腾，视这些蕴含帝之源力的强敌为突破大成准帝境界的契机，准帝级大战在青草大阵中轰然爆发。",
+      "key_events": [
+        "情报获取：小草读取魔族记忆，发现“大弈魔界”封印空间及大帝级魔族存在的真相",
+        "局势升级：十年后封印裂缝扩大，准帝级魔族与伪魔族大军压境",
+        "动机转变：方尘视准帝级强敌为获取帝之源力突破境界的契机，主动迎战"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "封印真相：洞穴背后是“大弈魔界”，内有大帝级强者，数百年前封印松动导致伪魔族外逃",
+        "突破契机：方尘需吸收准帝级魔族体内的帝之源力，以突破至大成准帝境界"
+      ],
+      "evidence_chapters": [
+        1988
+      ],
+      "continuity_in": [
+        1987
+      ],
+      "continuity_out": [
+        1989
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1989,
+      "title": "大帝降临",
+      "source": {
+        "start_line": 327081,
+        "end_line": 327255
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《大帝降临》展开，推动后续主线进展。",
+      "summary": "随着魔族准帝级强者大举进攻，方尘放出修炼三百年、实力大增的混沌噬心虫与混沌魔星藤准备迎战。战场上，方尘挥舞通天魔链大杀四方，将魔族准帝洞穿震碎，再由青草大阵的草叶拖入金泉海吞噬。得知小草能收集帝之源力后，方尘改变策略，直接在大阵上击杀魔族以获取帝之源力，随后进入大阵核心疯狂吸收，实力突飞猛进。一个月后，局势发生惊天逆转，一股恐怖的威压笼罩蛮荒大陆，威名赫赫的血狱魔帝降临。他如神明般俯视众生，仅凭威压便让修为低下者当场昏迷。面对这尊大帝强者，方尘手持浮仙剑腾空质问，却未得到对方任何回应，危机一触即发。",
+      "key_events": [
+        "方尘释放混沌双虫，凭借通天魔链在青草大阵中屠戮魔族准帝，并吸收帝之源力实力飙升",
+        "血狱魔帝降临蛮荒大陆，以恐怖威压震慑众生，方尘持剑质问却遭无视"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "混沌噬心虫与混沌魔星藤吞噬极道帝兵方式不同，但三百年后实力均已大增",
+        "血狱魔帝降临，其威压极其恐怖，唯有洞虚境以上修士能保持清醒"
+      ],
+      "evidence_chapters": [
+        1989
+      ],
+      "continuity_in": [
+        1988
+      ],
+      "continuity_out": [
+        1990
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1990,
+      "title": "大帝的实力",
+      "source": {
+        "start_line": 327256,
+        "end_line": 327424
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《大帝的实力》展开，推动后续主线进展。",
+      "summary": "封印空间中的唯一大帝强者血狱魔帝降临，方尘为试探其真正实力，面对攻击不闪不避。血狱魔帝施展魔族绝学“天魔手”，方尘以“开天辟地”一剑将其斩碎，浮仙剑吞噬残余能量反馈自身，令其倍感舒适。魔族准帝们认为方尘是借大阵加持，方尘则出言挑衅，要求对方动用天地本源。暗中，方尘施展生命之眼窥探，发现血狱魔帝仅剩五百年寿元，顿时萌生以黄昏之力加持浮仙剑斩其寿元的念头，只是尚不确定此招对大帝是否有效。血狱魔帝见精神威压无效反遭挑衅，彻底震怒，决定不再保留，眉心浮现红色印记，身后空间扭曲，头顶凝聚出道纹光圈，恐怖的天地本源威压铺天盖地而来，誓要让人族准帝见识大帝的真正实力。",
+      "key_events": [
+        "方尘硬接血狱魔帝“天魔手”并将其斩碎，浮仙剑吞噬能量反馈自身",
+        "方尘以生命之眼窥探出血狱魔帝仅剩五百年寿元，盘算用黄昏之力斩其寿元",
+        "血狱魔帝被激怒，释放大帝印记，准备动用天地本源之力"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "血狱魔帝仅剩500年寿元，方尘的黄昏之力或可对其造成致命威胁",
+        "大帝强者拥有天地本源之力，实力远超准帝与古皇，血狱魔帝即将动用此力量"
+      ],
+      "evidence_chapters": [
+        1990
+      ],
+      "continuity_in": [
+        1989
+      ],
+      "continuity_out": [
+        1991
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1991,
+      "title": "调动天地本源",
+      "source": {
+        "start_line": 327425,
+        "end_line": 327584
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《调动天地本源》展开，推动后续主线进展。",
+      "summary": "血狱魔帝为求胜果，不惜折寿动用大帝印记沟通天地，引动天地本源加持己身，实力瞬间暴涨百倍。方尘虽早有预料，但面对血狱魔帝以本源之力凝聚的天魔手，仍感压力倍增。他倾尽所能，施展琉璃金身、吞噬金泉海泉水，并融合混沌巨人异象，以浮仙剑硬撼天魔手。然而，绝对的力量差距让方尘的防御瞬间崩溃，骨碎脏裂、灵魂本源受损，重伤坠入金泉海。绝境之中，小草操控青草大阵输送生机，浮仙剑亦爆发前所未有的能量，不仅瞬息治愈方尘，更使其力量、灵魂与血气全面升华。血狱魔帝因惜命未再动用天地本源，欲以灵识探查方尘生死时，却惊觉金泉海的海水竟能完全阻隔其灵识，局势陷入短暂的僵持与未知。",
+      "key_events": [
+        "血狱魔帝调动天地本源，实力暴涨百倍，重创方尘",
+        "方尘重伤后，青草大阵与浮仙剑双重加持，不仅治愈伤势，更使其力量全面升华",
+        "血狱魔帝因惜命未再动用天地本源，且灵识被金泉海阻挡，无法探查方尘状况"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "调动天地本源虽能大幅提升大帝实力，但代价是加速寿元流失",
+        "方尘重伤后不仅恢复，力量、灵魂和血气还得到了全面增强"
+      ],
+      "evidence_chapters": [
+        1991
+      ],
+      "continuity_in": [
+        1990
+      ],
+      "continuity_out": [
+        1992
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1992,
+      "title": "大帝的法相天地",
+      "source": {
+        "start_line": 327585,
+        "end_line": 327732
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《大帝的法相天地》展开，推动后续主线进展。",
+      "summary": "方尘在金泉海海面炸裂后毫发无损地现身，气息甚至更胜从前，令荒盟振奋，魔族与血狱魔帝震惊不已。方尘出言挑衅，嘲讽大帝“不过如此”，瞬间激怒血狱魔帝。灵心宫主暗中提醒他提防极道帝兵，方尘表面狂傲内心却极度谨慎，回忆起自己从放牛娃、无灵根杂役到准帝的传奇经历，深知眼前大帝的可怕。交锋升级，血狱魔帝施展“狱锁狂龙”，引动天地本源，将方尘困入其法相天地之中。那血色光球如真实世界般带来极致压迫，方尘深陷其中。双方势力默契停战，仰望天空，局势陷入极度危急。",
+      "key_events": [
+        "方尘硬抗大帝一击后毫发无损现身，出言挑衅血狱魔帝",
+        "血狱魔帝施展“狱锁狂龙”与法相天地，将方尘困入血色光球之中"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘出身卑微但气运逆天，从放牛娃成长为准帝，深知大帝的可怕而内心谨慎",
+        "大帝的法相天地拥有真实世界的极致压迫，方尘目前被困其中局势危急"
+      ],
+      "evidence_chapters": [
+        1992
+      ],
+      "continuity_in": [
+        1991
+      ],
+      "continuity_out": [
+        1993
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1993,
+      "title": "黄昏之力vs大帝",
+      "source": {
+        "start_line": 327733,
+        "end_line": 327892
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《黄昏之力vs大帝》展开，推动后续主线进展。",
+      "summary": "血狱魔帝施展法相天地欲将方尘拍死，方尘抓住契机将黄昏之力灌入浮仙剑，一剑破开魔帝的护体大道灵光并砍中其手心。黄昏之力瞬间削去魔帝百年寿元，令其震惊暴怒，而浮仙剑也反馈给方尘海量能量，大幅强化其肉身与灵魂。魔帝祭出极道帝兵古钟，方尘不敢硬撼，立刻施展法相天地“诸神的黄昏”，这股特殊力量不仅加速了魔帝寿元的流失，更直接击溃了魔帝的法相天地，方尘趁机脱身降落到金泉海。虽然方尘以准帝之身重创大帝，但底牌尽出，魔帝后续必将严防其近身。暴怒的魔帝全力催动古钟，钟声响起，恐怖的声波瞬间震碎方尘的五脏六腑与灵魂本源，连金泉海都掀起滔天巨浪，方尘陷入生死绝境。",
+      "key_events": [
+        "方尘以浮仙剑灌注黄昏之力，破开血狱魔帝护体灵光，削去其百年寿元",
+        "方尘施展法相天地“诸神的黄昏”，击溃魔帝法相天地并趁机脱身至金泉海",
+        "血狱魔帝暴怒催动极道帝兵古钟，钟声震碎方尘五脏六腑与灵魂本源"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘的黄昏之力可削去大帝寿元，浮仙剑反馈的能量仅强化肉身血脉灵魂，不增加帝之源力",
+        "核心线索：方尘底牌已尽数暴露，血狱魔帝后续将严防其近身，且方尘目前遭受极道帝兵重创，陷入生死危机"
+      ],
+      "evidence_chapters": [
+        1993
+      ],
+      "continuity_in": [
+        1992
+      ],
+      "continuity_out": [
+        1994
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1994,
+      "title": "黑色石头的妙用",
+      "source": {
+        "start_line": 327893,
+        "end_line": 328049
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《黑色石头的妙用》展开，推动后续主线进展。",
+      "summary": "方尘遭血狱魔帝重创吐血下坠，魔帝催动极道帝兵古钟欲将其吞噬。危急时刻，浮仙剑助方尘恢复伤势，他召唤补天神女异象，将奇重的黑色石头砸向古钟。黑石卡住钟口，竟连带着古钟坠向金泉海。血狱魔帝极力控制却无力回天，古钟落水后与其彻底失联。观战修士议论纷纷，质疑魔帝实力，令其颜面尽失。方尘探查发现，古钟落水后被金泉水隔绝，且被小草的草根缠住吞噬能量，他立刻命小草转移古钟，断绝了魔帝召回的念想。随后，方尘收回黑石，与魔帝陷入对峙，并趁机运转功法吸收金泉海水提升实力，为后续交锋蓄力。",
+      "key_events": [
+        "方尘利用补天神女异象将奇重无比的黑色石头砸出，卡住血狱魔帝的极道帝兵古钟，使其坠落金泉海。",
+        "古钟落水后被金泉水隔绝联系，并被小草的草根缠绕吞噬能量，方尘命小草转移古钟，彻底切断魔帝与帝兵的联系。",
+        "血狱魔帝颜面尽失，方尘收回黑石并趁机吸收金泉海水提升实力，双方进入短暂对峙。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：血狱魔帝的极道帝兵古钟被方尘用黑色石头砸落金泉海，因海水隔绝和小草缠绕而失联，无法召回。",
+        "核心线索：黑色石头具有连大帝都无法承受的恐怖重量，且金泉海的海水能隔绝神识联系。"
+      ],
+      "evidence_chapters": [
+        1994
+      ],
+      "continuity_in": [
+        1993
+      ],
+      "continuity_out": [
+        1995
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1995,
+      "title": "一刀斩破金泉海",
+      "source": {
+        "start_line": 328050,
+        "end_line": 328194
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《一刀斩破金泉海》展开，推动后续主线进展。",
+      "summary": "方尘与血狱魔帝交手后，察觉对方仅剩三百余年寿元，决意拼死一搏，以“来都来了，那就死在这儿”的待客之道誓斩大帝。血狱魔帝怒斥方尘萤火争辉，大道纹路合一祭出魔刀，冤魂吞噬天地本源后施展“天魔刀”。万丈魔刀虚影如世界缩影压落，方尘以浮仙剑格挡，却被连人带剑劈入金泉海海底，筋骨尽碎、灵魂撕裂。魔刀更在海底劈出万丈裂缝，重创青草大阵，所幸阵纹迅速修复。方尘借浮仙剑涌入的庞大能量瞬间治愈，刚露头却遭血狱魔帝刀芒再次重创入海。方尘暂避锋芒，吸收能量恢复。血狱魔帝忌惮金泉海诡异，不敢贸然追击，转而派遣一名魔族准帝下海探查。",
+      "key_events": [
+        "方尘决意斩杀寿元将尽的血狱魔帝，血狱魔帝施展“天魔刀”重创方尘。",
+        "方尘被劈入金泉海海底，青草大阵受损但迅速修复，方尘借浮仙剑能量自愈。",
+        "血狱魔帝忌惮金泉海诡异，派魔族准帝下海探查。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "血狱魔帝仅剩三百余年寿元，方尘意图将其斩杀。",
+        "金泉海与青草大阵能反哺方尘庞大能量并极速自愈，血狱魔帝因忌惮其诡异不敢贸然进入。"
+      ],
+      "evidence_chapters": [
+        1995
+      ],
+      "continuity_in": [
+        1994
+      ],
+      "continuity_out": [
+        1996
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1996,
+      "title": "黑色轮盘",
+      "source": {
+        "start_line": 328195,
+        "end_line": 328363
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《黑色轮盘》展开，推动后续主线进展。",
+      "summary": "血狱魔帝为探查金泉海秘密并找回帝兵，派一名魔族准帝下海，却被方尘的小草拖入海底。准帝求救无门，绝望自爆。方尘与血狱魔帝再次交锋，虽被重创坠海，但仗着金泉海满血复活。血狱魔帝见常规手段无效且自身寿元消耗严重，祭出黑色轮盘撕裂空间，疯狂吞噬金泉海水。方尘为保金泉海冲出迎敌，却遭血狱魔帝暗算，一道黑光击中眉心，化作黑色藤蔓将其全身包裹并吞噬能量。小草救援失败，方尘虽得浮仙剑反哺，但藤蔓蔓延极快，身体僵硬，陷入绝境。",
+      "key_events": [
+        "探查失败：魔族准帝潜入金泉海被小草拖入海底，绝望自爆",
+        "魔帝反击：血狱魔帝祭出黑色轮盘撕裂空间，疯狂吞噬金泉海水",
+        "身陷绝境：方尘出水攻击遭暗算，被黑色藤蔓缠身吞噬能量，无法动弹"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "黑色轮盘能撕裂空间吸干金泉海，方尘若失去海水庇护实力将大减",
+        "血狱魔帝的黑光可化为黑色藤蔓，能束缚准帝并吞噬能量，极难挣脱"
+      ],
+      "evidence_chapters": [
+        1996
+      ],
+      "continuity_in": [
+        1995
+      ],
+      "continuity_out": [
+        1997
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1997,
+      "title": "又中一剑",
+      "source": {
+        "start_line": 328364,
+        "end_line": 328529
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《又中一剑》展开，推动后续主线进展。",
+      "summary": "血狱魔帝以魔族大帝培育的黑魔藤缠绕方尘筑基道台，欲吞噬其能量，自以为胜券在握。然而方尘道台上的先天道图爆发，反噬黑魔藤，并施展“诸神的黄昏”法相天地，吓得黑魔藤自断根须欲逃，反被方尘死死擒住。血狱魔帝又祭出魔罐试图收服方尘，方尘则以补天神女异象掷出黑色石头相抗。血狱魔帝甩出极道帝兵红绳缠夺黑石，方尘顺势祭出通天魔链将红绳与黑石锁死。黑石下坠之势狂猛，竟将血狱魔帝拽向金泉海。方尘抓住战机，施展九重浪剑法，将黄昏之力灌入浮仙剑，从背后重创血狱魔帝，一剑削去其一百五十年寿元。血狱魔帝为保命只得弃了红绳，任黑石与红绳坠入海中。方尘以生命之眼洞察，发现魔帝仅剩一百七十余年寿元，只需再中两剑便可将其彻底斩杀，战局已然逆转。",
+      "key_events": [
+        "方尘以筑基道台反噬黑魔藤，并施展法相天地将其制服",
+        "方尘利用通天魔链锁死红绳与黑色石头，借黑石下坠之势拽倒血狱魔帝",
+        "方尘施展九重浪剑法从背后重创血狱魔帝，一剑削去其一百五十年寿元"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "血狱魔帝因本命魔钟曾被黑色石头毁坏，故其不敢让魔罐硬接黑石",
+        "方尘通过生命之眼确认血狱魔帝仅剩一百七十余年寿元，再中两剑即可将其斩杀"
+      ],
+      "evidence_chapters": [
+        1997
+      ],
+      "continuity_in": [
+        1996
+      ],
+      "continuity_out": [
+        1998
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1998,
+      "title": "黑色罗盘太恐怖",
+      "source": {
+        "start_line": 328530,
+        "end_line": 328650
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《黑色罗盘太恐怖》展开，推动后续主线进展。",
+      "summary": "血狱魔帝不知方尘拥有生命之眼，能看穿其剩余寿元，配合黄昏之力精准削寿。因被方尘削去两百多年寿元并损失两件极道帝兵，魔帝暴怒却不敢再战，转而操控裂空盘撕开空间裂缝，意图抽干方尘依仗的金泉海。方尘察觉裂缝会自行愈合，必须阻止裂空盘，但此盘速度极快，众人皆无计可施。混沌噬心虫提议让混沌魔星藤（小星）以身躯拖拽罗盘坠入金泉海。方尘将黑魔藤囚于吞天塔后，命小鹤携小星出击。小星落在罗盘上，虽被锋利边缘切断藤蔓，但凭借庞大身躯和众多藤蔓，成功包裹住黑色罗盘，并拽着它朝金泉海坠落，战局迎来转机。",
+      "key_events": [
+        "血狱魔帝忌惮方尘削寿手段，操控裂空盘撕开空间裂缝意图抽干金泉海",
+        "方尘与众人商议对策，混沌噬心虫提议让混沌魔星藤（小星）拖拽裂空盘",
+        "小鹤携混沌魔星藤出击，小星以庞大藤蔓包裹黑色罗盘，成功将其拽向金泉海"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的生命之眼配合黄昏之力可看穿并加速消耗敌人寿元，血狱魔帝已损失两件极道帝兵且寿元大减",
+        "黑色罗盘（裂空盘）能撕开空间裂缝吸干金泉海，方尘必须阻止它，否则将失去金泉海加持"
+      ],
+      "evidence_chapters": [
+        1998
+      ],
+      "continuity_in": [
+        1997
+      ],
+      "continuity_out": [
+        1999
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1999,
+      "title": "简单粗暴",
+      "source": {
+        "start_line": 328651,
+        "end_line": 328798
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【大帝征途篇】围绕《简单粗暴》展开，推动后续主线进展。",
+      "summary": "血狱魔帝欲催动黑色轮盘粉碎混沌魔星藤，方尘却让补天神女收回黑色石头，施展九重浪剑法，将黑色石头与混沌魔星藤、黑色轮盘一同砸入金泉海。金色海水渗透切断了血狱魔帝与轮盘的联系，方尘成功收走第三件极道帝兵裂空盘及之前的红绳、魔钟。血狱魔帝损失惨重心态崩溃，只能强令魔族大军进攻。方尘坠海后继续积攒黄昏之力，并操控吞天塔收走海底宝物，随后指挥混沌魔星藤配合小草大阵，将魔族强者粗暴地拖入金泉海吞噬，魔族纷纷自爆，战局呈现一边倒的屠杀态势。",
+      "key_events": [
+        "夺兵：方尘利用黑色石头与混沌魔星藤配合，将血狱魔帝的裂空盘砸入金泉海切断联系，成功收走第三件极道帝兵。",
+        "强攻：血狱魔帝损失惨重心态崩溃，下令魔族大军强攻，方尘坠海积攒黄昏之力。",
+        "屠杀：方尘指挥混沌魔星藤配合小草大阵，将魔族强者拖入金泉海吞噬，魔族纷纷自爆，战局一边倒。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已累计夺取血狱魔帝三件极道帝兵（魔钟、红绳、裂空盘）及一株黑魔藤，血狱魔帝损失两百多年寿元。",
+        "核心线索：金泉海的海水能切断极道帝兵与主人的联系，混沌魔星藤与小草大阵配合可高效屠杀魔族。"
+      ],
+      "evidence_chapters": [
+        1999
+      ],
+      "continuity_in": [
+        1998
+      ],
+      "continuity_out": [
+        2000
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2000,
+      "title": "积聚帝之源力",
+      "source": {
+        "start_line": 328799,
+        "end_line": 328919
+      },
+      "arc_id": "arc-dadi",
+      "reading_priority": "intensive",
+      "priority_reason": "关键剧情节点与重大转折，对【大帝征途篇】主线起决定性推进作用。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "turning_point"
+      ],
+      "teaser": "【大帝征途篇】围绕《积聚帝之源力》展开，推动后续主线进展。",
+      "summary": "金泉海之上，混沌魔星藤以一己之力阻挡魔族大军，血狱魔帝怒斩万丈刀芒却未能伤其核心，藤蔓在青草大阵加持下瞬间复原。蛮荒战士凭借金泉海与青草大阵的庇护，拥有近乎不死的肉身，纷纷采用与敌同坠海中的不要命打法，将魔族能量化为大阵养料，致使阵内帝之源力疯狂积聚。小草传音劝方尘吸收帝之源力突破境界，但方尘因忌惮血狱魔帝而拒绝，转而隐匿于法相天地中练剑，并故意冒头硬接魔帝刀芒以汲取浮仙剑能量。战局至此发生微妙转折：血狱魔帝误判形势，以为魔族魔毒能持续感染敌军，遂改变策略，企图以无穷无尽的魔族大军消耗蛮荒战士，再抽干金泉海将对方困死。殊不知，蛮荒一方早已将魔族视为大阵养料，且金泉海屏蔽了魔帝灵识，使其无法窥探海底真相，蛮荒大陆在主场优势下越战越强。",
+      "key_events": [
+        "混沌魔星藤与血狱魔帝的交锋：魔帝刀芒斩断藤蔓却无法伤及核心，藤蔓在青草大阵下迅速恢复。",
+        "蛮荒战士的不要命打法：凭借金泉海与青草大阵的不死之身，抱敌入海，将魔族能量转化为大阵养料，积聚帝之源力。",
+        "方尘与血狱魔帝的博弈：方尘拒绝小草吸收帝之源力的建议，隐匿练剑并故意冒头硬扛刀芒以吸收浮仙剑能量。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "蛮荒战士在青草大阵与金泉海加持下拥有不死之身，且不再受魔毒感染魔化，反而能将魔族能量转化为帝之源力。",
+        "血狱魔帝改变战术，企图以人海战术消耗蛮荒战士并抽干金泉海，但其灵识无法穿透金泉海，不知己方已沦为对方养料。"
+      ],
+      "evidence_chapters": [
+        2000
+      ],
+      "continuity_in": [
+        1999
+      ],
+      "continuity_out": [
+        2001
+      ],
+      "analysis_status": "final"
+    }
+  ]
+}

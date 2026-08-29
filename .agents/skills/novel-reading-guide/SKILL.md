@@ -61,7 +61,11 @@ TXT 默认输出行号导航，因为它可以直接在常见文本编辑器中�
 
 `quick_read` 不等于“可安全丢弃”：必须写出读者至少要保留的事实或段落。所有章节的 `summary` 默认写为 200–500 个中文字符的完整剧情摘要；至少交代起因、关键人物及行动、冲突或信息变化、当章结果和后续承接。摘要必须是基于实际原文的连贯转述，不得用章节标题套话、只拼接首尾句、罗列未解释的引语，或把“发生重要变化”当作摘要。`quick_read` 另须在 `retain_if_quick_read` 中列出不能漏掉的事实。`intensive` 用于高回报的文字、关键情绪场景、因果复杂的转折，或完整质感很重要的动作戏；`must_read` 用于必要但可以读快一些的因果连接。
 
-批次分析结果按数据契约写入 `data/batches/batch-*.json`，由 `scripts/merge_batches.py` 在核查后合并为 `data/chapters.json`。合并器只验证和汇总，绝不创造内容。协调者随后写入 `arcs.json`、`characters.json`、`relationships.json` 与 `guide-project.json.story`。没有完成真实批次阅读时，项目状态应为 `not_started`，且不得生成可供读者浏览的章节分析数据或网站。
+批次分析结果按数据契约写入 `data/batches/batch-*.json`。可使用内置的通用 AI 批处理工具 `scripts/summarize_chapters.py`（支持 OpenAI 兼容 API、多线程并发与断点续传）：
+```powershell
+python .agents/skills/novel-reading-guide/scripts/summarize_chapters.py --project guide-project.json --start 1 --end 100 --workers 5
+```
+处理完成后，由 `scripts/merge_batches.py` 在核查后合并为 `data/chapters.json`。合并器只验证和汇总，绝不创造内容。协调者随后写入 `arcs.json`、`characters.json`、`relationships.json` 与 `guide-project.json.story`。没有完成真实批次阅读时，项目状态应为 `not_started`，且不得生成可供读者浏览的章节分析数据或网站。
 
 ### 4. 整合与质量检查
 

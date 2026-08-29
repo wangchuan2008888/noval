@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+scratch/
+test_optimized_speed.py
+check_failed_chapter.py

@@ -1,0 +1,5400 @@
+{
+  "batch_index": 8,
+  "owned_range": [
+    701,
+    800
+  ],
+  "chapter_count": 100,
+  "chapters": [
+    {
+      "id": 701,
+      "title": "大战休止",
+      "source": {
+        "start_line": 106790,
+        "end_line": 106934
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第701章导读】大战休止：yao-lao, medusa, xiao-yi-xian, na-lan-yan-ran, hai-bo-dong, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大战休止》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百四十三章 大战休止天空上突然休止的大战，也是令得下方无数人一头雾水，各自何不断的窃窃私语，传递着种种猜测武动乾坤。要塞之上，海波东此刻已是闪回，他对于众人投来的目光也只得摊了摊手，示意他也并不知道天空上究竟发生了何事武动乾坤。“那心狠手辣的女人竞然停下了交手，真是出人意料啊，难道是因为忌惮萧炎的缘故？不过如今的萧炎在施展了一次那火莲之后，似乎也是颇为虚……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大战休止核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "na-lan-yan-ran",
+        "hai-bo-dong",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大战休止》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        700,
+        701,
+        702
+      ],
+      "continuity_in": [
+        700
+      ],
+      "continuity_out": [
+        702
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 702,
+      "title": "夜见",
+      "source": {
+        "start_line": 106935,
+        "end_line": 107046
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第702章导读】夜见：medusa, xiao-yi-xian, hai-bo-dong, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《夜见》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百四十四章 夜见当要塞之上的海波东等人望着那突然间开始如潮水般退去的三大帝国联军时，也是怔与好片刻，面面相觑着，谁都不清楚发生了什么事武动乾坤。在他们愕然间，要塞之上却是爆发出了惊天的欢呼声，无数原本以为今日便将国破家亡的人，皆是忍不住心中的激动之情，那劫后余生的欢呼声，直冲云霄武动乾坤。“看来三国联军终于是退了…”海波东长长的松了一口气，也是有些如释重……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "夜见核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "hai-bo-dong",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        701,
+        702,
+        703
+      ],
+      "continuity_in": [
+        701
+      ],
+      "continuity_out": [
+        703
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 703,
+      "title": "毒丹之法",
+      "source": {
+        "start_line": 107047,
+        "end_line": 107173
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第703章导读】毒丹之法：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《毒丹之法》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百四十五章 毒丹之法望着出现在半空中的小医仙，萧炎也是笑着站起身来，道：“你总算是来了。”小医仙身形一动，身形轻飘飘的落在山峰上，在月光照射下显得略显妖异的灰紫双眸先是瞥了萧炎身后的美杜莎一眼，声音平淡的道：“三军撤退，麻烦事不小，撤军之后争吵太大，所以耽搁了时间武动乾坤。“怎么？”闻言，萧炎眉头却是一皱，道：“三宗不愿意退？”“出云帝国在毒宗的掌控之中……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "毒丹之法核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《毒丹之法》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        702,
+        703,
+        704
+      ],
+      "continuity_in": [
+        702
+      ],
+      "continuity_out": [
+        704
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 704,
+      "title": "蛇人族强者",
+      "source": {
+        "start_line": 107174,
+        "end_line": 107315
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第704章导读】蛇人族强者：yao-lao, medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《蛇人族强者》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百四十六章 蛇人族强者美杜莎微微皱眉，道：“她信得过么？若是那天动手之时，我们闯进去，结果被他们反包围，那结局.如今的加玛帝国与蛇人就靠你我二人，我们出了一点差错，炎盟结局，你应该能够预料到。手机端阅读请登陆m.zhuaji.org”听得美杜莎这话，萧炎脸色也是略微凝重，片刻后微微点了点头，沉声道：“我相信她。”“希望你不会看错人。”美杜莎轻哼了一声，旋……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "蛇人族强者核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《蛇人族强者》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        703,
+        704,
+        705
+      ],
+      "continuity_in": [
+        703
+      ],
+      "continuity_out": [
+        705
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 705,
+      "title": "四大长老",
+      "source": {
+        "start_line": 107316,
+        "end_line": 107454
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第705章导读】四大长老：medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《四大长老》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百四十七章 四大长老那出现在萧炎面前的，是一位体型颇为壮硕的男性蛇人，其长相颇为凶狠，手臂之上，有着两条黑色巨蟒的纹身，手臂袒动时，巨蟒看上去就犹如是活物一般，渗透着丝丝阴寒暴戾之气武动乾坤。此刻的后者，正目光凶狠的望着萧炎，雄浑的斗气在身体表面翻腾不休，而其落地处的坚硬石板已经破裂开来，显然是因为卸去了先前交锋的劲气武动乾坤。“你是谁？“萧炎注视着这名……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "四大长老核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        704,
+        705,
+        706
+      ],
+      "continuity_in": [
+        704
+      ],
+      "continuity_out": [
+        706
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 706,
+      "title": "秘法三等",
+      "source": {
+        "start_line": 107455,
+        "end_line": 107569
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第706章导读】秘法三等：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《秘法三等》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百四十八章 秘法三等竹房之中，气氛犹如是在这一霎凝固了起来一般，萧炎与美杜莎两人，皆是目瞪口呆的望着那语出惊人的大长老，不管他们平日有多冷静，此刻，无疑是直接被震得进入了呆滞状态武动乾坤。怀孕？萧炎嘴角一阵使劲抽搐，忍不住有些跳脚的冲动，这都是第一次，哪就有这么巧？美杜莎的反应同样是好不到那里去，平日的杀伐果断已经尽数消失，红润小嘴微微张了张，修长的玉须……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "秘法三等核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《秘法三等》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        705,
+        706,
+        707
+      ],
+      "continuity_in": [
+        705
+      ],
+      "continuity_out": [
+        707
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 707,
+      "title": "挑衅",
+      "source": {
+        "start_line": 107570,
+        "end_line": 107711
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第707章导读】挑衅：xiao-xun-er, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《挑衅》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百四十九章 挑衅当萧炎话音落下，桔起头来时，却是见到几张惊愕的脸庞，不由得一愣，小心翼翼的道：“怎么了？不行么？”“呃。“不是不是，行，行，当然行。”闻言，大长老连忙应道，眼中涌现一抹难以掩饰的狂喜之色，她没想到萧炎居然肯花大力气的炼制那最高等的天魂融血丹，作为蛇人族的长老，她自然最为清楚炼制这种丹药的困难度以及需要承担的风险性武动乾坤。那刚刚还目光阴寒……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "挑衅核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《挑衅》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        706,
+        707,
+        708
+      ],
+      "continuity_in": [
+        706
+      ],
+      "continuity_out": [
+        708
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 708,
+      "title": "调养",
+      "source": {
+        "start_line": 107712,
+        "end_line": 107811
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第708章导读】调养：yao-lao, medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《调养》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十章 调养有了美杜莎发话，自然也就没了蛇人敢再阻拦萧炎，因此他在略有些恍惚中一路无阻的出了蛇人族所在的区域，而当他走出那拦钛线时，听得外界那再度沸腾起来的人声，脑子中的混乱方才逛渐的淡了下来武动乾坤。甩了甩脑袋，萧炎想起先前美杜莎那略有些不快的心情，到得后来他出来都是未曾现身，看来自己刚才那些举动的确令得她心中隐有一些怒意武动乾坤。“唉，真是个混账啊……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "调养核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        707,
+        708,
+        709
+      ],
+      "continuity_in": [
+        707
+      ],
+      "continuity_out": [
+        709
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 709,
+      "title": "行动",
+      "source": {
+        "start_line": 107812,
+        "end_line": 107899
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第709章导读】行动：yao-lao, medusa, xiao-yi-xian, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《行动》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十一章 行动距离黑山要塞不远处的一座小山峰之上，人影错落，却皆是毫无丝毫异响，所有人皆是安静的盘坐于地，雄浑的气息被压制得极低。在山峰之巅，萧炎，萧鼎，海波东等人并排而立，彼此间低声砘交谈着。”美杜莎还没来么？”略微交谈，海波东微皱着眉头，望向黑山要塞所在的方向，道武动乾坤。“我已派人通知过她，想必也是在整顿蛇人族的强者吧。”萧炎笑了笑，说道，而就在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "行动核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《行动》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        708,
+        709,
+        710
+      ],
+      "continuity_in": [
+        708
+      ],
+      "continuity_out": [
+        710
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 710,
+      "title": "暗杀!",
+      "source": {
+        "start_line": 107900,
+        "end_line": 108038
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第710章导读】暗杀!：medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《暗杀!》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十二章 暗杀!夜色，在萧炎等人安静等待中，悄然而至，而当那一轮弯月缓缓攀爬上天际时，那隐藏在森林中的小山坳内，也是传出了细微的动静武动乾坤。“海老，若是此次暗杀顺利，你们便不用出现，若是期间出现了变故，便是需要你们的接应。”与美杜莎在准备完毕之后，萧炎转过头，咎向海波东，沉声道武动乾坤。“嗯。”海波东点了点头，面色凝重的道：“小心点，我会时刻注意城中……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "暗杀!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《暗杀!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        709,
+        710,
+        711
+      ],
+      "continuity_in": [
+        709
+      ],
+      "continuity_out": [
+        711
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 711,
+      "title": "以寡敌众",
+      "source": {
+        "start_line": 108039,
+        "end_line": 108171
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第711章导读】以寡敌众：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《以寡敌众》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十三章 以寡敌众萧炎，你究竟想要怎样武动乾坤。望着萧炎那停留在虎头人长老喉咙处的手爪，慕兰谷两名长老也是不敢有着丝毫的异动，此刻的前者，只要劲气一吐，那名长老利马便是得当场毙命，投鼠忌器之下，两人只能厉声喝道武动乾坤。“没什么，斩草除根而已。”萧炎橄微笑了笑，声音却是颇为平淡的道武动乾坤。然而就是如此平淡的话语，却是令得慕兰三老心头猛的沉了下去，他们……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "以寡敌众核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        710,
+        711,
+        712
+      ],
+      "continuity_in": [
+        710
+      ],
+      "continuity_out": [
+        712
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 712,
+      "title": "收获颇丰",
+      "source": {
+        "start_line": 108172,
+        "end_line": 108286
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第712章导读】收获颇丰：yao-lao, medusa, xiao-yi-xian, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《收获颇丰》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十四章 收获颇丰第七百五十八章望着出现在面前的美杜莎，萧炎也是轻松了一口气，对方强者太多，若他真是要拼命闯的话，自然也是能够离开，不过那却是要在施展佛怒火莲搞死一堆人的前提而下，可一旦施展佛怒火莲，萧炎也是会大感虚弱，若是中途再出现什么其他状况，可就是没了多少自保之力武动乾坤。“你那边搞定了？”目光在四处扫了扫，萧炎快声问道武动乾坤。“嗯。”美杜莎淡……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "收获颇丰核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《收获颇丰》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        711,
+        712,
+        713
+      ],
+      "continuity_in": [
+        711
+      ],
+      "continuity_out": [
+        713
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 713,
+      "title": "天雁九行翼",
+      "source": {
+        "start_line": 108287,
+        "end_line": 108362
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第713章导读】天雁九行翼：yao-lao, medusa, hai-bo-dong, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《天雁九行翼》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十五章 天雁九行翼望着手中这卷白骨卷轴，萧炎眼中也是有着一抹难以掩饰的惊喜，对于那慕兰三老所修习的“三兽蛮荒决”，他可是颇为垂涎，没想到今日居然真的能够弄到手中，可当真是一份意外之喜武动乾坤。手掌小心翼翼的将白骨卷轴摊开，萧炎目光扫过，片刻后，眉头却是微微皱了起来。“怎么？”一旁的美杜莎，见到他这般模样，不由得开口问道武动乾坤。“唉，虽然的确是三兽蛮……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "天雁九行翼核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hai-bo-dong",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《天雁九行翼》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        712,
+        713,
+        714
+      ],
+      "continuity_in": [
+        712
+      ],
+      "continuity_out": [
+        714
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 714,
+      "title": "云山之上，薰儿!",
+      "source": {
+        "start_line": 108363,
+        "end_line": 108465
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第714章导读】云山之上，薰儿!：yao-lao, xiao-xun-er, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《云山之上，薰儿!》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十六章 云山之上，薰儿!若随着帝国的安定，萧炎的生活也是逐渐的变得安静了许多，偶尔修炼，有空时便是在炎盟之内的丹堂之中，当着众多炼药师的面动手炼制一下丹药，在搏得满堂喝彩之时，也是令得那些心高气傲的炼药师们真正的认可了他这个盟主武动乾坤。虽说在这场战争中，对于萧炎的战斗力，丹堂之中的炼药师已经颇为了解，但身为炼药师，最为看重的自然便是炼丹术，而萧炎想……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "云山之上，薰儿!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        713,
+        714,
+        715
+      ],
+      "continuity_in": [
+        713
+      ],
+      "continuity_out": [
+        715
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 715,
+      "title": "丹塔",
+      "source": {
+        "start_line": 108466,
+        "end_line": 108565
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第715章导读】丹塔：yao-lao, xiao-xun-er, xiao-yi-xian, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《丹塔》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十七章 丹塔七百六十一章丹塔炎盟总部，设立在加玛帝国，作为帝国最为强大的势力，炎盟如今的规模，自然也）是远超一年之前，庞大的帝国中心部分，几乎有着三分之一的区域，尽数是炎盟的各个麾下部门，分工明确的同时，也在为炎盟制造越加强横的力量武动乾坤。丹堂，这是炎盟之内一个颇为重要的部门，从这里每天都是能够运出众多各种丹药，然后这些丹药送达商堂，经过米特尔家族……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "丹塔核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "xiao-yi-xian",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        714,
+        715,
+        716
+      ],
+      "continuity_in": [
+        714
+      ],
+      "continuity_out": [
+        716
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 716,
+      "title": "招揽古河",
+      "source": {
+        "start_line": 108566,
+        "end_line": 108710
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第716章导读】招揽古河：yao-lao, hai-bo-dong, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《招揽古河》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十八章 招揽古河对于法犸所说，萧炎很感兴趣，或者说，对让丹王古河加入炎盟，他极感兴趣，因此，在第二日清晨，他便是令法犸带路，带上海波东，直接赶往了古河所居住之地武动乾坤。在当初云岚宗解散之后，古河自然也是离开了云岚山，不过他却并未离开加玛帝国，而是在距云岚山不远的一处僻静山脉中选择了隐居，而那里，也正是萧炎一行人此行的目的武动乾坤。古河所隐居之地，距……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "招揽古河核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《招揽古河》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        715,
+        716,
+        717
+      ],
+      "continuity_in": [
+        715
+      ],
+      "continuity_out": [
+        717
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 717,
+      "title": "大统领",
+      "source": {
+        "start_line": 108711,
+        "end_line": 108861
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第717章导读】大统领：yao-lao, medusa, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大统领》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百五十九章 大统领萧炎立于高阁之上，脸色凝重的望着手中的纸条，片刻后，屈指一弹，纸条便是凭空化为一簇火焰，迅速消散武动乾坤。“魂殿么””嘴中轻轻的呢喃着，萧炎那漆黑眸中，却是缓缓涌出森冷杀意，对于这个组织，他恐怕已经是能够说是恨之入骨，因为他的两位最亲近的人，皆是落在他们手中武动乾坤。眼中寒芒闪烁，片刻后，萧炎陡然转身，快步行下高阁，如今的他对于那个神秘……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大统领核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        716,
+        717,
+        718
+      ],
+      "continuity_in": [
+        716
+      ],
+      "continuity_out": [
+        718
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 718,
+      "title": "邀请帮手",
+      "source": {
+        "start_line": 108862,
+        "end_line": 108997
+      },
+      "arc_id": "return-to-jiama",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第718章导读】邀请帮手：medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《邀请帮手》的关键进程。在return-to-jiama的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十章 邀请帮手光头蛇人眼神异常凝重的死盯着那盘旋在萧炎面前的碧绿火连，在后者那毫无波动的目光注视下，他清楚，若是自己真的再次踏前一步，那朵蕴含着恐怖狂暴能量的火莲，定然会直接暴射而来武动乾坤。“小子，不愧是炎经之主，果然有着一些手段…”舌头舔了舔嘴唇。光头蛇人冷声笑道，不过此刻的话语中，先前那对萧炎的轻视明显已经尽去，那些蔟中对于萧炎能够打败斗宗强者……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "邀请帮手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        717,
+        718,
+        719
+      ],
+      "continuity_in": [
+        717
+      ],
+      "continuity_out": [
+        719
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 719,
+      "title": "赶往出云!",
+      "source": {
+        "start_line": 108998,
+        "end_line": 109109
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第719章导读】赶往出云!：medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《赶往出云!》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十一章 赶往出云!美杜莎安排一些事务，并未要去太久时间，仅仅约莫半个小时左右，她便是将所有事情安排妥当，最后便是与萧炎二人，迅速的离开了蛇人族领地，开始对着帝国边境飞掠而去武动乾坤。帝都距边境处有着不短的距离，即便是以萧炎几人的速度，可也是在傍晚时分，方才到达武动乾坤。出云帝国边境处的一座山峰之上，三道流光自远处闪掠而来，片刻后便是化为三道人影，出现……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "赶往出云!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《赶往出云!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        718,
+        719,
+        720
+      ],
+      "continuity_in": [
+        718
+      ],
+      "continuity_out": [
+        720
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 720,
+      "title": "万蝎门",
+      "source": {
+        "start_line": 109110,
+        "end_line": 109242
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第720章导读】万蝎门：yao-lao, medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《万蝎门》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十二章 万蝎门当萧炎三人在山峰之上静待了约莫半个小时后左右，一道模糊黑影终于是突然出现在视野之中，最后几个闪掠，便是凭空出现在了这片山峰的半空上武动乾坤。人影的掠未，自然是引起了萧炎三人的注意，当下皆是暗中戒备，待得黑影出现在半空时，并且露出那一头标志性的白色长发时，三人方才轻松了一口气武动乾坤。“抱歉，刚刚宗内在商议事情，所以来得有些晚了。”蛮腰轻……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "万蝎门核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        719,
+        720,
+        721
+      ],
+      "continuity_in": [
+        719
+      ],
+      "continuity_out": [
+        721
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 721,
+      "title": "蜈崖",
+      "source": {
+        "start_line": 109243,
+        "end_line": 109348
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第721章导读】蜈崖：medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《蜈崖》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十三章 蜈崖毒宗对万蝎门的这般举动，明显是早有预备，因此，在萧炎三人到达天毒城的第二日，毒宗这尊大机器，便是迅速的运转了起来，无数人被派遣而出，然后以零星散状之态，暗中汇聚在万蝎门所在的天蝎山脉周围，仅仅三天时间，便是暗中将之里里外外尽数封锁武动乾坤。当然，虽然毒宗的这般大规模举动或许能够瞒住一些外人，但明显瞒不过眼线同样是不少的万蝎门，所以，在毒宗……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "蜈崖核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《蜈崖》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        720,
+        721,
+        722
+      ],
+      "continuity_in": [
+        720
+      ],
+      "continuity_out": [
+        722
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 722,
+      "title": "凶险",
+      "source": {
+        "start_line": 109349,
+        "end_line": 109478
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第722章导读】凶险：medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《凶险》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十四章 凶险第一次的商讨，并没有出现什么实质的结果，对于那所谓的宗内内奸，也没有人有丝毫的证据，所以也只得暂且搁置，而商讨在持续了约莫半个小时左右后，便是这般不了了之的结束了去武动乾坤。或许是由于万蝎门将所有人收拢在万蝎山上的缘故，今日却并未爆发出太过火爆的战斗，一切看来，似乎极为的平静，不过只要感觉稍稍敏锐之人都是能够发现，这只不过是暴风雨之前的宁……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "凶险核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《凶险》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        721,
+        722,
+        723
+      ],
+      "continuity_in": [
+        721
+      ],
+      "continuity_out": [
+        723
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 723,
+      "title": "蝎毕岩",
+      "source": {
+        "start_line": 109479,
+        "end_line": 109584
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第723章导读】蝎毕岩：yao-lao, xiao-xun-er, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《蝎毕岩》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十五章 蝎毕岩万蝎门那众强者领头一位，是一名面色阴冷，身着华袍的中年男子，而看周围那些万蝎门强者对他的恭敬态度来看，想必他应该便是先前那出声之人，万蝎门的门主，蝎山武动乾坤。在蝎山身后，有着五位老者，萧炎的目光在他们身上多停留了一会，因为这五人，也皆是斗皇实力，只不过其中有着三人，似乎都是刚突破至斗皇不久，因此体内斗气略有些外溢，而更靠后的一干人，则……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "蝎毕岩核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        722,
+        723,
+        724
+      ],
+      "continuity_in": [
+        722
+      ],
+      "continuity_out": [
+        724
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 724,
+      "title": "门派大战",
+      "source": {
+        "start_line": 109585,
+        "end_line": 109717
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第724章导读】门派大战：medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《门派大战》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十六章 门派大战当黑影将蜈崖五位长老攻击阻拦下的瞬间，周围的那些毒宗强者也是回过神来，当下惊怒-的喝道：“蜈崖，你们干什么？”突袭无果，那蜈崖五人脸色也是颇有些难看，目光怨毒的盯了萧炎一眼，然后身形猛然一拐，迅速对着万蝎门所在的方位急掠而去武动乾坤。“想走？”小区仙那对灰紫双眸中寒芒闪动，纤指猛然一动，那前方的空间猛然间变得有些扭曲了起来，而蜈崖五人……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "门派大战核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《门派大战》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        723,
+        724,
+        725
+      ],
+      "continuity_in": [
+        723
+      ],
+      "continuity_out": [
+        725
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 725,
+      "title": "斩杀",
+      "source": {
+        "start_line": 109718,
+        "end_line": 109859
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第725章导读】斩杀：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斩杀》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十七章 斩杀随着心中念头闪过，萧炎不再有所迟疑，手印猛的一动武动乾坤。“天火三芬变！”心中轻喝落下，体内琉璃莲心火顿时沿着一道奇异的经脉路线迅速运转起来，而一股狂暴的力量，也是缓缓从中弥漫而出，令得萧炎休内，充斥了无比澎湃的力量之感武动乾坤。气势陡然暴涨，萧炎也不理会对面脸色皆是有所变化的蜈崖二人，脚掌之上银芒浮现，旋即身形一颤，便是宛如鬼魅般的出现……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斩杀核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        724,
+        725,
+        726
+      ],
+      "continuity_in": [
+        724
+      ],
+      "continuity_out": [
+        726
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 726,
+      "title": "四翼天魔蝎",
+      "source": {
+        "start_line": 109860,
+        "end_line": 109983
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第726章导读】四翼天魔蝎：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《四翼天魔蝎》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十八章 四翼天魔蝎光印在那无数道惊骇日光中，毫不犹豫的便是狠狠砸在那蜈崖身体之上，顿时一道惊天炸声，响彻天际武动乾坤。“噗凄！”遭受到这般重击，即便那蜈崖是斗皇巅峰强者，可脸色却依然是瞬间涌上一抹异样红润，喉咙一甜，一口鲜血再也是忍不住的狂喷而出，浑身气息也是在此刻萎靡到了极点，背后斗气双翼若隐若现，片刻后，终于是在胸口处传来的剧痛中昏迷而去，一头对……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "四翼天魔蝎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        725,
+        726,
+        727
+      ],
+      "continuity_in": [
+        725
+      ],
+      "continuity_out": [
+        727
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 727,
+      "title": "现身",
+      "source": {
+        "start_line": 109984,
+        "end_line": 110074
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第727章导读】现身：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《现身》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百六十九章 现身听得那道稚嫩的笑声，萧炎蝎山等人皆是连忙抬头，却是惊愕的看见「此刻在那四翼天魔蝎面前，一位紫发小女孩却是悬空而立，身形极其敏捷的将后者发狂的攻击尽数躲避而去，而且每一次躲避时，小女孩便是会一掌击打在那四翼天魔蝎坚硬的巨钳之上武动乾坤。那看似白白嫩嫩的小手，在每一次击打中四翼天魔蝎时，都将会发出一道清脆的金铁声响，旋即四翼天魔蝎那庞大的身体……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "现身核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《现身》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        726,
+        727,
+        728
+      ],
+      "continuity_in": [
+        726
+      ],
+      "continuity_out": [
+        728
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 728,
+      "title": "铁护法",
+      "source": {
+        "start_line": 110075,
+        "end_line": 110228
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第728章导读】铁护法：yao-lao, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《铁护法》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十章 铁护法随着那股隐隐噙着许些阴寒的磅礴气息从万蝎门深处蔓延而出。手机端阅读请登陆m.zhuaji.org不论是天空还是地面上的战斗都是因此而逐渐停止了下来，双方的强者皆是惊疑不定的望向气息源头处，除了极少数的人，似乎并没有多少人知道，这气息的主人，究竟是何来历武动乾坤。即便是一些斗皇阶别的强者，在感受到那股气息之时，脸色也是变得异常难看了起来，因……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "铁护法核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《铁护法》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        727,
+        728,
+        729
+      ],
+      "continuity_in": [
+        727
+      ],
+      "continuity_out": [
+        729
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 729,
+      "title": "斗宗大爆发",
+      "source": {
+        "start_line": 110229,
+        "end_line": 110364
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第729章导读】斗宗大爆发：medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斗宗大爆发》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十一章 斗宗大爆发随着那道身影的诡异出现，这片天际所有的目光，都是瞬间转移了过去，而当这些人在瞧得那现身之人，是一名容貌颇为动人的女子之后，顿时皆是愣了下来武动乾坤。“竟然是宗主请来的另外一名贵宾…没想到-她竟然会是一名斗宗强者?”毒宗的那些强者瞧得露面的女子，皆是一脸惊愕，谁都没想到，先前的出手竟然会是她，惊愕过后，是一计从心底深处涌出的狂喜，听那……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斗宗大爆发核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        728,
+        729,
+        730
+      ],
+      "continuity_in": [
+        728
+      ],
+      "continuity_out": [
+        730
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 730,
+      "title": "偷袭",
+      "source": {
+        "start_line": 110365,
+        "end_line": 110497
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第730章导读】偷袭：xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《偷袭》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十二章 偷袭望着那突然间浑身散发出一股诡异气息的小医仙，那蝎毕岩脸色也是变了变，眼中得意之色尽去，只剩下说不出的凝重，从对方体内所弥漫的那道诡异气息之中，他感觉到到了一丝死亡的味道武动乾坤。“厄难毒体，看来铁护法说得果然没错，你能够在这般年纪走到这般地步，原来是靠着这东西的缘故。“”蝎毕岩自然也算是见多识广之辈，厄难毒体的威名也是听过一些，当下面色阴……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "偷袭核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《偷袭》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        729,
+        730,
+        731
+      ],
+      "continuity_in": [
+        729
+      ],
+      "continuity_out": [
+        731
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 731,
+      "title": "蝎山身亡",
+      "source": {
+        "start_line": 110498,
+        "end_line": 110636
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第731章导读】蝎山身亡：medusa, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《蝎山身亡》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十三章 蝎山身亡看似柔弱的小拳头，落在蝎山胸膛之上，却是瞬间令得后者脸庞之上涌上一抹异样红润，旋即喉咙一甜，一口鲜血终于是忍将不住的狂喷了出来武动乾坤。鲜血喷吐闺，蝎山身形也是陡然狼狈急退，退后间，身形略显踉跄，显然，先前紫研那结结实实的一拳，直接是令得他进入了重伤状态，毕竟后者的那种恐怖力量，即便是斗与强者挨上了，也绝对不是什么好玩的事武动乾坤。“……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "蝎山身亡核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《蝎山身亡》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        730,
+        731,
+        732
+      ],
+      "continuity_in": [
+        730
+      ],
+      "continuity_out": [
+        732
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 732,
+      "title": "魂袋",
+      "source": {
+        "start_line": 110637,
+        "end_line": 110736
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第732章导读】魂袋：medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魂袋》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十四章 魂袋脱离了战斗，萧炎浑身也是松懈了许多，身体悬空立于天空之上脸色略显凝重的望着不远处的战圉，那里，两道人影犹如鬼魅般的交错闪掠，可怕的能量波动，直接是将空间都是震得扭曲了起来，那一片战圉，没有任何一名双方强者敢踏足而进，因为所有人都是知道，斗宗强者的战斗，即便是斗皇，也是没有多少的插手之力。“彩绩姐怎么样-7？”萧炎身旁，一道娇小人影闪掠而来……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魂袋核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        731,
+        732,
+        733
+      ],
+      "continuity_in": [
+        731
+      ],
+      "continuity_out": [
+        733
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 733,
+      "title": "翻海印",
+      "source": {
+        "start_line": 110737,
+        "end_line": 110854
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第733章导读】翻海印：medusa, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《翻海印》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十五章 翻海印叮！叮！叮！天际之上，七彩剑芒与。黑蟒般的锁链闪电交织，爆发出惊天脆响之时，也是滩起刺眼火花武动乾坤。美杜莎身形微退，脸颊也是略显凝重，在吞噬了几个灵魂休之后，那铁护法的实力明显有所增幅，这一阵近乎疯狂的猛攻，也是令得她手掌有些麻木武动乾坤。铁护法身形虚立天空，目光阴毒的望着美杜莎，。心中发出一道充斥着杀意的怪笑声，旋即也不给后者片刻喘……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "翻海印核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《翻海印》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        732,
+        733,
+        734
+      ],
+      "continuity_in": [
+        732
+      ],
+      "continuity_out": [
+        734
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 734,
+      "title": "狼狈的铁护法",
+      "source": {
+        "start_line": 110855,
+        "end_line": 110941
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第734章导读】狼狈的铁护法：xiao-xun-er, medusa, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《狼狈的铁护法》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十六章 狼狈的铁护法第七百七十六章狼狈的铁护法的铁护法帝遇，据薰儿所说，这是其族中秘技之一，只能族中天赋杰出之人方才有资格修炼，从她那凝重的神色中，萧炎能够知道，这项斗技，即便是放在她们族中，也算是颇为高阶的一种，因此，她也嘱咐过，让萧炎不到关键时刻，不要轻易施展，否则万一被人认出，定然免不了一些麻烦，而最麻烦的是如果此事传入族中，族中之人知道这般秘……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "狼狈的铁护法核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《狼狈的铁护法》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        733,
+        734,
+        735
+      ],
+      "continuity_in": [
+        733
+      ],
+      "continuity_out": [
+        735
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 735,
+      "title": "擒获“轰!”",
+      "source": {
+        "start_line": 110942,
+        "end_line": 111075
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第735章导读】擒获“轰!”：yao-lao, medusa, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《擒获“轰!”》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十一章擒获“轰!”惊天动地般的爆炸声响，陡然在天际响彻，那一刻，整片天蝎山脉，都是为之狠狠的葡抖了一下，一些实力低微的双方之人，直接是被这道突如其来的雷鸣之声，震得耳中溢出丝丝鲜血武动乾坤。巨大的七彩能量，宛如云彩一般凝聚在天空之上，最后渡缓的扩散开来，扩散之处，空间如平静的湖面中被投入了巨石一般，掀起惊涛骇浪之余，也是荡漾出一道道肉眼可见的能量涟漪……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "擒获“轰!”核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        734,
+        735,
+        736
+      ],
+      "continuity_in": [
+        734
+      ],
+      "continuity_out": [
+        736
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 736,
+      "title": "拼死一击",
+      "source": {
+        "start_line": 111076,
+        "end_line": 111181
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第736章导读】拼死一击：medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拼死一击》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十八章 拼死一击遥遥天际之上，巨大的灰紫空间牢笼，猛然间出规了一股异常波动，只见得那笼罩在四周的空间扭曲障壁，突然泛起了道道涟漪，仅仅片刻时间，扭曲的弧度便是越加微小，到得最后，扭曲的空间，竟然便是这般缓缓的完全复原了去武动乾坤。而随着笼罩在周围的空间障壁消失，那其中所充斥的灰紫毒雾，顿时毫无束缚的弥漫了开来「见到那灰紫毒雾有扩散开来的趋势，萧炎等人……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拼死一击核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《拼死一击》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        735,
+        736,
+        737
+      ],
+      "continuity_in": [
+        735
+      ],
+      "continuity_out": [
+        737
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 737,
+      "title": "魔毒斑",
+      "source": {
+        "start_line": 111182,
+        "end_line": 111350
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第737章导读】魔毒斑：yao-lao, medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魔毒斑》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百七十九章 魔毒斑这道突如其来的黑芒，也是令得萧炎有着瞬间的失神，感受着那道黑芒之中的恐怖能量，其头皮都是不由得有些发麻了起来武动乾坤。黑芒攻势如电，即便是萧炎，都是略有些反应不过来，不过紧急时玄。1，其体内斗气，却是犹如自动受到了引动一般，不由自主的破体而出，在其身体表面翻腾而起武动乾坤。斗气刚刚涌出，那道黑芒便是猛然而至，最后夹杂着一股令人作呕的腥气……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魔毒斑核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《魔毒斑》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        736,
+        737,
+        738
+      ],
+      "continuity_in": [
+        736
+      ],
+      "continuity_out": [
+        738
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 738,
+      "title": "石池",
+      "source": {
+        "start_line": 111351,
+        "end_line": 111562
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第738章导读】石池：medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《石池》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十章 石池听得那从小医仙嘴中吐出的时间，萧炎也是略感烦躁，半年时间，他去哪里找什么斗尊强者来帮自己破解这魔毒斑？“不过这你倒是不用太担心，我虽然解不了魔毒斑，但却有办法能够令它爆发的时间迟缓许多！”见到萧炎那脸色，小医仙沉吟了一下，略有些愧色的道，若非是她将萧炎请来，恐怕也就不会出现这种事，而且出了事，她又不能帮忙解决武动乾坤。闻言，萧炎这才略微松了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "石池核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        737,
+        738,
+        739
+      ],
+      "continuity_in": [
+        737
+      ],
+      "continuity_out": [
+        739
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 739,
+      "title": "封印魔毒斑",
+      "source": {
+        "start_line": 111563,
+        "end_line": 111689
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第739章导读】封印魔毒斑：xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《封印魔毒斑》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十一章 封印魔毒斑两道目光在泛着淡淡雾气的池中对望着，片刻后，萧炎总算是回过神来，见到小医仙那羞红脸颊，顿时剧烈的干咳了一声，旋即目光赶忙转移武动乾坤。手机端阅读请登陆m.zhuaji.org萧炎的咳嗽声音，也是将小医仙从脑袋中传来的细微眩晕感中拉了出来，当下**娇躯宛如具美人鱼般，噗通一声便是钻进了石池中，最后那具令人浮想偏偏的诱人娇躯，便是淹没在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "封印魔毒斑核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        738,
+        739,
+        740
+      ],
+      "continuity_in": [
+        738
+      ],
+      "continuity_out": [
+        740
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 740,
+      "title": "二星斗皇",
+      "source": {
+        "start_line": 111690,
+        "end_line": 111798
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第740章导读】二星斗皇：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《二星斗皇》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十二章 二星斗皇碧绿火焰熊熊燃烧，一股炽热稳固扩散而出，令得萧炎身体内部宛如烤炉一般，不过幸好琉璃莲心火已经被萧炎彻底所炼化，这种释放而出的高温，对萧炎也是没有丝毫的破坏力，不然的话，谁也不敢在自己体内任得异火肆无忌惮的燃烧武动乾坤。在那团碧绿火焰之中，一根漆黑的能量丝线犹如一条小蛇般的剧烈翻滚，而伴随着它每一次的翻滚，其身体之上的那种漆黑之色，便是……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "二星斗皇核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《二星斗皇》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        739,
+        740,
+        741
+      ],
+      "continuity_in": [
+        739
+      ],
+      "continuity_out": [
+        741
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 741,
+      "title": "榜上第三!",
+      "source": {
+        "start_line": 111799,
+        "end_line": 111931
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第741章导读】榜上第三!：yao-lao, medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《榜上第三!》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十三章 榜上第三!手掌在胸口处揉了揉，萧炎扯开衣衫，目光扫了扫，却是发现此刻在那块散发着诡异黑色的魔毒斑周围，布满着一道奇异的符文，而似乎便是这道符文，将魔毒斑的扩张，封堵了下来武动乾坤。“这是我从当初我们在青山镇那山洞中偶然得到的七彩毒经之中学来的封毒之法，加上你本身有着异火相助，想必两年之内，这魔毒斑不会爆发。”望着萧炎的举动，小医仙轻声道武动乾……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "榜上第三!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        740,
+        741,
+        742
+      ],
+      "continuity_in": [
+        740
+      ],
+      "continuity_out": [
+        742
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 742,
+      "title": "打算",
+      "source": {
+        "start_line": 111932,
+        "end_line": 112025
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第742章导读】打算：yao-lao, medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《打算》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十四章 打算异火榜，收纳了大陆上为人所知的二十三种异火，这榜单上的每一种异火，都是令得无数人趋之若鹜，任何一点点与它们有关的消息，都将会引起一场极大的震动，这一点，已经被诸多事实多次证实过武动乾坤。异火榜上的异火，各有奇效，当然，手有长短，这异火，相比而言，自然也是有强有弱，萧炎的第一种异火，青莲地心火只在榜上名列十九，这种异火，除开有着极为狂暴的高……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "打算核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《打算》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        741,
+        742,
+        743
+      ],
+      "continuity_in": [
+        741
+      ],
+      "continuity_out": [
+        743
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 743,
+      "title": "魂殿情报",
+      "source": {
+        "start_line": 112026,
+        "end_line": 112119
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第743章导读】魂殿情报：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魂殿情报》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十五章 魂殿情报目光扫着萧炎手中的玉瓶，美杜莎与小医仙眼神也是微微一凝，旋即一人一后，将这所房间之内尽数封锁，对于那所谓的魂殿铁护法，她们心中也是略有些忌惮的，虽然如今他已经是重伤，可一名斗宗强者反扑，也的确无人敢无视武动乾坤。见到两人的反应，萧炎倒是一笑，手掌一抹瓶口，那无形火焰的波动，便是逐渐变淡，直至最后的消散武动乾坤。随着火焰消散，一道虚幻的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魂殿情报核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        742,
+        743,
+        744
+      ],
+      "continuity_in": [
+        742
+      ],
+      "continuity_out": [
+        744
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 744,
+      "title": "赶往黑角域",
+      "source": {
+        "start_line": 112120,
+        "end_line": 112210
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第744章导读】赶往黑角域：medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《赶往黑角域》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十六章 赶往黑角域翌日清晨，天毒城之外的一处山峰之上，几道人影闪掠而立。目光凝视着山脚之下的那庞大城市，萧炎轻吐了一口气，偏头对着一旁的小医仙轻声道：“全打算跟我走？”“嗯，宗内事情表也交代完毕了，而且，就算到时候我回来真出现了什么事情，也无所谓，我能组建一次毒宗，自然也能组建第二次。”小医仙毫不在意的道，当初组建毒宗，只是一时兴起，真要说起来，对它……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "赶往黑角域核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        743,
+        744,
+        745
+      ],
+      "continuity_in": [
+        743
+      ],
+      "continuity_out": [
+        745
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 745,
+      "title": "路遇",
+      "source": {
+        "start_line": 112211,
+        "end_line": 112310
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第745章导读】路遇：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《路遇》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十七章 路遇黑域大平原，萧炎已经几次路径此地，自然是颇为熟愿，而在到达平原时，他也是重重的松了一口气，只要穿过这平原，那么便是能够进入黑角域之内武动乾坤。目的地越加接近，萧炎倒是略微有些放松了下来，招呼着小医仙两人落下地来，在休息了约莫两三个小时后，方才再度起身，率先对着黑域大平原飞掠而去，以他如今的实力，自然不必要再像第一次那般，徒步穿越，那样不仅……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "路遇核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《路遇》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        744,
+        745,
+        746
+      ],
+      "continuity_in": [
+        744
+      ],
+      "continuity_out": [
+        746
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 746,
+      "title": "魔炎谷",
+      "source": {
+        "start_line": 112311,
+        "end_line": 112443
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第746章导读】魔炎谷：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魔炎谷》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十八章 魔炎谷见到萧炎这突然转变的态度，那被称为麦迪的男子与紫衣少女也是一怔，旋即前者小心翼翼的道：“我是迦南学院的导师，她是我的学生，陌菱。”闻言，萧炎微微点了点头，旋即微笑道：“既然如此，那便跟我走。巴。”瞧得萧炎那微笑的脸庞，麦迪与紫衣少女皆是张了张嘴，有些会不过神来，如此好片刻后，那男子方才有些迟疑的拉着紫衣少女，迅速对着萧炎三人跑去武动乾坤……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魔炎谷核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《魔炎谷》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        745,
+        746,
+        747
+      ],
+      "continuity_in": [
+        745
+      ],
+      "continuity_out": [
+        747
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 747,
+      "title": "血剑吴昊",
+      "source": {
+        "start_line": 112444,
+        "end_line": 112573
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第747章导读】血剑吴昊：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《血剑吴昊》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百八十九章 血剑吴昊绿荫葱郁的山林之中，偶尔会响起阵阵惊雷般的兽吼声，惊飞无数停歇在林间的飞鸟，那双翼振动时带来的哗哗声，令得空气都是变得紧绷了许多武动乾坤。在掩盖在重重绿荫之下，有着一处山势陡峭的所在，山峰底部裂开巨大的缝隙，远远看去，就犹如一个山谷一般，在山谷的两旁，皆是陡峭并且难以攀爬的光滑石壁，唯一的出路，便是那只有不到两丈宽敞的出口武动乾坤。此……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "血剑吴昊核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        746,
+        747,
+        748
+      ],
+      "continuity_in": [
+        746
+      ],
+      "continuity_out": [
+        748
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 748,
+      "title": "鹰爪老人",
+      "source": {
+        "start_line": 112574,
+        "end_line": 112697
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第748章导读】鹰爪老人：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《鹰爪老人》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十章 鹰爪老人青衣老者身体虚立天空，背后宽大的斗气双翼缓缓扇动着，将周遭空气吹动得犹如水浪般的分划开来武动乾坤。老者脸色略显黝黑，眉宇之间充斥着一股阴厉之色，其体型略显瘦小，那对露在袖袍之外的双手却是显得异常宽大，手指也走出奇的长，指甲在阳光的照耀下。闪烁着宛如刀锋般的寨芒武动乾坤。而随着这名青衣老者的出现，双方的人脸色皆是有所变化，那两名魔炎谷的斗……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "鹰爪老人核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《鹰爪老人》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        747,
+        748,
+        749
+      ],
+      "continuity_in": [
+        747
+      ],
+      "continuity_out": [
+        749
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 749,
+      "title": "萧门，萧炎",
+      "source": {
+        "start_line": 112698,
+        "end_line": 112833
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第749章导读】萧门，萧炎：xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧门，萧炎》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十一章 萧门，萧炎吴昊的狂喜失声，在山谷之中回荡不休，令得不少人都是愣了下来武动乾坤。率先从震惊中回过神来的，是对这个名字异常敏感的萧玉，当下那张苍白的美丽脸颊，瞬间便是涌上一股难以置信的喜悦武动乾坤。“不知是哪位朋友出手？此事是我魔炎谷与迦南学院之间的恩怨，与外人无关!”那谢震身形也是一阵急退，旋即沉声喝道，在喵中发出喝声时，其目光也是迅速的在周围……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧门，萧炎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《萧门，萧炎》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        748,
+        749,
+        750
+      ],
+      "continuity_in": [
+        748
+      ],
+      "continuity_out": [
+        750
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 750,
+      "title": "一个不留",
+      "source": {
+        "start_line": 112834,
+        "end_line": 112957
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第750章导读】一个不留：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一个不留》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十二章 一个不留“萧门，萧炎？”听得那传进耳-中-的平淡轻声，谢震脸色却是瞬间大变，别人或许会对于这个名字感到有些陌生，可他却是如雷贯耳，萧门创始人，当年那在黑角域之中留下了赫赫威名的年轻强者！即便是事，隔两年时间，可黑角域之中依然是有着不少人记得这个名字。而且，他们这个魔炎谷之内，更是收纳了不少当年被面前这个黑袍青年追杀得强途末路的强者，因此。对于……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一个不留核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        749,
+        750,
+        751
+      ],
+      "continuity_in": [
+        749
+      ],
+      "continuity_out": [
+        751
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 751,
+      "title": "风起云涌",
+      "source": {
+        "start_line": 112958,
+        "end_line": 113051
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第751章导读】风起云涌：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《风起云涌》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十三章 风起云涌听得萧炎问话，吴昊脸庞之上的笑容也是缓缓收敛了下来，紧皱着眉头，沉吟了片刻，方才道：“这魔炎谷也是黑角域的一方老牌大势力，存在时间不短，谷中势力也是异常强横，说起来，原本他们与迦南学院也没有太大的恩怨，不过因为萧门的缘故，关系在这一两年中倒是直接是变得势如水火了起来。”“怎么回事？”萧炎微微一怔，此事竟然还与萧门有关系？“主要是萧门发……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "风起云涌核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《风起云涌》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        750,
+        751,
+        752
+      ],
+      "continuity_in": [
+        750
+      ],
+      "continuity_out": [
+        752
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 752,
+      "title": "进城",
+      "source": {
+        "start_line": 113052,
+        "end_line": 113208
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第752章导读】进城：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《进城》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十四章 进城随着接近，那坐落在大道尽头的庞大城市，也终于是逐渐的出现在了萧炎三人视野之内武动乾坤。站于一处斜坡，萧炎遥遥望着那远处那高耸如云的城墙，眼中闪过一抹惊叹之色武动乾坤。这黑皇城的确如其名般。恢弘的规模并没有令得它使那个皇字失色，绵延到尽头的漆黑色城墙，泛着一股冷冰冰的味道，阳光倾洒而下，甚至还令得那黑色城墙宛如镜子般，反射出淡淡光芒，有识货……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "进城核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《进城》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        751,
+        752,
+        753
+      ],
+      "continuity_in": [
+        751
+      ],
+      "continuity_out": [
+        753
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 753,
+      "title": "千药坊",
+      "source": {
+        "start_line": 113209,
+        "end_line": 113365
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第753章导读】千药坊：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《千药坊》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十五章 千药坊行出略有些黑暗的城门通道，刺眼的阳光从天际倾洒而下，熙熙攘攘的喧闹之声，再度犹如魔音一般，灌注入耳，令得萧炎眉头微微一皱武动乾坤。徽眯的目光缓缓的抬起，望着那出现在眼前的巨大内部城市以及那宽阔街道之上来往的拥挤人流，萧炎也是不由得啧啧赞叹一声，这黑皇城的规模，不比加玛帝国的帝都小，甚至从某一个方面来说，这里，即便是加玛帝国的帝都也是比之……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "千药坊核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        752,
+        753,
+        754
+      ],
+      "continuity_in": [
+        752
+      ],
+      "continuity_out": [
+        754
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 754,
+      "title": "换丹集会",
+      "source": {
+        "start_line": 113366,
+        "end_line": 113507
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第754章导读】换丹集会：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《换丹集会》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十六章 换丹集会千药坊的第二层，并未是萧炎想象那般的奢华，略显古朴的装饰，倒是显得一丝不落俗的大气，由此可见，这千药坊的主人，似乎倒还有秀一些品味武动乾坤。此刻的这第二层大厅中，摆放着些许水晶柜，水晶柜中，盛放着一些玉盒，玉盒之中，隐隐间有着淡淡-的毫芒-闪烁-，一眼看去，就知道不是寻常之物武动乾坤。在大厅内，也是有着不少人影错落，看他们的服饰，竟然……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "换丹集会核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《换丹集会》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        753,
+        754,
+        755
+      ],
+      "continuity_in": [
+        753
+      ],
+      "continuity_out": [
+        755
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 755,
+      "title": "红脸老者",
+      "source": {
+        "start_line": 113508,
+        "end_line": 113607
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第755章导读】红脸老者：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《红脸老者》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十七章 红脸老者这名红脸老者一现身，那大厅中的诸多炼药师顿时声音都是小了许多，一些实力稍强的人，则是脸色有些不太自然武动乾坤。那台上的姚坊主，也是微微一怔，旋即脸颊上堆上热情笑容，连忙下台，迎上红脸老者，嘴中娇笑道：“原来是齐老大驾光临，此次黑皇宗举办大型拘卖会，还以为齐老没这般空闲过来呢。“”“嘿嘿，姚坊主说哪里的话，千药坊的药材品质可不是寻常之物……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "红脸老者核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《红脸老者》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        754,
+        755,
+        756
+      ],
+      "continuity_in": [
+        754
+      ],
+      "continuity_out": [
+        756
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 756,
+      "title": "竞价",
+      "source": {
+        "start_line": 113608,
+        "end_line": 113731
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第756章导读】竞价：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《竞价》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十八章 竞价大厅之中突如其来的举动，也是令得不少人怔了下来，待将那伸手阻拦之人看得清楚之后，脸色皆是变幻得有些精彩了起来，旋即目光同情的看了一眼萧炎武动乾坤。萧炎目光平淡的望着那按在“玉骨果”之上的那只大手，心中专『是暗叹道：“果然还是这样啊.\\””从起先一开始在这五个玉盒被撤出时，萧炎便是有种感觉，恐怕此次的药材换取，并不会如同想象中的那般顺利，结……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "竞价核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        755,
+        756,
+        757
+      ],
+      "continuity_in": [
+        755
+      ],
+      "continuity_out": [
+        757
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 757,
+      "title": "得手",
+      "source": {
+        "start_line": 113732,
+        "end_line": 113840
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第757章导读】得手：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《得手》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七百九十九章 得手“如果姚坊主没有意见的话，那么我便椁这三味药材收下了。”萧安媸『笑着点了点头，旋即道武动乾坤。闻言，姚坊主脸颊顿时涌现一抹狂喜，刚欲点头，一旁的齐山却是猛的一拍桌子，怒声道：“等等!”被齐山打断了话络，姚坊主眼色也是微微一沉，美眸转向齐山，声音之中压抑着一抹怒气：“齐老，妾身尊你是黑皇城有头有脸的人，所以异常尊敬，还请阁下不要让得我千药坊……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "得手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《得手》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        756,
+        757,
+        758
+      ],
+      "continuity_in": [
+        756
+      ],
+      "continuity_out": [
+        758
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 758,
+      "title": "菩提心",
+      "source": {
+        "start_line": 113841,
+        "end_line": 113934
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第758章导读】菩提心：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《菩提心》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百章 菩提心“菩提化体涎？”听得那从萧炎嘴中冒出的名字，那姚坊主与其身旁的阎老也是怔了怔，旋即陷入了沉思武动乾坤。望着沉思中的二人，萧炎心头也是涌上一抹欣喜，他原本只是随口一问，结果看现在这两人的表情，似乎并非是对于这奔西完全不知情武动乾坤。偏过头与一旁的小医仙对视了一眼，萧炎发现即便是以后者的冷静，此刻眼眸中也是有着一抹淡淡的喜意，这一路而来，却没有得……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "菩提心核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《菩提心》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        757,
+        758,
+        759
+      ],
+      "continuity_in": [
+        757
+      ],
+      "continuity_out": [
+        759
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 759,
+      "title": "黒皇阁",
+      "source": {
+        "start_line": 113935,
+        "end_line": 114064
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第759章导读】黒皇阁：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黒皇阁》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零一章 黒皇阁从千药坊行出，望着大街之上来来往往的人流，萧炎轻吐了一口气，旋即偏头对着身旁的小区仙笑道：“看来这次并没白来，没想到真是能够在这里得到那菩提化体涎的消息。”小医仙微微一笑，心头也是略有些小小的激动，控制厄难毒体所需要的三种条件，其中便是以菩提化体涎最难寻，而现在却是在这里得到了消息，若是能够在这场拍卖会中将之弄到手，那么距将毒体控制，便是……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黒皇阁核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        758,
+        759,
+        760
+      ],
+      "continuity_in": [
+        758
+      ],
+      "continuity_out": [
+        760
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 760,
+      "title": "找上门的麻烦",
+      "source": {
+        "start_line": 114065,
+        "end_line": 114176
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第760章导读】找上门的麻烦：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《找上门的麻烦》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零二章 找上门的麻烦能够被黑皇宗用来安顿这些来自黑角域的强者以及众多势力首领，黑皇阁自然是异常奢华，当萧炎三人进入那宽敞无比的大门时，望着其内那宛如广场般的大厅，顿时在心中啧啧的赞叹了一声，这黑皇宗，手笔果然不小武动乾坤。此刻的黑皇阁大厅之中，人声鼎沸，有着不少人影错错落落的分批而坐，这些人坐落的地方也极为讲究，大多都是彼此熟络或者属于同一个势力的，方……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "找上门的麻烦核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《找上门的麻烦》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        759,
+        760,
+        761
+      ],
+      "continuity_in": [
+        759
+      ],
+      "continuity_out": [
+        761
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 761,
+      "title": "白衣人",
+      "source": {
+        "start_line": 114177,
+        "end_line": 114306
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第761章导读】白衣人：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《白衣人》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零三章 白衣人桌子爆裂而开，木屑四处飞射，然而萧炎脸色却是没有丝毫变化，手中端着的茶杯，宛如平静湖面般，泛不起丝丝涟漪武动乾坤。对于那位面色阴狠的中年男子的森然声音，萧炎抬起眼来，轻瞥了他一眼，缓缓的道：“一些渣滓而已，杀了也就杀了。”见到萧炎居然直接承认了下来，周围那些众多围观者也是略感讶异，旋即心中有些恍然，看来这年轻人也不是什么省油的灯，不然的话……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "白衣人核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《白衣人》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        760,
+        761,
+        762
+      ],
+      "continuity_in": [
+        760
+      ],
+      "continuity_out": [
+        762
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 762,
+      "title": "莫崖",
+      "source": {
+        "start_line": 114307,
+        "end_line": 114430
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第762章导读】莫崖：xiao-xun-er, medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《莫崖》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零四章 莫崖出现在那奎刹面前的白衣人，容貌颇为年轻，看上去似乎也就二十六七的模样，一身白衣如雪，白衫飘飘，很是有着几分潇洒清逸的味道，白衣男子一张脸庞很是英俊，英俊之中又是带着一分阴柔气质，略显削薄的嘴唇微微抿着，嘴角噙着一抹淡淡笑意，笑意虽然给人一种和善的感觉，但对方那分阴柔气质，却是令得萧炎略有些不喜武动乾坤。这位白衣男子一出现，便是迅速成为了整个……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "莫崖核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        761,
+        762,
+        763
+      ],
+      "continuity_in": [
+        761
+      ],
+      "continuity_out": [
+        763
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 763,
+      "title": "强者云集",
+      "source": {
+        "start_line": 114431,
+        "end_line": 114548
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第763章导读】强者云集：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《强者云集》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零五章 强者云集萧炎三人照着先前那侍女所说的路线，在庞大的黑皇阁之中绕了半晌，终于是寻到了占地极为辽阔的休息之地武动乾坤。这片休息区域，坏境很是幽静，翠绿的绿荫簇拥着一栋栋楼阁以及院落，淡淡的清香之味飘散而开，令得人精神微微一振，这般清幽之地，倒是令得萧炎三人极为满意武动乾坤。这片庞大的住所区，分为天地人三处，人字号房便是那些在黑角域小有名声的强者或者……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "强者云集核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《强者云集》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        762,
+        763,
+        764
+      ],
+      "continuity_in": [
+        762
+      ],
+      "continuity_out": [
+        764
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 764,
+      "title": "二女暗手",
+      "source": {
+        "start_line": 114549,
+        "end_line": 114678
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第764章导读】二女暗手：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《二女暗手》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零六章 二女暗手翌日，当第一缕晨辉从天际倾洒而下时，沉寂了一夜的黑皇城，又是再度变得喧哗了起来，在那黑皇城之外，无数人犹如蚂蚁般的对着这座城市汇聚而来，今年黑皇宗所举办的这届大型拍卖会，所产生的影响以及吸引力，几乎能够算是百年之内黑角域最强武动乾坤。在黑皇宗的推动以及菩提化休涎的神奇效果之下，即便是黑角域一些久不露面的超强者，也是破例出关，而他们的目的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "二女暗手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《二女暗手》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        763,
+        764,
+        765
+      ],
+      "continuity_in": [
+        763
+      ],
+      "continuity_out": [
+        765
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 765,
+      "title": "破宗丹",
+      "source": {
+        "start_line": 114679,
+        "end_line": 114829
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第765章导读】破宗丹：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《破宗丹》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零七章 破宗丹目光缓缓的从面前，那十来个雪白的玉盒之中扫过，萧炎轻吸了一口气。将心中的波动压制而下，屈指一弹，硕大的“万兽鼎”便是凭空浮现。旋即重重的砸落下地，带起一道低沉的钟吟声响武动乾坤。虚眯着眼眸，萧炎脑海之中闪过再次闪过那“破宗丹”的炼制之法以及种种所需要注意之处，半晌之后，眼眸陡然睁开，漆黑眸中，碧绿火焰升腾而起武动乾坤。“噗!细微的声响中，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "破宗丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        764,
+        765,
+        766
+      ],
+      "continuity_in": [
+        764
+      ],
+      "continuity_out": [
+        766
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 766,
+      "title": "动静",
+      "source": {
+        "start_line": 114830,
+        "end_line": 114989
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第766章导读】动静：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《动静》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零八章 动静幽静的大厅之中，淡淡的花香缭绕，小医仙与紫研安静的坐于大厅之中，前者倒还好，后者的脸颊上，却是已经写满了不耐武动乾坤。“他都进密室两天时间了，怎么还没好啊？”再度坐立了片刻，紫研终于是耐不住的跳下来，道武动乾坤。“炼丹本就耗时，急不来的。”小医仙放下手中的一卷泛着淡黄之色的书籍，美眸轻瞥了一眼密室所在的方向，道：“再等等吧「应该要快了。”“……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "动静核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《动静》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        765,
+        766,
+        767
+      ],
+      "continuity_in": [
+        765
+      ],
+      "continuity_out": [
+        767
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 767,
+      "title": "莫天行",
+      "source": {
+        "start_line": 114990,
+        "end_line": 115137
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第767章导读】莫天行：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《莫天行》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百零九章 莫天行听得白衣女子运道略带惊异的声音，那萧厉等人也是一怔，目光与一旁的苏千对视了一眼，旋即方才略有些谨慎的点了点头，拱手道；“在下萧门副门主，萧厉武动乾坤。在说着话时，萧厉体内斗气也是悄然运转，他能够肯定他并未见过面前这位年轻的斗宗强者，而听对方先前那声音，却似是对他们萧门有点关系，而在搞不清这关系是椿还是坏的前提下，小心一点，总是没有坏事武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "莫天行核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《莫天行》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        766,
+        767,
+        768
+      ],
+      "continuity_in": [
+        766
+      ],
+      "continuity_out": [
+        768
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 768,
+      "title": "拍卖开始",
+      "source": {
+        "start_line": 115138,
+        "end_line": 115288
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第768章导读】拍卖开始：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拍卖开始》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十章 拍卖开始经过当日那炼丹所引起的风波之后，几乎整个黑皇阁的话题都是集中在了那实力恐怖的白衣女子以及那神秘的炼药师身上，很多人整日皆是守在那楼阁之外，试图想要窥视一点端倪，不过至从炼丹结束之后，那楼阁之中便是再没了半点动静，而碍于那白衣女子极重的杀气下，也没有人敢随意的靠近，因此不论外面传得如何沸沸扬扬，可那座楼阁之中的主人，却是依旧没有露般点面武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拍卖开始核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        767,
+        768,
+        769
+      ],
+      "continuity_in": [
+        767
+      ],
+      "continuity_out": [
+        769
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 769,
+      "title": "好戏开锣",
+      "source": {
+        "start_line": 115289,
+        "end_line": 115427
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第769章导读】好戏开锣：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《好戏开锣》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十一章 好戏开锣黑皇宗所举办拍卖会的地点，设置在城中心那面积异常宽敞的广场之中，不过即便是如此，可黑皇宗似乎也是有些小觑了此次拍卖会的吸引力武动乾坤。当萧炎三人来到那拍卖会场时，望着那几乎望不见尽头的黑压压人流，顿时有种元语的感觉，这些家伙，还真是一个比一个疯狂啊武动乾坤。不过还好，黑皇宗似也是料到了这种情况，因此也专门设有供给黑角域众强者的专用通道……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "好戏开锣核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《好戏开锣》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        768,
+        769,
+        770
+      ],
+      "continuity_in": [
+        768
+      ],
+      "continuity_out": [
+        770
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 770,
+      "title": "拍卖!",
+      "source": {
+        "start_line": 115428,
+        "end_line": 115545
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第770章导读】拍卖!：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拍卖!》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十二章 拍卖!随着那能量光圈的延伸而上，拍卖台的地面也是在一阵金属轴摩搽的低沉声响中，缓缓开裂开来，一个延伸至地底之中的阶梯通道，出现在了拍卖场无数人的注视之中武动乾坤。手机端阅读请登陆m.zhuaji.org阶梯浮现，旋即一名身着金色袍服的老者，连带笑容的缓步行出，此人一现身，一股暗蕴的磅礴气势，便是缓缓至其体内席卷而出，而在这股恐怖气势之下，巨大……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拍卖!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        769,
+        770,
+        771
+      ],
+      "continuity_in": [
+        769
+      ],
+      "continuity_out": [
+        771
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 771,
+      "title": "六合游身尺",
+      "source": {
+        "start_line": 115546,
+        "end_line": 115660
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第771章导读】六合游身尺：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《六合游身尺》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十三章 六合游身尺白发老者双手小心翼翼的将那赤红卷轴从银盘之上取出，然后对着拍卖场中微微举了举，含笑道：“此尺法斗技，名为游身尺，地阶中级斗技，乃是几百年之前横行大陆的尊者所创，此尺法也是其成名斗技，威力极强，唯一的缺陷，便是尺法略显偏门，若非是风语网手打要此中侵淫数载之人，想必颇难将之驾御。”听得那所谓的尊者的名头，拍卖场中也是响起道道惊呼声，斗尊……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "六合游身尺核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        770,
+        771,
+        772
+      ],
+      "continuity_in": [
+        770
+      ],
+      "continuity_out": [
+        772
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 772,
+      "title": "魔兽干尸",
+      "source": {
+        "start_line": 115661,
+        "end_line": 115766
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第772章导读】魔兽干尸：yao-lao, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魔兽干尸》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十四章 魔兽干尸随着时间的推移，拍卖会之内的气氛也是越来越高涨，这种时屑出现的拍卖品已经能够算是一些高级之物，那拍卖价格对于寻常来说，几乎宛如天价，因此此刻的大多数人都是已经只能抱着看戏的心态来观看这场拍卖会，不过能够亲眼看见那些大势力为了一些宝贝争得眼红脖子粗的，倒也算是不枉费来此一趟了武动乾坤。从先前拍卖那“游身尺”之后，萧炎也是少有出手，偶尔……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魔兽干尸核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《魔兽干尸》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        771,
+        772,
+        773
+      ],
+      "continuity_in": [
+        771
+      ],
+      "continuity_out": [
+        773
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 773,
+      "title": "拍卖干尸",
+      "source": {
+        "start_line": 115767,
+        "end_line": 115872
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第773章导读】拍卖干尸：yao-lao, medusa, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拍卖干尸》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十五章 拍卖干尸天雁九行翼，这是当初从那金雁-宗的宗主落雁天身上所得，在得到这卷飞行斗技的制造卷轴之后，萧炎也是常有研习，对这东西的制造有着一些了-解武动乾坤。总体说来，这天雁九行翼的确有着其独到之处，从某一种方面来说。这也是相当一种另类的进化飞行翼，因为这种飞行斗技的强悍程度。完全撒于炼制的材料，若是炼制的材料高阶，那么即便是对于一些斗宗阶别的强者……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拍卖干尸核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        772,
+        773,
+        774
+      ],
+      "continuity_in": [
+        772
+      ],
+      "continuity_out": [
+        774
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 774,
+      "title": "以物换物",
+      "source": {
+        "start_line": 115873,
+        "end_line": 115975
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第774章导读】以物换物：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《以物换物》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十六章 以物换物突如其来的报价声-，瞬-间便是在整个拍卖场之中引起了一片哗然，斗灵丹，皇极丹，这两种丹药，皆是能够直接使得斗王，斗皇实力提升的绝妙丹药，这种丹药，对于在座的一些强者来说，可是具备着相当之高的吸引力，毕竟封了斗王以及斗皇这一层次，想要提升那么一星的实力，那可不是简单-之事，有时即使是耗费几年之功，也并非是不可能而这种几丰辛苦的修炼，如今……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "以物换物核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        773,
+        774,
+        775
+      ],
+      "continuity_in": [
+        773
+      ],
+      "continuity_out": [
+        775
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 775,
+      "title": "菩提化体涎",
+      "source": {
+        "start_line": 115976,
+        "end_line": 116090
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第775章导读】菩提化体涎：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《菩提化体涎》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十七章 菩提化体涎整个拍卖场的人望着-这三言两语间，便是直接将这么一笔巨大的买卖给完成了的两人，皆是忍不住的抹了把额头上的冷汗，这两个家伙。果然不是寻常人啊，这般魄力。在场的恐怕没有几人能及武动乾坤。三枚斗灵丹，两枚皇极丹，听得逞从萧炎嘴中冒出的条件，拍卖场中不少人皆是狠狠的咽了一口唾沫。目光散发着绿油油的光芒将萧炎死死盯住，这种级别的丹药，一次性拿……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "菩提化体涎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《菩提化体涎》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        774,
+        775,
+        776
+      ],
+      "continuity_in": [
+        774
+      ],
+      "continuity_out": [
+        776
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 776,
+      "title": "各显本钱",
+      "source": {
+        "start_line": 116091,
+        "end_line": 116247
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第776章导读】各显本钱：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《各显本钱》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十八章 各显本钱随着莫天行那句话落下，巨大的拍卖场之中，却是反常的陷入了一片安静，无数道目光皆是对着那些贵宾席之上扫去，众人都知道，以这菩提化休涎的珍贵性，寻常人自然是不可能能够将之得到，而在场的唯一有资格与实合获取的，便是那些在贵宾席上的一些强者以及老牌势力武动乾坤。贵宾席上，也是一片异样的沉默，即便是一些先前蠢蠢欲动的大势力，此刻也是并未火急火燎……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "各显本钱核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《各显本钱》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        775,
+        776,
+        777
+      ],
+      "continuity_in": [
+        775
+      ],
+      "continuity_out": [
+        777
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 777,
+      "title": "最终胜者",
+      "source": {
+        "start_line": 116248,
+        "end_line": 116356
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第777章导读】最终胜者：xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《最终胜者》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百一十九章 最终胜者破宗丹，对于这种几乎是大名鼎鼎的丹药，莫天行不陌生，其务后齐山也是丝毫不陌生，此丹-药的作用，对于他们来说，也同样是拥有着莫大的吸引力武动乾坤。如今的黑皇宗，只有着莫夭行一名车宗强者，而这，便是黑皇宗一直屹立在黑角域之中而不倒的最主要原因，因此，也就足以瞧出，斗宗强者在这片-地域之中，拥有着何等的震慑力武动乾坤。这些年之中，黑皇宗一直……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "最终胜者核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        776,
+        777,
+        778
+      ],
+      "continuity_in": [
+        776
+      ],
+      "continuity_out": [
+        778
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 778,
+      "title": "鹰山老人",
+      "source": {
+        "start_line": 116357,
+        "end_line": 116456
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第778章导读】鹰山老人：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《鹰山老人》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十章 鹰山老人“鹰山老人。手机端阅读请登陆m.zhuaji.org“”嘴中轻轻的说出这般低语，萧炎也是缓缓的吸了一口气，袖袍中的拳头，却是猛然紧握了起来，没想到，即便是他拿出来破宗丹这种阶别的丹药，都是未能打动黑皇宗啊武动乾坤。“看来那人拿出的东西，比你的破宗丹还要珍贵啊。”一旁的小医仙，也是略有些惊讶的低声道，没想到那不起眼的老家伙，竟然能够拿出这……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "鹰山老人核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《鹰山老人》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        777,
+        778,
+        779
+      ],
+      "continuity_in": [
+        777
+      ],
+      "continuity_out": [
+        779
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 779,
+      "title": "见面",
+      "source": {
+        "start_line": 116457,
+        "end_line": 116613
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第779章导读】见面：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《见面》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十一章 见面手掌轻轻的拉了拉黑色斗篷，萧炎目光轻扫向面前的那一脸干笑的莫天行，语调平缓的道：“莫宗主。您不是看不上在下的斗宗丹么？”闻言，莫天行不由得尴尬一笑。他知道这是萧炎对他拍卖场中那事有些耿耿于怀，当下苦笑道：“岩枭先生，这事老夫也是无可奈何啊。这种事情，一般都是宗内长老商讨，他们执意觉得鹰山老人的东西更加适合我黑皇宗，那老夫也不好一意孤行啊武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "见面核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《见面》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        778,
+        779,
+        780
+      ],
+      "continuity_in": [
+        778
+      ],
+      "continuity_out": [
+        780
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 780,
+      "title": "相谈",
+      "source": {
+        "start_line": 116614,
+        "end_line": 116758
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第780章导读】相谈：yao-lao, medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《相谈》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十二章 相谈望着那张充斥着无奈之色的熟悉脸庞，大厅中的所有人都是怔了下来，旋即一道道难以置信的惊呼声从萧厉以及苏千大长老几人嘴中叫了出来武动乾坤。三弟？“萧炎？”将头顶上的黑色斗篷尽数褪下，旋即收入纳戒中，萧炎冲着那满脸都是不可置信的萧厉等人耸了耸肩，笑着迷：“怎么？不认识了？”听得这熟悉的声音与语调，萧厉等人方才缓缓的从震惊之中回过神来，当下脸庞瞬……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "相谈核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        779,
+        780,
+        781
+      ],
+      "continuity_in": [
+        779
+      ],
+      "continuity_out": [
+        781
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 781,
+      "title": "商议定计",
+      "source": {
+        "start_line": 116759,
+        "end_line": 117140
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第781章导读】商议定计：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《商议定计》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十三章 商议定计萧炎的话，的确让得萧-厉与苏千略微怔了一下，不过脸庞上倒并没有什么意外，对于萧-炎此行的目的。其实他们也隐隐间早便猜到了一些○“你也对那东西有兴趣？”苏千沉吟了片刻，手指轻点了点桌面，缓缓的道武动乾坤。“我这位朋友需要那东西救命。“”萧炎轻叹道武动乾坤。闻言，苏千两人一愣，旋即望向一旁的小医仙，微微皱眉，道：“能说说是-怎么回，事么？……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "商议定计核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《商议定计》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        780,
+        781,
+        782
+      ],
+      "continuity_in": [
+        780
+      ],
+      "continuity_out": [
+        782
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 782,
+      "title": "分尸",
+      "source": {
+        "start_line": 117141,
+        "end_line": 117270
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第782章导读】分尸：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《分尸》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十四章 分尸望着那出现在房间之中的魔备干尸-，萧炎微微一笑，身形一动，跃下床榻，然后缓步行至干尸身旁，目光缇缓的上下打量着武动乾坤。这具魔兽干尸由于死亡-时间极为长久，因此浑身皮肉都是干枯的紧缩在一次，导致萧炎也是不能从这外形上看出这东西究竟是什么魔兽，不过对于这魔兽的本体，萧炎也没多大的兴趣，他唯一感兴趣的，便是这魔兽的那对玉石骨翼，能助他炼制出一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "分尸核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《分尸》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        781,
+        782,
+        783
+      ],
+      "continuity_in": [
+        781
+      ],
+      "continuity_out": [
+        783
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 783,
+      "title": "青红血液",
+      "source": {
+        "start_line": 117271,
+        "end_line": 117406
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第783章导读】青红血液：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《青红血液》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十五章 青红血液“你知道这魔兽干尸的珍贵之处在哪里，对不对？”眼中炽热缓缓内敛，萧炎突然盯着桌旁的紫研，略有些热切的道，若非这妮子提醒，恐怕他永远也想不到，这爪牙，在用异火炙烤之后，居然会出现如此神-奇的一-幕武动乾坤。望着手伞这虽然短小，可异常锋利的青红骨尖，萧炎握着它轻轻的在桌面之上一划，旋即那用实木制作的坚硬桌面，便是犹如豆腐一般，凭空裂开，那……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "青红血液核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        782,
+        783,
+        784
+      ],
+      "continuity_in": [
+        782
+      ],
+      "continuity_out": [
+        784
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 784,
+      "title": "七阶魔核",
+      "source": {
+        "start_line": 117407,
+        "end_line": 117575
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第784章导读】七阶魔核：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《七阶魔核》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十六章 七阶魔核眼神炽热的望着地面上那张巨大的魔兽枯皮以及干瘪的脑袋，虽然这东西看上去几乎-就与一对垃圾没有什么区别，可经过先前的那一幕，萧炎已经知道，这神秘的魔兽干尸。可与寻常魔兽不一样，它的所有宝贝，-都是以一种诡异的方-式，隐藏在常人难以知道的地方武动乾坤。袖袍轻挥，一股柔和的劲风直接是将那庞大的魔兽枯皮吹拂得悬浮在半空中，萧炎屈指一弹，一股碧……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "七阶魔核核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《七阶魔核》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        783,
+        784,
+        785
+      ],
+      "continuity_in": [
+        783
+      ],
+      "continuity_out": [
+        785
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 785,
+      "title": "心火...",
+      "source": {
+        "start_line": 117576,
+        "end_line": 117714
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第785章导读】心火...：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《心火...》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十七章 心火...望着那悬浮在半空中的青红色晶体，萧炎轻吸了一口气，好半晌之后。方才压抑下心中那抹激动，手掌微曲，一股柔和的吸力爆发而出武动乾坤。对于这股柔和的劲力，那枚隐隐间散发着可怕能量波动的魔核，却并未有所抵抗，而是极为顺从的从半空掠下，最后悬浮在距萧炎手掌两寸的地方武动乾坤。微微闪烁的青红光芒，照耀着萧炎的脸庞，在那对潦黑眸子中，反射出一股妖……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "心火...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《心火...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        784,
+        785,
+        786
+      ],
+      "continuity_in": [
+        784
+      ],
+      "continuity_out": [
+        786
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 786,
+      "title": "尾随",
+      "source": {
+        "start_line": 117715,
+        "end_line": 117799
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第786章导读】尾随：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《尾随》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十八章 尾随大厅之中，待得萧-炎与萧厉赶来之时，只见厅中已有不少人「甚至于连小医仙与紫研都已在其中武动乾坤。手机端阅读请登陆m.zhuaji.org苏千-黯然坐于大厅中，瞧得那进门的萧炎二人，不由得微微一笑，而一旁早有眼疾手快的侍女恭敬的将两种空椅摆放在首位之上武动乾坤。两人缓步讦进-大厅，然后也不客气。径直在椅上坐下，这才对着苏千笑道：“大长老，有……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "尾随核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        785,
+        786,
+        787
+      ],
+      "continuity_in": [
+        785
+      ],
+      "continuity_out": [
+        787
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 787,
+      "title": "探测",
+      "source": {
+        "start_line": 117800,
+        "end_line": 117944
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第787章导读】探测：xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《探测》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百二十九章 探测笼罩在一层-诡异-氛围-的山林中，突兀间缓缓的凝固了起来，而那凝固的念头，便是那位于后方的大群跟随者中，十来名面色阴翳的人影，率先缓步走出，那从他们体内所渗透而出的凶狠气息，令得人知道，这些家伙，皆是一些为了利益金钱，能够真正的化作滚刀肉的狠货武动乾坤。对于这突然间行出的十几道人影。那后方一直吊在-鹰山老人身后的大群跟随者，却是缓步停了下……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "探测核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《探测》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        786,
+        787,
+        788
+      ],
+      "continuity_in": [
+        786
+      ],
+      "continuity_out": [
+        788
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 788,
+      "title": "灵魂分身",
+      "source": {
+        "start_line": 117945,
+        "end_line": 118113
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第788章导读】灵魂分身：yao-lao, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《灵魂分身》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十章 灵魂分身在萧炎灵魂感知力的探测下，只见得邵灰视之下，却并非是如同其他人一般燃烧着熊熊斗气，反而是笼罩着一层虚幻的气息，这种气息，莽炎并不陌生，因此这便是灵魂力量!而也就是说，这下方山林之中的鹰山老人，并非是真身，而是由其灵魂凝聚成形的一个假体!“难怪这老家伙会如此招摇的出城，原来这只是一道灵魂假体，现在的鹰山老人，恐怕真身早就应该拿着菩提化休涎……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "灵魂分身核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《灵魂分身》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        787,
+        788,
+        789
+      ],
+      "continuity_in": [
+        787
+      ],
+      "continuity_out": [
+        789
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 789,
+      "title": "果然是你",
+      "source": {
+        "start_line": 118114,
+        "end_line": 118249
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第789章导读】果然是你：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《果然是你》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十一章 果然是你突如其来的笑声，也是瞬间令得场中众人脸色一变，旋即目光猛然转向声音传来之处，只见得在那山坳之外的一片高耸林尖，三道身影突兀而立，当先一人，一身黑袍，赫然便是萧炎武动乾坤。目光瞧得萧炎三人，那鹰山老人与莫天行皆是微微一怔，旋即脸色皆是有着不小的变化，好片刻后，那莫天行方才笑呵呵的道：“原来是岩枭先生，没想到连你也看穿了这鹰老怪的诡计啊。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "果然是你核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        788,
+        789,
+        790
+      ],
+      "continuity_in": [
+        788
+      ],
+      "continuity_out": [
+        790
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 790,
+      "title": "同门再见",
+      "source": {
+        "start_line": 118250,
+        "end_line": 118349
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第790章导读】同门再见：yao-lao, xiao-xun-er, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《同门再见》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十二章 同门再见出现在萧炎面前的那张脸庞，他并不陌生，因为当年，正是他，亲手了结了他的性命，而此人，正是药老的第一位弟子，萧炎的师兄，那位当初黑角域的丹皇，韩枫！如今的韩枫，模样比起当年，要显得更加的苍老一些，那对望着萧炎的眼瞳，充斥着森然与狰狞，当年，若非是萧炎，他本可以继续在这黑角域称霸，但最后，却是被萧炎彻底瓦解，不仅失去了炙手可热的地位，而且……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "同门再见核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《同门再见》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        789,
+        790,
+        791
+      ],
+      "continuity_in": [
+        789
+      ],
+      "continuity_out": [
+        791
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 791,
+      "title": "五大斗宗",
+      "source": {
+        "start_line": 118350,
+        "end_line": 118473
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第791章导读】五大斗宗：xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《五大斗宗》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十三章 五大斗宗天空之上，一道苍老的白发人影悬空而立，笑吟吟的望着下方众人，看其面貌，赫然便是内院的苏千大长老武动乾坤。“呵呵，好戏原来是在这边，老夫倒是差点错过了去。”苏千笑眯眯的从天空落下身来，最后停在萧炎三人身旁，目光望向韩枫，眼中也是闪过一抹惊异：“没想到你不仅没死，反而突破到了斗宗阶别，当真是让人意外啊。”“这也是托了你们的福啊。”韩枫面色……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "五大斗宗核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《五大斗宗》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        790,
+        791,
+        792
+      ],
+      "continuity_in": [
+        790
+      ],
+      "continuity_out": [
+        792
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 792,
+      "title": "局势转变",
+      "source": {
+        "start_line": 118474,
+        "end_line": 118654
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第792章导读】局势转变：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《局势转变》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十四章 局势转变望着落进手-中-的这个-玉盒，萧炎一时间有些回不过神来，先前他只是随意出手，-根本未曾-想到过，这东西竟然这么轻易的便是落进他手中……失神了-瞬间，萧炎迅速回过神来，手掌闪电般的将玉盒打开，旋即。便是见到悬-浮在-玉盒，之中，那宛如活物一般缓缓悬空蠕动的翡翠色菩提化体涎武动乾坤。“竟然是真的？”目光呆滞的望着那团菩提化体涎，在场除了鹰……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "局势转变核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        791,
+        792,
+        793
+      ],
+      "continuity_in": [
+        791
+      ],
+      "continuity_out": [
+        793
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 793,
+      "title": "大战起",
+      "source": {
+        "start_line": 118655,
+        "end_line": 118769
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第793章导读】大战起：xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大战起》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十五章 大战起韩枫充斥着杀意的冷喝声，打破了这片区域凝固的气氛，魔炎谷与黑皇宗的强者，皆是在这一刻爆发出惊天杀意，目光森然的望着萧炎一行人，而且也还趁机双方分出了一部分强者，对着已经出现在这片天际的萧门与迦南学院的强者迎去武动乾坤。此次魔炎谷与黑皇宗所出动的强者，皆是宗内精锐力量，人员实力极为不弱，论起场中局面，表面看上甚至是要压萧门与迦南学院一筹，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大战起核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大战起》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        792,
+        793,
+        794
+      ],
+      "continuity_in": [
+        792
+      ],
+      "continuity_out": [
+        794
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 794,
+      "title": "化生火",
+      "source": {
+        "start_line": 118770,
+        "end_line": 118881
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第794章导读】化生火：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《化生火》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十六章 化生火灰褐色的火焰，悬浮在萧炎头顶上空，宛如一团灰色太阳般，不断的散发出一种令得空间都是为之扭曲的恐怖高温，这种温度，已经非常接近亍当年萧炎所得到的那种青莲地心火。”当然，这也仅仅只是接近而已，异火，是这片天地独一无二的东西，无可复制，这一点，萧炎心中非常清楚，虽然这所谓的“弄焰决”颇有玄妙，但还远远达不到凭空制造异火的地步，充其量的极限程度……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "化生火核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《化生火》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        793,
+        794,
+        795
+      ],
+      "continuity_in": [
+        793
+      ],
+      "continuity_out": [
+        795
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 795,
+      "title": "收服",
+      "source": {
+        "start_line": 118882,
+        "end_line": 119032
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第795章导读】收服：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《收服》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十七章 收服蔚蓝天空之上，巨大的灰褐色火鸟振翅悬浮天际，一**炽热的高温从其体内席卷而出，令得这片天际的空气都是变得虚幻与扭曲了起来，每一次这所谓的“星空火夙”振动双翼，周围空间便是会传来一阵细微的波动，炽热的狂风在这片天际呼啸，令得人满头汗水，犹如处于沙漠之中一般…当这体型庞大的灰褐色火鸟出现时，方言三人脸色明显变得苍白了许多，而且气息，也是迅速萎……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "收服核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        794,
+        795,
+        796
+      ],
+      "continuity_in": [
+        794
+      ],
+      "continuity_out": [
+        796
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 796,
+      "title": "击杀",
+      "source": {
+        "start_line": 119033,
+        "end_line": 119156
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第796章导读】击杀：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《击杀》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十八章 击杀方言三人目光呆滞的望着萧炎手掌之上的那团深青色火焰罩之内的血色火焰，再听得萧炎那笑语，心头顿时一堵，脸庞上迅速涌上一抹异样红润，噗嗤一声，三口鲜血几乎是不约而同的爆喷而出武动乾坤。那只星空火凰，乃是由方言三人毕生大部分斗气所凝聚，而且再加上有着本体精血的缘故，三人与火凰之中也是有着一丝感应，然而就在那深青色火焰罩形成之刻，那一丝感应，填-……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "击杀核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        795,
+        796,
+        797
+      ],
+      "continuity_in": [
+        795
+      ],
+      "continuity_out": [
+        797
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 797,
+      "title": "暴走的紫研",
+      "source": {
+        "start_line": 119157,
+        "end_line": 119259
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第797章导读】暴走的紫研：yao-lao, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《暴走的紫研》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百三十九章 暴走的紫研目光冷漠的望着那迅速失去生机的方言，萧炎轻吐了一口气，手掌一招，前者手指上的纶戒便是自动脱落，最后落入萧炎手中武动乾坤。由于方言已陛落，那纳戒之中的灵魂印记也是随之消散，因此萧炎的灵魂力量毫无阻碍的便是进入到了那纳戒之中，一阵翻腾，片刻后。一卷宛如火焰般的卷轴，出现在了其手掌之上，在卷轴的一侧，“弄焰决”三个大字，分外刺眼武动乾坤。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "暴走的紫研核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《暴走的紫研》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        796,
+        797,
+        798
+      ],
+      "continuity_in": [
+        796
+      ],
+      "continuity_out": [
+        798
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 798,
+      "title": "喝退",
+      "source": {
+        "start_line": 119260,
+        "end_line": 119386
+      },
+      "arc_id": "black-corner-unification",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第798章导读】喝退：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《喝退》的关键进程。在black-corner-unification的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百四十章 喝退“砰！”天空之上，两道身谬猛然交错。拳脚相接，一道如惊雷般的炸声，在天际低沉的响彻而起武动乾坤。身影略一接触，便是迅速闪掠而退，其中一人脚步略有些散乱，显然是在那般凶猛对碰中吃了一个绪武动乾坤。“嘿嘿，务千大长老，你真当我还是当年那个韩枫不成？”脚步轻踏虚空，韩枫稳住身形，对着对面不远处脚步踉跄后退的苏千冷笑道武动乾坤。“没想到这几丰你竟然……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "喝退核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        797,
+        798,
+        799
+      ],
+      "continuity_in": [
+        797
+      ],
+      "continuity_out": [
+        799
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 799,
+      "title": "离去",
+      "source": {
+        "start_line": 119387,
+        "end_line": 119483
+      },
+      "arc_id": "central-plains-entry",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第799章导读】离去：xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《离去》的关键进程。在central-plains-entry的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百四十一章 离去见到那莫天行缓缓向后退去，萧炎也是微微一笑，然而手中的佛怒火遂，却是没有丝毫沦散的意思，反而是在体内斗气的催动下，变得越加的璀璨起来，而且小医仙也是趁机闪身出现在萧炎身旁，将其护于身后，清冷目光，锁定着退后的莫天行，这些老狐狸的话，可是没有丝毫的可信程度武动乾坤。不。过在萧炎等人那虎视眈眈的目光中，莫天行倒的确不敢耍什么花招。乖乖的后退了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "离去核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《离去》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        798,
+        799,
+        800
+      ],
+      "continuity_in": [
+        798
+      ],
+      "continuity_out": [
+        800
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 800,
+      "title": "变故",
+      "source": {
+        "start_line": 119484,
+        "end_line": 119613
+      },
+      "arc_id": "central-plains-entry",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "turning_point"
+      ],
+      "teaser": "【第800章导读】变故：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《变故》的关键进程。在central-plains-entry的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八百四十二章 变故高林密布的森林之中，葱郁的树枝蔓延而开，犹如巨大的蜘蛛网一嫩，椅整片森林笼罩而进，而在这些巨树的遮掩下，即便是天空之上的阳光，也是难以倾洒而进，因此，森林之中的光线，看上去略有些显得昏暗武动乾坤。一处光线透过茂密树林的缝隙，化为一道半尺宽的光柱投射而下，最后照射在森林之中盘腿休息的大群人影身上武动乾坤。这群人影人数约莫在十五六位左右，个个……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "变故核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《变故》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        799,
+        800,
+        801
+      ],
+      "continuity_in": [
+        799
+      ],
+      "continuity_out": [
+        801
+      ],
+      "analysis_status": "final"
+    }
+  ]
+}

@@ -1,0 +1,4954 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "batch-022",
+  "status": "ready_for_integration",
+  "source_sha256": "ad75aa30839896f8df0ec550399720ab35452693fe66d49ced410bb4468cf706",
+  "owned_range": [
+    2101,
+    2200
+  ],
+  "read_range": [
+    2099,
+    2202
+  ],
+  "skeleton_version": "2026-08-29-final-v1",
+  "chapters": [
+    {
+      "id": 2101,
+      "title": "金蝉岭",
+      "source": {
+        "start_line": 345265,
+        "end_line": 345451
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《金蝉岭》展开，推动后续主线进展。",
+      "summary": "方尘等人初到天外天，他劝混沌噬心虫和八哥若被大能看中可拜师，但二者坚决拒绝，只愿追随方尘。火璃大帝感慨琉璃剑宗众人齐心，但也遗憾师兄琉璃真仙去了终焉之地无法相助。随后，蓝雨大帝引导众人抽取洞府，方尘等人分别抽中不同编号的洞府，得知洞府虽免费使用五百年，但之后需缴纳租金。接着，双方互在身份铭牌上烙印灵魂印记以确立管辖关系。最后，蓝雨大帝带领众人进入金蝉岭，众人被吞噬之力吸入一个充满血腥味、红日高悬且压迫感极强的灰蒙空间。蓝雨大帝吹笛引来四只金蝉傀儡，告知众人这些傀儡是百事通，会一直追随他们，且形态会随杀戮值改变。",
+      "key_events": [
+        "方尘劝混沌噬心虫与八哥拜师遭拒，众人决心抱团",
+        "抽取洞府并了解租金规则，与蓝雨大帝互烙灵魂印记确立管辖",
+        "进入金蝉岭异空间，获赠金蝉傀儡"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘等人在天外天落脚，洞府免费期500年后需交租（年均200贡献值）",
+        "核心线索：金蝉岭内环境诡异（血腥、红日、强压），金蝉傀儡会随杀戮值改变形态"
+      ],
+      "evidence_chapters": [
+        2101
+      ],
+      "continuity_in": [
+        2100
+      ],
+      "continuity_out": [
+        2102
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2102,
+      "title": "噬心虫的洞府",
+      "source": {
+        "start_line": 345452,
+        "end_line": 345644
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《噬心虫的洞府》展开，推动后续主线进展。",
+      "summary": "蓝雨大帝向方尘等人详细说明了天外天的残酷生存法则与噬心虫的七级进化形态，并解释了杀戮值决定修炼资源与居所层级的机制。方尘等人滴血认主金蝉后，蓝雨大帝离去。火璃大帝鉴于金蝉岭的混乱无序，提议众人暂不分头行动。于是混沌噬心虫激活身份铭牌，带领众人前往其破败洞府。迟幽吞噬杂物打开禁制后，被洞府强行吸入，方尘欲入却被禁制阻拦，传讯得知洞内帝之源力充沛。然而，就在众人惊疑之际，十几股强大气息骤然降临，一位光头符文大帝率众逼近，局势瞬间剑拔弩张。",
+      "key_events": [
+        "蓝雨大帝介绍天外天规则与噬心虫七级形态，方尘等人滴血认主金蝉",
+        "混沌噬心虫激活铭牌进入破败洞府，被禁制吸入，方尘被阻于外",
+        "光头符文大帝率众逼近，局势骤然紧张"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "天外天以杀戮值决定居所层级（金蝉岭最低，仙人峰最高），噬心虫有七级进化形态",
+        "混沌噬心虫洞府内帝之源力充沛，但方尘等人被禁制阻隔在外，且正面临外敌来袭"
+      ],
+      "evidence_chapters": [
+        2102
+      ],
+      "continuity_in": [
+        2101
+      ],
+      "continuity_out": [
+        2103
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2103,
+      "title": "我可以杀他们吗?",
+      "source": {
+        "start_line": 345645,
+        "end_line": 345834
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《我可以杀他们吗?》展开，推动后续主线进展。",
+      "summary": "一群老牌大帝闯入方尘等人的新洞府，趾高气昂要求交出洞府。方尘从金蝉处得知，新洞府因蕴含丰富帝之源力常遭抢夺，新人虽有百年保护期，但主动出手会失去保护，不过杀人并不违规。方尘决定不再隐忍，传音同伴直接开干。面对矮小男子的催促，方尘果断召唤补天神女以黑色石头重创众人，随后八哥化作三千丈巨鸟，拉出漫天巨臭鸟屎将大帝们淹没。鸟屎不仅奇臭无比，更带有强烈腐蚀性，糊住众人口鼻眼，任凭他们如何挣扎也无法挣脱，只能惨叫呕吐。局势瞬间逆转，这群老牌大帝惨遭“生化武器”折磨，狼狈不堪。",
+      "key_events": [
+        "方尘得知新人保护机制漏洞，决定主动出击",
+        "方尘召唤补天神女重创来犯大帝",
+        "八哥释放“生化鸟屎”淹没并腐蚀众大帝，局势逆转"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "新人洞府因富含帝之源力常遭抢夺，新人有百年保护期，但主动出手会失去保护，杀人却不违规",
+        "八哥的鸟屎具有强烈腐蚀性和恶臭，是极其强力的“生化武器”"
+      ],
+      "evidence_chapters": [
+        2103
+      ],
+      "continuity_in": [
+        2102
+      ],
+      "continuity_out": [
+        2104
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2104,
+      "title": "我打光头佬最有经验了",
+      "source": {
+        "start_line": 345835,
+        "end_line": 346027
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《我打光头佬最有经验了》展开，推动后续主线进展。",
+      "summary": "云溪谷爆发激烈战斗，方尘等人以鸟屎奇招攻击金熊大帝等老牌强者。金熊大帝等人虽炸掉受污皮肤脱身，却损耗了力量，且因新人主动出手导致保护机制失效，金熊大帝怒而下令格杀。火璃大帝欲迎战光头佬，方尘却自信表示“打光头佬最有经验”，率先持浮仙剑冲杀。然而硬碰之下，方尘连人带剑被金熊大帝的金锤砸飞。火璃大帝随后使出“一重浪”剑法，仍被对方以绝对力量击溃，他震惊于金熊大帝远超血狱魔帝的恐怖实力，提议动用“十重浪”一搏。与此同时，八哥与混沌噬心虫遭其他大帝围攻，惨叫连连。方尘团队陷入全面苦战，局势岌岌可危。",
+      "key_events": [
+        "方尘团队以鸟屎奇袭金熊大帝等人，金熊大帝脱身后因新人保护机制失效而下令格杀。",
+        "方尘自信迎战光头佬却被金熊大帝一锤砸飞，火璃大帝使出“一重浪”仍不敌，提议动用“十重浪”。",
+        "八哥与混沌噬心虫遭其他大帝围攻，方尘团队陷入苦战。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘等新人主动攻击金熊大帝，导致新人保护机制失效，面临被反杀的危机。",
+        "核心线索：金熊大帝实力远超预期，方尘与火璃大帝均不敌，火璃大帝准备动用绝招“十重浪”扭转战局。"
+      ],
+      "evidence_chapters": [
+        2104
+      ],
+      "continuity_in": [
+        2103
+      ],
+      "continuity_out": [
+        2105
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2105,
+      "title": "杀灵鼠大帝",
+      "source": {
+        "start_line": 346028,
+        "end_line": 346214
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《杀灵鼠大帝》展开，推动后续主线进展。",
+      "summary": "混沌噬心虫遭遇危机向方尘呼救，方尘立刻出手救援。他激活琉璃金身，以生命之眼洞察敌人大帝寿元，发现灵鼠大帝仅剩千年寿元。方尘施展浮仙绝影身法，以灌输黄昏之力的浮仙剑偷袭，一剑破防，瞬间吸干灵鼠大帝寿元将其秒杀。浮仙剑反馈特殊能量，助方尘命轮减缓寿元流失。灵鼠大帝之死激怒金熊大帝，欲碎尸万段方尘。火璃大帝挺身而出，以“二重浪”拦截却被砸飞。随后火璃大帝施展“三重浪”，速度如瞬移般再次挡在金熊大帝面前，形成滔天剑气海洋。尽管火璃大帝力量不及金熊，但其速度与剑势层层暴涨，一次次被砸飞又一次次折返，死死缠住金熊大帝，令观战众大帝震惊不已。",
+      "key_events": [
+        "方尘以黄昏之力一剑秒杀灵鼠大帝，浮仙剑反馈能量助其命轮减缓寿元流失",
+        "金熊大帝暴怒欲杀方尘，火璃大帝以“二重浪”与“三重浪”死缠拦截",
+        "火璃大帝速度惊人且剑势层层暴涨，虽被砸飞却死死拖住金熊大帝，震惊全场"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘晋升大帝后，黄昏之力极为恐怖，可一剑吸干仅剩千年寿元的灵鼠大帝，且浮仙剑反馈的能量能减缓自身命轮寿元流失",
+        "火璃大帝的剑道造诣极高，其“三重浪”身法速度堪比瞬移，剑势越战越强，足以与金熊大帝周旋"
+      ],
+      "evidence_chapters": [
+        2105
+      ],
+      "continuity_in": [
+        2104
+      ],
+      "continuity_out": [
+        2106
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2106,
+      "title": "狼刀大帝",
+      "source": {
+        "start_line": 346215,
+        "end_line": 346395
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《狼刀大帝》展开，推动后续主线进展。",
+      "summary": "金熊大帝被火璃大帝缠住，其余大帝趁机围攻方尘，八哥与混沌噬心虫也上前助阵。方尘盯上了寿元仅剩两千五百年、实力较弱的狼刀大帝，施展身法逼近。狼刀大帝吸取前车之鉴，果断激活大帝印记，施展法相天地与“天狼斩”。然而方尘使出“诸神的黄昏”领域，瞬间击溃其法相天地并造成反噬，紧接着以“一重浪”与狼刀大帝刀剑相碰。碰撞后，方尘虽被劈飞，但狼刀大帝却遭重创，寿元疯狂流逝一千五百年，瞬间苍老。众大帝震惊不已，金熊大帝传音询问才知方尘拥有削寿元的邪门手段，众人心生畏惧，担忧狼刀大帝再挨一剑便会陨落。就在金熊大帝分心之际，火璃大帝抓住战机，施展出“九重浪”，剑气化作滔天巨浪席卷而去。",
+      "key_events": [
+        "方尘施展“诸神的黄昏”领域击溃狼刀大帝法相天地，并以“一重浪”削去其一千五百年寿元",
+        "狼刀大帝瞬间苍老，众大帝震惊畏惧，担忧其再挨一剑便会陨落",
+        "火璃大帝趁金熊大帝分心，施展出“九重浪”发起反击"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘拥有削寿元的特殊手段（诸神的黄昏），狼刀大帝仅剩一千年寿元，处于极度危险中",
+        "火璃大帝与金熊大帝的战斗仍在继续，火璃大帝占据主动使出九重浪"
+      ],
+      "evidence_chapters": [
+        2106
+      ],
+      "continuity_in": [
+        2105
+      ],
+      "continuity_out": [
+        2107
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2107,
+      "title": "连杀两位大帝",
+      "source": {
+        "start_line": 346396,
+        "end_line": 346594
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《连杀两位大帝》展开，推动后续主线进展。",
+      "summary": "火璃大帝携灭天之威挥剑砍向金熊大帝，金熊虽动用天地本源，却仍被未动用天地本源的火璃一剑击飞，令上百位观战大帝震惊不已。火璃乘胜追击，使出“十重浪”，红色剑光瞬间破碎金熊护体异象并将其一分为二，金熊坠入剑气之海爆体化为血雾。与此同时，方尘趁狼刀大帝分神之际，将体内仅剩的黄昏之力灌入浮仙剑，使出“二重浪”将其一剑斩杀。金熊大帝虽血肉重生，但见同伴被杀、自身重伤，心生畏惧，撂下狠话后率众撤退。此战方尘与火璃连杀重创两位大帝，威震四周，无人敢轻易出手。火璃力竭服药恢复，方尘警惕四周，此时一位布衣大帝体内残影走出，缓缓逼近方尘。",
+      "key_events": [
+        "火璃大帝以“十重浪”破碎金熊护体异象并将其爆体化为血雾",
+        "方尘趁狼刀大帝分神，以“二重浪”配合黄昏之力将其一剑斩杀",
+        "金熊大帝复活后畏战率众撤退，布衣大帝残影现身逼近方尘"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "火璃与方尘联手，在不到半盏茶内重创金熊、斩杀狼刀，威震上百位观战大帝",
+        "火璃力竭需丹药恢复，方尘警惕四周；布衣大帝体内残影走向方尘，暗示新危机"
+      ],
+      "evidence_chapters": [
+        2107
+      ],
+      "continuity_in": [
+        2106
+      ],
+      "continuity_out": [
+        2108
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2108,
+      "title": "星云宫",
+      "source": {
+        "start_line": 346595,
+        "end_line": 346736
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《星云宫》展开，推动后续主线进展。",
+      "summary": "方尘在金蝉岭遭遇一位自称来自天域的布衣男子九阳大帝，对方主动示好并表示愿为其解惑。方尘询问方才被击退的金熊大帝等人底细，九阳大帝透露，那伙人隶属金蝉岭五大势力之一的“星云宫”，成员近三万，宫主实力超群却甘愿偏安一隅称霸。方尘击杀的灵鼠大帝与狼刀大帝在组织中实力靠前。九阳大帝警告，星云宫必会报复，建议方尘逃往其敌对势力剑盟、冰雪殿或紫光阁的领地避难。然而方尘毫无惧色，反而期待强敌挑战，展现出深不可测的底气。九阳大帝得知方尘道号浮仙、来自蛮荒古域后颇为惊讶，因该地曾孕育混沌大仙与琉璃真仙等传奇强者。本章以方尘决定直面星云宫报复、两人完成初步结识告终。",
+      "key_events": [
+        "九阳大帝主动接触方尘，透露金熊大帝等人的底细",
+        "方尘得知对方隶属庞大势力“星云宫”，宫主实力极强却称霸一方",
+        "九阳大帝建议方尘逃往敌对势力避难，方尘毫无惧色决定迎战"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "星云宫是金蝉岭五大势力之一，有近三万人，宫主实力极强，与剑盟、冰雪殿、紫光阁为敌对关系",
+        "方尘来自蛮荒古域，道号浮仙，该地曾出过混沌大仙和琉璃真仙等强者"
+      ],
+      "evidence_chapters": [
+        2108
+      ],
+      "continuity_in": [
+        2107
+      ],
+      "continuity_out": [
+        2109
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2109,
+      "title": "自混沌大仙的家乡",
+      "source": {
+        "start_line": 346737,
+        "end_line": 346893
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《自混沌大仙的家乡》展开，推动后续主线进展。",
+      "summary": "九阳大帝凭借九个分身的优势，冒险与实力强悍的方尘接触，探明其来历。当得知方尘等人竟来自“蛮荒古域”——人族顶级强者混沌大仙的家乡时，在场的大帝们无不震惊感叹。众人深知蛮荒古域虽鲜有人至，但来者皆实力超凡，如琉璃真仙已臻顶尖真仙之境。九阳大帝透露，方尘道号浮仙，刚入金蝉岭便击杀了星云宫成员，且拒绝逃离，决心硬撼强敌。面对即将到来的报复，方尘唤醒了实力大增的宠物小鹤，告知其身处天外天天河图内的险境。因火璃等人激战消耗过大需时间恢复，方尘果断让小鹤将火璃、八哥等收入灵鹤空间，并分配了两具大帝尸体以备后用。众人进入灵鹤空间后，皆惊叹其面积与能量激增，纷纷鼓励小鹤。最终，方尘将众人安顿妥当，独自留在原地，静候星云宫的人前来算账。",
+      "key_events": [
+        "九阳大帝探明方尘等人来自混沌大仙的家乡蛮荒古域，众大帝震惊。",
+        "方尘击杀星云宫成员后拒绝逃离，决定独自断后。",
+        "方尘唤醒小鹤，将消耗过大的火璃等人收入灵鹤空间，并分配大帝尸体。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘等人来自混沌大仙的家乡蛮荒古域，实力非凡。",
+        "方尘刚入金蝉岭便击杀星云宫两位大帝，正独自等待对方报复。"
+      ],
+      "evidence_chapters": [
+        2109
+      ],
+      "continuity_in": [
+        2108
+      ],
+      "continuity_out": [
+        2110
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2110,
+      "title": "灵钟大帝",
+      "source": {
+        "start_line": 346894,
+        "end_line": 347095
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《灵钟大帝》展开，推动后续主线进展。",
+      "summary": "本章开篇，小鹤将灵鼠大帝的尸体收入灵鹤空间供混沌噬心虫吞噬以提升实力，方尘则用炼天炉炼化狼刀大帝的尸体，吸收帝之源力使自身修为快速提升。另一边，战败的金熊大帝等人逃回据点，因无力复仇，决定向执事灵钟大帝求助。金熊大帝查明方尘等人来自蛮荒古域且无深厚背景后，便带人找上灵钟大帝。灵钟大帝得知手下被欺，勃然大怒，立刻率数十位大帝前往云溪谷找场子。方尘感知到强敌来袭，毫无惧色，甚至表示在天河图内大不了被杀复活。火璃大帝虽有担忧，但也想一睹方尘的真正实力。本章在双方剑拔弩张的对峙前夕落下帷幕。",
+      "key_events": [
+        "方尘与混沌噬心虫分别吞噬炼化灵鼠、狼刀大帝尸体以提升修为",
+        "金熊大帝查明方尘等人无深厚背景后，向执事灵钟大帝求助",
+        "灵钟大帝率众前往云溪谷，方尘毫无惧色准备迎战"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘等人来自蛮荒古域，因无背景被丢在金蝉岭，金熊大帝因此认为他们好欺负",
+        "灵钟大帝实力远超金熊大帝，率数十位大帝前往云溪谷为手下找场子"
+      ],
+      "evidence_chapters": [
+        2110
+      ],
+      "continuity_in": [
+        2109
+      ],
+      "continuity_out": [
+        2111
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2111,
+      "title": "雷火大阵",
+      "source": {
+        "start_line": 347096,
+        "end_line": 347246
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《雷火大阵》展开，推动后续主线进展。",
+      "summary": "方尘飞至云溪谷上空，与灵钟大帝等人对峙。灵钟大帝质问方尘为何杀其手下，方尘反唇相讥骂其为“老狗”。方尘施展生命之眼探查，发现这群大帝中寿元不足者众多，视其为提升实力与修复命轮的绝佳资源，暗自欣喜金蝉岭竟是自己的修炼圣地。灵钟大帝因忌惮方尘底牌，不愿亲自涉险，果断下令布阵。众帝立刻布下“雷火大阵”，将方尘困于火焰世界，雷电与火球疯狂轰击。然而方尘毫不畏惧，不仅以肉身硬抗，更施展“黑暗噬神领域”，化身无底洞，将劈来的雷电与火焰之力尽数吸收。布阵大帝们力量不断被消耗，而方尘却借此疯狂修炼，局势彻底反转，方尘从被围攻者变成了单方面吞噬修炼的受益者。",
+      "key_events": [
+        "探查：方尘以生命之眼发现众帝寿元不足，视其为修炼资源",
+        "围攻：灵钟大帝忌惮方尘底牌，下令众帝布下“雷火大阵”",
+        "反转：方尘施展黑暗噬神领域，反将雷火大阵的攻击化为己用，疯狂吞噬修炼"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘拥有吸收雷电与火焰之力修炼的能力（黑暗噬神领域）",
+        "核心线索：灵钟大帝因忌惮方尘底牌，选择让手下布阵消耗，而非亲自出手"
+      ],
+      "evidence_chapters": [
+        2111
+      ],
+      "continuity_in": [
+        2110
+      ],
+      "continuity_out": [
+        2112
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2112,
+      "title": "再杀大帝",
+      "source": {
+        "start_line": 347247,
+        "end_line": 347442
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《再杀大帝》展开，推动后续主线进展。",
+      "summary": "灵钟大帝率领众多大帝布下雷火大阵，试图将方尘炼化。然而方尘在大阵中坚持一个时辰后仍毫发无损，反而不断吞噬雷电与火焰能量，令布阵者消耗巨大。三个时辰过去，方尘吞噬速度更快，布阵大帝们已近力竭。灵钟大帝见状怒骂手下废物，亲自祭出金色古钟砸向方尘。方尘挥剑硬接，却被震飞，手臂剧痛。他决定不再隐忍，施展出九重浪剑法，瞬间出现在红翼大帝面前，一剑破开阵纹与大道灵光，黄昏之力涌入其体内，红翼大帝寿元瞬间枯竭毙命。小鹤迅速收走尸体，雷火大阵随之震动崩溃。观战者无不震惊。斩杀红翼大帝后，浮仙剑剧烈震颤，星辰光点环绕，一股强大力量涌入方尘体内，使其实力暴涨，命轮也吸收了神秘力量。方尘乘胜追击，又出现在元刀大帝面前。元刀大帝虽激活大帝印记、身穿极道帝兵宝甲全力防御，仍被浮仙剑破开一切防御，黄昏之力灌入，寿元耗尽而亡。至此，方尘连斩两帝，雷火大阵彻底瓦解，全场骇然。",
+      "key_events": [
+        "方尘在雷火大阵中坚持并疯狂吞噬能量，布阵大帝们力量枯竭难以为继。",
+        "灵钟大帝出手以金色古钟攻击方尘，方尘硬接被震伤后决定反击。",
+        "方尘施展九重浪剑法，先斩红翼大帝，再杀元刀大帝，黄昏之力令其瞬间寿元耗尽，浮仙剑吸收力量使方尘实力暴涨，雷火大阵崩溃。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的浮仙剑蕴含黄昏之力，可极速吞噬大帝寿元，即便对方身穿极道帝兵宝甲也无法抵挡。",
+        "方尘连斩两帝后实力大增，雷火大阵随之瓦解，灵钟大帝一方遭受重挫。"
+      ],
+      "evidence_chapters": [
+        2112
+      ],
+      "continuity_in": [
+        2111
+      ],
+      "continuity_out": [
+        2113
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2113,
+      "title": "三连杀",
+      "source": {
+        "start_line": 347443,
+        "end_line": 347614
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《三连杀》展开，推动后续主线进展。",
+      "summary": "方尘破阵后连斩红翼、元刀两位大帝，震惊全场。灵钟大帝怒撤大阵，率众围攻。方尘盯上寿元将尽的蓝淼大帝，以伤换伤，任由对方长枪洞穿身体，顺势一剑刺死蓝淼。小鹤收尸时，方尘察觉浮仙剑反馈的能量竟随连杀次数叠加暴增，发现惊天秘密。连斩三帝后，方尘虽气喘，但算出余力尚可灭杀一位两千年寿元以下的大帝。敌众不知黄昏之力杀人寿元耗尽无法复活，仍悍不畏死。方尘再次锁定红土大帝，施展“四重浪”瞬移至其面前，挥剑斩出，三连杀的威势仍在延续。",
+      "key_events": [
+        "方尘以伤换伤，一剑斩杀蓝淼大帝，完成三连杀",
+        "方尘发现浮仙剑反馈的能量随连杀次数叠加增强的秘密",
+        "方尘锁定红土大帝，施展四重浪发起新一轮攻势"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的黄昏之力可耗尽大帝寿元，被此力杀死的敌人无法复活",
+        "浮仙剑在连续斩杀大帝后，反馈给方尘的能量会叠加暴增"
+      ],
+      "evidence_chapters": [
+        2113
+      ],
+      "continuity_in": [
+        2112
+      ],
+      "continuity_out": [
+        2114
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2114,
+      "title": "快用帝兵砸死他",
+      "source": {
+        "start_line": 347615,
+        "end_line": 347831
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【帝境与界海篇】围绕《快用帝兵砸死他》展开，推动后续主线进展。",
+      "summary": "红土大帝化作道纹土山防御，却被方尘一剑破防，瞬间被削去千年寿元，惊恐逃遁并告知众人方尘的诡异剑法。灵钟大帝不信邪，率众围攻，方尘以“五重浪”瞬移斩杀红土大帝，浮仙剑力量叠加。灵钟大帝祭出黄金古钟，方尘以“六重浪”硬撼，虽被震飞但吞噬了帝兵道纹，可惜连杀叠加之势中断。众帝再度围攻，方尘“七重浪”偷袭灵钟大帝被震退，随即开启“诸神的黄昏”领域，领域内寿元极速流失，吓得众帝仓皇逃出。灵钟大帝见状，下令以极道帝兵远程砸死方尘。方尘怒吼“八重浪”瞬移至灵钟大帝面前，领域持续侵蚀其寿元，灵钟大帝急忙凝聚护体金钟抵挡浮仙剑。",
+      "key_events": [
+        "红土大帝防御被破，被方尘斩去千年寿元，道出剑法秘密后遭瞬移斩杀",
+        "方尘硬撼灵钟大帝黄金古钟，吞噬道纹但连杀叠加之势中断，随后开启“诸神的黄昏”领域逼退众帝",
+        "灵钟大帝下令以极道帝兵远程轰杀，方尘以“八重浪”突袭灵钟大帝，领域侵蚀其寿元并出剑"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的浮仙剑能无视防御斩人寿元，且斩杀可叠加力量，但中断后难以再斩强敌",
+        "方尘的“诸神的黄昏”领域能让范围内敌人寿元极速流失，迫使众帝不敢近身"
+      ],
+      "evidence_chapters": [
+        2114
+      ],
+      "continuity_in": [
+        2113
+      ],
+      "continuity_out": [
+        2115
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2115,
+      "title": "红莲之力，大帝都扛不住",
+      "source": {
+        "start_line": 347832,
+        "end_line": 348033
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《红莲之力，大帝都扛不住》展开，推动后续主线进展。",
+      "summary": "方尘与灵钟大帝激战正酣，他施展“九重浪”身法击碎对方的黄金古钟，并趁机将体内的红莲之力灌入浮仙剑，一剑重创灵钟大帝。红莲之力无视大道灵光防御，直接侵入其体内，导致灵钟大帝气血沸腾、丧失理智，竟当众扑向金熊大帝并做出极度羞耻的侵犯之举，令全场震惊。方尘见红莲之力竟连大帝都无法抵挡，大喜过望，随即又用同样手段砍中另一位大帝，使其也陷入疯狂攻击同伴。众大帝被这诡异的招数吓得四散奔逃，生怕颜面尽失。灵钟大帝强忍冲动却解毒无果，为保尊严，他一脚踹飞金熊大帝后愤而自爆。",
+      "key_events": [
+        "方尘以红莲之力重创灵钟大帝，使其丧失理智当众侵犯金熊大帝",
+        "方尘故技重施，红莲之力导致另一位大帝也陷入疯狂攻击同伴",
+        "灵钟大帝为保颜面，强忍冲动无效后愤而自爆"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "红莲之力可无视大帝的大道灵光防御，侵入体内使其气血沸腾、丧失理智并产生羞耻的侵犯冲动",
+        "方尘的红莲之力对大帝有极强威慑力，众大帝因害怕丢人而纷纷逃窜"
+      ],
+      "evidence_chapters": [
+        2115
+      ],
+      "continuity_in": [
+        2114
+      ],
+      "continuity_out": [
+        2116
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2116,
+      "title": "吃瓜群从也遭殃",
+      "source": {
+        "start_line": 348034,
+        "end_line": 348235
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《吃瓜群从也遭殃》展开，推动后续主线进展。",
+      "summary": "灵钟大帝在方尘的猛攻下被迫自爆，其余大帝见状纷纷溃逃。方尘挥动浮仙剑一路追杀，凡被砍中者皆被红莲之力侵蚀，化为丧失理智的狂魔，见人就追。原本在旁围观的九阳大帝等人也遭池鱼之殃，被狂魔追得狼狈逃窜，惨叫声此起彼伏。火璃大帝传音劝阻方尘适可而止、避免树敌过多，但方尘认为天外天以实力为尊，必须杀出威名。八哥、混沌噬心虫与小鹤亦主张放手一搏，火璃大帝最终同意让方尘尽情出手。方尘将身法施展到极致，疯狂砍杀灵钟大帝的手下，借此快速提升自身实力，直到红莲之力耗尽才停手。随后他让小鹤将自己收入灵鹤空间，从众帝视线中消失。暗中观战的大帝们拍手称快，纷纷用记忆水晶记录星云宫众人的丑态，准备传播出去，以泄平日被星云宫压迫之愤。",
+      "key_events": [
+        "灵钟大帝自爆，其余大帝溃逃，方尘持浮仙剑一路砍杀，被砍中者化为狂魔无差别攻击",
+        "火璃大帝劝阻方尘收敛，方尘坚持杀出威名，八哥等人支持，火璃大帝最终同意放手一搏",
+        "方尘红莲之力耗尽后隐入灵鹤空间消失，旁观大帝记录星云宫丑态并准备传播"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘的浮仙剑蕴含红莲之力，被砍中者会化为丧失理智的狂魔，此招令众帝胆寒",
+        "核心线索：方尘在天外天金蝉岭以杀立威，与星云宫结下死仇，同时其疯狂提升实力的方式引起各方关注"
+      ],
+      "evidence_chapters": [
+        2116
+      ],
+      "continuity_in": [
+        2115
+      ],
+      "continuity_out": [
+        2117
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2117,
+      "title": "死道友不死贫道",
+      "source": {
+        "start_line": 348236,
+        "end_line": 348392
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【帝境与界海篇】围绕《死道友不死贫道》展开，推动后续主线进展。",
+      "summary": "灵钟大帝手下二十人因红莲之力失控，欲望驱使下疯狂攻击同伴，甚至钻入洞穴引发混战。遮山大帝等人狼狈逃回据点，却未告知留守同伴真相，反而利用他们阻挡追兵，惨叫声中据点沦陷。与此同时，小鹤带方尘躲入危险的红烟沼泽，此地空间风暴肆虐，藏有嗜血迷烟虫，其巢穴中生长着能抵消天地本源寿元损耗的至宝红叶寿星草。金蝉透露，虽灵草难取，但击杀大帝级妖兽可获得杀戮值，为方尘提供了新的修炼契机。",
+      "key_events": [
+        "红莲之力爆发：灵钟大帝手下二十人失控，疯狂攻击同伴并引发据点混战",
+        "死道友不死贫道：遮山大帝隐瞒真相，利用留守同伴阻挡追兵独自逃命",
+        "红烟沼泽探秘：方尘藏身险地，得知红叶寿星草与杀戮值获取途径"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "红叶寿星草可提炼长寿液，使大帝调动天地本源时不损耗寿元，是致命诱惑",
+        "红烟沼泽的嗜血迷烟虫为大帝级妖兽，击杀可获得杀戮值"
+      ],
+      "evidence_chapters": [
+        2117
+      ],
+      "continuity_in": [
+        2116
+      ],
+      "continuity_out": [
+        2118
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2118,
+      "title": "一千多个红莲大帝",
+      "source": {
+        "start_line": 348393,
+        "end_line": 348552
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《一千多个红莲大帝》展开，推动后续主线进展。",
+      "summary": "方尘为积攒杀戮值离开金蝉岭，向金蝉询问嗜血迷烟虫的情报。得知普通虫仅值1点，虫皇值1000点，需攒满1万点方可离开。方尘决定独自出灵鹤空间试探虫群实力，以法相天地积累黄昏之力。红烟沼泽的迷幻红雾对他无效，反被浮仙诀与噬神诀炼化吸收，增强灵魂本源。方尘询问天外天是否有红莲女帝，金蝉回应红莲大帝竟有一千多人，红莲真仙五位，红莲大仙无。方尘意识到红莲道号极为普遍，遂放弃寻人念头，专注恢复实力应对星云宫报复。",
+      "key_events": [
+        "第2118章：方尘获知杀戮值规则，需杀一万条普通嗜血迷烟虫或十只虫皇方可离开金蝉岭",
+        "交锋：方尘主动进入红烟沼泽，以法相天地对抗迷幻红雾，意外发现红雾可被炼化为灵魂能量",
+        "重大转折：金蝉透露天外天有一千多位红莲大帝，红莲女帝难以寻找，方尘放弃寻人，专注备战星云宫"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：杀戮值体系为普通虫1点、虫将10点、虫王100点、虫皇1000点，离开金蝉岭需1万点",
+        "核心线索：红莲大帝在天外天超过一千人，红莲真仙五位，红莲女帝身份难以锁定"
+      ],
+      "evidence_chapters": [
+        2118
+      ],
+      "continuity_in": [
+        2117
+      ],
+      "continuity_out": [
+        2119
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2119,
+      "title": "给虫子种天佛花",
+      "source": {
+        "start_line": 348553,
+        "end_line": 348700
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《给虫子种天佛花》展开，推动后续主线进展。",
+      "summary": "方尘在红烟沼泽发现红色雾气能大幅提升灵魂本源，遂施展黑暗噬神领域疯狂吞噬红雾，引发巨大异象。红烟沼泽深处随即钻出一条长达千丈、背生三对红翼的嗜血迷烟虫，寿元竟达八千年。方尘展开诸神的黄昏领域笼罩战场，欲在厮杀中积攒黄昏之力。面对迷烟虫的声波攻击，浮仙剑吸收能量反哺方尘使其恢复。方尘取出二师兄天佛帝传授的天佛花，将其种在迷烟虫头顶生根，目的是追踪其巢穴以获取红叶寿星草。迷烟虫愤怒甩头未果，遂喷出可穿透大帝防御、令人陷入幻境的红色烟雾。方尘非但不惧，反而张嘴施展吞噬之力，将红雾主动吸入体内。",
+      "key_events": [
+        "第2119章：方尘以黑暗噬神领域吞噬红雾强化灵魂，引出红烟沼泽霸主——八千年寿元的嗜血迷烟虫",
+        "交锋：方尘展开诸神的黄昏领域，以浮仙剑化解声波攻击，并将天佛花种入迷烟虫头顶作为追踪烙印",
+        "重大转折：迷烟虫喷出可无视大帝防御的致幻红雾，方尘却主动张嘴吞噬红雾"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天佛花无攻击力，但可留下追踪烙印防止敌人逃遁，方尘借此追踪迷烟虫巢穴以获取红叶寿星草",
+        "核心线索：嗜血迷烟虫为群居生物，其巢穴中藏有红叶寿星草；红雾可穿透大帝体表大道灵光直接攻击灵魂致幻"
+      ],
+      "evidence_chapters": [
+        2119
+      ],
+      "continuity_in": [
+        2118
+      ],
+      "continuity_out": [
+        2120
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2120,
+      "title": "清风大帝",
+      "source": {
+        "start_line": 348701,
+        "end_line": 348863
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《清风大帝》展开，推动后续主线进展。",
+      "summary": "方尘在诸神的黄昏领域内与大帝级凶兽嗜血迷烟虫激战，意外发现战斗能大幅提升黄昏之力的吸收效率。他不仅吞噬了迷烟虫的红色烟雾，还一边战斗一边运转秘法，将吞天塔中蕴含红莲之力的特殊之水引入丹田，被筑基道台直接吸收炼化，效率远超以往。三个时辰后，此前中了红莲之力（阳毒）而发狂的五位大帝被制服，锁于铜柱之上浴火焚身，寻常解药无效。星云宫清风堂堂主清风大帝亲临询问，得知此事源于方尘与金熊大帝等人的洞府争夺冲突，而方尘来自蛮荒古域，是刚入域外混沌的新人。",
+      "key_events": [
+        "第2120章：方尘在诸神的黄昏领域内与嗜血迷烟虫战斗，发现战斗能大幅提升黄昏之力的吸收效率",
+        "方尘将吞天塔中蕴含红莲之力的特殊之水引入丹田，筑基道台直接吸收炼化，效率远超以往",
+        "清风大帝亲临调查五位大帝中阳毒发狂事件，得知起因是方尘与金熊大帝等人的洞府争夺冲突"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘来自蛮荒古域（混沌大仙家乡），是刚入域外混沌的新人，因洞府争夺与金熊大帝等人结仇",
+        "核心线索：红莲之力（阳毒）极为霸道，中者浴火焚身，寻常解药无效，五位大帝被锁于铜柱上等待救治"
+      ],
+      "evidence_chapters": [
+        2120
+      ],
+      "continuity_in": [
+        2119
+      ],
+      "continuity_out": [
+        2121
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2121,
+      "title": "金蝉岭名人，方尘",
+      "source": {
+        "start_line": 348864,
+        "end_line": 349023
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《金蝉岭名人，方尘》展开，推动后续主线进展。",
+      "summary": "清风大帝得知金熊大帝因灵钟大帝中阳毒发狂而身心受创，勃然大怒，下令清风堂八百多位大帝全力追查此前大闹一方的方尘下落，誓要挽回颜面。与此同时，灵钟大帝等强者失控做出荒唐丑态的留影画面迅速传遍金蝉岭，引发各方势力哗然。非星云宫的大帝们因长期受压迫而暗中叫好，剑盟、冰雪殿、紫光阁等势力亦为之震动，方尘凭借一己之力搅动风云，一夜之间成为金蝉岭无人不知的名人。然而方尘本人对此毫不知情，正与嗜血迷烟虫持续激战。经过一天多的苦修，他惊喜地发现突破大帝境界后，红莲之力与黄昏之力恢复速度大幅提升，前者因修炼方式改进快了数十倍，后者因在实战中修炼快了十倍不止，两种力量均已重回巅峰。",
+      "key_events": [
+        "清风大帝震怒，发动清风堂八百大帝全力搜捕方尘",
+        "灵钟大帝失控丑态留影传遍金蝉岭，方尘一夜成名",
+        "方尘与嗜血迷烟虫激战修炼，红莲之力与黄昏之力恢复至巅峰"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已成为金蝉岭名人，清风堂正在全力追杀他",
+        "核心线索：方尘修为突破大帝后，红莲之力和黄昏之力恢复速度产生质的飞跃"
+      ],
+      "evidence_chapters": [
+        2121
+      ],
+      "continuity_in": [
+        2120
+      ],
+      "continuity_out": [
+        2122
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2122,
+      "title": "追踪",
+      "source": {
+        "start_line": 349024,
+        "end_line": 349180
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《追踪》展开，推动后续主线进展。",
+      "summary": "方尘在诸神的黄昏领域内与一条嗜血迷烟虫缠斗一日，发现其寿元仅消耗一千年，感叹领域对单体效果有限，但意识到若找到虫巢困住大量虫子，便可批量击杀。他故意示弱，让虫子误以为自己无法构成威胁，从而不急于逃跑。随后方尘召唤补天神女异象，用黑色石头猛击虫首，将其重创。嗜血迷烟虫负痛钻入红烟沼泽深处，方尘则乘灵鹤空间潜入追踪。沼泽泥浆腐蚀性极强，方尘身体反复腐烂与再生，皮肤反而愈发坚韧。他施展轮回眼观察环境，并以上苍之手再次击伤虫子，使其彻底惊恐逃窜。火璃大帝对深入虫巢的计划表示担忧，方尘却毫无畏惧，誓要借这条虫子找到巢穴，大杀四方并寻找红叶寿星草。",
+      "key_events": [
+        "第2122章：方尘发现诸神的黄昏领域对单体寿元消耗有限，计划寻找嗜血迷烟虫巢穴进行批量击杀。",
+        "交锋：方尘用黑色石头重创嗜血迷烟虫，并乘灵鹤空间潜入腐蚀性极强的红烟沼泽追踪。",
+        "重大转折：方尘在沼泽中反复经历身体腐蚀与再生，皮肤愈发坚韧，并以上苍之手再次击伤虫子，迫使其向巢穴深处逃窜。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：嗜血迷烟虫为群居生物，方尘计划利用其巢穴进行大规模猎杀，并寻找红叶寿星草。",
+        "核心线索：方尘在沼泽中身体因腐蚀与再生循环而强化，且已锁定嗜血迷烟虫的逃窜方向，正朝其巢穴进发。"
+      ],
+      "evidence_chapters": [
+        2122
+      ],
+      "continuity_in": [
+        2121
+      ],
+      "continuity_out": [
+        2123
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2123,
+      "title": "虫将",
+      "source": {
+        "start_line": 349181,
+        "end_line": 349340
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《虫将》展开，推动后续主线进展。",
+      "summary": "方尘决定深入沼泽挑战嗜血迷烟虫，火璃大帝等人虽担忧但选择支持。在仙器天河图这一特殊修炼空间中，方尘彻底释放自我，不再压抑，誓要挑战极限。他利用方法追踪到直径超万里的巨大虫巢，却被多层结界阻挡在外。一条虫将级嗜血迷烟虫率先冲来，方尘果断施展琉璃金身化为千丈巨人，手持浮仙剑与之正面交锋。双方激烈碰撞，方尘虽被震飞但迅速回击，浮仙剑吞噬虫将脱落的道纹后反馈强大力量，令其精神大振。战斗中方尘意识到自身剑帝单体杀伤力不足，虽有一剑轮回等绝技，但因虫将体积庞大且蕴含海量血气能量，不愿将其吸入轮回旋涡浪费，决心以直接劈砍方式将其斩杀吸收。",
+      "key_events": [
+        "方尘决意深入沼泽挑战嗜血迷烟虫，释放自我挑战极限",
+        "发现直径超万里的巨大嗜血迷烟虫巢穴，被结界阻挡在外",
+        "与虫将级嗜血迷烟虫正面交锋，浮仙剑吞噬道纹反馈力量"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘在仙器天河图中彻底释放，不再压抑，主动挑战极限",
+        "虫将级嗜血迷烟虫蕴含庞大血气能量，方尘不愿用轮回旋涡浪费，选择直接斩杀吸收"
+      ],
+      "evidence_chapters": [
+        2123
+      ],
+      "continuity_in": [
+        2122
+      ],
+      "continuity_out": [
+        2124
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2124,
+      "title": "方尘的十重浪",
+      "source": {
+        "start_line": 349341,
+        "end_line": 349473
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《方尘的十重浪》展开，推动后续主线进展。",
+      "summary": "方尘在红烟沼泽深处与虫将级嗜血迷烟虫激战时，意识到自身剑法杀伤力不足，决意借此契机领悟火璃大帝九重浪剑法的更高境界——十重浪。战斗中，他凭借浮仙剑的能量补充与万佛战经的佛光加持，在泥浆中连续挥剑，从一重浪层层叠加至九重浪，终于劈开虫将坚不可摧的脑壳。然而妖兽本命灵珠未碎，仍能修复重生。就在九重浪剑势未散的瞬间，方尘顿悟，引动金系本源之力，成功斩出前所未有的十重浪。这一剑威力毁天灭地，不仅将十万丈泥浆排成虚空，更直接将虫将级嗜血迷烟虫连虫带珠彻底粉碎为道纹，完成了剑法与战力的双重突破。",
+      "key_events": [
+        "第2124章：方尘在沼泽激战中决意领悟十重浪剑法",
+        "交锋：方尘从一重浪叠加至九重浪，劈开虫将脑壳但未能致命",
+        "突破：方尘顿悟斩出十重浪，将虫将级嗜血迷烟虫与本命灵珠彻底粉碎"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘成功领悟并施展出超越九重浪的十重浪剑法，威力可粉碎大帝级妖兽的本命灵珠",
+        "核心线索：十重浪需引动金系本源之力，且建立在九重浪剑势未散的基础上，是方尘当前最强单体杀招"
+      ],
+      "evidence_chapters": [
+        2124
+      ],
+      "continuity_in": [
+        2123
+      ],
+      "continuity_out": [
+        2125
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2125,
+      "title": "一剑灭虫将",
+      "source": {
+        "start_line": 349474,
+        "end_line": 349603
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《一剑灭虫将》展开，推动后续主线进展。",
+      "summary": "方尘在战斗中成功施展出超越九重浪的第十重浪剑法，一剑将实力强于金熊大帝的虫将级嗜血迷烟虫彻底撕碎。浮仙剑吞噬虫尸后反馈庞大能量，使其瞬间恢复并精神大振，同时获得十点杀戮值。火璃大帝震惊于其威力远超自己当年，指出方尘已跳出九重浪框架，踏入全新境界。方尘领悟到第十重浪需借剑意调动金系本源之力，而非依赖大帝印记，故未损耗寿元，且威力更强。面对虫将之死，其余嗜血迷烟虫非但不惧，反而愤怒冲出结界围攻。方尘不顾刚施展大招后的虚脱，自信表示仍能再战，随即握剑冲入虫群，再次施展十重浪剑法继续厮杀。火璃大帝虽对其粗俗比喻哭笑不得，但内心对其天赋与战力深感欣慰。",
+      "key_events": [
+        "第2125章：方尘成功施展第十重浪一剑灭杀虫将级嗜血迷烟虫",
+        "突破：以剑意调动金系本源之力，跳出九重浪框架踏入新境界",
+        "转折：虫群因虫将之死愤怒围攻，方尘不顾虚脱再次冲杀"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：第十重浪需借剑意调动天地本源，不依赖大帝印记，故不损寿元且威力更强",
+        "核心线索：方尘理论上可调多种属性本源，但对灵魂之力要求更高，后续修炼方向明确"
+      ],
+      "evidence_chapters": [
+        2125
+      ],
+      "continuity_in": [
+        2124
+      ],
+      "continuity_out": [
+        2126
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2126,
+      "title": "对手越多越兴奋",
+      "source": {
+        "start_line": 349604,
+        "end_line": 349757
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《对手越多越兴奋》展开，推动后续主线进展。",
+      "summary": "方尘在嗜血迷烟虫巢穴遭遇三十条虫群围攻，其中出现一条体长三千丈、实力远超虫将级的虫王。方尘判断虫王寿元高达两万多年，使用黄昏之力直接攻击不划算，遂施展诸神的黄昏领域笼罩战场，同时吞噬虫群喷出的红色烟雾滋养灵魂本源。他先以九重浪将虫王砍飞至结界上，吞噬脱落的道纹后趁势使出十重浪，一剑将虫王三千丈身躯斩成数十截，并轰碎结界撕开百丈缺口。然而虫王并未死去，只是气息大跌且身躯转为银色，其鲜血被浮仙剑反哺方尘提升血气。方尘通过生命之眼发现虫王寿元骤降百年，顿悟在黄昏领域内受伤会加速寿元流失。面对这群不知逃跑、越战越强的对手，方尘战意高涨，口诵万佛战经，佛光炽烈，准备继续迎战。",
+      "key_events": [
+        "第2126章：方尘遭三十条嗜血迷烟虫围攻，遭遇寿元两万年的虫王",
+        "交锋：方尘施展诸神的黄昏领域，吞噬红雾壮大灵魂，以九重浪和十重浪将虫王斩成数十截并轰碎结界",
+        "重大转折：虫王未死但寿元骤降百年，方尘领悟领域内受伤会加速寿元流失，战意更盛"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：诸神的黄昏领域可加速受伤敌人的寿元流失，方尘借此克制高寿元虫王",
+        "核心线索：浮仙剑吞噬虫王鲜血可反哺方尘提升血气，虫群红雾能被筑基道台转化为灵魂养分"
+      ],
+      "evidence_chapters": [
+        2126
+      ],
+      "continuity_in": [
+        2125
+      ],
+      "continuity_out": [
+        2127
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2127,
+      "title": "像鞭炮一样炸裂",
+      "source": {
+        "start_line": 349758,
+        "end_line": 349947
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《像鞭炮一样炸裂》展开，推动后续主线进展。",
+      "summary": "方尘在嗜血迷烟虫巢穴与银色虫王激战，凭借超强恢复力迅速施展十重浪剑法。银色虫王不敌，召唤出体长三千三百丈的蓝色虫王与三千一百丈的绿色虫王助战。方尘以生命之眼探查，发现两虫王寿元皆过万年，难以捡漏，但仍兴奋迎战。战斗中，方尘将剑法叠加至九重浪，一剑砍飞蓝色虫王，灵魂感知突破极限，成功调动金系本源之力，施展出十重浪将银色虫王斩成数十截，加速其寿元流失。然而方尘意识到剑气虽锋利却杀伤力不足，无法将虫王身体粉碎。此时蓝色与绿色虫王突然发动灵魂攻击，将方尘拖入幻境。幻境中，方尘回到童年除夕夜，目睹鞭炮逐个炸裂的景象。当最后一个炮仗爆炸时，空间破碎，方尘瞬间挣脱幻境，却被蓝色虫王尾巴抽飞，内脏震裂。但方尘在幻境中顿悟，领悟到让剑气如鞭炮般连续炸裂的奥秘，为后续突破埋下伏笔。",
+      "key_events": [
+        "第2127章：方尘迎战三条虫王，施展十重浪将银色虫王斩成数十截",
+        "交锋：蓝色与绿色虫王发动灵魂攻击，将方尘拖入童年除夕幻境",
+        "重大转折：方尘在幻境中目睹鞭炮炸裂，顿悟剑气杀伤力提升之法"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘同时对抗银色、蓝色、绿色三条虫王，银色虫王已被斩成数十截，寿元持续流失",
+        "核心线索：方尘从鞭炮炸裂中获得灵感，领悟到让剑气连续炸裂以增强杀伤力的方法"
+      ],
+      "evidence_chapters": [
+        2127
+      ],
+      "continuity_in": [
+        2126
+      ],
+      "continuity_out": [
+        2128
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2128,
+      "title": "一剑下去，从头炸到尾",
+      "source": {
+        "start_line": 349948,
+        "end_line": 350152
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《一剑下去，从头炸到尾》展开，推动后续主线进展。",
+      "summary": "方尘以一敌三，与银色、蓝色等三条虫王激战。战斗中，他试图将金系与火系两种本源之力融合进十重浪剑法，以模拟鞭炮爆炸的威力。起初融合失败，灵魂遭受剧烈反噬，但他凭借惊人恢复力坚持尝试。经过一个月的反复失败与战斗磨砺，方尘终于成功将两种本源融合。他一剑斩出金红双色剑气，射入银色虫王体内后，剑气如鞭炮般从头炸到尾，将虫王彻底粉碎。此招威力远超以往，火璃大帝等人惊叹不已，认为这已脱胎于九重浪剑法，堪称全新剑招。方尘虽灵魂之力几乎被抽空，但浮仙剑吞噬虫王残骸反馈能量，助其迅速恢复，他为此突破狂喜不已。",
+      "key_events": [
+        "第2128章：方尘激战三虫王，尝试融合金火双系本源创出新剑招",
+        "突破：历经一月反复失败与反噬，终成功融合本源，一剑炸碎银色虫王",
+        "结局：新剑招威力惊人，浮仙剑吞噬虫王残骸助方尘恢复，众人赞叹"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘成功将金系与火系本源融合，创出可引发爆炸的全新剑招，一剑秒杀银色虫王",
+        "核心线索：此招已脱胎于九重浪剑法，威力质变，浮仙剑具备吞噬残骸反哺主人的能力"
+      ],
+      "evidence_chapters": [
+        2128
+      ],
+      "continuity_in": [
+        2127
+      ],
+      "continuity_out": [
+        2129
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2129,
+      "title": "剑碎星河",
+      "source": {
+        "start_line": 350153,
+        "end_line": 350351
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《剑碎星河》展开，推动后续主线进展。",
+      "summary": "方尘在激战中领悟出融合金、火双系本源的全新绝招，并将其命名为“剑碎星河”。此招威力惊人，一剑便将银色虫王的身躯粉碎，并使其寿元暴跌至一万三千年，效果远超他此前使用的黄昏之力。在浮仙剑反馈能量的加持下，方尘越战越勇，随后又以同样的招式重创蓝色虫王。经过长达三个月的厮杀，三条虫王终于感到恐惧，意识到眼前的人族是个打不死的怪物，于是带领虫群仓皇逃回巢穴。方尘杀得兴起，不顾火璃大帝关于“死亡需百年复活”的时间成本劝阻，执意手持浮仙剑冲入嗜血迷烟虫的巢穴，誓要将敌人斩草除根。",
+      "key_events": [
+        "第2129章：方尘领悟金火双系融合绝招，命名为“剑碎星河”。",
+        "交锋：方尘以“剑碎星河”接连重创银色虫王与蓝色虫王，致其寿元大减、气息暴跌。",
+        "转折：三条虫王心生恐惧，带领虫群逃回巢穴；方尘不顾劝阻，执意杀入虫巢。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘的“剑碎星河”不仅能粉碎虫王肉身，还能在诸神黄昏领域内造成巨额寿元流失。",
+        "核心线索：在天河图空间内死亡虽可复活，但需耗费百年时间成本，火璃大帝因此劝阻方尘不要冒进。"
+      ],
+      "evidence_chapters": [
+        2129
+      ],
+      "continuity_in": [
+        2128
+      ],
+      "continuity_out": [
+        2130
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2130,
+      "title": "方尘的执念",
+      "source": {
+        "start_line": 350352,
+        "end_line": 350475
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《方尘的执念》展开，推动后续主线进展。",
+      "summary": "方尘在火璃大帝的提醒下，得知嗜血迷烟虫巢穴中不仅有虫王，更有实力堪比星云宫主的虫皇，但他不愿放弃探索的机会，决定冒险深入。在行动前，方尘通过小金蝉了解到天河图的复活机制：大帝需百年、半仙需千年、真仙需万年方可复活，而大仙强者目前尚无法复活，这让他更加珍惜自身安全，但依然选择前进。方尘凭借浮仙剑中蕴含的黄昏之力，势如破竹地破开了巢穴外围的九九八十一道强大结界。然而，在突破最后一道结界后，一股强烈的灵魂冲击袭来，令他陷入幻境，反复浮现出故乡小山村与父母的画面。方尘意识到，那个平凡的小村庄竟是自己内心深处最深的执念。在浮仙剑力量的帮助下，他迅速清醒，压制住灵魂的不适，最终站在了布满孔洞的嗜血迷烟虫巢穴壁垒之前，准备继续深入。",
+      "key_events": [
+        "第2130章：方尘得知天河图复活机制，大帝死亡需百年复活，大仙暂不可复活",
+        "交锋：方尘以浮仙剑黄昏之力连破八十一道结界，遭遇灵魂幻境冲击",
+        "重大转折：方尘在幻境中反复看到故乡小山村，意识到那是自己修仙路上的最深执念"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天河图复活机制与修为挂钩，大帝百年、半仙千年、真仙万年，大仙目前无法复活",
+        "核心线索：故乡小山村是方尘灵魂深处的执念，也是嗜血迷烟虫幻境攻击的核心破绽"
+      ],
+      "evidence_chapters": [
+        2130
+      ],
+      "continuity_in": [
+        2129
+      ],
+      "continuity_out": [
+        2131
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2131,
+      "title": "砍破巢穴",
+      "source": {
+        "start_line": 350476,
+        "end_line": 350611
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《砍破巢穴》展开，推动后续主线进展。",
+      "summary": "嗜血迷烟虫巢穴表面布满道纹，散发强大法则波动冲击方尘灵魂，此前他正是因此险些陷入幻境。这类虫族擅长灵魂攻击，一旦失效便战力大减，此前三大虫王正是奈何不了打不死且越战越强的方尘，才逃回巢穴。方尘施展轮回眼观察，发现巢穴是由道纹与虫族分泌物构成的超级堡垒。他先用浮仙剑普通劈砍，虽被震退，却意外发现此举反馈的能量有极强淬体效果。于是他灌注黄昏之力再砍，劈开一道口子，却遭红色粘液喷溅，腐蚀护体灵光，更有一股神秘力量直冲脑海，幸被灵魂本源吞噬炼化。见伤口愈合，方尘意识到巢穴似有生命，便索性将浮仙剑狠狠刺入，并依附灵识探查，发现壁垒后是充满红色液体的空间，其中游动着大量幼虫。他持续灌输帝之源力，令浮仙剑膨胀深入，层层突破内壁，剑体传来的能量如洪流般几欲撑爆其身躯。",
+      "key_events": [
+        "第2131章：方尘以轮回眼洞察巢穴结构，发现其为道纹与分泌物凝聚的超级堡垒",
+        "交锋：方尘先普通劈砍被震退，后灌注黄昏之力砍出缺口，遭神秘粘液攻击，灵魂本源吞噬入侵力量",
+        "突破：方尘将浮仙剑刺入巢穴内部，发现红色液体空间与大量幼虫，并持续深入破坏"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：嗜血迷烟虫巢穴具有生命特征，能愈合伤口，内部充满红色液体并孕育幼虫",
+        "核心线索：浮仙剑劈砍巢穴可反馈强大能量淬体，黄昏之力能有效破开巢穴防御"
+      ],
+      "evidence_chapters": [
+        2131
+      ],
+      "continuity_in": [
+        2130
+      ],
+      "continuity_out": [
+        2132
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2132,
+      "title": "虫皇出现",
+      "source": {
+        "start_line": 350612,
+        "end_line": 350777
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《虫皇出现》展开，推动后续主线进展。",
+      "summary": "方尘激活琉璃战纹，身躯暴涨至万丈，驱使浮仙剑疯狂吞噬嗜血迷烟虫巢穴深处的能量。当浮仙剑触及巢穴金色壁垒无法深入时，他果断施展黑暗噬神领域，以噬神印记覆盖剑身，加速吞噬。此举惊醒了沉睡在巢穴核心、实力接近半仙的虫皇。虫皇通体金黄，生有六对金翼与金色独角，周身环绕红色鬃毛，其栖息处生长着令大帝垂涎的红叶寿星草。被惊醒的虫皇发现银色与蓝色虫王气息萎靡，得知竟有人族大帝杀入巢穴，震怒之下发出嘶吼。它率领十八条虫王钻入红色旋涡，从巢穴底部破出，与方尘形成对峙，一场大战一触即发。",
+      "key_events": [
+        "方尘以万丈身躯配合黑暗噬神领域，驱使浮仙剑强行吞噬虫巢核心能量",
+        "虫皇被惊动，发现虫王虚弱后震怒，率十八虫王从巢穴底部破出",
+        "虫皇真身显露：万丈金躯、六对金翼、金色独角，实力接近半仙"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "虫皇实力已接近半仙，是巢穴最强存在，其栖息地生长有万年红叶寿星草",
+        "方尘的吞噬行为彻底激怒虫皇，双方即将展开正面交锋"
+      ],
+      "evidence_chapters": [
+        2132
+      ],
+      "continuity_in": [
+        2131
+      ],
+      "continuity_out": [
+        2133
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2133,
+      "title": "短命虫皇",
+      "source": {
+        "start_line": 350778,
+        "end_line": 350946
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《短命虫皇》展开，推动后续主线进展。",
+      "summary": "方尘闯入嗜血迷烟虫巢穴后，遭遇虫皇。虫皇因血脉觉醒而能口吐人言，质问方尘的胆大妄为。方尘施展生命之眼探查，震惊地发现虫皇寿元仅剩三百年，推测其曾被黄昏之力重创。在八哥与火璃大帝的鼓励下，方尘决定拼死一搏，意图斩杀虫皇并吸收其实力。交锋中，虫皇以金色独角释放强横金光，方尘被震飞后，趁虫皇甩尾攻击之际，将黄昏之力灌入浮仙剑，一剑破开护体金光并斩入虫皇体内。黄昏之力瞬间蔓延，虫皇生命气息当场消散，竟被一击毙命。虫王们惊恐逃窜，而浮仙剑因吸收虫皇能量变得滚烫，反馈给方尘海量力量，使其身体难以承受。关键时刻，筑基道台高速旋转吞噬能量，部分力量涌入轮海修复命轮裂痕。半个时辰后，方尘成功将虫皇尸体收入吞天塔，实力获得巨大提升。",
+      "key_events": [
+        "第2133章：方尘探查虫皇寿元仅剩三百年，发现其极度虚弱",
+        "交锋：方尘以浮仙剑配合黄昏之力，一剑斩杀虫皇",
+        "突破：浮仙剑反馈海量能量，筑基道台助其吞噬，命轮裂痕修复"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：虫皇寿元仅剩三百年，方尘一剑将其斩杀并收尸",
+        "核心线索：黄昏之力可极速损耗寿元，浮仙剑能吸收反馈能量助方尘修复命轮"
+      ],
+      "evidence_chapters": [
+        2133
+      ],
+      "continuity_in": [
+        2132
+      ],
+      "continuity_out": [
+        2134
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2134,
+      "title": "好多红叶寿星草",
+      "source": {
+        "start_line": 350947,
+        "end_line": 351118
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《好多红叶寿星草》展开，推动后续主线进展。",
+      "summary": "方尘击杀虫皇后，趁胜追击飞至虫皇巢穴底部，发现通往核心空间的巨大窟窿被多层结界保护。他挥动灌输黄昏之力的浮仙剑，轻松切开结界杀入巢穴。残余虫王见状惊恐万分，非但不敢迎战，反而嘶吼着向巢内同类发出警告。得知虫皇已死、煞星降临的嗜血迷烟虫群瞬间崩溃，疯狂向外逃窜，方尘不费吹灰之力便深入巢穴核心。在核心空间内，他发现壁垒上生长着大量形似竹子的灵植，经小金蝉确认正是梦寐以求的红叶寿星草，红色叶片方为珍品。为加快采集，方尘放出混沌魔星藤小星协助，小星不仅无惧空间高压，更疯狂吞噬巢内精纯红色液体，藤蔓暴长。方尘目睹此景，萌生了将整座虫巢连根收走的疯狂念头，向小金蝉询问可行性。",
+      "key_events": [
+        "第2134章：方尘破开巢穴结界，虫王惊恐驱散虫群逃命，巢穴核心洞开",
+        "突破：方尘在核心空间发现大量红叶寿星草，并放出混沌魔星藤协助采集",
+        "转折：混沌魔星藤吞噬巢内红色液体后疯狂生长，方尘萌生收走整座虫巢的念头"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：红叶寿星草只取红色叶片，绿色无用；混沌魔星藤可吸收虫巢红色液体作为大补之物",
+        "核心线索：方尘试图将整座嗜血迷烟虫巢穴收为己用，巢内红色液体蕴含精纯能量"
+      ],
+      "evidence_chapters": [
+        2134
+      ],
+      "continuity_in": [
+        2133
+      ],
+      "continuity_out": [
+        2135
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2135,
+      "title": "欲收巢穴",
+      "source": {
+        "start_line": 351119,
+        "end_line": 351263
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《欲收巢穴》展开，推动后续主线进展。",
+      "summary": "小金蝉告知方尘，嗜血迷烟虫巢穴极为坚固，需准仙器或仙器方可收取，且耗费灵魂之力巨大。八哥提议用吞天塔尝试，方尘虽觉巢穴直径超万里、难度极大，仍决定一试。众人出巢后，发现虫群已携卵彻底迁离。方尘催动吞天塔至十万丈极限，吞噬之力笼罩巢穴，但巢穴道纹浮现、岿然不动。方尘随即祭出浮仙剑插入巢穴，剑身特殊波动竟使巢穴道纹大量脱落，部分被浮仙剑吸收，大部分则被吞天塔吞噬融入塔身——这令方尘震惊，因吞天塔本是半成品，从未有过道纹。浮仙剑吞噬巢穴能量后反馈方尘，使其灵魂之力不降反增。方尘决意即便吞天塔收巢失败，也要吸干巢穴能量，或入巢收取内部红色液体。",
+      "key_events": [
+        "第2135章：欲收巢穴——方尘得知收取嗜血迷烟虫巢穴需准仙器且极耗灵魂之力",
+        "交锋：方尘以吞天塔全力吞噬巢穴失败，巢穴道纹稳固",
+        "关键突破：浮仙剑特殊波动使巢穴道纹脱落，吞天塔首次吸收道纹融入塔身，方尘灵魂之力反得增强"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：吞天塔本是半成品无道纹，此次意外吸收巢穴道纹，或成进化契机",
+        "核心线索：浮仙剑可瓦解巢穴道纹，能量反馈方尘，为后续收巢或深入巢穴铺路"
+      ],
+      "evidence_chapters": [
+        2135
+      ],
+      "continuity_in": [
+        2134
+      ],
+      "continuity_out": [
+        2136
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2136,
+      "title": "不断变强的吞天塔",
+      "source": {
+        "start_line": 351264,
+        "end_line": 351405
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《不断变强的吞天塔》展开，推动后续主线进展。",
+      "summary": "方尘在嗜血迷烟虫巢穴核心空间内，全力催动浮仙剑剥离巢穴道纹，供吞天塔与浮仙剑吞噬。小金蝉担忧其灵魂力量耗尽，但方尘自有分寸。随着道纹被不断吞噬，吞天塔如竹笋般缓慢生长蜕变，方尘发现此塔可通过吞噬道纹持续变强，未来有望进阶为仙器甚至更高。他灵机一动，以八卦阵图加持吞天塔，阵图中神秘人影主动结印，将法则道纹打入塔内，使吞天塔的吞噬之力与成长速度大幅提升。与此同时，方尘盘坐塔顶，借浮仙剑反馈的能量念诵万佛战经，却发现伴随修为提升，早年修炼的琉璃金身诀增幅已从数十倍降至不足十倍。经火璃大帝、八哥与小金蝉分析，此乃实力暴涨后原有帝术等级不足的必然结果。方尘意识到需寻找更高级的炼体秘法，遂激活身份铭牌，将意识沉入天机塔空间，开始搜寻可修炼的仙术仙经，为实力突破铺路。",
+      "key_events": [
+        "第2136章：方尘催动浮仙剑剥离嗜血迷烟虫巢穴道纹，吞天塔吞噬后如竹笋般生长蜕变，发现其可通过吞噬道纹持续变强。",
+        "交锋：方尘以八卦阵图加持吞天塔，阵中神秘人影主动结印打入法则道纹，吞噬之力与成长速度大幅提升。",
+        "重大转折：方尘察觉琉璃金身诀增幅骤降，经众人分析确认是原有帝术等级不足，决定进入天机塔寻找更高级炼体秘法。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：吞天塔可通过吞噬道纹持续蜕变成长，八卦阵图对其有强力加持效果，神秘人影会主动结印辅助。",
+        "核心线索：方尘原有琉璃金身诀已跟不上大帝级实力，需在天机塔寻找仙术级炼体秘法替代。"
+      ],
+      "evidence_chapters": [
+        2136
+      ],
+      "continuity_in": [
+        2135
+      ],
+      "continuity_out": [
+        2137
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2137,
+      "title": "仙术太贵",
+      "source": {
+        "start_line": 351406,
+        "end_line": 351553
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《仙术太贵》展开，推动后续主线进展。",
+      "summary": "方尘进入天机塔寻找类似琉璃金身诀的秘法，却发现免费秘法极少且多为大帝级，高级仙术动辄上千万甚至十亿贡献值，他手中的五百万贡献值根本不够。他疑惑为何天外天不免费开放秘法，小金蝉解释免费会导致资源枯竭，必须靠贡献值激励修士。方尘决定借鉴免费帝术自创秘法，让八哥进入天机塔查阅相关免费秘法。三天后，八哥阅毕，方尘进入灵鹤空间接受传授。在灵鹤空间内，方尘见到已恢复灵魂之力的火璃大帝，得知其已花费三百万贡献值购买加速恢复秘法。方尘与八哥欲将剩余贡献值赠予火璃大帝，被其婉拒。最终，八哥将海量免费秘法传授给方尘，方尘决定以此为基础，结合自身浮仙诀，创造一套能短时间爆发更强肉身力量的专属秘法。",
+      "key_events": [
+        "方尘发现天机塔内仙术价格极其昂贵，五百万贡献值远不够购买高级秘法",
+        "方尘决定借鉴免费帝术自创秘法，让八哥进入天机塔查阅并传授",
+        "火璃大帝已恢复灵魂之力并购买恢复秘法，婉拒方尘与八哥的贡献值馈赠"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘计划以浮仙诀为核心，结合免费帝术创造短时间提升肉身力量的秘法",
+        "火璃大帝已花费三百万贡献值购买加速恢复秘法，恢复速度可提升十倍"
+      ],
+      "evidence_chapters": [
+        2137
+      ],
+      "continuity_in": [
+        2136
+      ],
+      "continuity_out": [
+        2138
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2138,
+      "title": "浮仙变",
+      "source": {
+        "start_line": 351554,
+        "end_line": 351698
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《浮仙变》展开，推动后续主线进展。",
+      "summary": "方尘被火璃大帝授意后离开灵鹤空间，落于吞天塔上，开始整理并推演各类增强肉身的力量秘法。他发现这些秘法多与血气、燃烧血脉之力相关，并受自身所创剑碎星河融合本源之力的启发，决定将本源之力融入战纹以爆发更强力量。经过一年苦修，方尘身体表面的金色琉璃战纹崩碎重组，化为更复杂的灰色符文，法则波动大增，眼眸暂化灰色，周身十丈形成虚空，液体无法靠近，宣告自创力量秘法成功。此秘法以琉璃金身诀为基础，融汇众家之长，虽初成不及真仙大仙之作，却已不逊半仙所创。方尘将其命名为“浮仙变”，此为第一变，仅融合一种本源之力，未来设想是将所有本源之力逐步融入浮仙战纹，使威力持续攀升。",
+      "key_events": [
+        "方尘受火璃大帝指点，离开灵鹤空间，在吞天塔上推演力量秘法，受剑碎星河启发，决意将本源之力融入战纹。",
+        "经过一年修炼，方尘琉璃战纹崩碎重组为灰色符文，自创力量秘法成功，眼眸暂化灰色，周身形成虚空。",
+        "方尘将新秘法命名为“浮仙变”，此为第一变，未来计划逐步融合所有本源之力以增强威力。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘自创力量秘法“浮仙变”成功，以琉璃金身诀为基础，融合本源之力，目前仅能融合一种本源。",
+        "核心线索：浮仙变后续可通过融入更多本源之力持续升级，是方尘战力提升的关键新手段。"
+      ],
+      "evidence_chapters": [
+        2138
+      ],
+      "continuity_in": [
+        2137
+      ],
+      "continuity_out": [
+        2139
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2139,
+      "title": "红叶寿星草到手",
+      "source": {
+        "start_line": 351699,
+        "end_line": 351891
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《红叶寿星草到手》展开，推动后续主线进展。",
+      "summary": "方尘成功自创秘法“浮仙变”后，发现吞天塔在一年间从十万丈增长至十三万丈，而嗜血迷烟虫巢穴则从直径万里缩减至千里。他决定全力催动吞天塔，试图将巢穴彻底收纳。吞噬过程中，灵魂消耗剧增，但浮仙剑与浮仙戒反馈的能量也大幅提升。历经十三天，巢穴化作红光被收入吞天塔第九层，并在其中恢复至原貌。方尘与小鹤进入塔内查看，发现寄居其中的混沌魔星藤已长大数倍，并从其处获得了一百多捆、共计上万株红叶寿星草。方尘将吞天塔收回体内并无不适，肉身与灵魂均有显著提升，但仍未洞察到仙灵之气，深知大帝境突破非朝夕之功。",
+      "key_events": [
+        "第2139章：方尘自创秘法浮仙变，吞天塔体积增长至十三万丈",
+        "交锋：方尘全力催动吞天塔，历经十三天成功将嗜血迷烟虫巢穴收入第九层",
+        "重大转折：混沌魔星藤在巢穴内成长数倍，并交出上百捆红叶寿星草"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：红叶寿星草已到手，数量达上百捆上万株",
+        "核心线索：吞天塔可收纳并还原嗜血迷烟虫巢穴，混沌魔星藤在其中快速成长"
+      ],
+      "evidence_chapters": [
+        2139
+      ],
+      "continuity_in": [
+        2138
+      ],
+      "continuity_out": [
+        2140
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2140,
+      "title": "易宝之地，金蝉宫",
+      "source": {
+        "start_line": 351892,
+        "end_line": 352066
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《易宝之地，金蝉宫》展开，推动后续主线进展。",
+      "summary": "方尘在泥浆世界收走嗜血迷烟虫巢穴后，因手头红叶寿星草过剩，决定前往金蝉岭最大的易宝之地——金蝉宫，意图出售灵草以换取提升火璃大帝与混沌噬心虫实力的宝物。抵达金蝉宫后，方尘一行立刻被路人认出是四年前名震金蝉岭的浮仙大帝，引发街谈巷议。星云宫的黑袍青年当众拦路挑衅，指责方尘斩杀同门。方尘在金蝉宫规矩的庇护下，以极度轻蔑的态度嘲讽对方不够资格，并扬言办完事会在出口将其灭杀。黑袍青年被迫忍气吞声，放话在宫外等候后离去。火璃大帝暗中提醒方尘，对方此举极有可能是故意为之。",
+      "key_events": [
+        "第2140章：方尘决定前往金蝉宫出售多余的红叶寿星草，以换取提升队友实力的宝物。",
+        "交锋：方尘身份暴露后，星云宫黑袍青年当众拦路挑衅，方尘在金蝉宫安全区内强势回击，扬言宫外灭杀对手。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：金蝉宫是金蝉岭最大的易宝之地，受真仙级守护者管辖，内部严禁私斗，但设有专门的战斗空间。",
+        "核心线索：火璃大帝提醒方尘，黑袍青年的挑衅行为极有可能是星云宫故意设下的圈套。"
+      ],
+      "evidence_chapters": [
+        2140
+      ],
+      "continuity_in": [
+        2139
+      ],
+      "continuity_out": [
+        2141
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2141,
+      "title": "你让大帝去摆摊?",
+      "source": {
+        "start_line": 352067,
+        "end_line": 352223
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《你让大帝去摆摊?》展开，推动后续主线进展。",
+      "summary": "方尘在金蝉宫遭遇黑蚕大帝的挑衅，察觉对方可能是故意演戏以吸引注意力，但并未在意。黑蚕大帝离开后立即向清风大帝通风报信，清风大帝得知方尘终于现身，誓言要将其揪出。方尘原本打算将手中的红叶寿星草卖给商铺以求快捷，但在傀儡小金蝉的建议下，得知摆摊售卖价格更优且无需费用，决定亲自摆摊。然而，方尘堂堂大帝身份去摆摊，心中颇为犹豫。他与火璃大帝、八哥在集市上逛了一圈，发现红叶寿星草极为稀有，根本无人售卖，最终了解到当前市价约为每株一百块帝源石，而商铺收购价仅为九十块。帝源石是金蝉岭的硬通货币，但贡献值才是天外天最珍贵的资源，可用于兑换特殊修炼秘境等。",
+      "key_events": [
+        "第2141章：方尘识破黑蚕大帝的挑衅伎俩，清风大帝收到消息准备带人捉拿方尘",
+        "交锋：方尘决定亲自摆摊售卖红叶寿星草以获取更高价格，而非低价卖给商铺",
+        "重大转折：方尘在集市上发现红叶寿星草极为稀有，无人售卖，了解到当前市价与商铺收购价的差距"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：清风大帝因四年前方尘击杀数位大帝并传播丑闻而发誓追杀，如今终于等到方尘现身",
+        "核心线索：红叶寿星草市价约100块帝源石/株，商铺收购价仅90块，贡献值比帝源石更珍贵"
+      ],
+      "evidence_chapters": [
+        2141
+      ],
+      "continuity_in": [
+        2140
+      ],
+      "continuity_out": [
+        2142
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2142,
+      "title": "灵植师，云心大帝",
+      "source": {
+        "start_line": 352224,
+        "end_line": 352386
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《灵植师，云心大帝》展开，推动后续主线进展。",
+      "summary": "本章开篇揭示了天外天中帝源石与贡献值的珍贵换算体系，以及红叶寿星草作为大帝续命神药的惊人价值。方尘等人意识到手中十几万株红叶寿星草价值超千万贡献值，却只能兑换帝源石。随后，方尘在火璃大帝的鼓励下，于金蝉岭的摆摊街区占据一席之地，准备出售资源。在此过程中，他结识了左侧售卖龙血石的磐石大帝，以及右侧售卖嬉乐果的灵植师云心大帝。云心大帝因方尘四年前大闹星云宫的威名而认出他，并大方赠送四颗灵果。方尘的推让与最终接受，以及他对火璃大帝意见的顺从，意外让云心大帝察觉到火璃大帝才是这群人的真正核心，为后续人物关系埋下伏笔。",
+      "key_events": [
+        "第2142章：方尘认知到天外天资源价值体系，红叶寿星草价值连城却无法直接兑换贡献值",
+        "方尘在金蝉岭摆摊街区占据摊位，结识磐石大帝与灵植师云心大帝",
+        "云心大帝因方尘威名主动赠果，并从方尘对火璃大帝的态度中察觉火璃才是团队核心"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：红叶寿星草可减缓大帝使用本源时的寿元流失，一株价值约100块帝源石或100贡献值",
+        "核心线索：云心大帝是灵植师，她通过方尘对火璃大帝的顺从态度，推断火璃大帝才是团队真正核心"
+      ],
+      "evidence_chapters": [
+        2142
+      ],
+      "continuity_in": [
+        2141
+      ],
+      "continuity_out": [
+        2143
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2143,
+      "title": "灵霞真仙",
+      "source": {
+        "start_line": 352387,
+        "end_line": 352546
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《灵霞真仙》展开，推动后续主线进展。",
+      "summary": "方尘与同门长辈火璃大帝在天外天金蝉岭摆摊，结识了灵植师云心大帝与磐石大帝。方尘取出珍稀灵药红叶寿星草售卖，并以每株95块帝源石的优惠价卖给二人。云心大帝与磐石大帝深知此草稀缺，立刻传讯朋友前来抢购，引发整条街道大帝蜂拥而至，场面一度混乱。一个时辰内，方尘售出五万株红叶寿星草，收获五百万块帝源石，但他并未全部售出，因日后需用贡献值兑换更为困难。此事惊动了金蝉宫守护者灵霞真仙，她调阅方尘档案，发现他初到金蝉岭便敢与星云宫大帝激战并斩杀数人，甚至引发灵钟大帝等人当众失控的荒诞事件，对其来历与能力产生浓厚兴趣。",
+      "key_events": [
+        "方尘摆摊售卖红叶寿星草，以优惠价结识云心大帝与磐石大帝",
+        "消息传开引发大帝抢购潮，方尘一个时辰售出五万株，获利五百万帝源石",
+        "金蝉宫守护者灵霞真仙关注方尘，调阅其档案发现其战绩与引发荒诞事件"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "红叶寿星草极为稀缺，通常需用贡献值兑换，方尘以帝源石低价出售引发轰动",
+        "灵霞真仙是金蝉宫守护者，权限极高，已对方尘产生关注并调查其过往"
+      ],
+      "evidence_chapters": [
+        2143
+      ],
+      "continuity_in": [
+        2142
+      ],
+      "continuity_out": [
+        2144
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2144,
+      "title": "白玉星魂果",
+      "source": {
+        "start_line": 352547,
+        "end_line": 352682
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《白玉星魂果》展开，推动后续主线进展。",
+      "summary": "方尘在出售部分红叶寿星草获得五百万帝源石后，带领火璃大帝和混沌噬心虫进入金蝉宫最大店铺采购修炼资源。店铺内部空间广阔，浮空岛屿上阁楼林立，由一位青蝉化身的青衣女子接待。方尘表明需要购买提升灵魂感知力的宝物以加速修炼，青衣女子引领他们进入专门售卖此类宝物的阁楼。方尘提议用全部资金为三人采购资源，但火璃大帝和混沌噬心虫均表示不愿拖累方尘，坚持要靠自己赚取资源。方尘耐心劝说，强调天外天环境险恶，唯有身边伙伴实力提升才能在终焉之地互相照应。火璃大帝最终被说服，但建议将资金一分为二，一半用于提升修为，另一半购买战斗爆发类宝物。方尘采纳建议，考虑到自身浮仙剑修炼的特殊性，决定不购买修为类宝物，转而挑选能增强肉身力量的爆发类宝物。最终方尘选中白玉星魂果，每枚价值五十万帝源石，可提升灵魂之力与感知力。方尘购买四颗，全部分给火璃大帝和混沌噬心虫，自己仅保留一颗用于测试与自身剑道修炼的配合效果。",
+      "key_events": [
+        "第2144章：方尘携五百万帝源石进入金蝉宫最大店铺，寻求提升灵魂感知力的宝物",
+        "交锋：方尘欲为火璃大帝和混沌噬心虫购买资源遭拒，双方就伙伴责任与独立成长展开劝说与推辞",
+        "转折：方尘说服同伴接受资助，并调整采购策略，将资金分为修为提升与战斗爆发两类",
+        "结局：方尘选中白玉星魂果，花费两百万购买四颗全部分给同伴，自留一颗测试效果"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘花费两百万帝源石购买四颗白玉星魂果，全部分给火璃大帝和混沌噬心虫，自己仅留一颗",
+        "核心线索：方尘拥有浮仙剑特殊体质，练剑即可提升灵魂感知力，因此对修为类宝物需求较低，更侧重战斗爆发类资源"
+      ],
+      "evidence_chapters": [
+        2144
+      ],
+      "continuity_in": [
+        2143
+      ],
+      "continuity_out": [
+        2145
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2145,
+      "title": "剑盟堂主的邀请",
+      "source": {
+        "start_line": 352683,
+        "end_line": 352845
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《剑盟堂主的邀请》展开，推动后续主线进展。",
+      "summary": "方尘在金蝉宫继续采购，以五十万地魂石购入白玉星魂果后，又前往另一座悬空岛挑选战斗爆发类宝物。他选中了以真仙级龙血炼制的青光龙血玉髓，此物可令肉身力量在短时间内爆发百倍乃至千倍，一瓶价值五十万帝源石，方尘将剩余两百五十万帝源石全部花光，购入五瓶。他将其中一瓶赠予火璃大帝和混沌噬心虫以备不时之需，八哥则婉拒。离开金蝉宫途中，方尘得知星云宫已在出口设伏，却毫无惧色，反而冷笑以对。途中众多大帝围拢求购红叶寿星草，方尘告知已售罄。此时剑盟堂主独孤岳亲自出面邀请方尘加入剑盟，并承诺助其对付星云宫，方尘婉拒。众人惊叹之际，方尘径直走向出口，果然遭遇星云宫大批人马以灵识锁定，一场冲突一触即发。",
+      "key_events": [
+        "第2145章：方尘耗尽两百五十万帝源石购入五瓶青光龙血玉髓，分赠火璃大帝与混沌噬心虫",
+        "交锋：剑盟堂主独孤岳亲自邀请方尘加入剑盟并承诺助战星云宫，方尘婉拒",
+        "重大转折：方尘明知星云宫在出口设伏，仍主动走出，遭大批人马灵识锁定"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：青光龙血玉髓可令肉身爆发力提升百至千倍，方尘购五瓶赠出两瓶",
+        "核心线索：剑盟为金蝉岭五大霸主之首，堂主亲自邀请被拒，星云宫已在出口伏击方尘"
+      ],
+      "evidence_chapters": [
+        2145
+      ],
+      "continuity_in": [
+        2144
+      ],
+      "continuity_out": [
+        2146
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2146,
+      "title": "对战清风大帝",
+      "source": {
+        "start_line": 352846,
+        "end_line": 352990
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《对战清风大帝》展开，推动后续主线进展。",
+      "summary": "四年前方尘大闹星云宫后，清风堂堂主清风大帝率众在金蝉宫外守株待兔，誓要一雪前耻。方尘明知有伏，仍大摇大摆现身，并拒绝旁人协助，独自迎战。交手之际，方尘率先发难，挥剑直取清风大帝，被对方以风刃挡下。清风大帝随即化作清风消失，试图偷袭，但方尘凭借轮回眼秘法精准捕捉其轨迹，以一重浪剑诀破空斩出，将隐于虚空的清风大帝逼现身形，令其面露惊异。方尘并未乘胜追击，而是运转生命之眼探查，发现清风大帝尚余一万一千余年寿元，若动用黄昏之力强杀，代价过大且不划算，遂暂作保留，双方陷入短暂对峙。",
+      "key_events": [
+        "第2146章：清风大帝率清风堂众人在金蝉宫外堵截方尘，欲洗刷四年前耻辱",
+        "交锋：方尘主动出剑，清风大帝以风刃格挡后化作清风偷袭，被方尘轮回眼识破并以一重浪剑诀逼出",
+        "重大转折：方尘探查发现清风大帝寿元超万年，使用黄昏之力不划算，选择暂缓杀手"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以轮回眼秘法配合一重浪剑诀成功逼退清风大帝的偷袭，展现出不俗战力",
+        "核心线索：方尘拥有黄昏之力可削人寿元，但清风大帝寿元过万，此招代价太大暂未使用"
+      ],
+      "evidence_chapters": [
+        2146
+      ],
+      "continuity_in": [
+        2145
+      ],
+      "continuity_out": [
+        2147
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2147,
+      "title": "九宫八卦阵",
+      "source": {
+        "start_line": 352991,
+        "end_line": 353150
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《九宫八卦阵》展开，推动后续主线进展。",
+      "summary": "方尘与清风大帝激战，一剑将清风大帝砍飞，引发周围大帝震惊。清风大帝颜面尽失，愤怒之下召唤八十一位星云宫大帝，借来星云宫主的九宫八卦阵旗，布下大阵封锁空间，欲置方尘于死地。方尘被困阵中却冷笑，认为阵法漏洞百出。他施展天佛莲花种入清风大帝头顶，声称此花无伤却能追踪其位置，防止其逃跑。清风大帝不以为意，催动狂风之力持青色长剑猛攻方尘。方尘以浮仙剑施展“一重浪”迎击，双剑碰撞，道纹崩碎，方尘被震飞，清风大帝乘胜追击，战斗进入白热化阶段。",
+      "key_events": [
+        "第2147章：方尘一剑砍飞清风大帝，展现实力震惊众人",
+        "交锋：清风大帝借九宫八卦阵旗布阵困住方尘，方尘以天佛莲花种入清风大帝头顶用于追踪",
+        "重大转折：方尘被清风大帝一剑震飞，战斗局势逆转"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以天佛莲花标记清风大帝，声称可追踪其位置，无论逃到何处都能感应",
+        "核心线索：九宫八卦阵由八十一位星云宫大帝持阵旗布下，封锁空间防止方尘逃跑，清风大帝在大阵内与方尘决战"
+      ],
+      "evidence_chapters": [
+        2147
+      ],
+      "continuity_in": [
+        2146
+      ],
+      "continuity_out": [
+        2148
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2148,
+      "title": "剑碎星河加诸神的黄昏",
+      "source": {
+        "start_line": 353151,
+        "end_line": 353331
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《剑碎星河加诸神的黄昏》展开，推动后续主线进展。",
+      "summary": "方尘在九宫八卦阵内与清风大帝展开激战，凭借诡异的速度和身法不断消失又出现，令清风大帝无法锁定其位置，只能被动挨打。方尘施展类似夺命连环锤法的叠加剑法，每一击威力递增，将主动权牢牢掌握。当剑法叠加至九重浪时，方尘一剑重创清风大帝，令其吐血倒飞。紧接着，方尘使出绝招“剑碎星河”，一道红金双色剑光无视防御射入清风大帝体内，引发其身体连环爆裂。清风大帝虽拼命修复伤口，但爆炸速度远超修复能力，最终被炸得粉碎。方尘随即展开“诸神的黄昏”领域，加速清风大帝生命元气的流失，使其陷入极度恐慌。清风大帝灵魂虽存，但已无力回天，彻底落入绝境。",
+      "key_events": [
+        "第2148章：方尘以诡异身法和叠加剑法压制清风大帝，掌握战斗主动权",
+        "交锋：方尘九重浪重创清风大帝后，使出“剑碎星河”令其身体连环爆裂",
+        "重大转折：方尘展开“诸神的黄昏”领域，清风大帝身体粉碎、生命元气急速流失，陷入绝境"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以叠加剑法配合“剑碎星河”和“诸神的黄昏”领域，将清风大帝身体炸碎并困于绝境",
+        "核心线索：方尘的剑法类似夺命连环锤法，越叠越强，最后一击可无视防御，但消耗极大，属于豪赌式攻击"
+      ],
+      "evidence_chapters": [
+        2148
+      ],
+      "continuity_in": [
+        2147
+      ],
+      "continuity_out": [
+        2149
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2149,
+      "title": "灵霞真仙的疑惑",
+      "source": {
+        "start_line": 353332,
+        "end_line": 353506
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《灵霞真仙的疑惑》展开，推动后续主线进展。",
+      "summary": "清风大帝在方尘的猛攻下身体粉碎，试图重组时，方尘施展出黑暗噬神领域，与诸神的黄昏领域叠加，强行压制并吞噬清风大帝的残躯。清风大帝惊恐求救，维持九宫八卦阵的众帝这才反应过来，连忙催动阵旗释放金光攻击方尘。然而方尘凭借浮仙剑吞噬金光之力，反而在领域中凝聚出巨大的混沌噬神蜂。混沌噬神蜂振翅发出恐怖声波，瞬间撕裂众帝灵魂，导致九宫八卦阵崩溃，远处观战的大帝们也纷纷抱头逃窜。清风大帝的残躯与灵魂在多重吞噬下不断瓦解，方尘更同时祭出吞天塔、吞天螺壳与炼天炉，彻底断绝其翻盘可能。此战令全场震撼，八哥等人欢呼雀跃，千剑大帝惊叹不已。暗中观察的灵霞真仙亦对方尘的强大实力感到惊讶，并与吞天云雀疑惑：方尘既是混沌大仙的同乡，为何未去投靠，反而疑似被故意放入金蝉岭历练？",
+      "key_events": [
+        "第2149章：方尘以黑暗噬神领域压制清风大帝残躯，阻止其重组",
+        "交锋：方尘借浮仙剑吞噬阵法金光，凝聚混沌噬神蜂，声波破阵并重创众帝",
+        "重大转折：九宫八卦阵崩溃，清风大帝彻底失去救援，陷入绝境"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘凭借多重领域与混沌噬神蜂，彻底击溃清风大帝及九宫八卦阵，实力震惊全场",
+        "核心线索：灵霞真仙疑惑方尘作为混沌大仙同乡却未投靠，推测其可能是被故意放入金蝉岭磨炼"
+      ],
+      "evidence_chapters": [
+        2149
+      ],
+      "continuity_in": [
+        2148
+      ],
+      "continuity_out": [
+        2150
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2150,
+      "title": "降魔咒发威",
+      "source": {
+        "start_line": 353507,
+        "end_line": 353696
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《降魔咒发威》展开，推动后续主线进展。",
+      "summary": "吞天云雀与灵霞真仙在旁观战时推断，方尘并非被混沌大仙刻意安排到金蝉岭历练，而是凭自身天赋足以进入更高层修炼空间。战场上，方尘先以黑暗噬神领域彻底吞噬了清风大帝的破碎肉身，随后面对试图逃跑的星云宫布阵大帝，他祭出黑色木鱼，以浮仙剑敲击并念诵降魔咒。木鱼声、咒语与混沌噬神蜂的翅鸣交织，形成毁灭性的灵魂攻击，令众帝痛不欲生，连自爆都无法集中精神。随着方尘加速念咒，大帝们接连魂飞魄散，不到一炷香时间，包括清风大帝在内的八十二名星云宫成员尽数被斩。方尘将尸体与阵旗收入吞天塔，观战者无不震撼，认为他拥有直接进入螳螂山或黄雀岭的资格。灵霞真仙赞叹不已，吞天云雀更断言方尘具备大仙之姿，但对其能否成为仙王持保留态度。",
+      "key_events": [
+        "第2150章：方尘以黑暗噬神领域吞噬清风大帝肉身，彻底终结其战力",
+        "交锋：方尘敲木鱼念降魔咒，配合混沌噬神蜂翅鸣，灵魂攻击覆灭星云宫八十一位布阵大帝",
+        "结局：一炷香内全歼敌方，吞天云雀断言方尘有大仙之姿"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘并非被安排来历练，而是天赋远超金蝉岭层次的天才",
+        "核心线索：降魔咒+木鱼+混沌噬神蜂的组合技成为方尘的标志性灵魂杀招"
+      ],
+      "evidence_chapters": [
+        2150
+      ],
+      "continuity_in": [
+        2149
+      ],
+      "continuity_out": [
+        2151
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2151,
+      "title": "好多战利品",
+      "source": {
+        "start_line": 353697,
+        "end_line": 353841
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《好多战利品》展开，推动后续主线进展。",
+      "summary": "方尘在不到一炷香内斩杀星云宫近百位大帝的壮举震动金蝉岭，面对其威慑，无人敢再战。方尘并未恋战，而是与火璃大帝返回金蝉宫，打算将所获战利品变卖以换取修炼资源。他深知天外天危机四伏，必须抓紧时间提升实力。方尘斩杀近百位大帝的消息及战斗留影迅速传开，众大帝震惊于其恐怖天赋，认为他很快便会进入更高层次的螳螂山。回到金蝉宫后，方尘拒绝了直接交由店铺整理战利品的建议，担心暴露其中可能存在的珍稀宝物。他取出轮回塔，与众人进入其中，凭借炼器大师的能力轻松破解了星云宫大帝们极道帝兵级储物法宝的封印，将所有宝物倒出，堆积如山，开始仔细整理这批丰厚的战利品。",
+      "key_events": [
+        "第2151章：方尘斩杀近百位大帝后威震金蝉岭，无人敢应战，随即返回金蝉宫。",
+        "交锋：方尘与火璃大帝计划变卖战利品换取资源，并拒绝店铺代劳，选择亲自整理以防珍宝信息泄露。",
+        "重大转折：方尘在轮回塔内破解储物法宝封印，海量宝物堆积如山，开始清点战利品。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘不到一炷香斩杀近百位大帝，实力恐怖，金蝉岭众大帝认为其将很快进入螳螂山。",
+        "核心线索：方尘亲自整理战利品，因担心储物法宝内有珍稀宝物被外人知晓，选择不假手于人。"
+      ],
+      "evidence_chapters": [
+        2151
+      ],
+      "continuity_in": [
+        2150
+      ],
+      "continuity_out": [
+        2152
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2152,
+      "title": "一块白色石头",
+      "source": {
+        "start_line": 353842,
+        "end_line": 354031
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《一块白色石头》展开，推动后续主线进展。",
+      "summary": "方尘等人击杀星云宫大帝后，在整理其携带的大量宝物时，小鹤突然感应到一股亲切的气息，从宝物堆中翻出一块布满空间道纹的神秘白色石头。小鹤声称此物能助其突破，不顾方尘担忧将其吞服炼化，随即周身白光大盛，疯狂吸收空间道纹，实力飞速提升。方尘见其状态良好，承诺日后寻访此石来历并帮其搜集更多。随后，八哥以分身术高效完成剩余宝物整理，众人前往金蝉宫最大的百宝阁出售战利品。面对储物戒指中堆积如山的宝物，负责接待的傀儡侍女眼前一亮，恭敬地将方尘一行引入内室进行交易。",
+      "key_events": [
+        "小鹤发现神秘白色石头并吞服炼化，实力获得快速提升",
+        "八哥以分身术高效完成海量宝物整理",
+        "方尘一行前往百宝阁出售星云宫大帝遗留的战利品"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：小鹤吞服白色石头后实力大涨，此石蕴含强大空间道纹，对其有亲人般的亲切感",
+        "核心线索：白色石头来历成谜，小金蝉数据库中无相关信息，需向更高权限者探寻"
+      ],
+      "evidence_chapters": [
+        2152
+      ],
+      "continuity_in": [
+        2151
+      ],
+      "continuity_out": [
+        2153
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2153,
+      "title": "方尘的洞府",
+      "source": {
+        "start_line": 354032,
+        "end_line": 354248
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《方尘的洞府》展开，推动后续主线进展。",
+      "summary": "方尘一行在百宝阁售出宝物，获一千两百万帝源石，随即全部购入三瓶龙魂精魄，分予火璃大帝与混沌噬心虫，准备炼化提升修为。因需安全修炼之地，方尘决定前往自己从未踏足的金蝉岭洞府。在小鹤与小金蝉指引下，众人来到东域赤水山一万三千八百七十二号洞府，此地仍属星云宫领地。山脚众大帝见方尘现身，惶恐不安，误以为其前来寻仇。灵星大帝壮胆询问，得知方尘竟是来此开启洞府，大感意外，因以方尘实力本不该屈居于此。灵星大帝引路至半山腰洞府后匆匆离去，不愿过多攀交。山下众修议论纷纷，既惊讶方尘洞府在此，又担忧星云宫必将因能量波动前来抢夺，届时恐引发新一轮血战，众人皆冷眼坐等星云宫再遭重创。",
+      "key_events": [
+        "第2153章：方尘售出宝物获巨款，购入三瓶龙魂精魄准备炼化修炼",
+        "方尘首次前往金蝉岭洞府，于赤水山半山腰找到一万三千八百七十二号洞府",
+        "赤水山众大帝惶恐，灵星大帝引路后离去，众人料定星云宫将因洞府开启波动前来抢夺"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘洞府位于星云宫领地赤水山，此前从未开启，一旦开启必引来星云宫争夺",
+        "核心线索：方尘刚灭杀近百星云宫大帝，现身赤水山而不隐匿，星云宫主极可能亲自带人前来复仇"
+      ],
+      "evidence_chapters": [
+        2153
+      ],
+      "continuity_in": [
+        2152
+      ],
+      "continuity_out": [
+        2154
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2154,
+      "title": "招惹了我还想跑?",
+      "source": {
+        "start_line": 354249,
+        "end_line": 354432
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《招惹了我还想跑?》展开，推动后续主线进展。",
+      "summary": "方尘入住赤水山高级洞府后，星云宫十二位大帝误以为洞府无主，上门叫嚣抢夺。方尘与火璃大帝等人出洞后，星云宫众人认出方尘身份，惊恐逃遁。方尘施展黑暗噬神领域将众人困住，星云宫大帝们自知不敌，接连自爆以求解脱。连续自爆撕裂了方尘的领域，给他带来强烈反噬，但方尘凭借浮仙剑迅速恢复，并再次施展领域，将爆炸产生的庞大能量压缩吞噬，化为己用，修为大增。赤水山其他大帝目睹方尘承受反噬并吞噬能量的骇人手段，震惊不已。方尘因连累他人而致歉，随后意识到星云宫威胁未除，便与火璃大帝等人回洞闭关，决定先炼化宝物提升实力，以应对后续麻烦。",
+      "key_events": [
+        "第2154章：方尘入住高级洞府，星云宫十二位大帝上门抢夺",
+        "交锋：方尘施展黑暗噬神领域困敌，星云宫大帝接连自爆，方尘承受反噬后吞噬爆炸能量",
+        "重大转折：方尘吞噬能量修为大增，决定闭关提升实力以应对星云宫"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘的黑暗噬神领域可吞噬自爆能量化为己用，实力深不可测",
+        "核心线索：星云宫与方尘的冲突持续，方尘选择暂避锋芒，闭关炼化宝物提升修为"
+      ],
+      "evidence_chapters": [
+        2154
+      ],
+      "continuity_in": [
+        2153
+      ],
+      "continuity_out": [
+        2155
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2155,
+      "title": "服用白玉星魂果",
+      "source": {
+        "start_line": 354433,
+        "end_line": 354580
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《服用白玉星魂果》展开，推动后续主线进展。",
+      "summary": "方尘与火璃大帝、混沌噬心虫返回洞府后，决定先服用白玉星魂果，因其药性较龙魂精魄温和。果实口感极佳，入腹后化为冰凉气流滋养灵魂本源与筑基道台，三者的灵魂感知力与帝之源力吸收速度均大幅提升。方尘为寻求更大突破，进入吞天塔第九层，将浮仙剑刺入嗜血迷烟虫巢穴，汲取磅礴能量。两股力量叠加，竟使其灵魂感知力突破极限，达到以往需施展九重浪剑法才能触及的境界。这意味着他今后可随手调动本源之力施展绝招，实力暴涨，甚至敢与半仙强者一战。与此同时，星云宫因清风大帝被方尘斩杀而震动，众堂主齐聚，实力仅次于宫主的无极大帝主持大局。因宫主闭关未出，众人不敢妄动，仅探得方尘在赤水山闭关，决定暂且监视，待宫主出关再做定夺。",
+      "key_events": [
+        "第2155章：方尘与同伴服用白玉星魂果，灵魂感知力大增。",
+        "突破：方尘借浮仙剑汲取虫巢能量，与药力叠加，灵魂感知力突破极限，实力质变。",
+        "暗流：星云宫众堂主因清风大帝之死齐聚，无极大帝暂代主持，决定监视方尘，等待宫主出关。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘灵魂感知力突破极限，已能随手施展剑碎星河绝招，实力可战半仙。",
+        "核心线索：星云宫主闭关未出，无极大帝下令暂不行动，仅监视方尘于赤水山的动向。"
+      ],
+      "evidence_chapters": [
+        2155
+      ],
+      "continuity_in": [
+        2154
+      ],
+      "continuity_out": [
+        2156
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2156,
+      "title": "虚空之莲",
+      "source": {
+        "start_line": 354581,
+        "end_line": 354737
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《虚空之莲》展开，推动后续主线进展。",
+      "summary": "方尘在星云宫众帝注视下，耗时三天彻底吸收白玉星魂果，修为大增。随后他吞服整瓶龙魂精魄，不仅灵魂感知力暴涨，肉身与筑基道台也得到强化，吸收帝之源力的范围随之扩大。十天后药力耗尽，灵魂感知却未能稳定在极限境界。为探知自身灵魂层次，方尘向小金蝉询问，得知天外天有一门大帝可修的功法“虚空之莲”，能于识海中凝聚莲朵以直观反映灵魂境界，十朵即为半仙门槛。此功法在天机塔免费，方尘立即取得并修炼，仅凝聚出三朵，第三朵尚为花苞，与半仙差距巨大。他不甘之下拔浮仙剑施展九重浪剑法，灵魂突破极限，第三朵莲绽放；再完成十次转身的“剑碎星河”，第四朵莲初现花苞，但剑势消散后瞬间跌落回三朵花苞状态。方尘借浮仙剑反馈恢复力量后，深刻意识到自己距半仙、真仙、仙王等境界仍有遥不可及的距离，顿感无力。",
+      "key_events": [
+        "第2156章：方尘吸收白玉星魂果与龙魂精魄，灵魂感知与肉身大幅增强，但未能稳固极限境界",
+        "关键突破：习得虚空之莲功法，常态仅凝聚三朵（第三朵为花苞），施展剑碎星河后短暂触及第四朵门槛，随即跌落",
+        "重大转折：方尘清晰认知自身灵魂境界距半仙（第十朵）差距悬殊，连真仙、仙王更是遥不可及，陷入无力感"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：虚空之莲为天外天免费功法，莲朵数对应灵魂境界，十朵可洞察仙灵之力，是半仙与大帝的分水岭",
+        "核心线索：方尘常态三朵（第三朵未开），极限爆发仅摸到第四朵门槛，与半仙差距巨大，后续修炼需大幅提升灵魂境界"
+      ],
+      "evidence_chapters": [
+        2156
+      ],
+      "continuity_in": [
+        2155
+      ],
+      "continuity_out": [
+        2157
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2157,
+      "title": "三朵虚空之莲",
+      "source": {
+        "start_line": 354738,
+        "end_line": 354933
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《三朵虚空之莲》展开，推动后续主线进展。",
+      "summary": "方尘离开吞天塔前突发奇想，尝试将浮仙剑留在嗜血迷烟虫巢穴上继续吞噬能量，结果发现即使离开吞天塔甚至收回吞天塔，浮仙戒仍能持续吸收同等强度的能量，这意味着他可以躺着提升修为。随后他检测自己修炼的虚空之莲秘法，发现自己已凝聚出三朵虚空之莲，第三朵为花苞。小金蝉对此惊叹不已，指出方尘仅用四年便达到此境界极为罕见，并提及时间加速秘境可进一步提升修炼速度，但需前往黄雀岭以上空间且消耗大量贡献值，方尘决心尽快前往。八哥受方尘建议也去天机塔学习虚空之莲，凝聚出两朵。半年后混沌噬心虫结束修炼，实力大增，对方尘行礼致谢，感叹龙魂精魄效果虽好但价格昂贵。方尘则继续等待火璃大帝出关。",
+      "key_events": [
+        "第2157章：浮仙剑远程供能验证成功，方尘实现挂机修炼",
+        "突破：方尘凝聚三朵虚空之莲，灵魂境界大幅提升",
+        "情报：小金蝉透露时间加速秘境信息，方尘立志前往黄雀岭"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：浮仙剑插在巢穴上可跨空间持续供能，方尘获得稳定挂机修炼手段",
+        "核心线索：虚空之莲是衡量灵魂境界的秘法，方尘三朵、八哥两朵，半仙境界仍遥远"
+      ],
+      "evidence_chapters": [
+        2157
+      ],
+      "continuity_in": [
+        2156
+      ],
+      "continuity_out": [
+        2158
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2158,
+      "title": "主动出手",
+      "source": {
+        "start_line": 354934,
+        "end_line": 355087
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《主动出手》展开，推动后续主线进展。",
+      "summary": "方尘与同伴在星云宫夺来的宝物辅助下修为大进，因身处金蝉岭无牵无挂，他决定主动出击，猎杀星云宫的大帝以抢夺资源。为评估实力，方尘让混沌噬心虫进入天机塔修炼免费的虚空之莲秘法，后者仅凝聚出一朵半开的莲花，方尘安慰其潜力巨大。混沌噬心虫吞噬大帝尸体继续成长，一个月后火璃大帝也炼化完宝物醒来。火璃大帝同样修炼虚空之莲，凝聚出两朵，而方尘则凝聚出三朵。通过此法，众人直观认识到自身与半仙境界（需凝聚十朵虚空之莲）的巨大差距，为接下来的主动出击奠定了实力认知基础。",
+      "key_events": [
+        "方尘决定主动猎杀星云宫大帝抢夺资源",
+        "混沌噬心虫与火璃大帝修炼虚空之莲评估实力",
+        "方尘凝聚三朵虚空之莲，众人认清与半仙差距"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "虚空之莲秘法可量化实力，十朵为半仙门槛",
+        "方尘团队已无顾忌，准备主动出击星云宫"
+      ],
+      "evidence_chapters": [
+        2158
+      ],
+      "continuity_in": [
+        2157
+      ],
+      "continuity_out": [
+        2159
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2159,
+      "title": "落星古城废墟",
+      "source": {
+        "start_line": 355088,
+        "end_line": 355286
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《落星古城废墟》展开，推动后续主线进展。",
+      "summary": "修炼虚空之莲后，方尘与火璃大帝决定主动出击，抢夺星云宫的资源。方尘发现小鹤因吸收白色石头实力大增，石头体积几乎未减，可继续炼化。众人出洞后，发现星云宫的眼线仍在盯梢，便佯装不知，故意带着追兵离开赤水山，辗转至凶险的落星古城废墟。在废墟上空雷电交加、空间裂缝频现之际，方尘让小鹤施展空间神通，将众人收入灵鹤空间后钻入虚空消失，成功甩掉追兵。脱离追踪后，火璃大帝提出新策略：不必执着于杀人，应发挥洗劫特长，突袭星云宫的矿场与种植园，以掠夺资源为核心目标。",
+      "key_events": [
+        "第2159章：方尘与火璃大帝决定主动出击抢夺星云宫资源，小鹤因白色石头实力大增且石头未耗尽",
+        "交锋：方尘一行故意引开星云宫眼线，在落星古城废墟借小鹤空间神通甩掉追兵",
+        "重大转折：火璃大帝提议改变策略，不杀人而突袭矿场种植园掠夺资源"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：小鹤吸收的白色石头体积几乎未变，仍可继续提升实力",
+        "核心线索：火璃大帝提出突袭星云宫矿场与种植园的新掠夺方向"
+      ],
+      "evidence_chapters": [
+        2159
+      ],
+      "continuity_in": [
+        2158
+      ],
+      "continuity_out": [
+        2160
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2160,
+      "title": "矿洞中的仙药园",
+      "source": {
+        "start_line": 355287,
+        "end_line": 355452
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《矿洞中的仙药园》展开，推动后续主线进展。",
+      "summary": "方尘与火璃大帝、八哥等人商议后，决定利用小鹤的空间能力与阵法特长，潜入星云宫的矿场或种植园进行掠夺。小金蝉们虽担忧此举风险巨大，但因计划未触及金蝉岭底线而承诺不泄密。方尘放弃了对大帝强者搜魂的打算，转而让小鹤带领众人暗中收集情报。经过十日的探查，他们发现了一处位于废弃千元仙玉矿洞中的大型药园——千元仙药园，内部种植着需万年方可采收的珍贵灵药千元仙草。抵达药园入口后，众人发现守卫森严，强攻难度极大。于是他们绕至山体后方，试图寻找捷径。面对连方尘的浮仙剑都只能留下浅痕的坚硬山体，众人束手无策。关键时刻，混沌噬心虫出手，竟如啃酥饼般轻易咬碎了连半仙强者都难以破坏的千元山顽石，为众人开辟直通药园内部的通道提供了可能。",
+      "key_events": [
+        "第2160章：方尘团队决定掠夺星云宫资源，小金蝉因规则限制未加阻拦",
+        "交锋：探查发现千元仙药园守卫森严，强攻不可行，方尘放弃搜魂大帝计划",
+        "重大转折：混沌噬心虫展现出对千元山坚硬岩石的惊人破坏力，成为破局关键"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：千元仙药园位于废弃的千元仙玉矿洞内，种植珍贵灵药千元仙草，守卫森严",
+        "核心线索：混沌噬心虫能轻易啃食连半仙强者都无法破坏的千元山岩石，是潜入药园的关键能力"
+      ],
+      "evidence_chapters": [
+        2160
+      ],
+      "continuity_in": [
+        2159
+      ],
+      "continuity_out": [
+        2161
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2161,
+      "title": "仙草要成熟了",
+      "source": {
+        "start_line": 355453,
+        "end_line": 355624
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【帝境与界海篇】围绕《仙草要成熟了》展开，推动后续主线进展。",
+      "summary": "方尘一行人潜入金蝉岭的千元仙药园，意图抢夺即将成熟的千元仙草。他们利用混沌噬心虫无物不噬的能力，从山体外部轻松打洞三天挖穿山腹，随后方尘以黄昏之力配合浮仙剑，如划薄纱般切开药园结界，由小鹤掩护进入并迅速修复破口。尽管结界波动引来巡逻队，但众人已藏身虚空，未被察觉。小鹤带着方尘在虚空游弋三个时辰，摸清了药园布局：两百名灵植师、百名护卫及多重阵法，并发现被星云宫抓来劳作的云心大帝。方尘决定在仙草成熟被收集后出手，计划用轮回塔封锁出口，将园内之人一网打尽。药园守卫浑然不知，一场掠夺即将来临。",
+      "key_events": [
+        "第2161章：混沌噬心虫三日挖穿千元仙玉矿脉山体，突破物理防御",
+        "交锋：方尘以黄昏之力划开结界潜入药园，小鹤修复破口骗过巡逻队",
+        "重大转折：方尘发现云心大帝被囚禁劳作，决定等仙草成熟后封锁出口抢夺"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘团队已完全潜入千元仙药园内部，掌握地形与人员布局，准备等仙草成熟后出手",
+        "核心线索：药园内有两百灵植师、百名护卫及杀阵，云心大帝被星云宫抓来强制劳作"
+      ],
+      "evidence_chapters": [
+        2161
+      ],
+      "continuity_in": [
+        2160
+      ],
+      "continuity_out": [
+        2162
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2162,
+      "title": "连根挖起",
+      "source": {
+        "start_line": 355625,
+        "end_line": 355808
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《连根挖起》展开，推动后续主线进展。",
+      "summary": "十天后，千元仙草成熟，药园内香气弥漫，众人激动不已。方尘决定不等星云宫收集仙草便动手，以防对方自爆毁掉仙草。他祭出吞天塔堵住药园出口，封锁退路。面对星云宫大帝，方尘警告非星云宫人员进入吞天塔避难，随后逼迫对方交出仙草。血刀大帝拒绝并命令灵植师毁掉仙草后自爆。方尘立刻敲响黑色木鱼并念起降魔咒，使众人头痛欲裂无法集中精神。他给火璃大帝、八哥和混沌噬心虫打上印记使其免受咒术影响，命他们收割仙草。火璃大帝准备切割仙草时，随身小金蝉提醒千元仙草必须连根拔起，根茎是精华所在，损伤会导致精华流失。",
+      "key_events": [
+        "方尘祭出吞天塔封锁药园出口，切断星云宫退路",
+        "方尘以降魔咒压制全场，阻止灵植师毁草和自爆",
+        "小金蝉提醒千元仙草需连根拔起，根茎为精华所在"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "降魔咒配合黑色木鱼在密闭空间内效果极强，可令大帝无法自爆",
+        "千元仙草必须连根拔起，损伤根茎会导致精华流失"
+      ],
+      "evidence_chapters": [
+        2162
+      ],
+      "continuity_in": [
+        2161
+      ],
+      "continuity_out": [
+        2163
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2163,
+      "title": "他们都被我杀了",
+      "source": {
+        "start_line": 355809,
+        "end_line": 355995
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《他们都被我杀了》展开，推动后续主线进展。",
+      "summary": "在千元仙药园内，八哥因分身实力太弱无法挖掘坚硬的仙草，便建议方尘放出吞天塔内的大帝帮忙。方尘却担心星云宫大帝承受不住降魔咒自爆会伤及众人，于是先关闭吞天塔隔绝视线，再放出混沌魔星藤。小星以红色尖刺穿透大帝防御注入毒素，不到一炷香便将星云宫所有大帝迷晕。方尘将小星和昏迷的大帝收回塔中，随后向塔内其他大帝传音，谎称已解决星云宫之人并承诺每人一株仙草作为酬劳。众大帝出塔后不见星云宫之人，方尘轻描淡写地表示已将他们全部杀死。众人心惊之余开始挖掘价值连城的千元仙草，而收到消息的无极大帝正率数十位堂主匆匆赶往药园入口，发现入口被黑塔堵住，脸色阴沉地质问守卫。",
+      "key_events": [
+        "第2163章：方尘放出混沌迷星藤，以毒素迷晕星云宫全部大帝",
+        "方尘谎称已杀星云宫大帝，驱使其他大帝挖掘千元仙草",
+        "无极大帝率众赶到药园入口，发现入口被吞天塔堵住"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘用混沌魔星藤迷晕而非杀死星云宫大帝，将他们关在吞天塔内",
+        "核心线索：千元仙草价值极高，一株至少一万块帝源石，整片药园价值超十亿"
+      ],
+      "evidence_chapters": [
+        2163
+      ],
+      "continuity_in": [
+        2162
+      ],
+      "continuity_out": [
+        2164
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2164,
+      "title": "准仙器黑山印",
+      "source": {
+        "start_line": 355996,
+        "end_line": 356164
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《准仙器黑山印》展开，推动后续主线进展。",
+      "summary": "星云宫耗费数亿帝源石培育的千元仙草成熟之际，竟有人胆敢觊觎仙药园。无极大帝因无法联系上星云宫主，遂率众堂主前往查探，却发现通道被一座毫无道纹的黑塔死死卡住。无极大帝亲推无果后，召集众人以本命极道帝兵无极棍合力撞击塔尖，结果不仅未能撼动黑塔分毫，碰撞产生的反噬之力更令无极大帝当场吐血，无极棍前端被塔尖撞出六边形凹痕并布满裂痕，几近损毁。与此同时，塔内方尘安抚了受惊的众人，继续挖掘仙草，展现出绝对的自信。面对这坚不可摧的封锁，无极大帝判断唯有动用准仙器方可破局，遂返回星云宫取来三大准仙器之一的黑山印，欲借众人之力强行砸碎黑塔。",
+      "key_events": [
+        "第2164章：无极大帝率众探查被黑塔封锁的仙药园通道",
+        "交锋：无极棍合力撞击吞天塔遭反噬，帝兵受损无极大帝吐血",
+        "转折：无极大帝动用准仙器黑山印准备强行破塔"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以吞天塔堵住通道，在仙药园内屠杀两百多位星云宫大帝并挖掘千元仙草",
+        "核心线索：吞天塔塔尖硬度远超顶级帝兵，无极大帝需动用准仙器黑山印方能尝试破局"
+      ],
+      "evidence_chapters": [
+        2164
+      ],
+      "continuity_in": [
+        2163
+      ],
+      "continuity_out": [
+        2165
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2165,
+      "title": "仙草到手",
+      "source": {
+        "start_line": 356165,
+        "end_line": 356363
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《仙草到手》展开，推动后续主线进展。",
+      "summary": "无极大帝率众堂主催动准仙器黑山印猛攻吞天塔，试图破开通道夺取仙药园内的千元仙草。黑山印与吞天塔塔尖猛烈碰撞，爆发出恐怖能量，不仅撕裂了通道壁垒，还将无极大帝等人掀飞出去，众人皆受反噬，无极大帝更是咳血重伤。待众人重返通道尽头查看时，发现吞天塔毫发无损，反而是黑山印底部被砸出凹痕、道纹脱落，竟被反噬受损。无极大帝震惊于吞天塔的品级远超寻常准仙器，意识到强攻无望，只得放弃攻击，转而派人驻守监视，等待宫主出关再做打算。与此同时，方尘等人在塔内安然无恙，继续挖掘仙草。十日后，方尘成功将所有成熟的千元仙草挖出，共计十万三千株，并信守承诺，给每位帮忙的大帝分发了一株作为酬劳。",
+      "key_events": [
+        "第2165章：无极大帝联合堂主催动黑山印猛攻吞天塔，反遭重创",
+        "交锋：黑山印与吞天塔碰撞，黑山印受损而吞天塔毫发无损，无极大帝被迫放弃强攻",
+        "结局：方尘团队挖出十万三千株千元仙草，按约分发酬劳"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：吞天塔品级远超黑山印，无极大帝强攻失败，只能派人监视等待宫主出关",
+        "核心线索：方尘团队成功获取十万三千株千元仙草，每人分得一株"
+      ],
+      "evidence_chapters": [
+        2165
+      ],
+      "continuity_in": [
+        2164
+      ],
+      "continuity_out": [
+        2166
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2166,
+      "title": "再割一波",
+      "source": {
+        "start_line": 356364,
+        "end_line": 356526
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《再割一波》展开，推动后续主线进展。",
+      "summary": "方尘成功取得千元仙草后，拒绝了八哥屠杀在场大帝以绝后患的建议，坚持底线并认为这些大帝因利益牵绊绝不会泄露消息。他按约定支付报酬，并计划驾驭吞天塔强行冲出仙药园。然而，在即将撤离之际，方尘突然改变主意，意识到此地单一通道的地形是绝佳的伏击战场。他决定收起吞天塔，故意打开通道入口，引诱星云宫守株待兔的强者进入，意图实施瓮中捉鳖之计。洞外护卫发现黑塔消失后，果然中计，不敢贸然进入，立即通知了无极大帝。本章以无极大帝率众赶来查看，即将踏入陷阱作为结尾。",
+      "key_events": [
+        "方尘拒绝屠杀大帝，坚持底线并支付仙草报酬",
+        "方尘放弃直接突围，决定利用地形设伏",
+        "故意撤去吞天塔引诱星云宫强者进入通道"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘利用千元仙草收买人心，并坚信大帝们因利益不会泄密",
+        "方尘设下瓮中捉鳖之计，无极大帝已率众赶来"
+      ],
+      "evidence_chapters": [
+        2166
+      ],
+      "continuity_in": [
+        2165
+      ],
+      "continuity_out": [
+        2167
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2167,
+      "title": "就凭你还想杀我们?",
+      "source": {
+        "start_line": 356527,
+        "end_line": 356716
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《就凭你还想杀我们?》展开，推动后续主线进展。",
+      "summary": "无极大帝率众进入仙药园探查，发现园内数百守卫与灵植师神秘消失，成熟的千元仙草被洗劫一空，且毫无打斗痕迹。众人惊疑之际，方尘突然现身，祭出黑塔堵死出口，将无极大帝及数十位星云宫堂主困于园内。面对无极大帝“就凭你也想杀我们”的质问，方尘冷笑回应，随即取出黑色木鱼，以浮仙剑敲击并诵念降魔咒。木鱼声与咒语形成双重灵魂冲击，令在场大帝级强者头痛欲裂、痛苦翻滚，彻底丧失反击能力。方尘借此成功掌控局面，为接下来的收割创造绝对优势。",
+      "key_events": [
+        "第2167章：方尘设局将无极大帝及数十位堂主诱入仙药园，以黑塔封死出口完成围困",
+        "交锋：方尘以浮仙剑敲木鱼配合降魔咒发动灵魂攻击，令无极大帝等大帝强者瞬间丧失战斗力"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘即浮仙大帝，黑塔与木鱼均为其法宝，此前药园人员消失皆为其所为",
+        "核心线索：降魔咒与木鱼声可直击灵魂，是大帝级强者也无法抵御的杀招"
+      ],
+      "evidence_chapters": [
+        2167
+      ],
+      "continuity_in": [
+        2166
+      ],
+      "continuity_out": [
+        2168
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2168,
+      "title": "消失的大帝",
+      "source": {
+        "start_line": 356717,
+        "end_line": 356927
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《消失的大帝》展开，推动后续主线进展。",
+      "summary": "方尘在密闭空间内以木鱼声与降魔咒压制强敌，随后召唤已恢复且更强的混沌魔星藤，利用其毒素将无极大帝及其麾下众堂主、护卫尽数迷晕，并全部收入吞天塔中。得手后，方尘与小鹤迅速沿混沌噬心虫挖掘的通道撤离仙药园。园外两名守卫察觉能量波动后入内查看，却发现园内空空如也，众人集体失踪，惊慌之下赶往星云宫敲响警钟。星云宫残余堂主闻讯震惊，黑木大帝与黑云大帝询问详情后，派人复查，确认仙药园毫无战斗痕迹且空无一人。黑云大帝决定封闭仙药园，暂不派人进入，表示此事只能等宫主出关定夺。方尘则顺利返回赤水山洞府，与八哥等人会合，准备进入吞天塔第三层，处决星云宫被俘的四百多位大帝并清点战利品。",
+      "key_events": [
+        "第2168章：方尘以混沌魔星藤毒素迷晕无极大帝及星云宫数十位堂主、护卫，将其全部擒获",
+        "交锋：方尘团队成功撤离后，星云宫守卫发现仙药园人员集体失踪，引发星云宫高层震动",
+        "重大转折：黑云大帝下令封闭仙药园并停止探查，将事件上报等待宫主出关，星云宫损失近半精锐"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘一次性擒获星云宫四百多位大帝，其中包括四十多位堂主，星云宫元气大伤",
+        "核心线索：仙药园已成诡异禁地，连续两批人员失踪且无战斗痕迹，黑云大帝选择封闭等待宫主"
+      ],
+      "evidence_chapters": [
+        2168
+      ],
+      "continuity_in": [
+        2167
+      ],
+      "continuity_out": [
+        2169
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2169,
+      "title": "千元仙草精华",
+      "source": {
+        "start_line": 356928,
+        "end_line": 357090
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《千元仙草精华》展开，推动后续主线进展。",
+      "summary": "方尘与火璃大帝等人击败星云宫大帝后，火璃大帝提议暂不杀俘，而是将其扣押作为人质，待日后向星云宫主勒索赎金，此举比直接杀敌更划算。方尘采纳建议，命众人将俘虏的极道帝兵与储物法宝搜刮一空，海量珍宝堆积如山。随后，方尘将整理战利品的工作交给八哥，自己则进入吞天塔第九层，利用炼天炉提炼珍稀的千元仙草精华。他原本以为提炼过程极为艰难，却发现实际操作异常顺利，仅用不到十天便将所有仙草炼化为灵液精华，并分装在九个葫芦中。方尘将葫芦分发给火璃大帝与混沌噬心虫，火璃大帝考虑到方尘修炼效率更高，主动只取一个葫芦，将更多资源留给方尘以加速其成长。至此，众人开始闭关修炼，准备消化这批庞大资源。",
+      "key_events": [
+        "第2169章：火璃大帝提议扣押星云宫大帝作为人质，待日后向星云宫主勒索赎金",
+        "方尘搜刮俘虏的极道帝兵与储物法宝，获得堆积如山的珍宝",
+        "方尘在吞天塔内用炼天炉提炼千元仙草精华，仅用不到十天便全部完成"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：千元仙草精华已提炼完毕，分装在九个葫芦中，方尘、火璃大帝、混沌噬心虫各得三葫芦，但火璃大帝主动只取一葫芦",
+        "核心线索：星云宫大帝被关押在吞天塔内，暂不释放，待日后视情况决定是否勒索赎金或处决"
+      ],
+      "evidence_chapters": [
+        2169
+      ],
+      "continuity_in": [
+        2168
+      ],
+      "continuity_out": [
+        2170
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2170,
+      "title": "第六朵虚空之莲",
+      "source": {
+        "start_line": 357091,
+        "end_line": 357265
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《第六朵虚空之莲》展开，推动后续主线进展。",
+      "summary": "方尘与同伴获得七壶千元仙草精华后，火璃大帝与混沌噬心虫主动让出份额，由方尘独占大部分资源。方尘进入吞天塔第九层，借助浮仙剑与万佛战经的加持全力炼化仙草精华。其灵魂境界突飞猛进：一月内第三朵虚空之莲绽放，半年后凝聚出第四朵，两年后再添第五朵，五年后终于成功凝聚出第六朵虚空之莲，灵魂感知力达到第六境，吸收帝之源力的速度暴增。然而代价极为高昂，七壶仙草精华价值近十亿帝源石，被他在不到十年内挥霍一空。修炼结束后，方尘发现火璃大帝与混沌噬心虫仍在缓慢炼化中，速度远不及自己。八哥则汇报在整理宝物时发现了一块更大的白色神秘石头，体积是此前那块十倍有余，方尘推测金蝉岭可能藏有更多同类石头，但因来历不明暂不敢轻易示人。",
+      "key_events": [
+        "方尘独占七壶千元仙草精华，在吞天塔第九层闭关修炼",
+        "五年内灵魂境界连破四境，成功凝聚第六朵虚空之莲，达到第六境",
+        "八哥发现体积更大的白色神秘石头，暗示金蝉岭藏有更多同类宝物"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘灵魂境界突破至第六境，消耗近十亿帝源石价值的千元仙草精华",
+        "核心线索：白色神秘石头再次出现且体积更大，来历成谜，可能关联金蝉岭深层秘密"
+      ],
+      "evidence_chapters": [
+        2170
+      ],
+      "continuity_in": [
+        2169
+      ],
+      "continuity_out": [
+        2171
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2171,
+      "title": "打垮星云宫就放人",
+      "source": {
+        "start_line": 357266,
+        "end_line": 357428
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《打垮星云宫就放人》展开，推动后续主线进展。",
+      "summary": "方尘唤醒小鹤，将八哥发现的巨大白色石头赠予它，小鹤欢喜收下并炼化。随后八哥汇报整理战利品的结果：从星云宫数十位堂主处缴获的宝物，除三亿八千万帝源石外，变卖后预计可获二十亿帝源石，远超此前千元仙草的收益。方尘为守护混沌噬心虫与火璃大帝修炼，命小鹤携八哥外出变卖宝物并采购提升灵魂之力的资源，凭借小鹤超凡的空间穿梭能力确保安全。之后方尘进入吞天塔第一层，安抚被关押近八年的云心大帝等灵植师，坦言因星云宫尚未查明真相，且自己实力仍不及星云宫主，故暂不放人，并立志彻底打垮星云宫后再还众人自由。众人心知此举既为保密也为自身安全，云心大帝更主动表示愿出手相助。",
+      "key_events": [
+        "小鹤获赠白色石头并炼化，八哥盘点缴获宝物价值高达二十亿帝源石",
+        "方尘派小鹤与八哥外出变卖宝物、采购灵魂类资源，自己留守护法",
+        "方尘向云心大帝等灵植师解释不放人原因，立誓打垮星云宫后再释放众人"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘团队从星云宫堂主处缴获海量资源，变卖后预计可得二十亿帝源石，实力底蕴暴增",
+        "核心线索：方尘暂不放走灵植师是为了隐瞒洗劫药园真相，并计划等实力超越星云宫主后彻底瓦解星云宫"
+      ],
+      "evidence_chapters": [
+        2171
+      ],
+      "continuity_in": [
+        2170
+      ],
+      "continuity_out": [
+        2172
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2172,
+      "title": "梦幻仙露",
+      "source": {
+        "start_line": 357429,
+        "end_line": 357621
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《梦幻仙露》展开，推动后续主线进展。",
+      "summary": "方尘在吞天塔内与众人商议后，携小鹤与八哥外出变卖宝物，最终获得超过二十五亿帝源石，并豪掷重金购得五瓶价值连城的‘梦幻仙露’。此仙露具有极强的壮魂功效，服用后可在睡梦中自行壮大灵魂本源，无需运功吸收，效果远超千元仙草精华。方尘决定自留三瓶，分予火璃前辈与迟幽各一瓶。随后，方尘携小鹤进入吞天塔第九层闭关，仰头服下一瓶仙露。入腹后，灼热之力涌向识海，方尘顿生无尽困意，倒地漂浮于半空。其体表生出大量黑色符文与绒毛，最终缠绕成一个黑色巨茧。在茧中，方尘沉入梦境，重返琉璃剑宗狗头岭，与昔日故人李叔、云老及灵犬小六子重逢，共享火腿饭，重温旧日温情。",
+      "key_events": [
+        "第2172章：方尘变卖宝物获二十五亿帝源石，购得五瓶梦幻仙露",
+        "突破：方尘服用梦幻仙露后陷入沉睡，体生黑纹绒毛结成巨茧",
+        "转折：方尘于梦境中重返狗头岭，与故人共享温情时光"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：梦幻仙露单价五亿帝源石，服后可于梦中自行壮大灵魂本源，无需运功",
+        "核心线索：方尘结黑色巨茧入梦，梦境内容为重返琉璃剑宗狗头岭与故人重逢"
+      ],
+      "evidence_chapters": [
+        2172
+      ],
+      "continuity_in": [
+        2171
+      ],
+      "continuity_out": [
+        2173
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2173,
+      "title": "第八境巅峰",
+      "source": {
+        "start_line": 357622,
+        "end_line": 357790
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《第八境巅峰》展开，推动后续主线进展。",
+      "summary": "方尘在吞天塔内服用梦幻仙露进行灵魂修炼。第一瓶仙露让他梦见与云老、李延山在狗头岭吃火腿饭，醒来后灵魂从第六境突破至第八境初期，耗时一月。第二瓶仙露让他梦见童年探亲喝鸡汤，第八朵虚空之莲出现盛开迹象但未绽放，耗时缩短至十天。第三瓶仙露让他梦见成为仙帝与伙伴团聚的温馨场景，醒来时竟感动落泪，第八朵虚空之莲终于完全盛开，仅耗时一天。三瓶仙露共耗时四十一天，方尘的灵魂境界从第六境初期跃升至第八境巅峰，距离半仙境界仍有差距，但修炼速度之快令他深感震撼。",
+      "key_events": [
+        "方尘服用第一瓶梦幻仙露，梦见狗头岭吃火腿饭，灵魂突破至第八境初期",
+        "方尘服用第二瓶梦幻仙露，梦见童年探亲，第八朵虚空之莲出现盛开迹象",
+        "方尘服用第三瓶梦幻仙露，梦见成为仙帝与伙伴团聚并感动落泪，第八朵虚空之莲完全盛开，灵魂达到第八境巅峰"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘服用三瓶梦幻仙露后，灵魂境界从第六境初期跃升至第八境巅峰，耗时仅四十一天",
+        "核心线索：梦幻仙露的炼化速度逐瓶加快（一月→十天→一天），但灵魂境界越高提升越难，第八朵虚空之莲盛开后距离半仙境界仍有差距"
+      ],
+      "evidence_chapters": [
+        2173
+      ],
+      "continuity_in": [
+        2172
+      ],
+      "continuity_out": [
+        2174
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2174,
+      "title": "八哥的本命灵珠",
+      "source": {
+        "start_line": 357791,
+        "end_line": 357962
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《八哥的本命灵珠》展开，推动后续主线进展。",
+      "summary": "方尘吸收完三瓶梦幻仙露后，灵魂境界从第六境初级跃升至第八境巅峰，随即前往吞天塔第三层查看火璃大帝与迟幽的炼化进度，发现二人已化作黑色茧子，分别在一个月前和十天前服用了仙露。八哥感叹此次能夺取千元仙草药园全凭运气，方尘也承认是矿洞封闭环境与团队特殊能力配合的结果。随后方尘关心八哥的修炼，得知八哥体内封印顽固导致实力停滞，便用灵识探查其本命灵珠，发现上面的封印阵纹极其复杂，推演时甚至感到眩晕。方尘虽无法直接破解，但提出可用浮仙剑配合黄昏之力尝试破封，类比烧红铁棍熔断发丝的原理控制伤害。八哥同意后，随方尘前往吞天塔第九层，取出浮仙剑，准备以黄昏之力覆盖剑身，尝试切开本命灵珠上的封印阵纹。",
+      "key_events": [
+        "第2174章：方尘灵魂境界连升两级至第八境巅峰，梦幻仙露效果惊人",
+        "交锋：方尘探查八哥本命灵珠，发现封印阵纹复杂到推演时眩晕",
+        "重大转折：方尘提出用浮仙剑配合黄昏之力破封，八哥同意尝试"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：火璃大帝和迟幽已化作黑色茧子炼化仙露，分别在一个月前和十天前服用",
+        "核心线索：八哥实力停滞源于本命灵珠上的复杂封印阵纹，方尘将以黄昏之力覆盖浮仙剑尝试破解"
+      ],
+      "evidence_chapters": [
+        2174
+      ],
+      "continuity_in": [
+        2173
+      ],
+      "continuity_out": [
+        2175
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2175,
+      "title": "星云宫主出关",
+      "source": {
+        "start_line": 357963,
+        "end_line": 358110
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《星云宫主出关》展开，推动后续主线进展。",
+      "summary": "方尘以浮仙剑破除八哥本命灵珠上的封印阵纹，阵纹脱落后释放的红色雾气与道纹涌入八哥体内，使其肉身与灵魂感知力暴涨；浮仙剑则将部分能量反馈给方尘，令其灵魂本源疯狂壮大，效果远超此前服用千元仙草。二人沉浸于修炼快感时，星云宫主终于出关。他修成秘法后查看身份铭牌，发现密密麻麻的传讯记录，心中顿生不祥。联系无极大帝与三位大帝均无回应，唯有黑云大帝急切回应。星云宫主急召黑云大帝至星云宫，黑云大帝禀报：宫主闭关期间，仙药园遭人洗劫，四十多位堂主与数百位大帝损失，无极阁主等人失踪，此乃星云宫创建以来最大损失。星云宫主怒不可遏，爆发出冰冷杀机，宫殿内众大帝皆骇然变色。",
+      "key_events": [
+        "第2175章：方尘以浮仙剑破八哥封印，双方灵魂与肉身力量暴涨",
+        "交锋：星云宫主出关后发现异常传讯，急召黑云大帝",
+        "重大转折：黑云大帝禀报仙药园被洗劫、无极阁主失踪，星云宫遭创建以来最大损失"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘破八哥封印可获灵魂暴涨反馈，但封印阵纹层数特性未知，后续效果未必相同",
+        "核心线索：星云宫仙药园被洗劫、无极阁主失踪，星云宫主震怒，势力格局将生剧变"
+      ],
+      "evidence_chapters": [
+        2175
+      ],
+      "continuity_in": [
+        2174
+      ],
+      "continuity_out": [
+        2176
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2176,
+      "title": "浮仙大帝，速速滚出来受死!",
+      "source": {
+        "start_line": 358111,
+        "end_line": 358291
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【帝境与界海篇】围绕《浮仙大帝，速速滚出来受死!》展开，推动后续主线进展。",
+      "summary": "星云宫主闭关十几年后出关，发现自己的千元仙药园被洗劫一空，勃然大怒。黑云大帝排查多年无果，唯一可疑之人便是道号浮仙的新人方尘。此人不仅杀了清风大帝及数十位大帝，还收走了星云宫的九宫八卦阵旗。星云宫主怒不可遏，不问青红皂白，便率数千大帝浩浩荡荡杀向赤水山。赤水山的大帝们感受到恐怖威压后纷纷逃窜，消息迅速传遍金蝉岭，另外四大霸主首领也惊讶地赶往赤水山观战。星云宫主将赤水山团团包围，黑云大帝高喊让方尘滚出来受死。洞府中的方尘得知消息后非但不惧，反而露出微笑，他唤醒实力大增的小鹤，将火璃大帝和迟幽收入灵鹤空间，随后带着小鹤和八哥从容走出洞府，准备迎战星云宫主。",
+      "key_events": [
+        "第2176章：星云宫主出关发现仙药园被洗劫，锁定方尘为嫌疑人",
+        "交锋：星云宫主率数千大帝围困赤水山，高喊让方尘受死",
+        "重大转折：方尘实力大增，从容出关准备迎战"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：星云宫主因仙药园被洗劫及方尘杀害星云宫大帝，率众围困赤水山",
+        "核心线索：方尘实力今非昔比，主动出关迎战星云宫主"
+      ],
+      "evidence_chapters": [
+        2176
+      ],
+      "continuity_in": [
+        2175
+      ],
+      "continuity_out": [
+        2177
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2177,
+      "title": "你那药园，是我抢的!",
+      "source": {
+        "start_line": 358292,
+        "end_line": 358451
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《你那药园，是我抢的!》展开，推动后续主线进展。",
+      "summary": "星云宫主率大批人马兴师动众降临赤水山，只为捉拿新人浮仙大帝，此举引来众多大帝围观。随后，金蝉岭另外四大霸主——剑盟盟主空虚剑帝、紫光阁主、黄沙城主、冰雪殿主也联袂现身，声称只是好奇前来观战，实则暗中制衡。面对星云宫主质问其杀害星云宫弟子一事，方尘毫无惧色，反唇相讥。当星云宫主追问仙药园失窃案时，方尘竟坦然承认是自己所为，并挥手展示无极大帝及众堂主昏迷被囚的画面，震惊全场。原来方尘不仅杀了星云宫的人，还端了星云宫主的命根子——千元仙药园。黄沙城主当场大笑嘲讽，星云宫主颜面尽失，局势瞬间升级，一场更大风暴即将爆发。",
+      "key_events": [
+        "第2177章：星云宫主率众围剿浮仙大帝，金蝉岭五大霸主罕见齐聚赤水山",
+        "交锋：方尘当众承认自己抢夺了星云宫主的千元仙药园，并展示无极大帝等人被囚画面",
+        "转折：仙药园失窃真相曝光，星云宫主颜面扫地，围观势力格局微妙变化"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘承认自己抢了星云宫主的千元仙药园，无极大帝及众堂主已被方尘生擒",
+        "核心线索：金蝉岭五大霸主全部现身，四大霸主表面观战实则暗中制衡星云宫，局势复杂化"
+      ],
+      "evidence_chapters": [
+        2177
+      ],
+      "continuity_in": [
+        2176
+      ],
+      "continuity_out": [
+        2178
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2178,
+      "title": "对战星云宫主",
+      "source": {
+        "start_line": 358452,
+        "end_line": 358620
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《对战星云宫主》展开，推动后续主线进展。",
+      "summary": "星云大帝因方尘洗劫其仙药园而震怒，决意亲自出手惩戒。方尘以生命之眼探查，发现星云大帝等五大霸主头目寿元皆在三万年以上，黄昏之力难以奏效，心中暗凛。星云大帝为维护颜面，拒绝黑云大帝布阵建议，独自持本命帝宝星云刀迎战。初次交锋，方尘以浮仙剑硬撼星云刀，却被巨力震退，手臂发麻。方尘遂首次施展自创秘术浮仙变，金灰色符文覆体，力量暴涨，身形凭空消失。然而星云大帝灵魂感知极强，瞬间锁定其轨迹，回身一刀将现形的方尘重创，胸骨碎裂，吐血倒飞。观战的虚空剑帝、紫光阁主等人见状皆摇头，认为方尘实力不济，今日难逃一死。",
+      "key_events": [
+        "第2178章：方尘探查星云大帝等霸主寿元，发现皆在三万年以上，黄昏之力作用有限",
+        "交锋：方尘首次施展浮仙变，却被星云大帝识破身法，一刀重创",
+        "转折：方尘重伤吐血，观战霸主皆判其必死"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘首次实战使用浮仙变，仍不敌星云大帝，遭重创",
+        "核心线索：五大霸主头目寿元极长，方尘的黄昏之力对顶级强者效果大打折扣"
+      ],
+      "evidence_chapters": [
+        2178
+      ],
+      "continuity_in": [
+        2177
+      ],
+      "continuity_out": [
+        2179
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2179,
+      "title": "星云宫主的实力",
+      "source": {
+        "start_line": 358621,
+        "end_line": 358765
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《星云宫主的实力》展开，推动后续主线进展。",
+      "summary": "战场上，方尘被星云大帝一刀重创，浮仙剑涌入强大力量瞬间修复其伤势。方尘意识到双方实力悬殊，决定在浮仙剑上附加乾坤印记，以防万一。星云大帝连续挥刀猛攻，方尘以“三重浪”等叠加剑法勉强抵挡，每一次碰撞都让他重伤吐血，但浮仙剑反馈的滚烫能量又使其伤势恢复且气息暴涨。在激烈交锋中，乾坤印记被震飞并悄然穿透星云大帝的护体灵光融入其体内，星云大帝竟毫无察觉。观战的虚空剑帝等人赞叹方尘顽强，黄沙城主则出言嘲讽星云大帝。星云大帝连砍四刀未果，颜面受损，而方尘稳住身形后，嘴角露出嘲讽，大喊“过瘾，再来”，并施展出“五重浪”转身消失于虚空。星云大帝撕裂空间锁定方尘，战斗进入白热化。",
+      "key_events": [
+        "第2179章：方尘被星云大帝重创后，暗中在浮仙剑上附加乾坤印记，为后续反击埋下伏笔。",
+        "交锋：星云大帝连出四刀，方尘以叠加剑法配合浮仙剑的恢复之力顽强抵挡，每次重伤后气息反而更强。",
+        "重大转折：乾坤印记在碰撞中悄然融入星云大帝体内，而星云大帝对此毫无察觉，局势暗藏变数。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘与星云大帝实力差距巨大，但他凭借浮仙剑的恢复之力和叠加剑法勉强支撑，并暗中成功将乾坤印记打入星云大帝体内。",
+        "核心线索：乾坤印记已融入星云大帝身体且未被发现，这将成为后续战斗的关键胜负手。"
+      ],
+      "evidence_chapters": [
+        2179
+      ],
+      "continuity_in": [
+        2178
+      ],
+      "continuity_out": [
+        2180
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2180,
+      "title": "实力不断提升",
+      "source": {
+        "start_line": 358766,
+        "end_line": 358925
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《实力不断提升》展开，推动后续主线进展。",
+      "summary": "方尘与星云大帝激战，虽被星云刀劈飞，但伤势较前次减轻，浮仙剑上的星辰旋涡加速旋转，涌入方尘体内的能量愈发庞大。方尘未施展诸神的黄昏领域，而是以九重浪剑法叠加力量，准备以剑碎星河发出最强一击。虚空剑帝等人察觉方尘气息变强，期待其剑法叠加至第九或第十次。星云大帝见久战不下，激活大帝印记引动金系本源之力，气息暴涨，施展星云斩锁定方尘。方尘以六重浪硬接，刀剑碰撞震碎空间，方尘虎口爆裂、胸口重创，鲜血被浮仙剑吞噬后，庞大力量涌入体内，伤势瞬间修复且身体更强悍，灵魂之力激增，识海中竟凝聚出第九朵虚空之莲，灵魂境界意外突破至第九境。观战大帝震惊于方尘的恢复力与成长，方尘未用天地本源，意在借战挖掘潜能。",
+      "key_events": [
+        "第2180章：方尘以九重浪剑法叠加力量，浮仙剑加速反馈能量，实力持续提升",
+        "交锋：星云大帝激活大帝印记引动金系本源之力，施展星云斩重创方尘",
+        "关键突破：方尘重伤后浮仙剑吞噬鲜血反馈力量，灵魂境界意外突破至第九境，凝聚第九朵虚空之莲"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘未使用天地本源，借与星云大帝的战斗挖掘身体极限潜能，灵魂境界突破至第九境",
+        "核心线索：浮仙剑能吞噬方尘鲜血反馈庞大力量，助其瞬间修复伤势并强化身体与灵魂"
+      ],
+      "evidence_chapters": [
+        2180
+      ],
+      "continuity_in": [
+        2179
+      ],
+      "continuity_out": [
+        2181
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2181,
+      "title": "剑碎星河斩星云大帝",
+      "source": {
+        "start_line": 358926,
+        "end_line": 359082
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《剑碎星河斩星云大帝》展开，推动后续主线进展。",
+      "summary": "方尘在与星云大帝的激战中，凭借叠加秘术将灵魂境界强行推升至第九境，虽知此状态虚浮，却借此不断攀升战力。星云大帝动用天地本源之力仍无法压制方尘，反被其愈战愈强的气势所震慑。方尘连续完成七重浪、八重浪的剑势叠加，每一击都令星云大帝倍感压力，双方刀剑碰撞，天地动荡。至九重浪时，方尘灵魂感知力暴涨，第九朵虚空之莲绽放，他施展出终极杀招“剑碎星河”，金火本源之力汇聚于浮仙剑，一剑斩出。星云大帝虽以星云爆裂斩抵挡，但剑气穿透其兵刃与护体灵光，没入体内炸裂。星云大帝遭受重创，吐血膨胀，而方尘亦因力量透支陷入空虚，全赖浮仙剑反馈能量稳住境界。本章以方尘惨胜、星云大帝重伤濒败告终。",
+      "key_events": [
+        "第2181章：方尘以叠加秘术强行突破灵魂第九境，战力飙升",
+        "交锋：方尘连施七重浪、八重浪、九重浪，剑势层层叠加，与星云大帝的星云荡漾、星云逐月、星云爆裂斩激烈对轰",
+        "重大转折：方尘施展“剑碎星河”，剑气穿透星云大帝防御，在其体内炸裂，致其重伤"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以秘术叠加状态击败星云大帝，但第九境灵魂境界并不稳固，力量消退后境界可能跌落",
+        "核心线索：浮仙剑在战斗中吸收方尘血雾并反馈能量，助其稳住灵魂境界，此剑与方尘灵魂本源存在特殊共鸣"
+      ],
+      "evidence_chapters": [
+        2181
+      ],
+      "continuity_in": [
+        2180
+      ],
+      "continuity_out": [
+        2182
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2182,
+      "title": "星云大世界",
+      "source": {
+        "start_line": 359083,
+        "end_line": 359266
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《星云大世界》展开，推动后续主线进展。",
+      "summary": "方尘与星云大帝激战，星云大帝被方尘的剑光炸得血肉横飞，仅剩骨架。方尘趁机施展黑暗噬神领域压制其身体重组，但星云大帝释放法相天地“星云大世界”隔绝领域，血肉迅速回归。方尘立刻以“诸神的黄昏”领域击溃星云大世界，并激活提前种在星云大帝体内的乾坤咒印，短暂封印其力量，随即以浮仙剑注入红莲之力重创星云大帝。星云大帝燃烧血脉与灵魂强行冲破封印，但红莲之力发作，导致他陷入与灵钟大帝相似的疯狂状态。围观大帝惊恐逃窜，星云宫众人强作镇定，虚空剑帝等人则对方尘展现出的威胁感到极度凝重。",
+      "key_events": [
+        "第2182章：方尘以诸神的黄昏击溃星云大帝的星云大世界",
+        "交锋：方尘激活乾坤咒印短暂封印星云大帝，并以红莲之力重创之",
+        "转折：星云大帝冲破封印但红莲之力发作陷入疯狂，围观者惊恐逃窜"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘通过提前种下的乾坤咒印和诡异的红莲之力秘术，成功让实力远超自己的星云大帝陷入疯狂状态",
+        "核心线索：红莲之力秘术曾导致灵钟大帝发狂，星云大帝出现相同症状，虚空剑帝等人意识到方尘已成为重大威胁"
+      ],
+      "evidence_chapters": [
+        2182
+      ],
+      "continuity_in": [
+        2181
+      ],
+      "continuity_out": [
+        2183
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2183,
+      "title": "黄沙城主的杀心",
+      "source": {
+        "start_line": 359267,
+        "end_line": 359402
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《黄沙城主的杀心》展开，推动后续主线进展。",
+      "summary": "方尘展现出惊人实力，令黄沙城主感到巨大威胁并动了杀心。冰雪殿主向虚空剑帝进言，认为方尘天赋太强，若任其成长必将威胁五大霸主在金蝉岭的地位。虚空剑帝陷入两难：若不出手，方尘日后可能报复；若出手，在天河图内金蝉岭杀死方尘，百年后其复活必会寻仇。黄沙城主、紫光大帝、冰雪殿主均主张趁早除掉方尘，虚空剑帝最终同意动手，但决定先观察摸清方尘底牌。与此同时，方尘以红莲之力暗算星云大帝，使其体内涌起难以抑制的亢奋与冲动。方尘不与星云大帝硬拼，凭借速度优势不断闪避拖延，加速红莲之力扩散。半盏茶后，星云大帝彻底失去理智，体内红莲浴火爆发，身体表面燃起红色火焰，无数光点与本源道纹开始脱落。",
+      "key_events": [
+        "第2183章：黄沙城主因方尘实力强大而动杀心，五大霸主密谋联手除掉方尘",
+        "交锋：方尘以红莲之力暗算星云大帝，凭借速度拖延时间等待其彻底失控",
+        "转折：星云大帝红莲浴火彻底爆发，失去理智，身体开始崩解"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：五大霸主达成共识决定除掉方尘，但暂不出手，先观察其底牌",
+        "核心线索：红莲之力可令对手丧失理智、本源崩解，方尘凭速度优势以柔克刚"
+      ],
+      "evidence_chapters": [
+        2183
+      ],
+      "continuity_in": [
+        2182
+      ],
+      "continuity_out": [
+        2184
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2184,
+      "title": "星云大帝突破",
+      "source": {
+        "start_line": 359403,
+        "end_line": 359574
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "intensive",
+      "priority_reason": "高能核心章节：包含重要突破/认主/重大胜负，建议逐字精读。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【帝境与界海篇】围绕《星云大帝突破》展开，推动后续主线进展。",
+      "summary": "星云大帝因方尘释放的红莲之力失控，理智丧失后竟当众对黑云大帝做出疯狂之举，颜面尽失。方尘并未趁机出手，而是静待红莲之力将其力量耗尽。在疯狂攻击的间隙，星云大帝短暂恢复神智，无法接受自身丑态，但为保全积攒的财富，他放弃自爆，转而选择强行突破半仙境界。随着第十朵虚空之莲显现，星云大帝成功吸收仙灵之力，突破后立刻被金光传送至螳螂山，就此退出金蝉岭争霸。星云宫众人震惊茫然，而其余四大霸主则趁势暗中传音结盟，约定联手诛杀方尘并瓜分星云宫地盘，原本相互制衡的五大势力格局彻底破裂。",
+      "key_events": [
+        "第2184章：星云大帝红莲之力失控，当众对黑云大帝做出疯狂之举",
+        "转折：星云大帝短暂恢复神智后，为保财富放弃自爆，强行突破半仙境界",
+        "结局：星云大帝被传送至螳螂山，四大霸主暗中结盟欲杀方尘并瓜分星云宫"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：星云大帝被逼突破半仙境界后离开金蝉岭，五大霸主格局瓦解",
+        "核心线索：虚空剑帝、紫光阁主、黄沙城主、冰雪殿主四人暗中结盟，计划联手击杀方尘并平分星云宫资源"
+      ],
+      "evidence_chapters": [
+        2184
+      ],
+      "continuity_in": [
+        2183
+      ],
+      "continuity_out": [
+        2185
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2185,
+      "title": "虚空剑帝出手",
+      "source": {
+        "start_line": 359575,
+        "end_line": 359728
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《虚空剑帝出手》展开，推动后续主线进展。",
+      "summary": "星云大帝被迫突破半仙离开后，虚空剑帝联合紫光阁主、黄沙城主、冰雪殿主三大霸主，趁星云宫群龙无首之际，决定联手斩杀方尘以绝后患。虚空剑帝率先施展法相天地“虚空剑界”困住方尘，意图压缩空间将其碾碎，其余三人紧随其后发起围攻。方尘佯装被困，待黄沙城主逼近时突然释放“诸神的黄昏”领域，瞬间瓦解虚空剑界，令虚空剑帝遭受反噬吐血。随后方尘以“一重浪”身法闪至虚空剑帝背后，首次将黄昏之力与红莲之力同时灌入浮仙剑，爆发出前所未有的恐怖一剑，破开其防御并斩出重创。霸道力量涌入虚空剑帝体内，不仅令其寿元骤损千年，血液沸腾，更使其彻底失去战力，陷入绝境。",
+      "key_events": [
+        "第2185章：虚空剑帝联合三大霸主趁星云宫失势，决定围杀方尘以除后患",
+        "交锋：方尘以诸神的黄昏破虚空剑界，重创虚空剑帝并首次融合黄昏与红莲之力斩出致命一剑"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘首次将黄昏之力与红莲之力融合灌入浮仙剑，威力远超以往，可破法相天地并造成寿元流失与血液沸腾的双重毁灭效果",
+        "核心线索：虚空剑帝因法相天地被破遭灵魂反噬，无法施展防御秘法，成为方尘首个重创的顶级霸主"
+      ],
+      "evidence_chapters": [
+        2185
+      ],
+      "continuity_in": [
+        2184
+      ],
+      "continuity_out": [
+        2186
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2186,
+      "title": "霸主联手",
+      "source": {
+        "start_line": 359729,
+        "end_line": 359900
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《霸主联手》展开，推动后续主线进展。",
+      "summary": "金蝉岭第一强者虚空剑帝联合紫光阁主、黄沙城主、冰雪殿主围攻方尘，却反被方尘抓住虚空剑界崩溃的破绽，将红莲之力与黄昏之力灌入其体内，导致虚空剑帝遭受灵魂反噬与寿元损耗，暂时丧失战力。其余三位霸主随即全力激活大帝印记，冰雪殿主冰封方尘，黄沙城主以裂空锤轰碎其头颅，紫光阁主将其斩成两截。然而浮仙剑涌出磅礴生机，瞬间修复方尘肉身，方尘随即激活大帝印记，展开诸神的黄昏领域，直接击溃黄沙城主的黄沙之海法相，使其遭受剧烈灵魂反噬。方尘并未追击黄沙城主，而是贯彻“伤其十指不如断其一指”的策略，瞬移至虚空剑帝身后，再次将红莲与黄昏之力灌入浮仙剑，一剑破开其防御并造成重创。两股红莲之力在虚空剑帝体内融合爆发，使其寿元再损一千五百年，浑身燃起红色火焰陷入狂暴，竟将充满杀意的目光转向了黄沙城主，局势骤然失控。",
+      "key_events": [
+        "第2186章：方尘以一敌四，利用浮仙剑复活并激活大帝印记",
+        "交锋：诸神的黄昏领域击溃黄沙之海，黄沙城主遭受灵魂反噬",
+        "重大转折：方尘补刀虚空剑帝，红莲之力融合爆发使其陷入狂暴并敌我不分"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘被三位霸主联手轰杀后，凭借浮仙剑的力量瞬间复活并激活大帝印记",
+        "核心线索：红莲之力具有叠加融合特性，两股力量汇合后彻底引爆，导致虚空剑帝寿元暴跌并陷入失控暴走"
+      ],
+      "evidence_chapters": [
+        2186
+      ],
+      "continuity_in": [
+        2185
+      ],
+      "continuity_out": [
+        2187
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2187,
+      "title": "他好像对女人不感兴趣",
+      "source": {
+        "start_line": 359901,
+        "end_line": 360066
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《他好像对女人不感兴趣》展开，推动后续主线进展。",
+      "summary": "黄沙城主见势不妙欲逃，却被虚空剑帝以隐藏的空间神术追上。虚空剑帝撕扯黄沙城主衣物并疯狂攻击，后者祭出准仙器玄灵钟变大挣脱后遁逃。虚空剑帝转而冲向方尘，方尘以九重浪剑法躲过，虚空剑帝随即攻击周围观战大帝。紫光大帝与冰雪殿主发现中毒者只对男性感兴趣，二人安全。她们自知联手亦无法击杀方尘，决定撤离金蝉岭前往螳螂山。一位大帝被虚空剑帝蹂躏后自爆，虚空剑帝虽重伤但恢复神智，因体内红莲之力未除，为积累杀戮值进入螳螂山求助，也逃离战场。至此，四大霸主两逃两走，方尘彻底扭转局势。",
+      "key_events": [
+        "虚空剑帝暴露空间神术，疯狂攻击黄沙城主并逼其遁入玄灵钟逃跑",
+        "紫光大帝与冰雪殿主发现中毒者只对男性感兴趣，二人安全撤离并决定前往螳螂山",
+        "虚空剑帝重伤恢复神智后逃离，欲积累杀戮值进入螳螂山压制红莲之力"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以红莲之力反制四大霸主，最终黄沙城主与虚空剑帝先后逃离，紫光大帝与冰雪殿主主动撤离去往螳螂山",
+        "核心线索：中毒者只对男性感兴趣，虚空剑帝为压制红莲之力需积累杀戮值进入螳螂山"
+      ],
+      "evidence_chapters": [
+        2187
+      ],
+      "continuity_in": [
+        2186
+      ],
+      "continuity_out": [
+        2188
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2188,
+      "title": "大帝斩真仙?",
+      "source": {
+        "start_line": 360067,
+        "end_line": 360226
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《大帝斩真仙?》展开，推动后续主线进展。",
+      "summary": "方尘在赤水山迎战星云宫主、虚空剑帝等四大霸主联手围攻，展现出惊人战力，将星云宫主逼至突破半仙境界提前飞升，又重创虚空剑帝，迫使其在落星古城斩杀黄金蜥蜴凑满杀戮值后狼狈飞升，紫光大帝与冰雪殿主见状遁走。金蝉岭五大霸主竟被一位仅来十余年的新人击溃，方尘由此奠定金蝉岭无敌地位。然而八哥的小金蝉泼来冷水，指出五大霸主背后各站着天外天人族最强大的五大派系，首领分别为无忧大仙、青莲大仙、金光大仙、蓬莱大仙、清虚大仙，而蛮荒古域仅属二流水准。小金蝉警告方尘，五大派系绝不会善罢甘休，必将派遣实力恐怖的大帝前来复仇，其中天赋顶级者甚至拥有斩杀真仙的战力。方尘意识到，真正的风暴才刚刚开始。",
+      "key_events": [
+        "第2188章：方尘以一敌四，逼退星云宫主与虚空剑帝等四大霸主，称霸金蝉岭",
+        "交锋：虚空剑帝被方尘重创后被迫斩杀黄金蜥蜴飞升，紫光大帝与冰雪殿主遁逃",
+        "转折：小金蝉揭露五大霸主背后站着天外天五大顶级派系，方尘将面临更强报复"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：金蝉岭五大霸主分别隶属无忧大仙、青莲大仙、金光大仙、蓬莱大仙、清虚大仙五大顶级派系，蛮荒古域仅属二流",
+        "核心线索：天外天存在能斩杀真仙的顶级大帝，五大派系即将派遣此类强者前往金蝉岭追杀方尘"
+      ],
+      "evidence_chapters": [
+        2188
+      ],
+      "continuity_in": [
+        2187
+      ],
+      "continuity_out": [
+        2189
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2189,
+      "title": "他好像想干我们",
+      "source": {
+        "start_line": 360227,
+        "end_line": 360374
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《他好像想干我们》展开，推动后续主线进展。",
+      "summary": "方尘在拥有浮仙剑后仍深知自己难以匹敌半仙与真仙，内心充满危机感。小金蝉向他解释，历史上能在大帝境界斩杀真仙的妖孽极少，并建议他压制修为、暂缓突破半仙，以便在秘境中获取更多积分，并在战场上利用低境界的隐蔽性越级杀敌。方尘领悟到法则领悟才是实力关键，大仙与仙王仅是称号而非独立境界。为避免五大霸主势力的报复，他决定趁星云宫宫主飞升、群龙无首之际，立刻前往星云宫掠夺资源。与此同时，星云宫残存堂主为凑足杀戮值纷纷外出杀戮并传送至螳螂山，而刚刚飞升的星云天帝却在螳螂山突然发狂，似中奇毒，令周围半仙强者震惊不已。",
+      "key_events": [
+        "小金蝉指点方尘压制修为以获取秘境积分与战场隐蔽优势",
+        "方尘得知大仙仙王仅为称号，法则领悟才是实力核心",
+        "星云宫宫主飞升后，方尘决定趁乱前往星云宫抢夺资源",
+        "星云天帝在螳螂山发狂，疑似中了连半仙都无法抵抗的奇毒"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "大帝境斩杀真仙的妖孽历史上不超过二十人，且大多已成仙",
+        "修为越低在秘境和战场越有优势，方尘决定暂不突破半仙"
+      ],
+      "evidence_chapters": [
+        2189
+      ],
+      "continuity_in": [
+        2188
+      ],
+      "continuity_out": [
+        2190
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2190,
+      "title": "疯狂凿地",
+      "source": {
+        "start_line": 360375,
+        "end_line": 360531
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《疯狂凿地》展开，推动后续主线进展。",
+      "summary": "星云天帝从金蝉岭飞升后陷入疯狂，被同势力的金绳天帝用绳索束缚带回。精通医术的久和天帝诊断其竟中了极为霸道的春药，且药性诡异，使他对男性充满欲望，甚至疯狂凿地。久和天帝表示此毒无法化解，只能以秘法暂时压制，一炷香后毒性将更猛烈爆发。施术后星云天帝恢复清醒，得知真相后向众人道谢，并解释自己是被金蝉岭的新人浮仙大帝所害，对方刚到此地便连杀星云宫数位大帝，更用红莲之力让他生不如死。众半仙震惊于新人的恐怖实力。随后红莲之力再度躁动，星云天帝自知无法解脱，拜托众人转告家族金蝉岭的情况，随即趁神智尚存飞向高空，果断自爆身亡。",
+      "key_events": [
+        "第2190章：星云天帝飞升后中诡异春药发狂，久和天帝诊断其被红莲之力侵蚀，只能暂时压制无法化解。",
+        "交锋：星云天帝清醒后揭露自己是被金蝉岭新人浮仙大帝所害，对方实力恐怖，连杀星云宫数位大帝。",
+        "结局：红莲之力再度爆发，星云天帝为免受辱，拜托众人传信家族后自爆身亡。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：浮仙大帝是来自蛮荒古域的新人，实力极强，刚到金蝉岭便重创星云天帝并种下红莲之力。",
+        "核心线索：红莲之力是一种霸道的阳毒，连精通医术的久和天帝都无法化解，中者会陷入疯狂欲望，最终只能自爆解脱。"
+      ],
+      "evidence_chapters": [
+        2190
+      ],
+      "continuity_in": [
+        2189
+      ],
+      "continuity_out": [
+        2191
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2191,
+      "title": "凿猪的虚空剑帝",
+      "source": {
+        "start_line": 360532,
+        "end_line": 360700
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《凿猪的虚空剑帝》展开，推动后续主线进展。",
+      "summary": "星云天帝被方尘击杀后，青莲派系的真仙们正愤慨于浮仙大帝的挑衅，久和天帝却收到雷剑天帝的紧急传讯：金蝉岭的虚空剑帝已抵达螳螂山，且状况危急。众人赶至现场，惊见往日威名赫赫的虚空剑帝竟神志丧失，正疯狂地抱着一头公猪妖进行攻击，场面不堪入目。雷剑天帝等人表示，发现时虚空剑帝已陷入此等癫狂状态，身体被神秘力量支配，且与猪妖紧密相连无法分开，这劲爆画面甚至已被围观者用记忆水晶记录并传遍螳螂山。久和天帝诊断后确认，虚空剑帝与星云天帝一样，皆是中了方尘所施的霸道红莲阳毒，导致欲火焚身、理智崩溃。在雷剑天帝出手镇压虚空剑帝后，久和天帝施展秘法暂时压制其体内红莲之力，使虚空剑帝短暂恢复神志。然而，当虚空剑帝猛然发现自己竟与一头公猪妖紧密相连时，脸色骤变，羞愤之下猛地将猪妖推开，本章在极度的荒诞与屈辱中戛然而止。",
+      "key_events": [
+        "第2191章：虚空剑帝中红莲阳帝，神志丧失疯狂凿猪",
+        "交锋：久和天帝诊断确认虚空剑帝与星云天帝同中红莲毒，皆因方尘所致",
+        "重大转折：久和天帝施法压制红莲之力，虚空剑帝短暂清醒，惊觉自身与猪妖相连的屈辱处境"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘的红莲阳毒可令大帝级强者丧失神智，陷入疯狂欲望状态，星云天帝与虚空剑帝皆因此中招",
+        "核心线索：虚空剑帝被救醒后发现自己与公猪妖相连，颜面尽失，此事件已在螳螂山广泛传播，方尘的凶名进一步扩散"
+      ],
+      "evidence_chapters": [
+        2191
+      ],
+      "continuity_in": [
+        2190
+      ],
+      "continuity_out": [
+        2192
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2192,
+      "title": "虚空剑帝自爆",
+      "source": {
+        "start_line": 360701,
+        "end_line": 360881
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《虚空剑帝自爆》展开，推动后续主线进展。",
+      "summary": "虚空剑帝被方尘以诡异异毒逼入绝境，当众遭受奇耻大辱后，向雷剑天帝等人讲述了自己与星云天帝联手仍不敌方尘的遭遇。久和天帝虽出手压制其体内红莲异毒，却无法根除，且禁制仅能维持一炷香。自知必死的虚空剑帝将储物法宝托付给雷剑天帝，请求其传讯家族报仇，随后毅然自爆身亡。此事令在场半仙与大帝震惊于方尘的逆天战力，并认定五大派系必将派人前来诛杀方尘。与此同时，方尘与八哥赶到星云宫总部，却发现五大霸主早已闻风而逃，总部一片狼藉，连紫光阁、剑盟、黄沙城、冰雪殿等势力也化整零，尽数撤离。面对敌人四散奔逃的局面，方尘转而将目光投向无法带走的矿脉，命八哥与小鹤前去查探五大霸主的矿场情报，为后续行动做准备。",
+      "key_events": [
+        "第2192章：虚空剑帝因异毒无法化解，托付后事后自爆身亡",
+        "交锋：方尘以浮仙大帝身份击败虚空剑帝与星云天帝，威名震动天外天",
+        "转折：五大霸主势力闻风撤离，方尘转而图谋其遗留矿脉"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：虚空剑帝自爆前将消息与遗物托付雷剑天帝，其家族有真仙坐镇，必会派人复仇",
+        "核心线索：五大霸主势力化整零逃走，但矿脉无法带走，方尘已派人查探矿场情报"
+      ],
+      "evidence_chapters": [
+        2192
+      ],
+      "continuity_in": [
+        2191
+      ],
+      "continuity_out": [
+        2193
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2193,
+      "title": "五大派系",
+      "source": {
+        "start_line": 360882,
+        "end_line": 361047
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《五大派系》展开，推动后续主线进展。",
+      "summary": "八哥向方尘汇报，在剑盟领地发现珍贵的天阳玉石矿脉，此矿脉蕴含强化肉身的特殊能量，一斤价值一块帝源石，是剑盟重要经济来源，且矿脉有两条通道，大量剑盟大帝聚集其中。方尘闻讯大喜，认为两条通道不足为惧，可用吞天塔和黑色石头堵路，遂让小鹤带其前往。此时矿脉内，剑盟二把手灵风剑帝正安抚众人，声称矿脉禁制重重且有两条退路，并透露剑盟背后靠山是人族五大派系之一的无忧大仙一脉，该派系天才辈出，大帝斩半仙者比比皆是，定会派人来收拾得罪了五大派系的方尘。方尘抵达天阳山脉后，因迟幽在修炼，决定直接从入口强攻。他先飞至第一个出口，召唤补天神女以黑色石头砸破外层结界后，用变大的石头彻底堵死通道，吓得守卫仓皇逃入矿洞报信。灵风剑帝闻讯大惊，而方尘已马不停蹄地转向第二个出口，意图将剑盟众人瓮中捉鳖。",
+      "key_events": [
+        "情报获取：八哥发现剑盟天阳玉石矿脉，该矿脉价值极高且有两条通道，大量剑盟成员聚集。",
+        "靠山揭秘：灵风剑帝透露剑盟隶属人族五大派系之一的无忧大仙一脉，该派系实力强大，定会派人复仇。",
+        "瓮中捉鳖：方尘抵达后，用黑色石头堵死第一条通道，并转向第二条通道，准备将剑盟众人一网打尽。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "核心线索：剑盟背后靠山是人族五大派系之一的无忧大仙一脉，该派系有大帝斩半仙的天才，后续将有更强敌人介入。",
+        "主线事实：方尘以黑色石头堵住矿脉通道，意图全歼矿脉内的剑盟成员，灵风剑帝等人被困。"
+      ],
+      "evidence_chapters": [
+        2193
+      ],
+      "continuity_in": [
+        2192
+      ],
+      "continuity_out": [
+        2194
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2194,
+      "title": "强势进入",
+      "source": {
+        "start_line": 361048,
+        "end_line": 361210
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《强势进入》展开，推动后续主线进展。",
+      "summary": "灵风剑帝为躲避方尘的追杀，下令将矿洞两个出口全部封闭，依靠上百道天阳石石门和结界作为屏障，自信方尘无法在短时间内破开。然而，方尘抵达第二个洞口后，凭借浮仙剑与黄昏之力的加持，发现坚硬的石门在剑下竟如豆腐般脆弱，且劈砍时反馈的能量还具备极强的炼体效果。他一路势如破竹，连续斩破九层石门与近百层结界，强势杀入矿洞。洞内剑盟成员原以为固若金汤，见方尘现身无不骇然。方尘第一时间祭出轮回塔堵死退路，面对灵风剑帝及千余名大帝，嘲讽对方为“老鼠”。灵风剑帝急令守卫开启第一条通道撤离，自己则率众持剑戒备，试图拖延时间，双方对峙一触即发。",
+      "key_events": [
+        "第2194章：灵风剑帝下令封闭矿洞双出口，倚仗天阳石石门与结界固守待援",
+        "关键突破：方尘以浮仙剑配合黄昏之力，发现石门如豆腐般易碎且能炼体，连破九层石门近百结界",
+        "重大转折：方尘强势突入矿洞，祭出轮回塔堵死退路，与灵风剑帝及千余名大帝形成对峙"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘凭借浮仙剑与黄昏之力，无视天阳石石门与结界的防御，强行攻入矿洞",
+        "核心线索：浮仙剑劈砍天阳石时反馈的能量具有极强炼体效果，为方尘后续战斗提供增益"
+      ],
+      "evidence_chapters": [
+        2194
+      ],
+      "continuity_in": [
+        2193
+      ],
+      "continuity_out": [
+        2195
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2195,
+      "title": "毒更强了",
+      "source": {
+        "start_line": 361211,
+        "end_line": 361397
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《毒更强了》展开，推动后续主线进展。",
+      "summary": "方尘闯入天阳山矿洞，灵风剑帝等人试图以矿洞双通道可撤退为由威胁方尘，却被方尘反将一军。方尘早已用黑色巨石堵死一号通道，令护卫总管传讯求救无果。随后方尘敲响黑色木鱼并念诵降魔咒，令灵风剑帝等大帝头痛欲裂、灵魂如遭刀绞虫咬，彻底丧失反抗与自爆能力。他趁机召唤混沌魔星藤，藤蔓尖刺穿透大帝防御注入毒素，迅速制服众人。方尘察觉混沌魔星藤的毒素威力较以往大幅增强，对其未来渡劫成帝后的潜力充满期待。收服大帝后，方尘以补天神女异象移开堵路黑石，准备挖掘天阳玉石。此时小鹤吐出黑色茧子，混沌噬心虫破茧而出，灵魂境界已凝聚并盛放第六朵虚空之莲；紧接着火璃大帝亦破茧苏醒，浑身散发惊人剑意，实力明显精进。",
+      "key_events": [
+        "第2195章：方尘以黑色巨石堵死一号通道，断退路后敲木鱼念降魔咒，令灵风剑帝等人丧失反抗能力",
+        "交锋：混沌魔星藤释放更强毒素制服大帝，方尘发现其毒性大幅提升",
+        "重大转折：混沌噬心虫与火璃大帝先后破茧苏醒，灵魂与剑意实力均获显著突破"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已完全控制天阳山矿洞，所有大帝被收入吞天塔，混沌魔星藤毒素威力大增",
+        "核心线索：混沌噬心虫灵魂达第六朵虚空之莲盛开，火璃大帝剑意暴涨，梦幻仙露效果惊人"
+      ],
+      "evidence_chapters": [
+        2195
+      ],
+      "continuity_in": [
+        2194
+      ],
+      "continuity_out": [
+        2196
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2196,
+      "title": "天阳玉石",
+      "source": {
+        "start_line": 361398,
+        "end_line": 361566
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《天阳玉石》展开，推动后续主线进展。",
+      "summary": "火璃大帝出关，因服用梦幻仙露成功凝聚七朵虚空之莲，实力大增。方尘告知众人此处竟是剑盟的矿洞，八哥补充了方尘在闭关期间力压金蝉岭五大霸主、逼退星云宫主与虚空剑帝的惊人战绩，令火璃大帝与混沌噬心虫深感震撼。然而方尘坦言已彻底得罪天外天五大派系，对方必将派遣天才大帝前来报复，因此他决定暂不突破半仙，以免被传送至螳螂山陷入险境，并计划前往天机塔寻找压制修为的秘法。随后，众人深入矿洞最深处探查天阳玉石矿脉，发现其质地极其坚硬，即便使用星辰陨铁与墨银锻造的特制工具，也仅能留下浅痕，八哥用嘴啄击亦只能留下白点，可见此矿脉开采难度极高。",
+      "key_events": [
+        "第2196章：火璃大帝出关，凝聚七朵虚空之莲，实力大增",
+        "交锋：八哥讲述方尘力压金蝉岭五大霸主的战绩，众人震惊",
+        "重大转折：方尘决定暂不突破半仙，计划前往天机塔寻找压制修为秘法以避祸"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已得罪天外天五大派系，对方将派遣天才大帝进入金蝉岭报复",
+        "核心线索：天阳玉石矿脉质地极坚硬，开采难度极高，是剑盟的命脉资源"
+      ],
+      "evidence_chapters": [
+        2196
+      ],
+      "continuity_in": [
+        2195
+      ],
+      "continuity_out": [
+        2197
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2197,
+      "title": "铁河真仙",
+      "source": {
+        "start_line": 361567,
+        "end_line": 361747
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《铁河真仙》展开，推动后续主线进展。",
+      "summary": "方尘一行在天阳玉石矿脉中尝试开采。混沌噬心虫因服用梦幻仙露后牙齿变硬，能啃动天阳玉石，但方尘决定亲自尝试。他将黄昏之力灌入浮仙剑，发现天阳玉石在黄昏之力加持下如黄蜡般轻松融化切割。方尘随即施展诸神的黄昏领域，在领域内一边切割一边吸收黄昏之力补充自身，配合小鹤收取玉石，效率极高，令八哥和火璃大帝等人震惊。与此同时，天外天浮游山陈家，家主铁河真仙收到雷剑天帝从螳螂山传回的消息，得知一个来自蛮荒古域的新人竟敢挑战陈家和无忧大仙派系的威严，勃然大怒。陈家核心成员齐聚议事殿堂，准备商议对策。",
+      "key_events": [
+        "方尘以黄昏之力加持浮仙剑，发现可轻松切割天阳玉石，效率远超半仙强者。",
+        "方尘施展诸神的黄昏领域，实现切割与灵力补充同步，大规模开采天阳玉石。",
+        "陈家主铁河真仙因新人挑战家族威严而震怒，召集核心成员商议。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：黄昏之力对天阳玉石有极强克制效果，方尘借此实现高效开采。",
+        "核心线索：铁河真仙为陈家主，虚空剑帝陈宝驰属陈家嫡系，方尘即将与无忧大仙派系正面冲突。"
+      ],
+      "evidence_chapters": [
+        2197
+      ],
+      "continuity_in": [
+        2196
+      ],
+      "continuity_out": [
+        2198
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2198,
+      "title": "千寒大帝",
+      "source": {
+        "start_line": 361748,
+        "end_line": 361937
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《千寒大帝》展开，推动后续主线进展。",
+      "summary": "陈家大殿内，铁河真仙收到来自螳螂山的噩耗：金蝉岭五大霸主之首、陈家脸面虚空剑帝（陈宝驰）竟被逼至绝境，体内异毒发作后被迫自爆身亡。铁河真仙当众展示了虚空剑帝临死前疯狂攻击小猪妖的影像，指出这一切皆由一名叫浮仙大帝的新人所致。此消息引发陈家众强者震怒，认为这是对陈家及无忧大仙派系的公然挑衅。铁河真仙随即决定派人前往金蝉岭诛杀浮仙大帝以维护家族尊严，并强调必须抢在同样损失了星云天帝的唐家之前动手。大帝陈墨（道号千寒）主动请缨，信心十足地领命出发，其本尊即刻动身前往金蝉岭。与此同时，唐家也派出千手大帝唐陌赶往同一目标。而在天阳玉石矿洞内，方尘正疯狂挖掘矿脉，十几名剑盟大帝抵达矿脉入口时发现守卫全无、情况诡异，霸土大帝放出黑色蝙蝠探查内部情况，新的冲突一触即发。",
+      "key_events": [
+        "第2198章：陈家惊悉虚空剑帝被逼自爆，凶手锁定为浮仙大帝",
+        "交锋：陈家与唐家同时派出精英大帝（千寒大帝、千手大帝）赶赴金蝉岭追杀方尘",
+        "转折：剑盟大帝抵达天阳玉石矿脉发现异常，霸土大帝释放蝙蝠探查，方尘陷入新的危机"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：浮仙大帝（方尘）以异毒逼死虚空剑帝与星云天帝，同时得罪陈家与唐家两大顶级势力",
+        "核心线索：陈、唐两家均派出精英大帝前往金蝉岭，方尘在矿洞内尚未察觉危险逼近"
+      ],
+      "evidence_chapters": [
+        2198
+      ],
+      "continuity_in": [
+        2197
+      ],
+      "continuity_out": [
+        2199
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2199,
+      "title": "惊恐的霸土大帝",
+      "source": {
+        "start_line": 361938,
+        "end_line": 362103
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《惊恐的霸土大帝》展开，推动后续主线进展。",
+      "summary": "霸土大帝派遣黑色蝙蝠探查矿洞，发现第一条通道被黑色石头堵死，第二条通道内石门被蛮力切开，切口平整光滑。蝙蝠深入矿洞后，目睹一只小纸鹤正在吞食体积巨大的天阳玉石，颠覆了矿师们的认知。小纸鹤发现蝙蝠后通知方尘，方尘以本命飞剑瞬间将蝙蝠斩杀。霸土大帝因蝙蝠乃其本命帝兵而遭受反噬，头痛欲裂，断定矿洞中之人正是令人闻风丧胆的浮仙大帝。霸土大帝等人仓皇逃离，因忌惮方尘的霸道毒药而不敢追击。随后，霸土大帝紧急通知剑盟成员撤离天阳玉石矿洞。三个时辰后，陈家千寒大帝抵达金蝉岭剑盟总部，却发现总部已人去楼空，周围布满记忆水晶法宝。千寒大帝表明身份后，潜伏的陈家弟子认出他，众人振奋不已。",
+      "key_events": [
+        "探查：霸土大帝派蝙蝠探查矿洞，发现通道被堵、石门被切开，目睹小纸鹤吞食巨型天阳玉石",
+        "交锋：方尘斩杀蝙蝠，霸土大帝遭反噬，断定是浮土大帝后仓皇逃离",
+        "转折：千寒大帝抵达剑盟总部，发现人去楼空，陈家弟子暗中振奋"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘霸占天阳玉石矿洞，霸土大帝等人因恐惧其毒药而不敢报复",
+        "核心线索：陈家派遣千寒大帝前来灭杀方尘，剑盟总部已人去楼空"
+      ],
+      "evidence_chapters": [
+        2199
+      ],
+      "continuity_in": [
+        2198
+      ],
+      "continuity_out": [
+        2200
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2200,
+      "title": "让八哥出去叫嚣",
+      "source": {
+        "start_line": 362104,
+        "end_line": 362281
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "intensive",
+      "priority_reason": "关键剧情节点与重大转折，对【帝境与界海篇】主线起决定性推进作用。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "turning_point"
+      ],
+      "teaser": "【帝境与界海篇】围绕《让八哥出去叫嚣》展开，推动后续主线进展。",
+      "summary": "陈家天才大帝千寒大帝亲临剑盟总部，以绝对威望震慑众弟子。他得知浮仙大帝方尘竟藏身于陈家霸占的天阳玉石矿洞内，勃然大怒，认为其胆大包天，随即命镇元大帝带路前往矿洞，意图速战速决。抵达矿洞入口后，千寒大帝高声叫嚣，但方尘正专注挖矿，不予理会。方尘通过火璃大帝提醒保持警惕，却并不畏惧，反而派八哥分身出洞探查并传话挑衅。八哥分身狂妄叫阵，称方尘无敌，激千寒大帝入洞。千寒大帝自报家门并显露浓烈杀意，而镇元大帝则暗中传音提醒对方使用激将法，贸然入洞恐有危险，局势陷入僵持。",
+      "key_events": [
+        "第2200章：千寒大帝降临剑盟，问明方尘下落后直奔天阳玉石矿洞",
+        "交锋：方尘无视叫嚣，派八哥分身出洞狂妄挑衅，激千寒大帝入洞",
+        "重大转折：镇元大帝识破激将法，暗中传音提醒千寒大帝谨慎行事"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：千寒大帝为陈家天才，实力强横，曾斩杀半仙，此行专为击杀方尘",
+        "核心线索：方尘藏身陈家矿洞，利用封闭环境优势，以八哥分身试探并挑衅敌人"
+      ],
+      "evidence_chapters": [
+        2200
+      ],
+      "continuity_in": [
+        2199
+      ],
+      "continuity_out": [
+        2201
+      ],
+      "analysis_status": "final"
+    }
+  ]
+}

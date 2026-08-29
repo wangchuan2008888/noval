@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "novel": {
+    "id": "doupocangqiong",
+    "title": "斗破苍穹",
+    "author": "天蚕土豆",
+    "language": "zh-CN"
+  },
+  "source": {
+    "path": "../斗破苍穹.txt",
+    "sha256": "62406e70ad3d8e6ff637586e34a94602d6a1fc6858d9e8b482cf11ab09125aa5",
+    "encoding": "gb18030",
+    "line_count": 234122,
+    "chapter_parser": "chinese-chapter-v1"
+  },
+  "coverage": {
+    "start_chapter": 1,
+    "end_chapter": 1574,
+    "is_complete_book": true
+  },
+  "analysis": {
+    "status": "final",
+    "batch_size": 100,
+    "overlap_chapters": 2
+  },
+  "story": {
+    "spoiler_level": "full",
+    "premise": "天才少年萧炎因母亲遗物戒指中药尊者灵魂苏醒吸收斗气而沦为三年废柴，遭受退婚屈辱后订立三年之约。在药老教导下修炼焚决，吞噬天下异火逆天改命，跨越加玛帝国、黑角域与中州，终成炎帝拯救苍生。",
+    "overall_summary": "全书共分为十七个主要篇章推进：乌坦城退婚立誓（1-45）；魔兽山脉与小医仙、云韵历险（46-137）；塔戈尔沙漠收服青莲地心火（138-239）；帝都炼药师大会夺冠（240-331）；三年之约决裂云岚宗流亡黑角域（332-408）；迦南学院内院创立磐门（409-588）；地底炼化陨落心炎与美杜莎合体（589-633）；重返加玛覆灭云岚宗建立炎盟（634-718）；肃清黑角域解除魔毒斑（719-798）；扬名中州四方阁与星陨阁相认（799-929）；丹塔丹会夺魁收服三千焱炎火（930-1080）；强闯亡魂山脉营救药老重铸半圣（1081-1180）；古界天墓传承萧玄造化（1181-1310）；莽荒古域菩提树百世轮回破圣（1311-1430）；净莲妖火降世与药族惊变（1431-1550）；开启古帝洞府与帝品雏丹之争（1551-1610）；双帝决战万火归一封印魂天帝大结局（1611-1624）。",
+    "end_state": "萧炎自燃斗帝之身施展异火恒古尺将魂天帝永久封印于异火大阵中；中州浩劫平定，萧炎重塑肉身，与薰儿、彩鳞举办世纪婚礼，多年后与薰儿、彩鳞、古元、烛坤五帝破空前往大千世界。",
+    "key_themes": [
+      "莫欺少年穷",
+      "焚决与异火吞噬",
+      "师徒传承与父子深情",
+      "三年之约与血仇决算",
+      "炼药师与天地造化",
+      "情义相伴与红颜知己",
+      "远古八族与帝路争锋",
+      "万火朝宗与苍生守护"
+    ]
+  },
+  "data": {
+    "directory": "data",
+    "index_file": "章节定位索引.jsonl"
+  },
+  "taxonomy": {
+    "content_tags": [
+      "cultivation",
+      "battle",
+      "alchemy",
+      "flame",
+      "romance",
+      "adventure",
+      "sect",
+      "dialogue",
+      "revenge",
+      "mystery"
+    ],
+    "narrative_roles": [
+      "setup",
+      "turning_point",
+      "climax",
+      "payoff",
+      "character_growth",
+      "world_building"
+    ]
+  },
+  "site": {
+    "locale": "zh-CN",
+    "full_text_mode": "per-chapter-assets",
+    "spoiler_policy": "recommendation-first"
+  }
+}

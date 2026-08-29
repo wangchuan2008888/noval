@@ -1,0 +1,5403 @@
+{
+  "batch_index": 14,
+  "owned_range": [
+    1301,
+    1400
+  ],
+  "chapter_count": 100,
+  "chapters": [
+    {
+      "id": 1301,
+      "title": "西北大陆的动荡...",
+      "source": {
+        "start_line": 188796,
+        "end_line": 188934
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1301章导读】西北大陆的动荡...：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《西北大陆的动荡...》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十章 西北大陆的动荡...见到萧炎那猛然间变化的脸色，药老也是缓缓点了点头，道“应该是说那片西北大陆，都是出事了“.“怎么回事？萧炎眉头紧皱、西北大陆那种地方.并比不上中州这等强者如云，那里的宗派以及帝国虽然多如牛毛.但却始终处于各自纷争的局面，虽说有着一些拥有着不弱实力的势力想要将之一统.但却始终无法达成.而且，那里所谓的不弱势力、放在中州，也……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "西北大陆的动荡...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《西北大陆的动荡...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1300,
+        1301,
+        1302
+      ],
+      "continuity_in": [
+        1300
+      ],
+      "continuity_out": [
+        1302
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1302,
+      "title": "收徒幽泉",
+      "source": {
+        "start_line": 188935,
+        "end_line": 189073
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1302章导读】收徒幽泉：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《收徒幽泉》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十一章 收徒幽泉在回到星陨阁之后，萧炎接下来的日子无疑是变得清闲了许多,整日便待在星界之内，偶尔有空便现身指点一下星陨阁的弟子，而以他现在的实力与声望，莫说指点这些寻常弟子,就算是星陨阁的一些客卿长老,恐怕经验或看见识都比不上他武动乾坤。而在这种清闲之下，三日时间也是徐徐而过,药老所构建的那空间虫洞，也是逐渐的趋于完善……“喝！”星界之中的一处宽……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "收徒幽泉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1301,
+        1302,
+        1303
+      ],
+      "continuity_in": [
+        1301
+      ],
+      "continuity_out": [
+        1303
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1303,
+      "title": "邀集帮手",
+      "source": {
+        "start_line": 189074,
+        "end_line": 189182
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1303章导读】邀集帮手：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《邀集帮手》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十二章 邀集帮手当萧炎赶到星界后山时，一个约莫十来丈大小舟漆黑空洞，正缓缓出现在一座山峰顶的石台上,一股狂暴的空间之力，自其中源源不断的暴涌而出，最后飞速的扩散而开……，“老师，成功了？”萧炎身形一动,出现在距离虫洞不远处的地方，望着前方那道苍老身影,欣喜的道武动乾坤。手机端阅读请登陆m.zhuaji.org“嗯”药老微笑着点了点头,旋即转过身来……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "邀集帮手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《邀集帮手》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1302,
+        1303,
+        1304
+      ],
+      "continuity_in": [
+        1302
+      ],
+      "continuity_out": [
+        1304
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1304,
+      "title": "玄黄要塞",
+      "source": {
+        "start_line": 189183,
+        "end_line": 189306
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1304章导读】玄黄要塞：yao-lao, medusa, xiao-yi-xian, hai-bo-dong, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《玄黄要塞》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十三章玄黄要塞一望无尽的赤壁平原之上，风沙阵阵，血红的夕阳遥遥的斜挂在天际之上，淡红色的光芒，为这片天地披上一层淡红色纱衣，隐隐间，有种血色弥漫……“境！”赤壁平原上，人烟罕至，唯有狂风的声音呜呜的刮个不停，某一刻，虚无的空间突然泛起剧烈的空间波动，旋即一道几十夹庞大的空间黑洞，缓缓的浮现而出……空间黑洞刚刚浮现，其内便是泛起一阵阵涟漪波动，旋即……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "玄黄要塞核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hai-bo-dong",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《玄黄要塞》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1303,
+        1304,
+        1305
+      ],
+      "continuity_in": [
+        1303
+      ],
+      "continuity_out": [
+        1305
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1305,
+      "title": "小萧潇",
+      "source": {
+        "start_line": 189307,
+        "end_line": 189421
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1305章导读】小萧潇：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《小萧潇》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十四章 小萧潇一望无际的蔚蓝天空之上，突然间有着破风声传来，旋即几十道黑影由远至近.几个眨眼间，便是踏着虚空.出现在了一座青峰之上武动乾坤。手机端阅读请登陆m.zhuaji.org“少阁主.前方便是炎盟的势力范围了，按照我们的速度.应该在傍晚时分便是能够抵达玄黄天涧j落在山峰上，一名身着白袍的老者.目光在四处扫了扫.然后对着身旁的萧炎恭声道武动乾……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "小萧潇核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1304,
+        1305,
+        1306
+      ],
+      "continuity_in": [
+        1304
+      ],
+      "continuity_out": [
+        1306
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1306,
+      "title": "大战始",
+      "source": {
+        "start_line": 189422,
+        "end_line": 189572
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1306章导读】大战始：medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大战始》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十五章大战始第一千三百五十五章大战始听得那道响彻在天地间的霸道大笑，彩鳞狭长的双眸之中也是掠过一抹冷色，莲步轻轻前移一步,望着远处天空上的那一道道身影，平淡的声音却并未因为现在的局面而变得有半点的波动武动乾坤。掌管炎盟多年，本就是蛇人族女王陛下的她，对于这种劣势局面，并不会有丝毫的畏]惧之情！“炎盟有死于战场的战士，没有投降的逃兵”金发中年男子傲……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大战始核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大战始》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1305,
+        1306,
+        1307
+      ],
+      "continuity_in": [
+        1305
+      ],
+      "continuity_out": [
+        1307
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1307,
+      "title": "惨烈",
+      "source": {
+        "start_line": 189573,
+        "end_line": 189738
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1307章导读】惨烈：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《惨烈》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十六章 惨烈第一千三百五十六章惨烈“杀！”天空之上，望着那终于是破开的能量罩，狮天脸庞上也是划过一抹狰狞笑容,手掌挥下，冷喝道武动乾坤。伴随着狮天喝声落下，那先前被阻拦的众多斗王斗皇强者此刻也是怒吼着暴冲而出，最后如同暴雨一般,对着城墙之上冲去！“杀！”望着那携带着冲天杀气而来密密麻麻的人影，彩鳞玉手猛的握上腰间长剑，浩瀚斗气自其体内暴涌而出，一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "惨烈核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《惨烈》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1306,
+        1307,
+        1308
+      ],
+      "continuity_in": [
+        1306
+      ],
+      "continuity_out": [
+        1308
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1308,
+      "title": "一掌击杀!",
+      "source": {
+        "start_line": 189739,
+        "end_line": 189947
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第1308章导读】一掌击杀!：medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一掌击杀!》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十七章一掌击杀!“萧炎？”“三弟？！”“盟主？”望着那道突然间出现在城墙之上黑衫青年,周围不少人都是瞬间呆愣了下来,片刻后,一股狂喜之色陡然涌现，一道道各不相同的称呼也是陡然间响彻而起,虽然几年时间不见,前者比起当年也是要显得越发的成熟,但那熟悉得深入灵魂的脸庞,依旧是在一霎那下便是被许多人认了出来武动乾坤。对于这些狂喜的惊呼声,萧炎也是微微一笑……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一掌击杀!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1307,
+        1308,
+        1309
+      ],
+      "continuity_in": [
+        1307
+      ],
+      "continuity_out": [
+        1309
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1309,
+      "title": "今非昔比",
+      "source": {
+        "start_line": 189948,
+        "end_line": 190098
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1309章导读】今非昔比：medusa, hai-bo-dong, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《今非昔比》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十八章 今非昔比伴随着萧炎的冷喝之声在这片天地间传荡而开，那遥远处弥漫天空的黑雾也是一阵波动，旋即黑雾扩散而开，一道蓝色身影，缓缓的自其中踏空而出，身形几个闪烁间，便走出现在萧炎百丈之外的距离武动乾坤。“我道是谁，原来是你这丧家之犬，没想到你还真是有胆子回到这里既然如此，那此次，也顺带着将你也擒了一并带回去吧。”九天尊目光阴冷的望着远处的萧炎，冷……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "今非昔比核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "hai-bo-dong",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《今非昔比》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1308,
+        1309,
+        1310
+      ],
+      "continuity_in": [
+        1308
+      ],
+      "continuity_out": [
+        1310
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1310,
+      "title": "四天尊，血河...",
+      "source": {
+        "start_line": 190099,
+        "end_line": 190225
+      },
+      "arc_id": "ancient-realm-tomb",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1310章导读】四天尊，血河...：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《四天尊，血河...》的关键进程。在ancient-realm-tomb的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百五十九章 四天尊，血河...听得九天尊突然间的尖叫之声.萧炎也是微微一怔，旋即眼角余光也是瞥了一眼下方被鲜血所染红的地面.看这般模样，这魂殿果然还有更强者隐藏在一旁未曾出手武动乾坤。“不管有没帮手、先将这家伙杀了再说！”萧炎双眼急速闪烁.瞬息后、却是凶芒闪动、那方掌猛然朝前一推.漆黑光圈的扩散速度，也是陡然暴涨武动乾坤。感吏着后方越发接近的恐怖能量……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "四天尊，血河...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《四天尊，血河...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1309,
+        1310,
+        1311
+      ],
+      "continuity_in": [
+        1309
+      ],
+      "continuity_out": [
+        1311
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1311,
+      "title": "噬血术",
+      "source": {
+        "start_line": 190226,
+        "end_line": 190437
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1311章导读】噬血术：yao-lao, medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《噬血术》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十章噬血术阴冷而诡异的气息,如同风暴一般自四天尊血河体内席卷而出，凡是气息所波及的地方，不论是炎盟还是狮冥宗的人,体内血液皆是在此刻猛然沸腾了起来,旋即只听得砰砰砰一阵脆响,无数人的身体，都是在此刻爆亣炸开来,一滩滩血浆,将这片地面,渲染得如同血红无比武动乾坤。四天尊这番不分青红皂白的杀戮,自然也是引起双方的骇然，那靠近深渊的人，急忙后退,仅仅片……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "噬血术核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1310,
+        1311,
+        1312
+      ],
+      "continuity_in": [
+        1310
+      ],
+      "continuity_out": [
+        1312
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1312,
+      "title": "九转成圣",
+      "source": {
+        "start_line": 190438,
+        "end_line": 190585
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1312章导读】九转成圣：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《九转成圣》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十一章 九转成圣着那霎那间气息暴涨的四天尊,萧炎眼中也是掠过一抹凝重之色，这家伙能够在中州闯上赫赫凶名，果然是有着一些本事,他现在的气息，明显已经超越了普通的斗尊巅峰强者……，当然，这也并非是说四天尊已经达到了半圣层次，因为这种事本身便就是不可能,斗尊巅峰与半圣,虽然仅仅一步之遥，但这一步，却是仿若天涧，两者的差距，恐怖得让人难以形容，这从连药老……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "九转成圣核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《九转成圣》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1311,
+        1312,
+        1313
+      ],
+      "continuity_in": [
+        1311
+      ],
+      "continuity_out": [
+        1313
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1313,
+      "title": "落幕",
+      "source": {
+        "start_line": 190586,
+        "end_line": 190758
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1313章导读】落幕：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《落幕》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十二章 落幕可怕的火焰风暴在天际席卷而开,恐怖的温度直接是瞬间蒸干了这片天地间的所有水分,空气之中，弥漫着一种干燥,一些实力稍弱之人，更是感觉到连体内血液都是在此刻变得滚烫起来武动乾坤。“嘭！”火焰风暴之中,猛的传出一道低沉的闷响,旋即一道被火焰包裹的身影,便是如同炮弹一般自天空上坠落而下，凄厉的惨叫声响彻在每一个人耳边,而听这声音,那火焰人影，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "落幕核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《落幕》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1312,
+        1313,
+        1314
+      ],
+      "continuity_in": [
+        1312
+      ],
+      "continuity_out": [
+        1314
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1314,
+      "title": "毒瘤",
+      "source": {
+        "start_line": 190759,
+        "end_line": 190858
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1314章导读】毒瘤：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《毒瘤》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十三章 毒瘤第一千三百六十三章毒瘤见到萧炎望着萧潇时眼中的炽热,一旁的彩鳞冷艳舟脸颊上也是浮现许些柔和，她将萧潇看得很重，比她的生命还要重要,而萧炎能够真正的待好萧潇，在她心中，也是最为重要的事武动乾坤。“萧潇如今的条件已是非常的好,你当年所送回来的“天魂血骨丹”让得她尚还未出生时,便是为其塑造了不错的体质”彩鳞微笑道，提起此事时，她不由得多看了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "毒瘤核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1313,
+        1314,
+        1315
+      ],
+      "continuity_in": [
+        1313
+      ],
+      "continuity_out": [
+        1315
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1315,
+      "title": "炼丹",
+      "source": {
+        "start_line": 190859,
+        "end_line": 190994
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1315章导读】炼丹：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼丹》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十四章 炼丹玄黄要塞作为炎盟除了加玛帝国之外最为重要的据点,丹堂自然也是在此处有着大量的人员,而且再加上大战爆发的缘故,基本上如今丹堂百分之八十的人，都是在要塞之内的分堂之中武动乾坤。而自从古河将萧炎所说的话带回自丹堂时，自然是不出意料的引发了一场不小的动荡”丹堂这些年过得太过顺畅,再加上炼药师的重要性，从而导致骄狂之气甚浓，平日里即便是彩鳞,都……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《炼丹》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1314,
+        1315,
+        1316
+      ],
+      "continuity_in": [
+        1314
+      ],
+      "continuity_out": [
+        1316
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1316,
+      "title": "严惩",
+      "source": {
+        "start_line": 190995,
+        "end_line": 191169
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1316章导读】严惩：yao-lao, medusa, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《严惩》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十五章 严惩炽?热的温度，自那暗?红色舟药鼎之内弥漫而开，令得这片天际的温度都是变得干燥下来，炼制八品丹药极其的繁琐，那多达数百种的药材,寻常炼药师莫说是炼制了，就算是让他们全部的将这些药材控?制得悬浮起来都是得手忙脚乱，当然，这些在萧炎那浩?瀚如同汪?洋大海一般的灵魂力量面前，却是并不具备丝毫的问赶，一株株在场大多数炼药师闻所未闻的高级丹药，源……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "严惩核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《严惩》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1315,
+        1316,
+        1317
+      ],
+      "continuity_in": [
+        1315
+      ],
+      "continuity_out": [
+        1317
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1317,
+      "title": "解决",
+      "source": {
+        "start_line": 191170,
+        "end_line": 191308
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1317章导读】解决：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《解决》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十六章解决听得彩鳞那冰冷声音,柳昌等人前踏的步伐瞬间便是僵硬下来，片刻后,柳昌与乌镇猛的回头,怒声道：“怎么？炎盟难道还想当着这么多人的面,将我等全部杀了不成？”萧炎双手负于身后，目光淡漠的望着眼中透着许些惊惶的柳昌等人，淡淡的声音,在每一个人耳边响彻：“炎盟,有着属于它的境矩,这里,并非是什么松散组织，若因故有人要退出炎盟,自然可行，但是，犯了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "解决核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1316,
+        1317,
+        1318
+      ],
+      "continuity_in": [
+        1316
+      ],
+      "continuity_out": [
+        1318
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1318,
+      "title": "动身之前",
+      "source": {
+        "start_line": 191309,
+        "end_line": 191426
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1318章导读】动身之前：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《动身之前》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十七章动身之前解决了狮冥宗与丹堂的麻烦,接下来的这些时间中，兼炎则是有些无所事事起来,炎盟虽大,但这些年在彩鳞萧鼎等人的管理下,已是相当的完善，这些大战之后的事情,他们自然是会安排得妥妥当当，根本就不需要萧炎来插半点的手，而对于这般，萧炎倒是乐得清闲，独自一人带着小兼潇,倒是好好的享受了一把当爹爹的感觉武动乾坤。而在这段时间之中，兼炎也是趁空将药……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "动身之前核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《动身之前》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1317,
+        1318,
+        1319
+      ],
+      "continuity_in": [
+        1317
+      ],
+      "continuity_out": [
+        1319
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1319,
+      "title": "回星陨阁",
+      "source": {
+        "start_line": 191427,
+        "end_line": 191553
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1319章导读】回星陨阁：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《回星陨阁》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十八章 回星陨阁连接星陨阁的空间虫洞被设置在防御森严的炎盟深处，这里的虫洞，萧炎等人并不打算将之公开,虽说收取虫洞的来往费用相当的丰厚，但经过一些考虑，这种事情,还是低调一些得来，免得引来一些不必要的麻烦，毕竟整片西北大陆深处，能够直通中州的空间虫洞，几乎只此一家，风声传了出去，总归是会让得不少人眼红武动乾坤。庞大无比的巨殿之中，漆黑色的空间虫洞……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "回星陨阁核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《回星陨阁》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1318,
+        1319,
+        1320
+      ],
+      "continuity_in": [
+        1318
+      ],
+      "continuity_out": [
+        1320
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1320,
+      "title": "空间交易会",
+      "source": {
+        "start_line": 191554,
+        "end_line": 191647
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1320章导读】空间交易会：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《空间交易会》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百六十九章 空间交易会自从回到星陨阁之后,萧炎与药老便是同时闭关了去,而在两人闭关的这段时间中,星陨阁天空上，时不时的便是会有着呈彩色颜色的丹雷以及天地异象出现，引来不少星陨阁弟子的诧异注视,不过这些天地异象并未造成什么破坏,那些成形的丹雷，皆是会被几道闪烁着暗金光芒的身影悄无声息的冲进雷云之中,旋即在一阵阵轰隆隆声响中,将所有的丹雷尽数吸收……，这……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "空间交易会核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1319,
+        1320,
+        1321
+      ],
+      "continuity_in": [
+        1319
+      ],
+      "continuity_out": [
+        1321
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1321,
+      "title": "八彩原石",
+      "source": {
+        "start_line": 191648,
+        "end_line": 191786
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1321章导读】八彩原石：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《八彩原石》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十章 八彩原石第一千三百七十章八彩原石见到萧炎三人脸庞上的惊色,药老也是一笑,旋即挥挥手,道：“进去吧”闻言,萧炎三人也是点了点头,旋即四人身形一动,掠上陡啃的沙山，几个闪烁间,便走出现在了那空间黑洞之前,在四人抵达这里时,四周也是时不时的有着一些人影掠来，目光在萧炎一行人身上顿了顿，最后多看了彩鳞与小医仙一眼，不过能够来到这里的人，都不是什么蠢……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "八彩原石核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《八彩原石》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1320,
+        1321,
+        1322
+      ],
+      "continuity_in": [
+        1320
+      ],
+      "continuity_out": [
+        1322
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1322,
+      "title": "古殿",
+      "source": {
+        "start_line": 191787,
+        "end_line": 191901
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1322章导读】古殿：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《古殿》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十一章 古殿空间镇并不大，仅仅几条古街交错，不过这小镇上人倒是不少，而且个个都是气息强横之辈.若是放在外面。萧炎三人跟随着药老穿过几条古街，沿途倒也并未再因为两旁琳琅满目的物品再如何停留，一路直奔目的地.最后.终于在一条街道的尽头处停下了脚步武动乾坤。这里明显应该是空间镇的尽头.周围也显得空空荡荡起来.不再如同前面那番喧闹，而在此处，一座古老的阁……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "古殿核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《古殿》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1321,
+        1322,
+        1323
+      ],
+      "continuity_in": [
+        1321
+      ],
+      "continuity_out": [
+        1323
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1323,
+      "title": "最后一张残图...",
+      "source": {
+        "start_line": 191902,
+        "end_line": 192031
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1323章导读】最后一张残图...：yao-lao, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《最后一张残图...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十二章 最后一张残图...“下面我们开始拍卖此次空间交易会的第一件物品……“,扭曲的空间壁之中,宝山老人手掌在面前虚空一抹,一对森白色的骨翼便走出现在了众人视线之中,古翼之内，隐隐有着风雷之声传出武动乾坤。“妖凰翼？”望着这对有些熟悉的骨翼，萧炎顿时愣了下来，旋即面色有些古怪，他一直听说天妖凰族对于族人的尸身血脉看得极重,谁若是敢私自占用的话”一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "最后一张残图...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1322,
+        1323,
+        1324
+      ],
+      "continuity_in": [
+        1322
+      ],
+      "continuity_out": [
+        1324
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1324,
+      "title": "情报",
+      "source": {
+        "start_line": 192032,
+        "end_line": 192194
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1324章导读】情报：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《情报》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十三章情报望着鸦雀无声的大殿，宝山老人也是一笑，他清楚净莲妖火的吸引力，因此方才将与它有所关联的一张残图，一直留到现在才拿出来武动乾坤。大殿中,一道道火热的目光紧紧的盯着那张残图，在座的人，都不是寻常之辈，但净莲妖火对于他们来说,依旧是如同传说中的东西一般，仅仅听闻过，但却并没有真正的见到，当然，这也一点都不妨碍众人对它的垂涎，越是强大的东西,不……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "情报核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《情报》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1323,
+        1324,
+        1325
+      ],
+      "continuity_in": [
+        1323
+      ],
+      "continuity_out": [
+        1325
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1325,
+      "title": "莽荒古域",
+      "source": {
+        "start_line": 192195,
+        "end_line": 192327
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1325章导读】莽荒古域：yao-lao, medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《莽荒古域》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十四章 莽荒古域“菩提古树？”宝山老人的话语，无疑如同一枚一般，瞬间便是令得整个大殿陡然间哗然了起来，一些强者甚至是忍不住心中的震惊，猛的站起了身来……，菩提古树，如果说要将斗气大陆之上的天材地宝排个名的话，它必然能够进入前三之列！菩提古树，在一些古籍之中，又号称智慧轮回树，此树千年生长一轮，待得其拥有百轮时，方才成熟，如此悠久的岁月，足以让得时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "莽荒古域核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《莽荒古域》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1324,
+        1325,
+        1326
+      ],
+      "continuity_in": [
+        1324
+      ],
+      "continuity_out": [
+        1326
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1326,
+      "title": "蝎魔三鬼",
+      "source": {
+        "start_line": 192328,
+        "end_line": 192517
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1326章导读】蝎魔三鬼：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《蝎魔三鬼》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十五章 蝎魔三鬼第一千三百七十五章蝎魔三鬼听得药老此话，萧炎三人心头也是一动，目光顺着前者的视线望去，那里，隐隐间”有着风雷之声响起，紧接着，约莫十几秒时间，三道黑芒，便是陡然间自天边暴掠而来！三道黑芒的速度极为恐怖，一闪之下,便走出现在百丈开外,然面，当三人即将进入药老所在的这座山峰时，却是猛然有所感应一般，瞬间顿下身形，三道阴冷狠戾的目光，便……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "蝎魔三鬼核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1325,
+        1326,
+        1327
+      ],
+      "continuity_in": [
+        1325
+      ],
+      "continuity_out": [
+        1327
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1327,
+      "title": "四色半的佛怒...",
+      "source": {
+        "start_line": 192518,
+        "end_line": 192680
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1327章导读】四色半的佛怒...：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《四色半的佛怒...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十六章四色半的佛怒...这小子好生诡异，不过八星斗尊鞍峰的实力，竟然能够引发如此恐怖的能量！”，人蝎子面色阴晴不定的望着萧炎手中翻腾的火焰，心中也是翻起了许些惊涛骇浪，但旋即，这股惊骇便是化为阴狠，只见得其猛的一拳轰出，面前的虚空，直接是在他这一拳之下嗤啦啦的爆裂开一道数十丈庞大的漆黑空间裂缝，而那道空间裂缝，则是如同一条黑色的阴狠毒蛇一般，闪电……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "四色半的佛怒...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《四色半的佛怒...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1326,
+        1327,
+        1328
+      ],
+      "continuity_in": [
+        1326
+      ],
+      "continuity_out": [
+        1328
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1328,
+      "title": "古图到手",
+      "source": {
+        "start_line": 192681,
+        "end_line": 192855
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1328章导读】古图到手：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《古图到手》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十七章 古图到手浓厚的沙尘暴弥漫在这片天空，周围葱郁的青峰，几乎是在眨眼之下，便是化为乌有，千丈之内，尽是化为空荡荡的平原，其上，甚至是连一块稍大点的石头，都是不曾存在！遥遥的天空上，巨大的吞天蟒一阵蠕动，旋即迅速化为一道妖娆倩影，袖袍一挥，一股狂风大作，将此处弥漫的沙尘暴尽数压制而下武动乾坤。而伴随着沙尘暴的减弱，那天空上，一道身着黑衫的削瘦身……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "古图到手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《古图到手》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1327,
+        1328,
+        1329
+      ],
+      "continuity_in": [
+        1327
+      ],
+      "continuity_out": [
+        1329
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1329,
+      "title": "古图之谜【第...",
+      "source": {
+        "start_line": 192856,
+        "end_line": 193030
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1329章导读】古图之谜【第...：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《古图之谜【第...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十八章 古图之谜【第...望着萧炎那副欣喜之色，药老也是一笑，他自然是知道萧炎为了寻找到这些残图，究竟付出了多大的努力武动乾坤。“先走吧，这里的动静太大,恐怕不久后便是会引来一些强者的注意,我们虽然不惧，但若是让得别人知道我们手中有完整的古图的话，难免会惹来一些不必要的麻烦。”药老目光在四周扫视一圈”然后开口道武动乾坤。“嗯。”闻言，萧炎也是点了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "古图之谜【第...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1328,
+        1329,
+        1330
+      ],
+      "continuity_in": [
+        1328
+      ],
+      "continuity_out": [
+        1330
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1330,
+      "title": "净莲妖圣",
+      "source": {
+        "start_line": 193031,
+        "end_line": 193239
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1330章导读】净莲妖圣：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《净莲妖圣》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百七十九章 净莲妖圣这般变故，实在是太过突然，即便药老距萧炎极其之近，但依旧是感到措手不及，因此，当那道异芒掠进了箭炎眉心后，方才陡然察觉，当下脸色便是剧变了起来武动乾坤。一旁的彩鳞以及小医仙也是先后反应过来，俏脸都是因为惊吓出现了一分苍白之色，这古图太过诡异，谁也不知道它那种东西究竟是好还是坏武动乾坤。而身为变故主角的萧炎，在那道异芒射进其眉心处时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "净莲妖圣核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《净莲妖圣》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1329,
+        1330,
+        1331
+      ],
+      "continuity_in": [
+        1329
+      ],
+      "continuity_out": [
+        1331
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1331,
+      "title": "修炼金刚琉璃身...",
+      "source": {
+        "start_line": 193240,
+        "end_line": 193387
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1331章导读】修炼金刚琉璃身...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《修炼金刚琉璃身...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十章 修炼金刚琉璃身...心中有了决定，萧炎等人自然也不在此处继续停留，当下便是动身，直接是赶回星陨阁，而在回到阁中之后，萧炎一行人也是休整了一两日，而在这两日中，那与菩提古树有关的情报，已经是如同风暴一般，以一种极为恐怖的速度，席卷了将近整个中州武动乾坤。而在那简简单单的菩提古树四个字之下，整个中州，无疑是在这一刻彻底的震动了起来，即便是一些隐……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "修炼金刚琉璃身...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《修炼金刚琉璃身...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1330,
+        1331,
+        1332
+      ],
+      "continuity_in": [
+        1330
+      ],
+      "continuity_out": [
+        1332
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1332,
+      "title": "莽荒镇",
+      "source": {
+        "start_line": 193388,
+        "end_line": 193538
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1332章导读】莽荒镇：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《莽荒镇》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十一章莽荒镇第一千三百八十一章莽荒镇星陨阁内阁深处，有着一片幽静的静室,这些静室，全部都是为星陨阁的客卿长老门所建，而也只有着长老，方才有着资格，在此处修炼,这里的能量，是星界之中相当浓郁的一处武动乾坤。寻常时日，不少的长老，都是会汇聚于此，彼此间切磋，以证修行，而如今，自然也是不例外,一道道苍老身影停于静室之外的空地上,笑谈风声武动乾坤。“嘭！……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "莽荒镇核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1331,
+        1332,
+        1333
+      ],
+      "continuity_in": [
+        1331
+      ],
+      "continuity_out": [
+        1333
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1333,
+      "title": "进入莽荒古域...",
+      "source": {
+        "start_line": 193539,
+        "end_line": 193698
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1333章导读】进入莽荒古域...：medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《进入莽荒古域...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十二章 进入莽荒古域...翌日，莽荒镇之外，密密麻麻舟人影聚集在此，喧闹之声汇聚在一起，化为庞大的声浪，远远的扩散而开武动乾坤。萧炎一行人站于后方，望着前方那足足超过数千的人群，一时间也是忍不住的晒舌摇头，这还是他们第一次看见如此规模的强者云集武动乾坤。在这庞大的人流前方不远处,便是一座弥漫着古老气息的原始森林,足有数百丈庞大的巨树如同一个个巨人……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "进入莽荒古域...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《进入莽荒古域...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1332,
+        1333,
+        1334
+      ],
+      "continuity_in": [
+        1332
+      ],
+      "continuity_out": [
+        1334
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1334,
+      "title": "深入",
+      "source": {
+        "start_line": 193699,
+        "end_line": 193873
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1334章导读】深入：medusa, xiao-yi-xian, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《深入》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十三章 深入毒瘴弥漫的森林之中，凄厉的惨叫声依旧是隔着老远的传荡而开，令得这片森林，处于一种极度阴森的氛围之中武动乾坤。“嗤！”浓郁的毒瘴之内，突然有着破风声响起，隐隐有着火光浮现，而奇异的是，在那团火光出现的时候,周围那些毒瘴仿佛是受到惊吓一般，居然是自动的退缩而开，让出了一条空荡荡的清晰道路武动乾坤。“看来这些毒虫对于异火挺惧怕的。”小医仙望……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "深入核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《深入》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1333,
+        1334,
+        1335
+      ],
+      "continuity_in": [
+        1333
+      ],
+      "continuity_out": [
+        1335
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1335,
+      "title": "再遇云韵",
+      "source": {
+        "start_line": 193874,
+        "end_line": 194036
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1335章导读】再遇云韵：yao-lao, yun-yun, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《再遇云韵》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十四章 再遇云韵弥漫着古老气息的山脉之中，几道身影闪电般的自半空中闪掠而过，隐隐间,透着一丝狼狈武动乾坤。“老师，那些家伙”一直锁定着我们…”一道倩影轻轻一点树枝，身形暴掠而出，美眸看了一眼后方，眼中充满着焦虑之色的道，在她偏头的时候,露出一张熟悉的娇俏脸颊，赫然便是纳兰嫣然武动乾坤。而能够被纳兰嫣然称为老师,除了云韵之外，恐怕没有别人，而视线转……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "再遇云韵核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1334,
+        1335,
+        1336
+      ],
+      "continuity_in": [
+        1334
+      ],
+      "continuity_out": [
+        1336
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1336,
+      "title": "斩杀天冥宗",
+      "source": {
+        "start_line": 194037,
+        "end_line": 194235
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第1336章导读】斩杀天冥宗：medusa, yun-yun, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斩杀天冥宗》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十五章 斩杀天冥宗“不知阁下是何方高人？这是我天冥宗与花宗之间的事，阁下莫非真是想要插手不成？”柳苍目光阴森的望着那矗立在云韵面前的金色巨人，沉声道武动乾坤。在嘴中说着话时，柳苍体内的斗气却是悄然运转起来，这家伙一看就是来者不善，不得不小心武动乾坤。对于柳苍的声音，那道足有七丈高大的金色人影，却是冷冷一笑，根本就未曾回其半句话，一脚便是狠狠的踹在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斩杀天冥宗核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1335,
+        1336,
+        1337
+      ],
+      "continuity_in": [
+        1335
+      ],
+      "continuity_out": [
+        1337
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1337,
+      "title": "远古天魔蟒",
+      "source": {
+        "start_line": 194236,
+        "end_line": 194392
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1337章导读】远古天魔蟒：yao-lao, medusa, xiao-yi-xian, yun-yun, na-lan-yan-ran, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《远古天魔蟒》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十六章 远古天魔蟒望着那张熟悉的脸庞，云韵也是愣了下来，好片刻后，方才回过神来，苦笑道：“果然是你……”萧炎笑了笑，从纳戒中取出一个玉瓶,递给云韵，后者也是知会其意，从中取出一枚服下，然后将玉瓶递给纳兰嫣然，让得她将其中丹药分给其他的长老武动乾坤。“你们怎么会在这里？”服下丹药，云韵的脸色也是略微好了一些，美眸在萧炎与彩鳞身上扫了扫，旋即转移而开……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "远古天魔蟒核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《远古天魔蟒》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1336,
+        1337,
+        1338
+      ],
+      "continuity_in": [
+        1336
+      ],
+      "continuity_out": [
+        1338
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1338,
+      "title": "围剿天魔蟒",
+      "source": {
+        "start_line": 194393,
+        "end_line": 194546
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1338章导读】围剿天魔蟒：medusa, xiao-yi-xian, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《围剿天魔蟒》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十七章 围剿天魔蟒一座极为险峻的巨峰，如同一条通天巨蟒一般，盘踞在一道主道的一侧，山体之中，一股股的黑气不断的弥漫而出，笼罩着方圆百米之内的天空，在这片范围中，没有任何凶兽敢于踏足，因为这里，是属于远古天魔蟒的领地！远古天魔蟒，是一种极为罕见的变异性凶兽，真要论起辈分来，也算是血脉相当靠近蛇族之中一些远古老祖般的存在，不过因为杀性太甚，导致其智慧……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "围剿天魔蟒核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1337,
+        1338,
+        1339
+      ],
+      "continuity_in": [
+        1337
+      ],
+      "continuity_out": [
+        1339
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1339,
+      "title": "天魔血池",
+      "source": {
+        "start_line": 194547,
+        "end_line": 194715
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1339章导读】天魔血池：medusa, xiao-yi-xian, yun-yun, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《天魔血池》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十八章 天魔血池第一千三百八十八章天魔血池第九更！足足半丈大小的碧绿色妖异眼睛。印入远古天魔蟒巨大的双瞳之中，那高速旋转的三朵碧绿花朵，弥漫出一股股奇异的魔亐力。让得天魔蟒眼中的杀戮与暴戾，逐渐的减缓，见到这一幕。萧炎也是悄然松了一口气，青鳞的碧蛇三花瞳，对于这些蛇系魔兽拥有着极强的控制力，不过就是不清楚。以她现在的实力，究竟能不能控制这一条远古……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "天魔血池核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《天魔血池》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1338,
+        1339,
+        1340
+      ],
+      "continuity_in": [
+        1338
+      ],
+      "continuity_out": [
+        1340
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1340,
+      "title": "九星斗尊!",
+      "source": {
+        "start_line": 194716,
+        "end_line": 194845
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1340章导读】九星斗尊!：medusa, xiao-yi-xian, yun-yun, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《九星斗尊!》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百八十九章 九星斗尊!深入骨髓的剧痛！这便是萧炎跳进那天魔血池之后的唯一感觉，血池之内，弥漫着极端狂暴的能量,在萧炎进入的那一刻,这些能量便是如同受到了引动一般,如同无数条毒蛇一般，铺天盖地的对着萧炎身体撞击而去！这些能量之中，不知道被那远古天魔蟒投入了什么东西，拥有着极强的腐蚀力，在一接触到萧炎的皮肤时,便是爆发出阵阵的白烟，从而引发那钻心的剧痛武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "九星斗尊!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《九星斗尊!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1339,
+        1340,
+        1341
+      ],
+      "continuity_in": [
+        1339
+      ],
+      "continuity_out": [
+        1341
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1341,
+      "title": "古域台",
+      "source": {
+        "start_line": 194846,
+        "end_line": 194972
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1341章导读】古域台：xiao-xun-er, medusa, xiao-yi-xian, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《古域台》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十章 古域台第一千三百九十章古域台天空之上，啸声如雷,最后化为音波，远远的扩散而开伴随着啸声的逐渐散去，天空上的那道金光身影,也是迅速的缩小，旋即便是恢复成原本模样，身形一动，大笑着化为一道流光对着下方众人掠来武动乾坤。手机端阅读请登陆m.zhuaji.org“少阁主，恭喜了。”见到那大笑着而来的萧炎，青城长老笑着道武动乾坤。“侥幸突破。”萧炎笑……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "古域台核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1340,
+        1341,
+        1342
+      ],
+      "continuity_in": [
+        1340
+      ],
+      "continuity_out": [
+        1342
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1342,
+      "title": "下马威",
+      "source": {
+        "start_line": 194973,
+        "end_line": 195159
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1342章导读】下马威：xiao-xun-er, medusa, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《下马威》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十一章下马威突然间在石台上响起的冰冷喝声，也是引来一些诧异目光，而待得这些目光在踏上石台的萧炎与风清儿身上扫了扫后，一些人的眼神便是变得有些幸灾乐祸了起来.”“萧炎哥哥？”那盘踞在石台一处的古族一群人，也同样是因为风清儿的声音转过了视线，当中那名闭目养神的青衣女孩，也是在此刻睁开双眼，美眸望着那踏上石台的削瘦青年，顿时一怔，旋即眸中涌上许些欣喜之……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "下马威核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《下马威》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1341,
+        1342,
+        1343
+      ],
+      "continuity_in": [
+        1341
+      ],
+      "continuity_out": [
+        1343
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1343,
+      "title": "两女相见",
+      "source": {
+        "start_line": 195160,
+        "end_line": 195325
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1343章导读】两女相见：xiao-xun-er, medusa, na-lan-yan-ran, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《两女相见》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十二章 两女相见伴随着萧炎那一句轻笑之声落下，璀璨的金光，如同一轮金色太阳一般,陡然间在广场之上爆发而开！在这股刺眼的金光之下，绝大多数人都是急忙虚眯上了眼睛，那金光暴射处，却是见不到什么人影，金光已经充斥了整个眼球武动乾坤。手机端阅读请登陆m.zhuaji.org不过虽说无法看见，但存场的人都不是寻常货色，依旧能够清晰的感应到，天空上那庞大的天……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "两女相见核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "na-lan-yan-ran",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《两女相见》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1342,
+        1343,
+        1344
+      ],
+      "continuity_in": [
+        1342
+      ],
+      "continuity_out": [
+        1344
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1344,
+      "title": "魂玉，兽潮",
+      "source": {
+        "start_line": 195326,
+        "end_line": 195449
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1344章导读】魂玉，兽潮：hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魂玉，兽潮》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十三章 魂玉，兽潮萧炎的视线所望之处，一名身着黑色衣衫的男子，正脸带微笑的与几位不知是哪个势力的强者笑谈好男子一头长长的黑发，随意披在身后，显得颇为的潇洒不羁，一张面庞，白暂如玉，给人一种极为温雅的感觉，这种人，给人的第一印象便是极具好感，但是，当这种第一印象出现在魂殿的人身上时，萧炎却是由心的感觉到一种危险武动乾坤。这位黑秤男子，先前在天妖凰族……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魂玉，兽潮核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1343,
+        1344,
+        1345
+      ],
+      "continuity_in": [
+        1343
+      ],
+      "continuity_out": [
+        1345
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1345,
+      "title": "冲击兽潮",
+      "source": {
+        "start_line": 195450,
+        "end_line": 195600
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1345章导读】冲击兽潮：xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《冲击兽潮》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十四章 冲击兽潮第一千三百九十四章冲击兽潮“各位，前面便是兽潮了，现在正是冲击的最好时刻，既然联盟是由在下提起，那么这最危险的队伍尖端，将会由我的人暂时顶替，不过，待得到时候他们力竭后，便是得退回来，换人上去。”在萧炎为那兽潮的可怕而暗暗感到震惊时，那魂玉的清朗之声，再度响起，而听得他竟然将最危险的地方包揽了下来，其余不少人都是偷偷松了一口气武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "冲击兽潮核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《冲击兽潮》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1344,
+        1345,
+        1346
+      ],
+      "continuity_in": [
+        1344
+      ],
+      "continuity_out": [
+        1346
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1346,
+      "title": "突破!",
+      "source": {
+        "start_line": 195601,
+        "end_line": 195754
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "character_growth",
+        "payoff"
+      ],
+      "teaser": "【第1346章导读】突破!：xiao-xun-er, medusa, xiao-yi-xian, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《突破!》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十五章 突破!“咻！”萧炎等人自半空中暴掠而过，在他们前方数百丈外的地方，便是魂玉一行人，他们至始至终便是没有消耗太多的斗气，再加上本身实力便是不弱，在那些家伙被凶兽逼得疯狂的时候，他们早便是歇息完毕，状态自然是极其的好武动乾坤。萧炎目光扫了一眼前方魂玉等人，然后看向后方，在他们后面不远处,正是天妖凰族的一群人，那名为九凤的彩瞳男子一马当先，在他……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "突破!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1345,
+        1346,
+        1347
+      ],
+      "continuity_in": [
+        1345
+      ],
+      "continuity_out": [
+        1347
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1347,
+      "title": "五位半圣!",
+      "source": {
+        "start_line": 195755,
+        "end_line": 195926
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1347章导读】五位半圣!：xiao-xun-er, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《五位半圣!》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十六章 五位半圣!第一千三百九十六章五位半圣！第一更！“菩提古树？!”在萧炎为那遥远地方之外的巨大古树而愣神时，薰儿等人也是将之发现，当下一道道惊呼声，便是带着许些震撼，从他们嘴中传了出来，这种位于传说之中的东西，即便他们身为远古种族，也是从未见到过，仅仅只能够在一些古籍之上，方才能够偶尔看见。”小医仙喃喃道，即便他们与那菩提古树柽隔极远，但依旧……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "五位半圣!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1346,
+        1347,
+        1348
+      ],
+      "continuity_in": [
+        1346
+      ],
+      "continuity_out": [
+        1348
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1348,
+      "title": "轰杀半圣傀儡...",
+      "source": {
+        "start_line": 195927,
+        "end_line": 196098
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1348章导读】轰杀半圣傀儡...：xiao-xun-er, medusa, xiao-yi-xian, yun-yun, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《轰杀半圣傀儡...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十七章 轰杀半圣傀儡...望着那出现在菩提古树面前的五道身影，所有人都是感觉到有些头皮发囦麻，他们怎么都想不到，这菩提古树之中，居然还隐藏着五名半圣阶别的强者！“这五位半圣强者，体囦内没有生机”萧炎深吸了一口气，压抑下心中的震囦惊,目光突然扫过那五道身影,眼皮突然一跳，道武动乾坤。“也没有灵魂的存在他们只是傀儡。”薰儿轻声道,脸颊上,布满着凝重武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "轰杀半圣傀儡...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1347,
+        1348,
+        1349
+      ],
+      "continuity_in": [
+        1347
+      ],
+      "continuity_out": [
+        1349
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1349,
+      "title": "进入古树",
+      "source": {
+        "start_line": 196099,
+        "end_line": 196244
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1349章导读】进入古树：yao-lao, yun-yun, na-lan-yan-ran, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《进入古树》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十八章 进入古树“砰！”被如此众多的恐怖攻击狠狠的轰中，那半圣傀儡本就被打出众多裂缝的脑袋，当场便是爆炸了开来，惨白的碎肉以及骨骼暴射而出”咔咔。”脑袋爆炸，那半圣傀儡刚刚举起的手掌陡然僵硬，一种奇异的波动，从那断颈之处弥漫而出，最后化为虚无，消散而去，而伴随着这股波动的消散，那半圣傀儡的身体突然以一种肉眼可见的速度老化起来，最后化为粉末，飘洒而……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "进入古树核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《进入古树》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1348,
+        1349,
+        1350
+      ],
+      "continuity_in": [
+        1348
+      ],
+      "continuity_out": [
+        1350
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1350,
+      "title": "幻境",
+      "source": {
+        "start_line": 196245,
+        "end_line": 196353
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1350章导读】幻境：yao-lao, xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《幻境》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千三百九十九章 幻境白茫茫的光芒充斥着视野，萧炎茫然舟立于这片白光世界之中，周围没有半道身影”而且不知为何，他的记忆，似乎隐隐间的有些紊乱，“发生什么事了？”萧炎紧皱着眉头，喃喃自语,片刻后,突然抬起头，在他的不远处，有着一个光圈”他迟疑了一下，方才迈着步伐走近光圈，然后踏了进去武动乾坤。踏进光圈的那一霎，虽然仿佛仅仅只有一瞬，但萧炎却是感觉到犹如过了数……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "幻境核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1349,
+        1350,
+        1351
+      ],
+      "continuity_in": [
+        1349
+      ],
+      "continuity_out": [
+        1351
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1351,
+      "title": "斗帝的负囦面情绪",
+      "source": {
+        "start_line": 196354,
+        "end_line": 196441
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第1351章导读】斗帝的负囦面情绪：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斗帝的负囦面情绪》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百章斗帝的负囦面情绪第一千四百章斗帝的负囦面情绪光团之中，那道黑色的身影，矗立在万丈庞大的菩提古树之前，突然，这道身影开始对菩提古树发动攻击，而面对着他的攻击，那菩提古树之内，也是弥漫出了一股股滔天的可怕能量，在这种可怕的交锋中，连这片天地，都是崩塌了下来，萧炎震囦惊的望着那光团之内的交轰，实在是有些无法置信，这菩提古树，居然还曾经跟斗帝强者交过手。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斗帝的负囦面情绪核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1350,
+        1351,
+        1352
+      ],
+      "continuity_in": [
+        1350
+      ],
+      "continuity_out": [
+        1352
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1352,
+      "title": "菩提三宝",
+      "source": {
+        "start_line": 196442,
+        "end_line": 196598
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1352章导读】菩提三宝：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《菩提三宝》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零一章 菩提三宝“噼里啪啦！”潮水般的精纯能量，远远不断的暴涌进萧炎体内,令得他体内传出一阵阵噼里啪啦的脆响声,而在这种疯狂的灌注下，仅仅几个瞬间，萧炎便是感觉到，先前体内所消耗的斗气,在此刻竟然是彻彻底底回复,而且，体内所蕴含的斗气,似乎比起以前巅峰时候,还要浓郁一些……，“好恐怖的菩提古对”察觉到体内的变化,萧炎心中忍不住的倒吸了一口凉气,这菩……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "菩提三宝核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《菩提三宝》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1351,
+        1352,
+        1353
+      ],
+      "continuity_in": [
+        1351
+      ],
+      "continuity_out": [
+        1353
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1353,
+      "title": "苏醒",
+      "source": {
+        "start_line": 196599,
+        "end_line": 196736
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1353章导读】苏醒：xiao-xun-er, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《苏醒》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零二章 苏醒弥漫着勃勃生机的空间之中,众人的目光，都是汇聚在了那盘坐于古树之中的萧炎，眼中,相当的炽热，能够来到这里的人，自然都是听说过菩提三宝，这所谓的菩提树下一参悟虽然看似虚无缥缈而且无证可查,但毕竟它所能够带来的潜力，却是足以让任何人为之发狂武动乾坤。手机端阅读请登陆m.zhuaji.org“怎么会让这个小子占了先机”九凤面色阴沉,即便是以他……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "苏醒核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1352,
+        1353,
+        1354
+      ],
+      "continuity_in": [
+        1352
+      ],
+      "continuity_out": [
+        1354
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1354,
+      "title": "百世轮回，九转巅峰！",
+      "source": {
+        "start_line": 196737,
+        "end_line": 196918
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1354章导读】百世轮回，九转巅峰！：xiao-xun-er, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《百世轮回，九转巅峰！》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零三章百世轮回，九转巅峰！伴随着菩提古树之中那道人影缓缓睁开双眸,这片弥漫着生命气息的空间,突然间泛起许些奇异波动……，众人望着古树之中的那对漆黑双眸,一时间,所有人都是仿佛感觉到了一种看破世间万物的沧桑，这种沧桑，深入人的灵魂,无法佯装“萧炎哥哥……”薰儿望着那睁开双眸的萧炎,美眸之中充斥着惊喜之色武动乾坤。“这家伙的目光，好渗人”稗玉等人对视了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "百世轮回，九转巅峰！核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《百世轮回，九转巅峰！》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1353,
+        1354,
+        1355
+      ],
+      "continuity_in": [
+        1353
+      ],
+      "continuity_out": [
+        1355
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1355,
+      "title": "绝对压制",
+      "source": {
+        "start_line": 196919,
+        "end_line": 197069
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1355章导读】绝对压制：xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《绝对压制》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零四章绝对压制第一千四百零四章绝对压制听得那九凤充斥着杀意的怒喝声，萧炎也是缓缓偏过头，略显森冷的目光”如同一只凶兽一般，盯着前者武动乾坤。在萧炎这般目光的注视下，那九凤猛然感觉到皮肤一凉，这才恢复了一些冷静，但其脸色，依旧相当的阴冷，他毫不相让的盯着萧炎，森然道：“我们一同进入菩提古树，经历如此之多的关卡，如今你却是想将菩提子一手收走，未免太不讲……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "绝对压制核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《绝对压制》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1354,
+        1355,
+        1356
+      ],
+      "continuity_in": [
+        1354
+      ],
+      "continuity_out": [
+        1356
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1356,
+      "title": "空间破裂",
+      "source": {
+        "start_line": 197070,
+        "end_line": 197256
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1356章导读】空间破裂：yao-lao, na-lan-yan-ran, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《空间破裂》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零五章 空间破裂第一千四百零五章空间破裂“砰！”漆黑色的掌印，在众人注视中，爆裂而开，最后化为一片虚无武动乾坤。“怎么可能？”望着那竟然被萧炎随手一掌拍散的“灭魂掌,那魂玉心中都是涌上一抹惊骇”难以置信的望着那道身影，灭魂掌的威力如何，他再清楚不过，即便是寻常的九转斗尊巅峰强者都无法直接硬接，因为此掌印之中，蕴含着能够侵蚀人灵魂的阴寒之力，然而，他……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "空间破裂核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1355,
+        1356,
+        1357
+      ],
+      "continuity_in": [
+        1355
+      ],
+      "continuity_out": [
+        1357
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1357,
+      "title": "二天尊，骨幽圣者...",
+      "source": {
+        "start_line": 197257,
+        "end_line": 197416
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1357章导读】二天尊，骨幽圣者...：xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《二天尊，骨幽圣者...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零六章二天尊，骨幽圣者...空间剧烈的扭曲着，将这一片空间彻彻底底的封锁，任何的空间波动，都是无法渗透出丝毫,,，萧炎面色阴寒的偏过头,望着那空间波动传出的地方，只见得那九凤背后，一只庞大的天凰虚影遨游天际,而整片天空，则正是处于这头天凰虚影的包裹之下”那种空间波动，也是由其体内所弥漫而出“看来天妖凰族的下一位族长，是打算换人了,,,,,见到萧炎那……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "二天尊，骨幽圣者...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《二天尊，骨幽圣者...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1356,
+        1357,
+        1358
+      ],
+      "continuity_in": [
+        1356
+      ],
+      "continuity_out": [
+        1358
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1358,
+      "title": "金帝焚天炎",
+      "source": {
+        "start_line": 197417,
+        "end_line": 197567
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1358章导读】金帝焚天炎：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《金帝焚天炎》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零七章 金帝焚天炎第一千四百零七章金帝焚天炎金色火焰，缭绕天际，整片天空都仿佛是在这一刻燃烧了起来武动乾坤。金帝焚天炎，异火榜上排名第四，仅次干净莲妖火，虽说这种异火比不上净莲妖火那般神秘,但在远古时也是拥有着赫赫威名，而且此种异火，乃是古族传承之火，鲜有人能够将之降服，因此，当那骨幽圣者认出此种火焰时”心中也是忍不住的有些震动武动乾坤。“果然是金……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "金帝焚天炎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《金帝焚天炎》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1357,
+        1358,
+        1359
+      ],
+      "continuity_in": [
+        1357
+      ],
+      "continuity_out": [
+        1359
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1359,
+      "title": "对战半圣",
+      "source": {
+        "start_line": 197568,
+        "end_line": 197748
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1359章导读】对战半圣：xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《对战半圣》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零八章 对战半圣“放心,不会让你失望的……”对于骨幽圣者那沙哑的声音,萧炎脸庞上也是划起一抹冷笑，手掌微微抬起”那呈五种颜色的精美火莲，也是徐徐加速旋转起来，“薰儿,退开一些……”萧炎偏过头,对着薰儿说了一声,毁灭火莲爆炸开来的破坏力太过恐怖，若是靠的近了,连他自己都是无法承受武动乾坤。“嗯，萧炎哥哥小心。”薰儿微微点头，以她的感知，自然也是能够察……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "对战半圣核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1358,
+        1359,
+        1360
+      ],
+      "continuity_in": [
+        1358
+      ],
+      "continuity_out": [
+        1360
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1360,
+      "title": "逼退骨幽",
+      "source": {
+        "start_line": 197749,
+        "end_line": 197884
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1360章导读】逼退骨幽：yao-lao, xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《逼退骨幽》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百零九章 逼退骨幽第一千四百零九章逼退骨幽”“老师？您怎么来了？十’萧炎同样是因为药老的出现愣了愣，雄浑的声音中透着许些诧异他可还没有捏碎药老-所给予他的空间卷轴呢武动乾坤。“你在古域待得时间太久，我不太放心，便自己找了个时间赶过来，没想到正好碰上。”药老悬浮在萧炎面前，淡淡一笑，然后目光在萧炎身上扫了扫，眼中顿时浮现许些欣慰之色，道：“短短几个月时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "逼退骨幽核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《逼退骨幽》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1359,
+        1360,
+        1361
+      ],
+      "continuity_in": [
+        1359
+      ],
+      "continuity_out": [
+        1361
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1361,
+      "title": "闭关",
+      "source": {
+        "start_line": 197885,
+        "end_line": 198030
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1361章导读】闭关：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《闭关》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十章 闭关在菩提古树的事情完结之后,萧炎一行人便是未曾在那个鬼地方做过多的停留，直接走动身，途中在经过几日的奔波之后，便是赶回星陨阁武动乾坤。此次的莽荒古域之行，萧炎无疑是所有人之中得到的好处最多的人，不仅享受到了那种传说中菩提树下的参悟，而且还神不知鬼不觉的将菩提心给藏在了体内，当然，这自然不能忘记他手中所剩下的十一枚极为精纯的菩提子……，不提……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "闭关核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《闭关》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1360,
+        1361,
+        1362
+      ],
+      "continuity_in": [
+        1360
+      ],
+      "continuity_out": [
+        1362
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1362,
+      "title": "灵族之变",
+      "source": {
+        "start_line": 198031,
+        "end_line": 198133
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1362章导读】灵族之变：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《灵族之变》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十一章灵族之变两年，并非是一个短暂舟时间，然而，谁也未曾料到，萧炎此次的闭关，一闭,便是这般年头……，按照药老等人的预料，萧炎有着菩提心以及菩提丹相助，突破到半圣应该并不算太过困难的事，虽说那炼化菩提心，便可立地成圣的的传言有着一点夸大的成分，毕竟任何庞大精纯的能量，总归是要给人吸收的时间，不过这也从另外一个方面证明了菩提心的强悍之处，即便并非是……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "灵族之变核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1361,
+        1362,
+        1363
+      ],
+      "continuity_in": [
+        1361
+      ],
+      "continuity_out": [
+        1363
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1363,
+      "title": "战帖",
+      "source": {
+        "start_line": 198134,
+        "end_line": 198272
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1363章导读】战帖：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《战帖》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十二章战帖古族，明面上现今远古六族之中最强的种族，对于他们所拥有的实力,没有任何人质疑武动乾坤。手机端阅读请登陆m.zhuaji.org魂族，真要说起来，这个种族，恐怕能够算是远古八族中传承最为久远的种族，在远古的时候，这个种族便是存在，这个种族，素来神秘诡异,对于他们究竟有多强,恐怕就是其他的种族都不敢说绝对的了解,虽说在以前的那些大战中，魂族……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "战帖核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《战帖》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1362,
+        1363,
+        1364
+      ],
+      "continuity_in": [
+        1362
+      ],
+      "continuity_out": [
+        1364
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1364,
+      "title": "大战来临【第...",
+      "source": {
+        "start_line": 198273,
+        "end_line": 198450
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1364章导读】大战来临【第...：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大战来临【第...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十三章 大战来临【第...今日的星陨阁，无疑是这些年中戒备最为森严的时候，因为今天，便是那“冥河盟”战帖之上所标明的时日！虽然并不清楚为何“冥河盟”此次会如此大张旗鼓而来，但不管怎样,星陨阁也不能在那么多人面前露怯，此次“冥河盟”强者汇聚星陨阁的事，早已经被他们宣传了开来，因此，在两三日之前，便是有着不少人络绎不绝的对着星陨阁赶来,谁都明白，这两……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大战来临【第...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大战来临【第...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1363,
+        1364,
+        1365
+      ],
+      "continuity_in": [
+        1363
+      ],
+      "continuity_out": [
+        1365
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1365,
+      "title": "星界大战【第...",
+      "source": {
+        "start_line": 198451,
+        "end_line": 198631
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1365章导读】星界大战【第...：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《星界大战【第...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十四章 星界大战【第...天冥老妖一直便是注视着药老的神色变幻，在见到后者脸庞上浮现的狠色之后，他便是明白，今日星陨阁是绝对不可能服软了，当下其脸庞上的森然笑容更甚，道：“看来今日，这星陨阁，是免不了要血流成河了啊……”“也好,这里强者众多，还能顺手收集一些灵魂回去。”骨幽怪笑道，话语中丝毫未曾将星陨阁放在眼中,他们这边有着两位高级半圣，一位处级……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "星界大战【第...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1364,
+        1365,
+        1366
+      ],
+      "continuity_in": [
+        1364
+      ],
+      "continuity_out": [
+        1366
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1366,
+      "title": "破关而出，斗...",
+      "source": {
+        "start_line": 198632,
+        "end_line": 198833
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1366章导读】破关而出，斗...：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《破关而出，斗...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十五章 破关而出，斗...“砰!天际之上，三道身影闪电交错，恐怖的斗气涟漪，成环形一般四散而开，方圆千米之内，没有任何的强者敢踏足而进，这等可怕的波动，足以将一名斗尊强者生生绞碎成血沫武动乾坤。“令!”人影交错，三道人影皆是蹬蹬的倒退了好几步，脚步落下处，连空间都是被震得崩塌出一大片的黑暗地带武动乾坤。“葆桀，药尘，你灵魂力量强大又能怎样?难道还……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "破关而出，斗...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《破关而出，斗...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1365,
+        1366,
+        1367
+      ],
+      "continuity_in": [
+        1365
+      ],
+      "continuity_out": [
+        1367
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1367,
+      "title": "佛怒轮回",
+      "source": {
+        "start_line": 198834,
+        "end_line": 198999
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1367章导读】佛怒轮回：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《佛怒轮回》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十六章 佛怒轮回在那无数道惊骇目光注视中，火海从星界深处铺天盖地的暴涌而来,最后汇聚在这片战场上空，火海翻腾，徐徐的分开一条火道，在那火道中,一道身着黑色衣衫的身影，踏着火浪，缓缓的出现在了所有人的注视之中武动乾坤。“萧炎？！”“少阁主？！少阁主出关了！”望着那道熟悉的身影，星界之中，顿时响起一道道蕴含着不同情绪的惊呼之声，星陨阁的人是一种狂喜，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "佛怒轮回核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《佛怒轮回》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1366,
+        1367,
+        1368
+      ],
+      "continuity_in": [
+        1366
+      ],
+      "continuity_out": [
+        1368
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1368,
+      "title": "大杀四方",
+      "source": {
+        "start_line": 199000,
+        "end_line": 199201
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1368章导读】大杀四方：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大杀四方》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十七章 大杀四方弥漫着一种轮回味道的巨大火焰黑盘，在那无数道目光注视平,与骨幽三人那恐怖能量，重重的撞击在一起！“嗤！”双方相撞，可怕的威势，如同陨石对碰一般，然而，让得人意外的是,想象中得惊天爆炸并没有出现，三道足有数百丈庞大的能量攻击，在接触到那火焰黑盘时，突然在一道道惊骇目光的注视下，迅速的分解而开，远远开去，就如同遇见的烈焰的冰块一般，飞……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大杀四方核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1367,
+        1368,
+        1369
+      ],
+      "continuity_in": [
+        1367
+      ],
+      "continuity_out": [
+        1369
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1369,
+      "title": "魂族斗圣",
+      "source": {
+        "start_line": 199202,
+        "end_line": 199364
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1369章导读】魂族斗圣：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魂族斗圣》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十八章 魂族斗圣漆黑的手臂，自空间裂缝之中探出，这条手臂，极为的干枯，就如同一层薄薄的黑皮包裹着骨头一般，在那干巴巴的皮肤上，还隐约能够看看见一些渗透着黑气的诡异纹路……，这条手臂一出现，仿佛此处的光线都是变得黯淡了许多，一种诡异的吸引力自手臂之中弥漫而出，仿佛将人的灵魂，都是吸引了过去一般武动乾坤。萧炎的面色，在这条黑色手臂出现时，便是彻底的凝……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魂族斗圣核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1368,
+        1369,
+        1370
+      ],
+      "continuity_in": [
+        1368
+      ],
+      "continuity_out": [
+        1370
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1370,
+      "title": "各宗隐秘",
+      "source": {
+        "start_line": 199365,
+        "end_line": 199488
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1370章导读】各宗隐秘：yao-lao, medusa, xiao-yi-xian, yun-yun, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《各宗隐秘》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百一十九章各宗隐秘“联盟？”闻言，药老等人都是一怔，旋即若有所思武动乾坤。“不提魂族，光说魂殿，他们的实力，便足以让星陨阁仰视，我们星陨阁,与他们几乎已是水火不容，以后，真正的火拼想必也并非是不可能的事。”萧炎微微点头，轻声道：“而光以我们星陨阁的实力，真到了那一步，恐怕我们落败的几率将会非常的大，所以，想要抗衡魂殿，必须寻求盟友。”“这个怕是不容易……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "各宗隐秘核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "yun-yun",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《各宗隐秘》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1369,
+        1370,
+        1371
+      ],
+      "continuity_in": [
+        1369
+      ],
+      "continuity_out": [
+        1371
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1371,
+      "title": "杀鸡儆猴",
+      "source": {
+        "start_line": 199489,
+        "end_line": 199630
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1371章导读】杀鸡儆猴：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《杀鸡儆猴》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十章 杀鸡儆猴星界之战，伴随着萧炎的出关，轰轰烈烈的落下帷幕，此次大战，无疑将会让得萧炎以及星陨阁在中州之上的声望达到顶峰武动乾坤。以一己之力，独战三大半圣，两死一伤，并且最后惊动魂族斗圣强者亲自出手，方才令得那最后一位半圣强者负伤而逃！这般战绩，足以让任何人为之动容，在很多人的眼中，半圣强者，几乎已经是那种处于传说之中的强者，然而，如今，这等在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "杀鸡儆猴核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1370,
+        1371,
+        1372
+      ],
+      "continuity_in": [
+        1370
+      ],
+      "continuity_out": [
+        1372
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1372,
+      "title": "寻求盟友",
+      "source": {
+        "start_line": 199631,
+        "end_line": 199766
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1372章导读】寻求盟友：yao-lao, yun-yun, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《寻求盟友》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十一章 寻求盟友星陨阁的复仇，持续了整整将近十日时间”在这十日内，起码有着不下二十个宗派,在星陨阁大军之下灰飞烟灭，面对着拥有着一位高级半圣，一位一星斗圣初期这等炭峰强者的星陨阁”这些并算不得多强的宗派”根本就没有太多的反抗之力武动乾坤。而星陌阁此次的爆发”也是狠狠的震慑了不少势力,以往星陨阁偏居一隅”只是安静的发展，也并没有展现太过强势的一面，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "寻求盟友核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《寻求盟友》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1371,
+        1372,
+        1373
+      ],
+      "continuity_in": [
+        1371
+      ],
+      "continuity_out": [
+        1373
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1373,
+      "title": "再至丹塔",
+      "source": {
+        "start_line": 199767,
+        "end_line": 199920
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1373章导读】再至丹塔：yao-lao, medusa, xiao-yi-xian, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《再至丹塔》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十二章 再至丹塔“花宗与焚炎谷都答应联盟了？”星陨阁大殿之中，萧炎听得面前两位长老的汇报,猛的便是站起身来，脸庞之上,充斥着欣喜之色武动乾坤。“呵呵”花宗与焚炎谷都是给了我们明确的答复,就等阁主与少阁主决定什么时候公布这个消息。”那位星陨阁长老含笑道武动乾坤。听得他这话,萧炎以及一旁的彩鳞等人都是暗中松了一口气，万事开头难，有了这好开头,以后的事……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "再至丹塔核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1372,
+        1373,
+        1374
+      ],
+      "continuity_in": [
+        1372
+      ],
+      "continuity_out": [
+        1374
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1374,
+      "title": "小丹塔",
+      "source": {
+        "start_line": 199921,
+        "end_line": 200115
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1374章导读】小丹塔：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《小丹塔》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十三章 小丹塔“不是人？”萧炎的头皮，一下子就是猛的炸了开来,嘴角抽了抽，好片刻后后，方才压低了声音,低低的道：“传说中的帝品丹药？”大凡丹药，只要是经历了九色丹雷，便是能够拥有着灵智，但这种时候的丹药，大多都是化为兽形,虽说有着灵智，但也无法真正跟人类媲美，而一些传说中的九品丹药,则是能够化为人形，甚至还能够修炼,但至于这种东西，即便是萧炎，都……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "小丹塔核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1373,
+        1374,
+        1375
+      ],
+      "continuity_in": [
+        1373
+      ],
+      "continuity_out": [
+        1375
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1375,
+      "title": "，截止现在，整整两年武动乾坤。",
+      "source": {
+        "start_line": 200116,
+        "end_line": 200165
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1375章导读】，截止现在，整整两年武动乾坤。：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《，截止现在，整整两年武动乾坤。》的关键进程。在bodhi-ancient-tree的发展背景下，局势暗流涌动，各方势力利益碰撞，人物之间的对话与决定为后续事态埋下深刻伏笔。本章关键展开：第一章，截止现在，整整两年武动乾坤。两年，不算短武动乾坤。高中的三分之二，大学的二分之一，上班的从新人变成经验丰富的老人——两年，能够让我们走很久武动乾坤。在第一章时，土豆祈祷，成绩只要别比剑圣差，俺就心满意足了——所求一棵树，您们最后慷慨的给予了我一片森林武动乾坤。土豆刚来到**时，也是4月，08年的4月，在第一章，如果时间再快速十天，那么土豆，写书也是整……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "，截止现在，整整两年武动乾坤。核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《，截止现在，整整两年武动乾坤。》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1374,
+        1375,
+        1376
+      ],
+      "continuity_in": [
+        1374
+      ],
+      "continuity_out": [
+        1376
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1376,
+      "title": "竞选长老",
+      "source": {
+        "start_line": 200166,
+        "end_line": 200319
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1376章导读】竞选长老：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《竞选长老》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十四章 竞选长老“萧炎？”听得玄衣此话,玄空子几人也是微微一怔，略作沉吟，旋即也是点了点头,道：“虽说候老怪辈分远远超过萧炎，但以后者如今的实力，恐怕还真是能够跟这老家伙争上一争武动乾坤。药老也是点点头，笑道：“也好，让萧炎去跟那老家伙斗一斗,让那老怪知道,不仅我药尘能够胜他,如今连我培养出来的弟子，也是能够将其击败！”“真是那样的话，候老怪恐怕……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "竞选长老核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《竞选长老》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1375,
+        1376,
+        1377
+      ],
+      "continuity_in": [
+        1375
+      ],
+      "continuity_out": [
+        1377
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1377,
+      "title": "小丹塔大长老...",
+      "source": {
+        "start_line": 200320,
+        "end_line": 200476
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1377章导读】小丹塔大长老...：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《小丹塔大长老...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十五章 小丹塔大长老...伴随着璀璨而温暖的阳光撕裂重重云雾，照耀在这片山顶之上时，一道悠扬的古老钟吟声，也是缓缓的在这片空间之中，响彻而起武动乾坤。在钟吟声响起之时，山顶空间突然微微扭曲起来，旋即七道苍老的身影，毫无预兆的出现在了广场的一处石台上，而见到这七位老者，广场上不少人都是弯身行了一礼,恭声道：“见到七位长老”在小丹塔之中，大长老院算是……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "小丹塔大长老...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1376,
+        1377,
+        1378
+      ],
+      "continuity_in": [
+        1376
+      ],
+      "continuity_out": [
+        1378
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1378,
+      "title": "那可未必",
+      "source": {
+        "start_line": 200477,
+        "end_line": 200594
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1378章导读】那可未必：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《那可未必》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十六章 那可未必第一千四百二十六章那可未必“咻！”取出菩提子，萧炎手掌在面前虚空一抹，一株株药材便是源源不断的从其纳戒之中飞出，转眼时间,便是密密麻麻的遍布了其头顶上空，粗略看去，恐怕有着不下于千钟”如此可怕的数量，就算是周围的那些炼药师，看得都是略微有些砸舌武动乾坤。对于众人的惊讶，萧炎倒是未曾理会，手指轻点虚空，那药材洪流中，顿时分出众多药材……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "那可未必核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《那可未必》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1377,
+        1378,
+        1379
+      ],
+      "continuity_in": [
+        1377
+      ],
+      "continuity_out": [
+        1379
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1379,
+      "title": "黑魔雷",
+      "source": {
+        "start_line": 200595,
+        "end_line": 200763
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1379章导读】黑魔雷：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黑魔雷》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十七章 黑魔雷周围的目光，也是在此刻带着诧异转向了萧炎，显然同样是有些未曾料到他会说出这句话来武动乾坤。“小辈，在这里呈口舌之利,可对你没半点的好处。”，候老怪望着萧炎，冷笑道，在说着话时，他目光也是再度扫向萧炎面前的火鼎，但却依旧没有感觉到任何丹药的波动，当下眼中掠过一抹淡淡的嗤芜面对着候老怪的冷笑，萧炎也是一笑，然后在那众多目光注视中，缓缓的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黑魔雷核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《黑魔雷》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1378,
+        1379,
+        1380
+      ],
+      "continuity_in": [
+        1378
+      ],
+      "continuity_out": [
+        1380
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1380,
+      "title": "九品宝丹",
+      "source": {
+        "start_line": 200764,
+        "end_line": 200944
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1380章导读】九品宝丹：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《九品宝丹》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百二十八章 九品宝丹第一千四百二十八章九品宝丹“轰隆隆！”天际之上，可怕的能量风暴疯狂的肆虐着，方圆千丈之内的空间，都是在这一刻化为漆黑一片，这里的空间,已是在那种恐怖的对碰下，尽数崩塌！望着天空上那漆黑的空间，绝大多数人面色都是有些变化,即便他们活了这么多年，类似这种级别的对碰,依旧是极少看见，谁都清楚，若是被那种能量风暴卷中的话，以他们的实力，恐……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "九品宝丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1379,
+        1380,
+        1381
+      ],
+      "continuity_in": [
+        1379
+      ],
+      "continuity_out": [
+        1381
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1381,
+      "title": "联盟",
+      "source": {
+        "start_line": 200945,
+        "end_line": 201098
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1381章导读】联盟：yao-lao, medusa, yun-yun, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《联盟》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一十四百二十九章联盟听得大长老那最后的宣布之语”候老怪脸庞顿时变得青白交替了起来，他与药老争斗数年,原本以为如今已是能够胜过前者,但残酷的现实却是告诉他,现在,连药老所教导而出的一个弟子,都是能够轻易的在炼药术上胜过他,,“呵呵,恭喜了,药老头。,玄空子对着药老拱手笑道武动乾坤。“老家伙”教了一个了不起的弟子啊，这萧炎,恐怕是已经青出于蓝而胜于蓝吧？”听得……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "联盟核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《联盟》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1380,
+        1381,
+        1382
+      ],
+      "continuity_in": [
+        1380
+      ],
+      "continuity_out": [
+        1382
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1382,
+      "title": "天府联盟",
+      "source": {
+        "start_line": 201099,
+        "end_line": 201246
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1382章导读】天府联盟：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《天府联盟》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一十四百三十章 天府联盟“这位想必便是焚炎谷的那位火云老祖了，果然好强的实力”萧炎也是面色有些凝重的望着那位一头火红头发的老者，在他的感应中，这位老者的实力，居然也是达到了一星斗圣的层次，而且，比起他来，都是要高上一线武动乾坤。一星斗圣中期！拥有着一名货真价实的焚炎谷,这么多年，居然一直只是屈居在三谷的行列之中，按照他们所拥有而当实力，显然足以跟以往的天冥……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "天府联盟核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《天府联盟》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1381,
+        1382,
+        1383
+      ],
+      "continuity_in": [
+        1381
+      ],
+      "continuity_out": [
+        1383
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1383,
+      "title": "魂殿副殿主",
+      "source": {
+        "start_line": 201247,
+        "end_line": 201406
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1383章导读】魂殿副殿主：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魂殿副殿主》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十一章魂殿副殿主第一千四百三十一章魂殿副殿主“本殿？”听得那自扭曲空间之中所传出的漠然之声，萧炎眼瞳却是陡然一缩，此番来人，明显是魂殿搞的鬼，而此人又是自称本殿，莫非他便是魂殿那位极其神秘舟殿主不成？黑雾自扭曲的空间内不断的渗透而出，最后缓缓的在众人注视下，凝聚成一道全身包裹在黑雾之中的人影武动乾坤。“魂殿殿主？”小丹塔大长老目光直射那位黑雾人影……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魂殿副殿主核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1382,
+        1383,
+        1384
+      ],
+      "continuity_in": [
+        1382
+      ],
+      "continuity_out": [
+        1384
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1384,
+      "title": "九幽黄泉",
+      "source": {
+        "start_line": 201407,
+        "end_line": 201524
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1384章导读】九幽黄泉：yao-lao, xiao-xun-er, medusa, xiao-yi-xian, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《九幽黄泉》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十二章九幽黄泉当星陨阁，丹塔，花宗，焚炎谷四大势力宣布结成所谓“天府联盟”的消息传出来时，整个中州，无疑是被这个巨无霸的，炸得瞬间沸腾了起来武动乾坤。四大势力，个个都是在中州之上拥有着极响的名声，随便拿出来一个，都是能够算做一方巨掣，甚至丹塔这种，已经并不能简单的涌一方巨擎来形容，这个拥有着极端可怕号召力的势力，虽然这些年一直显得温温吞吞，但只要……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "九幽黄泉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《九幽黄泉》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1383,
+        1384,
+        1385
+      ],
+      "continuity_in": [
+        1383
+      ],
+      "continuity_out": [
+        1385
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1385,
+      "title": "九阴黄泉丹",
+      "source": {
+        "start_line": 201525,
+        "end_line": 201639
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1385章导读】九阴黄泉丹：yao-lao, medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《九阴黄泉丹》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十三章 九阴黄泉丹听得药老此话，萧炎也是微微一怔，有些愕然的道武动乾坤。“你莫不是真以为只要达到了斗圣层次，收服净莲妖火便是万无一失了吧？”药老也是目光有些古怪的望着萧炎，嗤笑道武动乾坤。“这都还不行？”萧炎嘴角抽丵插了一下，到了现在他这种层次，若是吞噬一些排名靠后点的异火，对于他的实力，都不会再有太大的提升，而现在药老居然说连这等实力都是还有些……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "九阴黄泉丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《九阴黄泉丹》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1384,
+        1385,
+        1386
+      ],
+      "continuity_in": [
+        1384
+      ],
+      "continuity_out": [
+        1386
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1386,
+      "title": "古龙一族情势...",
+      "source": {
+        "start_line": 201640,
+        "end_line": 201802
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1386章导读】古龙一族情势...：medusa, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《古龙一族情势...》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十四章 古龙一族情势...“龙王？”听得这个词汇，萧炎脸色顿时微微共变，他自然是知道，如今的太虚古龙一族一分为四，除了紫研所在的东龙岛之外，其余三大龙岛，都是被三大龙王所把持，而这龙王的称谓，也仅仅只是拥有称呼这三位神通广大的三岛岛主武动乾坤。“不是紫研派来的人，而是三大龙岛的人。”萧炎眉头微皱，自从当初离开东龙岛后，他便是未曾再接到任何与太虚古……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "古龙一族情势...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1385,
+        1386,
+        1387
+      ],
+      "continuity_in": [
+        1385
+      ],
+      "continuity_out": [
+        1387
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1387,
+      "title": "冥蛇地脉",
+      "source": {
+        "start_line": 201803,
+        "end_line": 201947
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1387章导读】冥蛇地脉：yao-lao, medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《冥蛇地脉》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十五章 冥蛇地脉第一千四百三十五章见到萧炎那副暴怒的模样，那秦统领身体也是一颤，赶忙闭嘴武动乾坤。“看来紫研的情况并不太好”彩鳞也是掠身上前，蹙着黛眉道：“我们需要前往虚无空间助他们一臂之力么？”萧炎目光微微闪烁，片刻后微微摇头，道：“现在不急，只要天妖凰族以及九幽地冥蟒族的强者不前往虚无空间，紫研应该还能够坚持，我们现在需要做的，是将天妖凰族以……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "冥蛇地脉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《冥蛇地脉》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1386,
+        1387,
+        1388
+      ],
+      "continuity_in": [
+        1386
+      ],
+      "continuity_out": [
+        1388
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1388,
+      "title": "被锁之人",
+      "source": {
+        "start_line": 201948,
+        "end_line": 202125
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1388章导读】被锁之人：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《被锁之人》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十六章 被锁之人“嗤！”浑浊的黄色湖水之中，一道身影快若再电般的掠过，火焰缭绕在其周身,每一次与周围的湖水接触时，都是将会爆发出一阵阵的嗤嗤声响武动乾坤。“不愧是九幽黄泉，所蕴含的阴寒之力,居然如此的恐怖。”萧炎身形飞快的对着黄泉之底掠去，与此同时，其面色也是逐渐的浮现一抹凝重，九幽黄泉之中所蕴含的阴寒之力，如同能够冻结斗气一般,即便是拥有着异火……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "被锁之人核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《被锁之人》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1387,
+        1388,
+        1389
+      ],
+      "continuity_in": [
+        1387
+      ],
+      "continuity_out": [
+        1389
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1389,
+      "title": "妖暝",
+      "source": {
+        "start_line": 202126,
+        "end_line": 202252
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1389章导读】妖暝：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《妖暝》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十七章 妖暝萧炎皱着眉头望着那在锁链舟束缚下不断挣扎的干枯人影，好半晌后,方才开口道：“你是何人？为何被困于此？”“呼呼……”那如同骷髅般的人影，先前那番挣扎仿佛消耗了他不小的气力，当下呼吸都是有些急促,萧炎能够感受到，在那四条巨大锁链之中，不断的传出极端阴寒的能量，消耗着前者体内的斗气，令得他始终都是处于一个极度虚弱的状态，但同时又不会损其性命……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "妖暝核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1388,
+        1389,
+        1390
+      ],
+      "continuity_in": [
+        1388
+      ],
+      "continuity_out": [
+        1390
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1390,
+      "title": "妖啸天",
+      "source": {
+        "start_line": 202253,
+        "end_line": 202415
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1390章导读】妖啸天：yao-lao, medusa, xiao-yi-xian，见证关键转折与局势变化。",
+      "summary": "本章叙述了《妖啸天》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十八章 妖啸天萧炎伸手接过那漂浮在面前的血色晶体,晶体一入手，一股恐怖的阴寒之力便是顺着手掌弥漫而出,顷刻间，便是将萧炎一条手臂冻结了起来“果然是黄泉血晶，这般阴寒之力，当真恐怖”见到这一幕，萧炎也是有些欣喜的点了点头，手臂一震，便是将那些冰晶生生震裂,然后将血晶收入纳戒，目光望向那妖瞑，道：“要怎么样才能救你出来？毁了这四根铁链么？”“不需要,……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "妖啸天核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "xiao-yi-xian"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《妖啸天》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1389,
+        1390,
+        1391
+      ],
+      "continuity_in": [
+        1389
+      ],
+      "continuity_out": [
+        1391
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1391,
+      "title": "暴打",
+      "source": {
+        "start_line": 202416,
+        "end_line": 202611
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1391章导读】暴打：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《暴打》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百三十九章 暴打“妖啸天，你这个狗杂碎，我今日要将你碎尸万段。丢进万蛇窟！.”望着天空上地那黑衣男子。妖瞑眼睛瞬间血红。无穷地怨毒之意从其眼中迸射而出。低吼之声，在这片深涧之中响彻不休武动乾坤。“桀桀。我地好大哥，没想到你竟然还能活下来，不过现在地你，连我一招都是挡不下来。放心，我这一髅，不会再让你有任何挣扎地机会！”听得妖瞑那怨毒地低吼，天空上地男……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "暴打核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《暴打》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1390,
+        1391,
+        1392
+      ],
+      "continuity_in": [
+        1390
+      ],
+      "continuity_out": [
+        1392
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1392,
+      "title": "九幽冥杖",
+      "source": {
+        "start_line": 202612,
+        "end_line": 202783
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1392章导读】九幽冥杖：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《九幽冥杖》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十章九幽冥杖听得那自天际响起的怒吼之声，萧炎拳头也是缓缓收起，但其双脚依旧是狠狠的踩在妖天啸的身体之上，异火之力弥漫脚掌，刚好是停在其身体七寸左右的位置，这里是蛇族的死，若是被击中的话，就算这家伙是斗圣强者,也是不会太过好受武动乾坤。抬起头来,萧炎望向天空,只见得此刻的天空上,布满着众多九幽地冥蟒族的强者，而这些人，此刻也正用一种愤怒的目光将其死……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "九幽冥杖核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1391,
+        1392,
+        1393
+      ],
+      "continuity_in": [
+        1391
+      ],
+      "continuity_out": [
+        1393
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1393,
+      "title": "大势已去",
+      "source": {
+        "start_line": 202784,
+        "end_line": 202964
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1393章导读】大势已去：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大势已去》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十一章 大势已去望着那妖天啸与大长老几乎是同时出手,萧炎心头也是掠过一抹凝重，这两人一个是一星斗圣中期，一个是一星斗圣后期，联手之下，威力自然极端的恐怖，若是小觑的话，必然会招来致命危机武动乾坤。“两位倒还真是显得火急火燎，这般心思，现在恐怕任何人都知道你们是想干什么了！”萧炎身体一震”直接将金刚琉璃身施展到极致，本就庞大的身躯再度暴涨，直接是达……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大势已去核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大势已去》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1392,
+        1393,
+        1394
+      ],
+      "continuity_in": [
+        1392
+      ],
+      "continuity_out": [
+        1394
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1394,
+      "title": "黄泉妖圣",
+      "source": {
+        "start_line": 202965,
+        "end_line": 203151
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1394章导读】黄泉妖圣：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黄泉妖圣》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十二章黄泉妖圣第一千四百四十二章黄泉妖圣“砰！”天空上，萧炎一拳与那大长老泛着浓郁黑气的腥臭掌风碰触在一起，炽热的火苗陡然一窜,便是将那剧毒之气尽数蒸发,强猛的劲道,也是令得那大长老脚步蹬蹬的退后了几步，体内气血，甚至都是有些翻腾起来,萧炎的异火之力,令得他相当的不好受武动乾坤。“大长老,我看你还是束手就擒吧，你胜不了我,那妖天啸想必再出十回合就……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黄泉妖圣核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《黄泉妖圣》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1393,
+        1394,
+        1395
+      ],
+      "continuity_in": [
+        1393
+      ],
+      "continuity_out": [
+        1395
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1395,
+      "title": "黄泉天怒",
+      "source": {
+        "start_line": 203152,
+        "end_line": 203275
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1395章导读】黄泉天怒：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黄泉天怒》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十三章 黄泉天怒“黄泉妖圣”萧炎目光紧紧的盯着妖瞑，片刻后，突然一笑，道：“怎么？这位传说中的黄泉妖圣，难道还与九幽地冥蟒族有关系不成？”“呵呵,黄泉妖圣自然并非是我族族人，但却与我族有着不小的渊源，当年这位盖世强者陨落，其所留下的传承在岁月流逝中早已经消散殆尽。”妖瞑笑了笑”旋即低声道：“在我九幽地冥蟒族之中，有着一面黄泉石碑，这乃是从远古流传……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黄泉天怒核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1394,
+        1395,
+        1396
+      ],
+      "continuity_in": [
+        1394
+      ],
+      "continuity_out": [
+        1396
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1396,
+      "title": "灵魂争斗",
+      "source": {
+        "start_line": 203276,
+        "end_line": 203453
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1396章导读】灵魂争斗：medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《灵魂争斗》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十四章 灵魂争斗“当年的我，曾经试过一次想要得到石碑之中舟“黄泉天怒”修炼之法以及妖圣精血，但在我灵魂力量刚刚侵入石碑时，便是被震得吐血溃败，足足休养了半年才恢复。手机端阅读请登陆m.zhuaji.org”妖瞑望着萧炎那般郑重模样,也是轻叹了一口气，目光忌惮的看着石碑，道：“即便如今我的实力已经比当年强盛许多倍，但我有种感觉，若是再来一次的话，恐……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "灵魂争斗核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《灵魂争斗》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1395,
+        1396,
+        1397
+      ],
+      "continuity_in": [
+        1395
+      ],
+      "continuity_out": [
+        1397
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1397,
+      "title": "妖圣精血",
+      "source": {
+        "start_line": 203454,
+        "end_line": 203616
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1397章导读】妖圣精血：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《妖圣精血》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千一百四十五章 妖圣精血天地之间,一片躁动，空间都是在此刻剧烈的波荡着，而在这般波动中,只见得黄泉妖圣那缕残魂周身，突然间泛起奇异的涟漪，这些蛙漪隐隐间交汇成一道足有千丈庞大的无形身影,若是细细查看的话,便是会发现，这道身影与其模样完全相同，但，面对着这道身影，萧炎却是有着面对整个世界的恐怖感觉！那种感觉，让萧炎清楚的感觉到了，什么叫做不堪一击！“这是黄……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "妖圣精血核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《妖圣精血》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1396,
+        1397,
+        1398
+      ],
+      "continuity_in": [
+        1396
+      ],
+      "continuity_out": [
+        1398
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1398,
+      "title": "寻找帮手",
+      "source": {
+        "start_line": 203617,
+        "end_line": 203772
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1398章导读】寻找帮手：yao-lao, medusa, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《寻找帮手》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十六章 寻找帮手祭坛之上，彩鳞等人望着那在石墩上一坐，便是将近一下午时间的萧炎，黛眉也是忍不住的微微蹙起,这石碑看似平凡，但其中所蕴含的力量，却是连妖瞑这等强者都是不敢小觑,所说她们对于萧炎素来颇有信心，但此刻的心中”依旧是免不了有些担心武动乾坤。“妖瞑族长，以往你们族中的强者进入石碑,也是需要这么久的时间么？”再度等待了一会，彩鳞终于是皱眉道武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "寻找帮手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1397,
+        1398,
+        1399
+      ],
+      "continuity_in": [
+        1397
+      ],
+      "continuity_out": [
+        1399
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1399,
+      "title": "吸收妖圣精血",
+      "source": {
+        "start_line": 203773,
+        "end_line": 203906
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第1399章导读】吸收妖圣精血：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《吸收妖圣精血》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十七章吸收妖圣精血“妖瞑族长请放心，若是不能保证，我也不敢将话说得如此之满。”萧炎笑道,如今的东龙岛”无疑境地并不好，这种时候，他们应该会很明白，在灭亡以及放下一下面子的两者中，做何种的抉择武动乾坤。“这段时间，我会派出族长的强者监视天妖凰族的一举一动，只要他们有着强者动身，我便立刻通知萧炎兄弟”妖瞑也是说一不二的主，居然心中已经有了决定，做事也……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "吸收妖圣精血核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《吸收妖圣精血》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1398,
+        1399,
+        1400
+      ],
+      "continuity_in": [
+        1398
+      ],
+      "continuity_out": [
+        1400
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 1400,
+      "title": "天妖三凰",
+      "source": {
+        "start_line": 203907,
+        "end_line": 204075
+      },
+      "arc_id": "bodhi-ancient-tree",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第1400章导读】天妖三凰：medusa, xiao-yi-xian, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《天妖三凰》的关键进程。在bodhi-ancient-tree的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一千四百四十八章 天妖三凰“这家伙，每次修炼都是需要不短是时日”深涧之顶，小医仙望着那盘坐在山壁上一块岩石之上的萧炎，有些无奈的轻声道武动乾坤。距萧炎进入修炼状态到现在,已经足足半个月时间，而这半月之中,他却没有半点苏醒睁眼的迹象，在其周身，恐怖而精纯的能量如同云雾一般荡漾着,一把抓去，粘稠如水……小医仙二人自然是能够看出萧炎现在正处于修炼的紧要状态之中，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "天妖三凰核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "xiao-yi-xian",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1399,
+        1400,
+        1401
+      ],
+      "continuity_in": [
+        1399
+      ],
+      "continuity_out": [
+        1401
+      ],
+      "analysis_status": "final"
+    }
+  ]
+}

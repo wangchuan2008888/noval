@@ -1,0 +1,24 @@
+{
+  "source_path": "C:\\Users\\wangc\\Documents\\小说\\斗破苍穹.txt",
+  "source_sha256": "62406e70ad3d8e6ff637586e34a94602d6a1fc6858d9e8b482cf11ab09125aa5",
+  "source_encoding": "gb18030",
+  "source_line_count": 234122,
+  "detected_chapter_count": 1574,
+  "first_chapter": {
+    "number": 1,
+    "orig_number": 1,
+    "title": "陨落的天才",
+    "start_line": 4,
+    "end_line": 166,
+    "line_count": 163
+  },
+  "last_chapter": {
+    "number": 1574,
+    "orig_number": 1624,
+    "title": "结束，也是开始。(大结局)",
+    "start_line": 232586,
+    "end_line": 233008,
+    "line_count": 423
+  },
+  "export_time": "2026-08-29T16:45:00+08:00"
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "arc-zayi",
+    "name": "杂役逆袭篇",
+    "start_chapter": 1,
+    "end_chapter": 45,
+    "setup": "无灵根杂役方尘在琉璃剑宗饱受欺凌，偶得锈剑浮仙认主，觉醒特殊修炼路径。",
+    "central_conflict": "如何在无灵根的共识下活下去并完成蜕变，对抗杂役霸凌与管事刁难。",
+    "turning_points": [
+      2,
+      8,
+      21
+    ],
+    "outcome": "方尘以石中悟道、流云剑法初成，完成炼气突破，赢得外门晋升资格。"
+  },
+  {
+    "id": "arc-waimen",
+    "name": "外门试炼篇",
+    "start_chapter": 46,
+    "end_chapter": 110,
+    "setup": "晋升外门后面临更残酷的丛林法则与试炼任务。",
+    "central_conflict": "在灵炎谷、试炼之路中与张铁鳞等仇敌生死搏杀，争夺资源与功勋。",
+    "turning_points": [
+      51,
+      68,
+      92
+    ],
+    "outcome": "方尘斗战圣体初显，成为琉璃圣子，获得琉璃金身诀等核心传承。"
+  },
+  {
+    "id": "arc-tianluo",
+    "name": "秘境与传承篇",
+    "start_chapter": 111,
+    "end_chapter": 210,
+    "setup": "琉璃圣子身份带来更大舞台：天罗秘境、疯魔洞、灵鹤空间等机缘。",
+    "central_conflict": "在多势力秘境争夺中平衡成长与暴露风险，炼制圣骨、九叶剑心草等。",
+    "turning_points": [
+      128,
+      145,
+      170
+    ],
+    "outcome": "方尘完成炼气极限突破，凝聚道台，获得炼天炉等重器，确立宗门核心地位。"
+  },
+  {
+    "id": "arc-tianyuan",
+    "name": "天元学宫篇",
+    "start_chapter": 211,
+    "end_chapter": 320,
+    "setup": "进入天元学宫，接触蛮荒界顶级天才与灵心宫主的考验。",
+    "central_conflict": "炼心桥、天魔海、阵法三关的极限考核，对抗秦天等天骄。",
+    "turning_points": [
+      213,
+      280,
+      320
+    ],
+    "outcome": "方尘以阵法与心性双突破夺榜首，获得帝术上苍之手，筑基大圆满。"
+  },
+  {
+    "id": "arc-moku",
+    "name": "九狱魔窟篇",
+    "start_chapter": 321,
+    "end_chapter": 480,
+    "setup": "魔族渗透，九狱魔窟、封神领域等禁地现世。",
+    "central_conflict": "深入魔窟吞噬魔气，争夺混沌魔星藤、噬神战甲等，对抗魔圣。",
+    "turning_points": [
+      350,
+      402,
+      431
+    ],
+    "outcome": "方尘证圣人位，古岩圣火等力量觉醒，魔窟威胁暂缓。"
+  },
+  {
+    "id": "arc-shengren",
+    "name": "圣人崛起篇",
+    "start_chapter": 481,
+    "end_chapter": 720,
+    "setup": "以新晋圣人身份重整宗门，应对圣人战场与龙族、南海势力。",
+    "central_conflict": "在圣人劫、深渊龙宫、混沌虚空等舞台扩大人族话语权。",
+    "turning_points": [
+      512,
+      580,
+      640
+    ],
+    "outcome": "方尘掌握寂灭仙瞳、麒麟圣体等，云千雪、叶青瓷等伙伴完成关键蜕变。"
+  },
+  {
+    "id": "arc-nanhai",
+    "name": "诸海与圣土篇",
+    "start_chapter": 721,
+    "end_chapter": 1050,
+    "setup": "权力中心转向南海、圣土、佛国等多极博弈。",
+    "central_conflict": "在瑶池圣地、神木谷、葬剑谷等争夺帝兵与圣莲，对抗灵犬圣人、降龙伏虎等。",
+    "turning_points": [
+      750,
+      800,
+      890
+    ],
+    "outcome": "方尘炼制噬神印记、流星泪，积累帝级底蕴，圣土势力格局重塑。"
+  },
+  {
+    "id": "arc-shengtu",
+    "name": "圣土纵深篇",
+    "start_chapter": 1051,
+    "end_chapter": 1350,
+    "setup": "深入圣土紫薇山脉、混沌圣地、叶家祖地等准帝级舞台。",
+    "central_conflict": "对抗叶家、李长生等世家准帝，争夺混沌魔星藤渡劫、浮仙剑强化。",
+    "turning_points": [
+      1100,
+      1220,
+      1280
+    ],
+    "outcome": "方尘团队完成无敌圣人蜕变，黑炎、缥缈等道主相继证道。"
+  },
+  {
+    "id": "arc-zhundi",
+    "name": "准帝博弈篇",
+    "start_chapter": 1351,
+    "end_chapter": 1700,
+    "setup": "从圣人向准帝跨越，长生谷、蟠桃园、混沌天狗等半帝机缘密集现世。",
+    "central_conflict": "在长生锁、虚空灵舟、青岩仙巢等争夺长生法，对抗混沌圣主、乾坤圣主。",
+    "turning_points": [
+      1420,
+      1550,
+      1630
+    ],
+    "outcome": "方尘获得一万多滴流星泪、混元无极珠等，触及帝之门槛。"
+  },
+  {
+    "id": "arc-dadi",
+    "name": "大帝征途篇",
+    "start_chapter": 1701,
+    "end_chapter": 2100,
+    "setup": "圣土与蛮荒之海贯通，准帝向大帝冲击，魔族帝级反扑。",
+    "central_conflict": "在北冥宗、碧海神舟、天轮秘典等大帝传承中抉择，对抗空冥圣人、东海龙王等。",
+    "turning_points": [
+      1800,
+      1900,
+      2000
+    ],
+    "outcome": "方尘汇聚帝之源力，混沌魔星藤等战力实现帝级跃迁。"
+  },
+  {
+    "id": "arc-xianjie",
+    "name": "帝境与界海篇",
+    "start_chapter": 2101,
+    "end_chapter": 2438,
+    "setup": "以浮仙大帝之姿直面天外天、幽灵界、终焉之地等超大世界。",
+    "central_conflict": "对抗陈家千寒大帝、琉璃大仙等仙王级势力，抉择是否离开幽灵界探寻终焉。",
+    "turning_points": [
+      2200,
+      2350,
+      2438
+    ],
+    "outcome": "方尘以四转大仙战力收尾，琉璃剑宗成为幽灵界秩序支点，留下开放式终章。"
+  }
+]

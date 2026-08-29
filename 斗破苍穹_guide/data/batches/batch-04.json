@@ -1,0 +1,5376 @@
+{
+  "batch_index": 4,
+  "owned_range": [
+    301,
+    400
+  ],
+  "chapter_count": 100,
+  "chapters": [
+    {
+      "id": 301,
+      "title": "麻袍加老",
+      "source": {
+        "start_line": 43086,
+        "end_line": 43314
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第301章导读】麻袍加老：yao-lao, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《麻袍加老》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零二章 麻袍加老漆黑的夜空两道影飞掠而过。恍若流星武动乾坤。纳兰桀与米特尔腾山面沉如水。目光直直的盯着遥远的西北方向。那里。似乎是处于帝都的皇室园陵处。平日极为偏僻。没想到今夜却忽然会出现两名斗皇强武动乾坤。了下来。转过头来。望那不远处紧随而来的飞行人愕然道：“这是…岩枭？他怎么能斗气化翼？”在米特尔腾山转头之时。一旁的纳兰桀也是感应到了空气中的振动。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "麻袍加老核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《麻袍加老》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        300,
+        301,
+        302
+      ],
+      "continuity_in": [
+        300
+      ],
+      "continuity_out": [
+        302
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 302,
+      "title": "加老的实力",
+      "source": {
+        "start_line": 43315,
+        "end_line": 43450
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第302章导读】加老的实力：yao-lao, medusa, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《加老的实力》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零三章 加老的实力“没资格？”加老温和苍老的脸庞之上顿时浮现许些愕然。旋即将那奇异的目光投向萧炎。以海波东那皇级别的实力。竟然说没资格做这小家伙的老师？他有这么大的潜力？夜空之下。纳兰嫣然等人皆是有些无语的望着大中的海波东。在略微震惊了一会之后。他们便是将这话当成了是海波东的玩笑话。在这加玛帝国。一名斗皇|者若是放出消息说要收人做弟子。不知道有多少天赋……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "加老的实力核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《加老的实力》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        301,
+        302,
+        303
+      ],
+      "continuity_in": [
+        301
+      ],
+      "continuity_out": [
+        303
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 303,
+      "title": "法犸，夭夜，大会开始...",
+      "source": {
+        "start_line": 43451,
+        "end_line": 43865
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第303章导读】法犸，夭夜，大会开始...：yao-lao, medusa, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《法犸，夭夜，大会开始...》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零四章 法犸，夭夜，大会开始...翌日，蔚蓝天空，万里无云，阳光温暖而不显炽热，偶尔轻风拂过，带走城市之中的喧哗，让得人不仅有些神清气爽的感觉武动乾坤。今日，是加玛帝国的一大盛事，每八年一届的炼药师大会，将会在今日，拉开帷幕！自打第一抹阳光突破大地的束缚，照射在这座历史悠久的城市之上时，安静的街道之上，便是开始出现了三三两两身着炼药师长袍的人影武动乾坤……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "法犸，夭夜，大会开始...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        302,
+        303,
+        304
+      ],
+      "continuity_in": [
+        302
+      ],
+      "continuity_out": [
+        304
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 304,
+      "title": "第一轮，开始!",
+      "source": {
+        "start_line": 43866,
+        "end_line": 44046
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第304章导读】第一轮，开始!：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《第一轮，开始!》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零五章 第一轮，开始!站在贵宾席前台。法犸望着那***的广场。半晌后。轻笑道：“现在。请所有的参赛者。入自己的席位吧。”虽然此刻的广场沸的连钟鸣声都难以听见。不过法犸那轻笑的声音。却依然是在每一个人耳边响彻了起来。由此可见。这位行将就木的老人。实力也极为不凡武动乾坤。的法犸的话。贵宾席之上。顿时站起了不少炼药师。这些炼药师。大多都是一些实力不错的势力所……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "第一轮，开始!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《第一轮，开始!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        303,
+        304,
+        305
+      ],
+      "continuity_in": [
+        303
+      ],
+      "continuity_out": [
+        305
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 305,
+      "title": "惊心动魄",
+      "source": {
+        "start_line": 44047,
+        "end_line": 44251
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第305章导读】惊心动魄：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《惊心动魄》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零六章 惊心动魄安静的站在青石台之前，萧炎将面前的那尊赤红鼎炉稍稍推开了一点，现在的他，并没有和其他炼药师一样立刻将火焰召唤出来进行炼制，而是安静的捧着那张薄纸，微皱着眉头，仔细的研读着上面那些寥寥可数的资料武动乾坤。手机端阅读请登陆m.zhuaji.org磨刀不费砍柴功，这点道理，萧炎还是清楚的明白，机会只有两次，任何一点疏忽，都将会造成失败武动乾坤……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "惊心动魄核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《惊心动魄》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        304,
+        305,
+        306
+      ],
+      "continuity_in": [
+        304
+      ],
+      "continuity_out": [
+        306
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 306,
+      "title": "测验，神秘的灰袍人...",
+      "source": {
+        "start_line": 44252,
+        "end_line": 44510
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第306章导读】测验，神秘的灰袍人...：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《测验，神秘的灰袍人...》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零七章 测验，神秘的灰袍人...抬头望着那枚飞射而出的浑圆丹药，萧炎脸色平静，手掌一招，一股吸力将之扯进了掌心中武动乾坤。在丹药入手的那一霎，巨大沙漏之中的最后许些沙粒，终于是完全的倾洒而下，顿时，喏大的广场之上，上百道红色光芒，从那些依然还未炼制出成品丹药的炼药师面前的石台上，亮了起来武动乾坤。失望的望着面前闪烁的红色光芒，那些炼药师，只得苦笑着摇了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "测验，神秘的灰袍人...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        305,
+        306,
+        307
+      ],
+      "continuity_in": [
+        305
+      ],
+      "continuity_out": [
+        307
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 307,
+      "title": "过于简单的第二轮",
+      "source": {
+        "start_line": 44511,
+        "end_line": 44649
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第307章导读】过于简单的第二轮：xiao-yi-xian, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《过于简单的第二轮》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零八章 过于简单的第二轮灰袍少年斗笠忽然的消失，虽然让得很多人有些奇怪，不过倒还没人怀疑到海波东等人的头上去，此时大多观众的目光，都基本被灰袍少年那稚嫩的脸庞给吸引了过去，这么多届的炼药师大会，恐怕这个少年的年纪，是最小的吧武动乾坤。灰袍少年轻拍了拍肩膀上残留的淡淡碎冰，抬头对着贵宾席上方的海波东等人露出一抹冷笑，嘴唇微微蠕动，依靠着口型，法犸等人能够……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "过于简单的第二轮核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-yi-xian",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《过于简单的第二轮》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        306,
+        307,
+        308
+      ],
+      "continuity_in": [
+        306
+      ],
+      "continuity_out": [
+        308
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 308,
+      "title": "问题所在",
+      "source": {
+        "start_line": 44650,
+        "end_line": 44797
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第308章导读】问题所在：na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《问题所在》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百零九章 问题所在巨大的广场之上。在将药方阅读毕之后。大多数的炼药师。都为这次考核的轻松有些喜与形色。快速的生火。然后开始准备着炼药的措施武动乾坤。当然。这么多炼药师中。自然也不乏细心谨慎之辈。这次忽然变的简单的考核。也让的他-|有些意外。不过在看着药方迟疑了许久依然没有发现任何不妥之后。他们只的无奈的摇了摇头。然后小心翼翼的生火…萧炎目光紧紧的望炉中升……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "问题所在核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《问题所在》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        307,
+        308,
+        309
+      ],
+      "continuity_in": [
+        307
+      ],
+      "continuity_out": [
+        309
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 309,
+      "title": "力挽狂澜 大会暂休...",
+      "source": {
+        "start_line": 44798,
+        "end_line": 45050
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第309章导读】力挽狂澜 大会暂休...：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《力挽狂澜 大会暂休...》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十章 力挽狂澜 大会暂休...“青色火焰？”“天啊，他竟然拥有两种火焰？”望着萧炎手掌上升腾的青色火焰，两边的席位之上，顿时爆起了一阵阵惊异的喧哗之声，虽然这里很多人都并非是炼药师，可不同的火焰不能相融的基本常识，大多数人，都还是懂得的，可面前的萧炎，似乎确是用事实打破了他们的认知相比于周围席位上的观众们，广场上的炼药师们，无疑是更加的感到震撼，因为……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "力挽狂澜 大会暂休...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        308,
+        309,
+        310
+      ],
+      "continuity_in": [
+        308
+      ],
+      "continuity_out": [
+        310
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 310,
+      "title": "诡秘的黑袍人",
+      "source": {
+        "start_line": 45051,
+        "end_line": 45288
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第310章导读】诡秘的黑袍人：yao-lao, xiao-xun-er, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《诡秘的黑袍人》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十一章 诡秘的黑袍人顺着街道。萧炎一路对着所住旅馆行去。沿途之上。周围那些指指点点的崇拜目光。让的他有些头疼。不的已加快了脚步。转过几条街。最后窜进了旅馆。直奔己的房间武动乾坤。推开房门。萧炎将房门关好。背靠着房门。这才长长的吐了一口气。揉了揉额头。脸庞上略微有些疲倦。两轮考核。虽然看似简单。可暗藏的玄机却是让的萧炎大为伤神。加上最后与那灰袍少年比拼……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "诡秘的黑袍人核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《诡秘的黑袍人》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        309,
+        310,
+        311
+      ],
+      "continuity_in": [
+        309
+      ],
+      "continuity_out": [
+        311
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 311,
+      "title": "真相",
+      "source": {
+        "start_line": 45289,
+        "end_line": 45421
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第311章导读】真相：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《真相》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十二章 真相夜空之下，两道影子敏捷的在房屋之顶穿梭着，在房屋间某些宽敞的空隙间，是宽阔的街道，虽然此刻已是深夜，可街道之上，人流依然鼎沸，不过好在半空上的人影速度极为快捷，即使偶有人抬头，也仅仅是只能看到两条一闪即逝的黑线武动乾坤。紧紧的跟在海波东身后，萧炎体内的斗气缓缓的滚动着，为身体肌肉制造出一股股仿佛用之不竭的能量，脚尖轻点屋顶，身形便是暴掠而……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "真相核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《真相》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        310,
+        311,
+        312
+      ],
+      "continuity_in": [
+        310
+      ],
+      "continuity_out": [
+        312
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 312,
+      "title": "炎利",
+      "source": {
+        "start_line": 45422,
+        "end_line": 45554
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第312章导读】炎利：hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炎利》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十三章 炎利“啧啧，原来是他”望着房间中的大汉，法犸忽然低声冷笑道。*“法老认识他？”闻言，萧炎轻声询问道武动乾坤。“嘿嘿，认识出云帝国炼药师公会的副会长，名字似乎叫做炎利吧当年与他见过一面，这家伙在出云帝国拥有不小的声望，另外，由于这家伙非常主张炼药师与“毒师”相结合，故而颇受出云帝国中毒师们的信任，因此，他是出云帝国下一任公会会长有力的继承人。”……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炎利核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        311,
+        312,
+        313
+      ],
+      "continuity_in": [
+        311
+      ],
+      "continuity_out": [
+        313
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 313,
+      "title": "天降横财",
+      "source": {
+        "start_line": 45555,
+        "end_line": 45717
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第313章导读】天降横财：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《天降横财》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十四章 天降横财夜空之下四道影子安静的闪掠着。沉默气氛。在几人之间缭绕着武动乾坤。“嘿法老头。我浪费了一晚时间。就这样空手回去了？”脚尖轻点在房顶之上。海波东终于是忍不住的开口问道武动乾坤。一旁加老也是点了点头。以他的性子。从不会干这种空手而回的事武动乾坤。“怎会是空手？我们不是已经知道那家伙的真实身份了么？现在至少心中有了一些底子。”清楚海波东人有……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "天降横财核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《天降横财》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        312,
+        313,
+        314
+      ],
+      "continuity_in": [
+        312
+      ],
+      "continuity_out": [
+        314
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 314,
+      "title": "三纹青灵丹",
+      "source": {
+        "start_line": 45718,
+        "end_line": 45856
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第314章导读】三纹青灵丹：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《三纹青灵丹》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十五章 三纹青灵丹“三纹青灵丹，四品丹药，普通三纹青灵丹能够助斗师强者突破晋入大斗师的界限，若是大斗师强者服用，则能有少许几率提升服用者一星的等级，并无药效反噬。”“三纹青灵丹分三种品阶，每一种品阶，都将会在丹身之上形成一圈丹纹，若是能够形成三圈丹纹，则是最高品阶的三纹青灵丹，此种丹药，大斗师之下者，慎用！大斗师服用此丹，则有着几率在短暂时间内提升三……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "三纹青灵丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《三纹青灵丹》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        313,
+        314,
+        315
+      ],
+      "continuity_in": [
+        313
+      ],
+      "continuity_out": [
+        315
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 315,
+      "title": "最后一轮:开始!",
+      "source": {
+        "start_line": 45857,
+        "end_line": 45989
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第315章导读】最后一轮:开始!：hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《最后一轮:开始!》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十六章 最后一轮:开始!翌日。当天色刚刚有些蒙蒙亮时。这座繁华的城。★更新迅速，小说齐全★便是开始犹如一台开启了发条的庞大机器。有-不紊的运作了起来。而那些穿梭在城市之中街道上的人流。则是为这台的庞大机器。入了动力武动乾坤。城市之中。今日最拥挤与热闹的场所。无须而问。自然便是那巨大的皇家广场。昨天的比赛。在经过观众席上的人们互相传播之后。已经有着越来……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "最后一轮:开始!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        314,
+        315,
+        316
+      ],
+      "continuity_in": [
+        314
+      ],
+      "continuity_out": [
+        316
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 316,
+      "title": "各显神通",
+      "source": {
+        "start_line": 45990,
+        "end_line": 46116
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第316章导读】各显神通：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《各显神通》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十七章 各显神通目光缓缓扫过全场，法犸虚压着双手，震耳欲聋的喧哗声，随之逐渐降低，雄浑的朗声，在广场上空，久经不息武动乾坤。“这第三轮考核，公会不会再给予任何参赛所助，一切，都需要全部依靠自己，包括药方，药材等等，也就是说，在规定的时间之内，你们必须成功的炼制出自己能力范围之内的一种丹药，而最后的胜利，自然是要看他所炼制出来的丹药的等级以及实用价值！……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "各显神通核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《各显神通》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        315,
+        316,
+        317
+      ],
+      "continuity_in": [
+        315
+      ],
+      "continuity_out": [
+        317
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 317,
+      "title": "失败",
+      "source": {
+        "start_line": 46117,
+        "end_line": 46273
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第317章导读】失败：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《失败》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十八章 失败广场之上忽然出现的这奇异一幕，也是大出了萧炎的意外，望着那一道道对着自己射来的愕然目光，萧炎也只得无奈的耸了耸肩，手掌一晃，青色火焰便是被丢进了药鼎之中，至此，那些参赛者手上的火焰，方才回复了正常武动乾坤。“这家伙低声嘟囓了一声，小公主有些郁闷，她并未亲眼见识过异火的强横，所以一直以为自己的“乾蓝水炎”并不会比之弱上多少，可先前自己火焰的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "失败核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《失败》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        316,
+        317,
+        318
+      ],
+      "continuity_in": [
+        316
+      ],
+      "continuity_out": [
+        318
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 318,
+      "title": "冠军，我要了!",
+      "source": {
+        "start_line": 46274,
+        "end_line": 46403
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第318章导读】冠军，我要了!：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《冠军，我要了!》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百一十九章 冠军，我要了!听得那道刺耳的闷响，那一直沉侵在融丹步骤中的小公主，柳翎以及炎利三人，也是略微一愣，旋即偏过头将目光投向了萧炎所在的方向，望着那从药鼎中洒落而出的黑色灰烬，脸庞上的表情，也各自有些不同武动乾坤。“唉小公主低低叹息了一声，萧炎本来是这次大会中与那出云帝国的灰袍少年最有力的争夺，可看如今这出人意料的状况，似乎“既然你退了么接下来，还……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "冠军，我要了!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        317,
+        318,
+        319
+      ],
+      "continuity_in": [
+        317
+      ],
+      "continuity_out": [
+        319
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 319,
+      "title": "再度崛起",
+      "source": {
+        "start_line": 46404,
+        "end_line": 46515
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第319章导读】再度崛起：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《再度崛起》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十章 再度崛起“嘿。回复了又能怎样？，这仅剩的最后一半时间。难道你就想炼制出超过我鼎中的丹药？哈哈。做事的量力而为啊。否则。徒惹人笑话罢哈哈”冷笑着着萧炎。炎利讽道武动乾坤。笑了笑。萧炎并未理会他的嘲讽话语。袖袍轻挥。一股劲气将面前石台上的漆黑灰烬吹的开去。手指轻弹纳戒。顿时。一大堆的药材。再度摆满了石台武动乾坤。身体笔直的站在石台之前。萧炎双手缓缓……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "再度崛起核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《再度崛起》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        318,
+        319,
+        320
+      ],
+      "continuity_in": [
+        318
+      ],
+      "continuity_out": [
+        320
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 320,
+      "title": "紫心破障丹",
+      "source": {
+        "start_line": 46516,
+        "end_line": 46669
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第320章导读】紫心破障丹：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《紫心破障丹》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十一章 紫心破障丹紫色火焰，猛然间涌灌进入药鼎之中，萧炎的脸色，也是在此刻变得极为凝重，双手迅速再度贴在药鼎火口处，灵魂力量，几乎是丝毫不留的汹涌而出，现在的他，必须能够完美的控制两种火焰间的转换，不然的话，类似上一次的失败，将会再次出现！而在这最后不到一个小时内，若是再失败的话，那么炎利夺得冠军的结局，将真正的再无任何奇迹发生！额头之上，密集的冷汗……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "紫心破障丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《紫心破障丹》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        319,
+        320,
+        321
+      ],
+      "continuity_in": [
+        319
+      ],
+      "continuity_out": [
+        321
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 321,
+      "title": "炸炉",
+      "source": {
+        "start_line": 46670,
+        "end_line": 46805
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第321章导读】炸炉：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炸炉》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十二章 炸炉随着萧炎的轻声呢喃。手指上的漆黑戒指安静了半晌。片刻后。黑色戒指忽然轻轻的颤抖了起来。淡淡的冰冷感觉。开始缭绕在萧炎指尖处。的指节骨处。略微有些发白武动乾坤。似乎是察觉到了什么。药鼎之中的紫色火焰。竟然有些不安的跳动了起来。不过好在有着炎灵魂力量绝对压制。因此它们的不安跳动。倒还并未造成什么故武动乾坤。广场之上。当炎利的狂笑声逐渐落下之时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炸炉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        320,
+        321,
+        322
+      ],
+      "continuity_in": [
+        320
+      ],
+      "continuity_out": [
+        322
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 322,
+      "title": "最后的胜利者!",
+      "source": {
+        "start_line": 46806,
+        "end_line": 46965
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第322章导读】最后的胜利者!：na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《最后的胜利者!》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十三章 最后的胜利者!巨大的广场之上，一片沉默，好半晌之后，两边的观众席之上，方才响起连片的惋惜叹声武动乾坤。“唉主纤手轻轻拍去衣袍上被溅射过来的灰尘，抬起头，望着萧炎所处的那边白色雾气，低声叹息着摇了摇头，谁也没想到，这个本来是这届大会堪与那神秘少年相比肩的最大黑马，竟然会是因为这个乌龙结果而宣告失败武动乾坤。“这次，公会可是真正的要颜面大损了啊。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "最后的胜利者!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《最后的胜利者!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        321,
+        322,
+        323
+      ],
+      "continuity_in": [
+        321
+      ],
+      "continuity_out": [
+        323
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 323,
+      "title": "评价",
+      "source": {
+        "start_line": 46966,
+        "end_line": 47092
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第323章导读】评价：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《评价》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十四章 评价巨大的广场，除了萧炎那略微有些虚弱的朗笑声外，便是再没有了其他杂音，所有听说过“三纹青灵丹”这个名头的人，都是满脸错愕望着场中的青年，谁能想到，在这最后关头，这个外貌平凡的青年，竟然是真的凭借一己之力，将那即将跑到国外去的冠军之位，给生生的拉了回来！“老天竟然是在炼制三纹青灵丹，难怪要几次转换火焰纤手不由自主的捂着嘴，小公主的声音中，有着……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "评价核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《评价》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        322,
+        323,
+        324
+      ],
+      "continuity_in": [
+        322
+      ],
+      "continuity_out": [
+        324
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 324,
+      "title": "大会结束!",
+      "source": {
+        "start_line": 47093,
+        "end_line": 47216
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第324章导读】大会结束!：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大会结束!》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十五章 大会结束!安静的广场，持续了许久，方才逐渐的回复过来，这位莫老在加玛帝国成名较古河都要早上许多，他的评价，自然是很有一些重量，因此，除了少许人外，倒也并未有太多人觉得他是在信口雌黄。/首/发炎利脸色铁青，莫老的那番评价，无疑是间接的肯定了萧炎炼制的三纹青灵丹没有丝毫问题，而这般的话，这次，他则是彻底输了武动乾坤。咬了咬牙，炎利袖袍一挥，将石台……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大会结束!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        323,
+        324,
+        325
+      ],
+      "continuity_in": [
+        323
+      ],
+      "continuity_out": [
+        325
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 325,
+      "title": "领取奖励",
+      "source": {
+        "start_line": 47217,
+        "end_line": 47352
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第325章导读】领取奖励：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《领取奖励》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十六章 领取奖励走出走廊。萧炎却是刚好碰见早已等待在此的奥托等人。几人笑谈了几句。期间雪魅倒是了几句话。那看向萧炎的目光。略微有些奇异。而琳菲。则是期期艾艾的不敢怎么说话。每当萧炎目光射过来。她都会有些脸红。显然。先前萧炎的表现。将这个一向风风火火的女孩着实震慑了一遍。而且本心中的偶像柳翎。也是悄悄崩塌了下去。取而代之的。却是那个安单薄的青年背影武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "领取奖励核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《领取奖励》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        324,
+        325,
+        326
+      ],
+      "continuity_in": [
+        324
+      ],
+      "continuity_out": [
+        326
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 326,
+      "title": "七幻青灵涎到手",
+      "source": {
+        "start_line": 47353,
+        "end_line": 47479
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第326章导读】七幻青灵涎到手：yao-lao, medusa, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《七幻青灵涎到手》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十七章 七幻青灵涎到手在那一道道泛着各色意味的目光中，萧炎缓缓行出了炼药师公会，站在大门口，望着那逐渐暗下来的天色，略微有些愣神，这大会一结束，他全身忽然间轻松了许多，没有了那必须夺冠的压力后，他方才能够真正的松一口气。/首/发“唉，这东西，实在是太耗人心神了”苦笑了一声，若不是当初美杜莎女王忽然来了那么一句，萧炎也不想这么拼死累活的来参加这什么大会……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "七幻青灵涎到手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《七幻青灵涎到手》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        325,
+        326,
+        327
+      ],
+      "continuity_in": [
+        325
+      ],
+      "continuity_out": [
+        327
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 327,
+      "title": "药老苏醒?",
+      "source": {
+        "start_line": 47480,
+        "end_line": 47630
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第327章导读】药老苏醒?：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《药老苏醒?》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十八章 药老苏醒?一路风风火火的离开纳兰家族，刚欲回所住旅馆的萧炎，却是忽然止住了步伐，将七幻青灵涎炼制成液体，那自然是需要药鼎，而他的那尊药鼎，在大会上，早就炸了无奈的摇了摇头，萧炎略一踌躇后，便又是急匆匆的对着米特尔拍卖场行去，由于害怕遇见雅妃耽搁时间，所以萧炎只是在拍卖会外围购买了一个和以前那药鼎差不多品阶的后，就是赶紧马不停蹄跑回了旅馆。/首……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "药老苏醒?核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        326,
+        327,
+        328
+      ],
+      "continuity_in": [
+        326
+      ],
+      "continuity_out": [
+        328
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 328,
+      "title": "夜谈",
+      "source": {
+        "start_line": 47631,
+        "end_line": 47742
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第328章导读】夜谈：yao-lao, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《夜谈》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百二十九章 夜谈房间之中，萧炎双手护在脸前，好半晌后，眼角余光方才射出手臂缝隙，望着面前没有反应的黑色戒指，这才将手臂放了下来，然后摸了摸身体，似乎没哪里有所残缺。手机端阅读请登陆m.zhuaji.org/首/发此时萧炎身体之上那被灵魂波动吹得涨鼓鼓的衣袍，已经缓缓落了下来，感受着身体并未传来什么不适之感后，这才微微松了一口气，抬头望着面前的漆黑戒指，却……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "夜谈核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《夜谈》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        327,
+        328,
+        329
+      ],
+      "continuity_in": [
+        327
+      ],
+      "continuity_out": [
+        329
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 329,
+      "title": "服用三纹青灵丹",
+      "source": {
+        "start_line": 47743,
+        "end_line": 47848
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第329章导读】服用三纹青灵丹：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《服用三纹青灵丹》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十章 服用三纹青灵丹翌日清晨，温暖的晨辉从窗户缝隙间倾洒而进，在房间地板上，蔓延出一条细小的白色光线，光线缓缓伸展，最后攀爬上了床榻，照耀在了盘腿而坐的青年脸庞之上武动乾坤。感受到那股外界的温热感觉，那张安静的脸庞，微微一动，片刻后，紧闭的眼睑逐渐睁了开来，漆黑的眸子，淡然平和武动乾坤。扭动了一下身子，萧炎从床榻上矫健的跃下，打开房门，望着那空无一人……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "服用三纹青灵丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《服用三纹青灵丹》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        328,
+        329,
+        330
+      ],
+      "continuity_in": [
+        328
+      ],
+      "continuity_out": [
+        330
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 330,
+      "title": "晋阶大斗师!",
+      "source": {
+        "start_line": 47849,
+        "end_line": 48008
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第330章导读】晋阶大斗师!：na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《晋阶大斗师!》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十一章 晋阶大斗师!“嗤青色火焰与三色能量在经脉之中凶悍碰撞，细微的嗤嗤声响连绵不绝，而那三色能量，也是在此刻急速的***了起来，一**浓郁的能量涟漪从本体中扩散而出，撞击在经脉上，让得萧炎嘴角一阵哆嗦，不过好在这几条主干经脉极为坚韧结实，因此除了疼痛之外，倒还并无其他大碍。/首/发强忍着疼痛，萧炎指挥青莲地心火将三色能量包裹而进，然后将之强行携带着……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "晋阶大斗师!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        329,
+        330,
+        331
+      ],
+      "continuity_in": [
+        329
+      ],
+      "continuity_out": [
+        331
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 331,
+      "title": "托付",
+      "source": {
+        "start_line": 48009,
+        "end_line": 48183
+      },
+      "arc_id": "salt-city-and-capital",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第331章导读】托付：yao-lao, xiao-xun-er, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《托付》的关键进程。在salt-city-and-capital的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十二章 托付房间中，大笑声缓缓消散，感应着体内那股无比充盈的力量之感，萧炎嘴角噙着一抹满意的笑容，拳头缓缓紧握，浓郁的青芒，迅速的覆盖在拳头表面，青芒暗蕴，锋芒渐现武动乾坤。双脚略微张开，萧炎脚掌猛然一踏地面，身体犹如移形换位一般，瞬间出现在左面一米左右的位置，拳头夹杂着一股令人呼吸一窒的强悍劲气，狠狠的砸在了面前的一根巨大的房柱之上武动乾坤。“嘭！……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "托付核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《托付》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        330,
+        331,
+        332
+      ],
+      "continuity_in": [
+        330
+      ],
+      "continuity_out": [
+        332
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 332,
+      "title": "萧家，萧炎!",
+      "source": {
+        "start_line": 48184,
+        "end_line": 48316
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第332章导读】萧家，萧炎!：na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧家，萧炎!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十三章 萧家，萧炎!云岚宗，加玛帝国最为强大的势力，一代代的不间断传承，已经让得这个古老的宗派，屹立在了加玛帝国之巅，若非是因为宗派教规所说，不可夺取帝王之权，恐怕，在以前好几次的帝国皇朝更迭之时，云岚宗，便是彻底的掌控了整个加玛帝国。/首.发而也正因为此，每一代帝国的皇室，都对这个近在咫尺的庞然大物极其忌惮，当到了现在的加玛皇室后，因为有着加刑天这……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧家，萧炎!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        331,
+        332,
+        333
+      ],
+      "continuity_in": [
+        331
+      ],
+      "continuity_out": [
+        333
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 333,
+      "title": "三年之约!",
+      "source": {
+        "start_line": 48317,
+        "end_line": 48428
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第333章导读】三年之约!：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《三年之约!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十四章 三年之约!平淡的简单话语，缓缓的飘荡在巨大的广场之上，让得那弥漫广场的弥合气息，略微动荡与紊乱武动乾坤。场地中，无数云岚宗弟子皆是目光带着各自不同的情绪望向石阶处的黑袍青年，对于这个名叫萧炎的年轻人，他们并不感到陌生，他与纳兰嫣然的关系，使得他成为了很多云岚宗弟子平日口中的谈料，当然，在每每提起这个名字时，大多数人，都会略微带着许些不屑与讥讽……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "三年之约!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        332,
+        333,
+        334
+      ],
+      "continuity_in": [
+        332
+      ],
+      "continuity_out": [
+        334
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 334,
+      "title": "纳兰嫣然，败?",
+      "source": {
+        "start_line": 48429,
+        "end_line": 48585
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第334章导读】纳兰嫣然，败?：na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《纳兰嫣然，败?》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十五章 纳兰嫣然，败?感受着萧炎身体上所升腾而起的强悍斗气，纳兰嫣然眸中闪过一缕诧异，这个当年那在萧家受尽白眼与嘲讽的少年，如今还真的完全不同了啊。/首/发玉手紧握着淡青长剑，淡淡青色小风卷在剑身之上翻滚飘荡，风卷之中，凌厉的风刃伸缩吐现，偶尔暴射而出，在坚硬的青石板上，留下一道不浅不深的划痕，剑身逐渐上移，遥遥指向萧炎，锋利的剑锋在阳光反射下，森光……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "纳兰嫣然，败?核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        333,
+        334,
+        335
+      ],
+      "continuity_in": [
+        333
+      ],
+      "continuity_out": [
+        335
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 335,
+      "title": "双方的真实实力",
+      "source": {
+        "start_line": 48586,
+        "end_line": 48715
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第335章导读】双方的真实实力：yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《双方的真实实力》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十六章 双方的真实实力广场之上，所有的目光都停留在那缓缓坠落而下的纳兰妈然身上，彼此各自表情各不相同武动乾坤。手机端阅读请登陆m.zhuaji.org“这个小家伙似乎挺不错的啊一”巨树之上，加刑天笑眯眯的瞥着萧炎，旋即摇了摇头，道：“不过可惜，这次攻击虽然看似凶猛，可却并未给纳兰妈然造成多大的伤害，云岚宗的飞絮身法斗技，果然名不虚传。”“嗯。”一旁的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "双方的真实实力核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        334,
+        335,
+        336
+      ],
+      "continuity_in": [
+        334
+      ],
+      "continuity_out": [
+        336
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 336,
+      "title": "白热化的战斗!",
+      "source": {
+        "start_line": 48716,
+        "end_line": 48845
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第336章导读】白热化的战斗!：na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《白热化的战斗!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十七章 白热化的战斗!“这次好玩了感受着忽然间安静下来的广场，加刑天望着萧炎身体之上那副微微释放着青色光芒的斗气铠甲，脸庞上有着许些惊叹与愕然，虽然这幅铠甲仅仅只是初具雏形，可不管如何说，能够将它给召唤出来，那么便是象征着进入了大斗师的行列！从这点来看，似乎萧炎与纳兰嫣然间的实力差距，并不是很大，而让得加刑天愕然的，便正是为什么这个没多大背景的萧家小……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "白热化的战斗!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        335,
+        336,
+        337
+      ],
+      "continuity_in": [
+        335
+      ],
+      "continuity_out": [
+        337
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 337,
+      "title": "风之极:落日耀",
+      "source": {
+        "start_line": 48846,
+        "end_line": 49014
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第337章导读】风之极:落日耀：yao-lao, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《风之极:落日耀》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十八章 风之极:落日耀庞大的青石广场之上。强横的斗气以及凌厉的剑罡自场中不断暴射而出。在周围坚硬的的上。留下一道道清晰可见的痕武动乾坤。所有人。此刻都是屏住了呼吸。目光随着那|若现的两道人影的闪移而移动着。越来越剧烈以及白热化的战斗。让的很多人的心脏都是提在了喉咙之处。看现双方那火暴的战斗。那本来在他们印象中应该一触便是溃败的萧炎。却是出人意料的并未……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "风之极:落日耀核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《风之极:落日耀》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        336,
+        337,
+        338
+      ],
+      "continuity_in": [
+        336
+      ],
+      "continuity_out": [
+        338
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 338,
+      "title": "暴露",
+      "source": {
+        "start_line": 49015,
+        "end_line": 49147
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第338章导读】暴露：medusa, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《暴露》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百三十九章 暴露“这是”天上，纳兰嫣然怔怔的望着下方的萧炎，先前他的那番口吐紫火的熟悉举止，以及手掌上的青色火焰，让得脑海中那曾经给她留下极深印象，名叫岩枭的青年，缓缓浮现了出来。/首/发两道皆是有些单薄的身影，在脑海中逐渐接触，旋即美的融合了起来武动乾坤。除了那张面孔之外，此刻的萧炎，无论气质与表情，皆是与那日皇家广场之上，以一己之力，力挫出云帝国的年……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "暴露核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《暴露》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        337,
+        338,
+        339
+      ],
+      "continuity_in": [
+        337
+      ],
+      "continuity_out": [
+        339
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 339,
+      "title": "小型佛怒火莲!",
+      "source": {
+        "start_line": 49148,
+        "end_line": 49265
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第339章导读】小型佛怒火莲!：na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《小型佛怒火莲!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十章 小型佛怒火莲!凉风刮过天空，让得怔怔失神中的纳兰嫣然回过神来，在回过神后，纳兰嫣然玉手一挥，几乎是条件反射般想要将那暴射而下的光剑抓回来，然而以她如今的实力，能够将风之极施展出来，便已是颇为勉强，想将之如臂般的指挥，那更是不可能的事情，因此，她也只能眼睁睁的望着那带着铺天盖地压迫之力的长剑，宛如一轮耀日，对着广场之上的萧炎，狠狠砸去！俏脸略微有……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "小型佛怒火莲!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        338,
+        339,
+        340
+      ],
+      "continuity_in": [
+        338
+      ],
+      "continuity_out": [
+        340
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 340,
+      "title": "结束",
+      "source": {
+        "start_line": 49266,
+        "end_line": 49422
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第340章导读】结束：na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《结束》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十一章 结束雷鸣般的巨响。在巨大广场上空轰响起。宛如雷神的怒火。让的人的心神。忍不住的有些恐惧颤抖武动乾坤。巨响过后。是那犹如火山爆发般的盛开而来的能量碰撞。两道凶悍无匹的能量。在半空中略一接触。便彼此疯狂的释放出了各自所隐含的恐怖能量。顿时。一狂风凭空出现在广场上空。呼啸而过。在两者接触的的点。居然是连那虚幻的空气都是被强大的能量对撞弄的有些模糊与……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "结束核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《结束》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        339,
+        340,
+        341
+      ],
+      "continuity_in": [
+        339
+      ],
+      "continuity_out": [
+        341
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 341,
+      "title": "风波再起",
+      "source": {
+        "start_line": 49423,
+        "end_line": 49624
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第341章导读】风波再起：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《风波再起》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十二章 风波再起“噗”汹涌的劲气。\\\\\\\\顺着萧炎手掌暴涌而出。纳兰嫣然喉咙间传出一道蕴含着痛楚之声的闷哼。旋即一口鲜血|着嘴角滑落而下。鲜艳的颜色。印衬着红润的嘴唇。凄艳而妖娆武动乾坤。美眸||噙着许些复杂情绪。盯着那张依然冷漠的年轻脸庞。纳兰嫣然美眸缓缓闭上。双臂垂下。身体犹如那残败的花絮。顺着风儿。无力的对着的面之上。抛而下武动乾坤。这一刻。满……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "风波再起核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《风波再起》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        340,
+        341,
+        342
+      ],
+      "continuity_in": [
+        340
+      ],
+      "continuity_out": [
+        342
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 342,
+      "title": "逃不掉的麻烦",
+      "source": {
+        "start_line": 49625,
+        "end_line": 49766
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第342章导读】逃不掉的麻烦：na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《逃不掉的麻烦》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十三章 逃不掉的麻烦听得那在广场之上缓缓响起的声音，萧炎那即将踏下台阶的脚步猛然一滞，背对着广场，仰头长长的吸了一口空气，袖袍中的拳头，却是微微紧握了起来武动乾坤。巨树上，海波东眉头也是在此刻紧皱而起，目光扫向广场中央，那里，云棱等人的脸色，似乎很是有些怪异武动乾坤。“该死的，难道认出来了？”海波东低低的喃喃了一声，体内雄浑斗气，却是悄然的运转了起来……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "逃不掉的麻烦核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        341,
+        342,
+        343
+      ],
+      "continuity_in": [
+        341
+      ],
+      "continuity_out": [
+        343
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 343,
+      "title": "一触即发",
+      "source": {
+        "start_line": 49767,
+        "end_line": 49902
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第343章导读】一触即发：na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一触即发》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十四章 一触即发在这一刻，似乎是感应到了什么，广场之上，气氛再度死静，一道道目光泛着惊骇，盯着那广场边缘处的萧炎。/首/发“这个家伙，难道还真的是当初击杀墨承的那个神秘人？”加刑天喃喃了一声，总是布满着笑容的脸庞，终于是在此刻变得凝重了起来武动乾坤。“这倒是不知，不过药师大会的时候，萧炎倒还是真的使用过一种白色的火焰，虽然那火焰仅仅是一闪便逝，不过我……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一触即发核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《一触即发》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        342,
+        343,
+        344
+      ],
+      "continuity_in": [
+        342
+      ],
+      "continuity_out": [
+        344
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 344,
+      "title": "三名斗王强者",
+      "source": {
+        "start_line": 49903,
+        "end_line": 50056
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第344章导读】三名斗王强者：yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《三名斗王强者》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十五章 三名斗王强者弥漫广场的磅礴气势。直接是让的萧炎身形急速下降了十几米。方才将胸口那股气闷之感化去。抬头凝重的望着那三名袍老者。心中大感棘手。三名斗王强亲自对他出。这也太看的起他这个无名小子了吧？广场之上。所有云岚宗弟子皆是抬头望着天空上的战局。对于需要出动三名斗王强者拦截萧炎。他们同样是有些感到太过于小题大做了。要知道。以天空上那三位长老的实力……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "三名斗王强者核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《三名斗王强者》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        343,
+        344,
+        345
+      ],
+      "continuity_in": [
+        343
+      ],
+      "continuity_out": [
+        345
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 345,
+      "title": "大战!",
+      "source": {
+        "start_line": 50057,
+        "end_line": 50207
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第345章导读】大战!：yao-lao, yun-yun, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大战!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十六章 大战!天空上忽然出现的变故让的场中众人都是一怔。目光望着那缓缓浮现的苍老人影。一些知情人脸色顿时有些变化武动乾坤。“海老头？他他怎么出手了？”加刑天满脸错愕的道武动乾坤。法犸脸色同样是有些愕然。他也没想到。海波东竟然会冒着与云岚宗起冲突的危险。前去帮手两人面面相觑了一。皆是察觉出了一点蹊跷。以海波东的性子。可不像是那种会谁干这种莽事情的人啊武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大战!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        344,
+        345,
+        346
+      ],
+      "continuity_in": [
+        344
+      ],
+      "continuity_out": [
+        346
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 346,
+      "title": "七彩吞天蟒出场!...",
+      "source": {
+        "start_line": 50208,
+        "end_line": 50328
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第346章导读】七彩吞天蟒出场!...：yao-lao, medusa, yun-yun, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《七彩吞天蟒出场!...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十七章 七彩吞天蟒出场!...遥遥天空之上，就当云棱即将将萧炎擒获之时，后袖袍猛然一震，旋即一条粗大的影子暴射而出，旋即狠狠甩在云棱手掌之上，恐怖的力量，居然是将空气震得出一阵阵尖锐的音爆之声武动乾坤。在七彩影子出现的那一霎那，云棱也是有所察觉，当下脸色狂变，然而还不等他急忙抽身而退，那七彩影子，便已重甩在其手掌之上，顿时，脸庞涌上一抹潮红，一道低低……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "七彩吞天蟒出场!...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《七彩吞天蟒出场!...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        345,
+        346,
+        347
+      ],
+      "continuity_in": [
+        345
+      ],
+      "continuity_out": [
+        347
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 347,
+      "title": "悲剧的云棱",
+      "source": {
+        "start_line": 50329,
+        "end_line": 50557
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第347章导读】悲剧的云棱：medusa, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《悲剧的云棱》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十八章 悲剧的云棱天空之上，两道光影，瞬间闪过天际，旋即在无数道目光注视之下，猛然碰撞！相撞霎那，怒雷般的炸响，响彻了天空，让得下方一些人忍不住的捂住了耳朵，满脸惊讶的望着那对撞的场所。首发首发或许是由于功法属性那种硬战类型，因此，云棱与七彩吞天蟒乍一接触，便是采取了最强猛的近身狂攻，手中犹如岩石一般的大剑，挥动间，带起尖锐的破空声响，借助着身形的敏……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "悲剧的云棱核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《悲剧的云棱》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        346,
+        347,
+        348
+      ],
+      "continuity_in": [
+        346
+      ],
+      "continuity_out": [
+        348
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 348,
+      "title": "云烟覆日阵",
+      "source": {
+        "start_line": 50558,
+        "end_line": 50702
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第348章导读】云烟覆日阵：yao-lao, medusa, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《云烟覆日阵》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百四十九章 云烟覆日阵天空之上，一道宛如夕阳西斜的火红光线，猛然浮现，霎那间，火红的光芒，驱逐了广场上的日光，炽热的火浪，让得众人如同身处火炉！火红光线，在无数道目光注视下，轰然砸在那措手不及的云棱头顶之上，犹如闷雷般的闷响，在天空之上响彻而起武动乾坤。“嘭！”火红光线狠狠砸在云棱脑门，凶悍无匹的劲气顷刻间爆发开来，剧烈的疼痛在这一刻，从云棱脑中蔓延而出……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "云烟覆日阵核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        347,
+        348,
+        349
+      ],
+      "continuity_in": [
+        347
+      ],
+      "continuity_out": [
+        349
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 349,
+      "title": "神秘斗皇出场!",
+      "source": {
+        "start_line": 50703,
+        "end_line": 50856
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第349章导读】神秘斗皇出场!：yao-lao, medusa, yun-yun, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《神秘斗皇出场!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十章 神秘斗皇出场!在无数道紧张目光注视下，能量余波缓缓散去，露出了那被击中的七彩吞天蟒。/首/发此时的吞天蟒，模样颇为凄惨，那原本美丽光滑的七彩蛇鳞，被先前的那道恐怖攻击直接崩裂了将近大半，殷红的鲜血渗透出破碎的蛇鳞，滴滴答答犹如下着小雨一般滴落而下武动乾坤。巨大的身体微微蠕动，将其中安然无恙的萧炎放了出来武动乾坤。萧炎抬起头，望着那蛇瞳中黯淡了许……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "神秘斗皇出场!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《神秘斗皇出场!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        348,
+        349,
+        350
+      ],
+      "continuity_in": [
+        348
+      ],
+      "continuity_out": [
+        350
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 350,
+      "title": "斗皇，凌影",
+      "source": {
+        "start_line": 50857,
+        "end_line": 50998
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第350章导读】斗皇，凌影：yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斗皇，凌影》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十一章 斗皇，凌影整个广场，都是随着黑袍人出场，而陷入了一阵安静，虽然一些普通云岚宗弟子并不清楚这个神秘黑袍人的实力，可从那些脸色骤然变得极为凝重的长老们脸上可以看出，这个神秘黑袍人，实力应该强大得有些恐怖，不然是不会让得他们如此震惊武动乾坤。“你是谁？！”眼睛死死的盯着天空上的黑袍人，那从对方体内溢满而出的丝丝强横气息，让得云棱指尖忍不住的颤抖了一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斗皇，凌影核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《斗皇，凌影》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        349,
+        350,
+        351
+      ],
+      "continuity_in": [
+        349
+      ],
+      "continuity_out": [
+        351
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 351,
+      "title": "云岚宗的底牌!",
+      "source": {
+        "start_line": 50999,
+        "end_line": 51170
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第351章导读】云岚宗的底牌!：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《云岚宗的底牌!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十二章 云岚宗的底牌!浩荡天空，黑影遮天蔽日，竟然是连那倾洒而下的日光，都难以穿透而进，此时的广场，也是完全陷入了一片阴暗，众人唯有将斗气覆盖体表，方才能够借助微弱光芒察看天空战况。/首.发在黑暗遮掩了天空之际，那穿透虚空而去的巨大云箭，也是猛然暴射而至，云箭之尖所蕴含的恐怖劲气，直接是导致周围空间出现了一圈圈水波般的涟漪，尖锐的音爆之声，不断炸响武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "云岚宗的底牌!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        350,
+        351,
+        352
+      ],
+      "continuity_in": [
+        350
+      ],
+      "continuity_out": [
+        352
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 352,
+      "title": "云岚宗上任宗主，...",
+      "source": {
+        "start_line": 51171,
+        "end_line": 51519
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第352章导读】云岚宗上任宗主，...：medusa, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《云岚宗上任宗主，...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十三章 云岚宗上任宗主，...犹如巨龙苏醒般的磅礴气势。转瞬间便是笼罩了整座云岚山。一股萧炎以前从未感受过的强大威压。自云岚山深处蔓延而出。最后弥漫广场。顿时。广场上。所有云岚宗弟。都是忍不住心中的那抹敬畏。对着气势蔓延处。双膝跪了下去。而云棱以及那些云岚宗长老。虽然并未行跪礼。可却也是恭敬的弯下了身武动乾坤。“这股气势”纳兰嫣然美盯着云岚山深处。俏……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "云岚宗上任宗主，...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        351,
+        352,
+        353
+      ],
+      "continuity_in": [
+        351
+      ],
+      "continuity_out": [
+        353
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 353,
+      "title": "下山",
+      "source": {
+        "start_line": 51520,
+        "end_line": 51718
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第353章导读】下山：yao-lao, medusa, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《下山》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十四章 下山随着那妖娆人儿的出现。广场上。陷入了短暂的窒息武动乾坤。寂静持续了半晌之,终于是率先被一道惊恐的失声打破了去：“美杜莎女王？”短短几个字出口。却是猛然让的广场所有人都是打了个冷颤。这个名字。几乎大多数的加玛帝国人都是有所耳闻。那个冷艳而心狠手辣的美女人。在以往与玛帝国的战争中。不知道亲手斩杀了多少成名强者。在这个帝国之中。也只有那寥寥可数……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "下山核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《下山》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        352,
+        353,
+        354
+      ],
+      "continuity_in": [
+        352
+      ],
+      "continuity_out": [
+        354
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 354,
+      "title": "分别与交易",
+      "source": {
+        "start_line": 51719,
+        "end_line": 51896
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第354章导读】分别与交易：yao-lao, medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《分别与交易》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十五章 分别与交易绿荫葱郁的小道之两道人影一男一女。手机端阅读请登陆m.zhuaji.org一前一后。缓缓的行走着。安静的氛围。缭绕在两人周身武动乾坤。在在两人头顶的天空之上。两道影子也是远远的跟着武动乾坤。某一刻。小道最前方的女人率先止住了步伐。纤手轻着额前青丝。冷的声音。从那诱人红唇中吐出：“上面那两。飞的不累么？”虽然她的声音并不响亮。然而天空……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "分别与交易核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        353,
+        354,
+        355
+      ],
+      "continuity_in": [
+        353
+      ],
+      "continuity_out": [
+        355
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 355,
+      "title": "回家之途",
+      "source": {
+        "start_line": 51897,
+        "end_line": 52095
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第355章导读】回家之途：xiao-xun-er, medusa, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《回家之途》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十六章 回家之途望着那转瞬间便是收敛杀意的美杜莎女王。萧炎也只的苦笑了一声。这个女人能够让的加玛帝国众强者都是对她忌惮不已。果然并非是靠的名武动乾坤。“接下来你打算去？”美杜莎女王将手中融灵丹的药方抛回给萧炎。随口问道武动乾坤。小心翼翼的接过药方。萧吟了一会。道：“先回乌坦城一趟。然后。或许离开加玛帝国一段间。”“离开加玛帝国么”闻言。美杜莎女王黛眉……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "回家之途核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "medusa",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《回家之途》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        354,
+        355,
+        356
+      ],
+      "continuity_in": [
+        354
+      ],
+      "continuity_out": [
+        356
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 356,
+      "title": "萧家变故",
+      "source": {
+        "start_line": 52096,
+        "end_line": 52321
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "turning_point"
+      ],
+      "teaser": "【第356章导读】萧家变故：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧家变故》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十七章 萧家变故两人在距离乌坦城之外不远处降落而下。落的后。萧炎并未再理会身旁的美杜莎女王。脸色有些阴沉的对着那大开的城门快步行去武动乾坤。行近城门。萧炎抬瞟了一眼那城门上方硕大的“坦城”三个大字不由的停下脚步。望着那隐隐顺着城门通道传出来的鼎沸人声。轻吐了一口气。自言自语的喃喃道：“乌坦城。我萧炎终于是又回来了”举步行进城门。穿过有些阴暗的城门通道……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧家变故核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        355,
+        356,
+        357
+      ],
+      "continuity_in": [
+        355
+      ],
+      "continuity_out": [
+        357
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 357,
+      "title": "一个不留",
+      "source": {
+        "start_line": 52322,
+        "end_line": 52484
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第357章导读】一个不留：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一个不留》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十八章 一个不留顺着门缝蔓延而出的阳光通道之中。手机端阅读请登陆m.zhuaji.org身形削瘦的青年。缓缓走进。旁若无人的穿过那一众手持武器的大汉。,再从那满脸呆滞的加列毕。奥巴帕顿两人身旁。徐徐而过武动乾坤。大厅之中。气氛安静鸦雀无声。有那略显急促的呼吸之声武动乾坤。在所有目光的注视下。青年缓缓来到萧家众人之前。低头望了一眼那激动老泪纵横的老人。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一个不留核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        356,
+        357,
+        358
+      ],
+      "continuity_in": [
+        356
+      ],
+      "continuity_out": [
+        358
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 358,
+      "title": "他必须死",
+      "source": {
+        "start_line": 52485,
+        "end_line": 52623
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第358章导读】他必须死：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《他必须死》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百五十九章 他必须死宽敞大厅中。气氛安静的鸦雀无声。听的那在门外响起的道道惨叫声。所有萧家族人都是紧握起了拳头。脸庞上。有着一种痛快。这几日萧家的变故。让的他们心中憋满了不忿。如今萧炎的归来。终一把将这个即将走进末路的家族拉了起来。前几日所受的气。也是在此刻。随着门外的惨叫声。缓消减武动乾坤。门外的惨叫。持续了仅仅不到一分钟时间。便是逐渐湮灭。而随着那惨……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "他必须死核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《他必须死》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        357,
+        358,
+        359
+      ],
+      "continuity_in": [
+        357
+      ],
+      "continuity_out": [
+        359
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 359,
+      "title": "安顿萧家",
+      "source": {
+        "start_line": 52624,
+        "end_line": 52882
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第359章导读】安顿萧家：yao-lao, medusa, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《安顿萧家》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十章 安顿萧家疯狂的杀意自萧炎体内渗透而出。所有人都是心惊胆颤的停下了手中的动作。望着前那狰狞的脸庞。皆是不敢出半点声响武动乾坤。“少族长那三名神秘人。是云岚宗的？大长老脸色略微有些难看的低声道武动乾坤。深吸了一口气。萧炎强行压抑着心中的杀意。微点了点头。声音阴寒的道：“既然她都说了你们体内有着云棱所残留的能量。那么自然是不了。而且。在我离开云岚宗后……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "安顿萧家核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        358,
+        359,
+        360
+      ],
+      "continuity_in": [
+        358
+      ],
+      "continuity_out": [
+        360
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 360,
+      "title": "再上云岚宗!",
+      "source": {
+        "start_line": 52883,
+        "end_line": 53063
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第360章导读】再上云岚宗!：yao-lao, medusa, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《再上云岚宗!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十一章 再上云岚宗!蔚蓝天空。万里无云。两个小黑点停留在遥遥天空上。★网更新迅速(╰→），小说齐全★俯视着下方那依山而建的乌坦城。在这种高度。刚好是能够将乌坦城一旁的魔兽山脉。也是收入眼中。一眼望去。连绵无尽的山峦。看上去颇为壮观武动乾坤。背后紫云翼轻轻振动。萧炎低头俯视着下方的乌坦城。良久之后。轻叹了一口气。这次离开。恐怕日后就不会再回来了啊武动乾……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "再上云岚宗!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        359,
+        360,
+        361
+      ],
+      "continuity_in": [
+        359
+      ],
+      "continuity_out": [
+        361
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 361,
+      "title": "药岩，云芝",
+      "source": {
+        "start_line": 53064,
+        "end_line": 53217
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第361章导读】药岩，云芝：medusa, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《药岩，云芝》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十二章 药岩，云芝冷喝声。如怒雷般。席卷山峦武动乾坤。云岚宗内。所有弟子都是抬起头。目光投向那蔚蓝天空上。那里。两道人影悬空而立。那森然杀意。则正是从领头的一位黑袍青年体内满溢而出武动乾坤。“萧炎？他怎么又来了？”当一些眼尖之人瞧清黑袍青年那冷漠脸庞之上。顿时。一道道惊呼声。在云岚宗内接连不断响了起来。这个当初将云岚宗闹的天的覆的青年。的每一名云岚宗……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "药岩，云芝核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《药岩，云芝》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        360,
+        361,
+        362
+      ],
+      "continuity_in": [
+        360
+      ],
+      "continuity_out": [
+        362
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 362,
+      "title": "击杀云棱",
+      "source": {
+        "start_line": 53218,
+        "end_line": 53365
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第362章导读】击杀云棱：yao-lao, medusa, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《击杀云棱》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十三章 击杀云棱云岚宗之内。所有都是抬头望着那双手青白火焰缓缓接触的萧炎。这一刻。绕是那些实力低微的弟子。也是开始感受到许些不安。一股骚动。从云岚宗内蔓了出来武动乾坤。“萧炎。你想干什么?”身为斗|者。云山更先感到那股不安的感觉。当下眼睛一瞪。厉声喝道武动乾坤。没有理会他的喝声。萧炎那充斥森然杀意的眼睛。死死的盯着两色火焰。随着两种异火的开始接触。顿……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "击杀云棱核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        361,
+        362,
+        363
+      ],
+      "continuity_in": [
+        361
+      ],
+      "continuity_out": [
+        363
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 363,
+      "title": "生死之局!",
+      "source": {
+        "start_line": 53366,
+        "end_line": 53555
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第363章导读】生死之局!：yao-lao, medusa, yun-yun, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《生死之局!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十四章 生死之局!雷鸣巨响炸响天空。刻。云岚=顶。犹如是在顷刻间。化为了一座喷发的火山一般。炽的青白火苗。化为火浪。成圆弧形扩散而开。这一霎。云岚山开始了烈颤抖。一道道巨大裂缝。顺着山壁蔓延而开。山石滚落。树木焚。俨然一副灭末日般的景象武动乾坤。汹火浪。在云,山山顶形成一巨大的火浪花之状。乃至方圆百里之的。皆是能够清晰可见武动乾坤。云岚宗方圆百里内。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "生死之局!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        362,
+        363,
+        364
+      ],
+      "continuity_in": [
+        362
+      ],
+      "continuity_out": [
+        364
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 364,
+      "title": "生死门",
+      "source": {
+        "start_line": 53556,
+        "end_line": 53685
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第364章导读】生死门：yao-lao, medusa, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《生死门》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十五章 生死门遥遥天空，在无数人的注视下，云山的两道残影，各自狠狠挥动着拳头，夹杂着那股让得人毛骨悚然的恐怖劲气，狠狠砸向萧炎脑袋。/首/发然而就在所有人都以为萧炎定然难逃一劫之时，天空之上，一股磅礴劲气涟漪猛然以萧炎为中心点，暴涌而出，只见劲气所过之处，两道即使是连海波东都难以正面抵挡的分身残影，却是骤然凝固，旋即在下方一道道呆滞的目光中，一声闷响……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "生死门核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《生死门》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        363,
+        364,
+        365
+      ],
+      "continuity_in": [
+        363
+      ],
+      "continuity_out": [
+        365
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 365,
+      "title": "斗宗强者间的大战...",
+      "source": {
+        "start_line": 53686,
+        "end_line": 54010
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第365章导读】斗宗强者间的大战...：yao-lao, medusa, yun-yun, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斗宗强者间的大战...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十六章 斗宗强者间的大战...随着周身一道道狂风的凝聚云山手指处的那道白光也是越来越刺眼。到的最后。几乎是犹如一轮天空上的耀日般武动乾坤。“风之极。陨杀。”某一刻。云山周遭-气瞬间凝固。指豁然指向萧炎。一声厉喝。手指处。白光暴闪。一道极为纤细的线。暴射而出武动乾坤。光线速度快捷的有些恐怖。其所过之处。空间震荡。一道漆黑的痕迹。遗留在天空上。显的极为刺……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斗宗强者间的大战...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《斗宗强者间的大战...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        364,
+        365,
+        366
+      ],
+      "continuity_in": [
+        364
+      ],
+      "continuity_out": [
+        366
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 366,
+      "title": "大逃亡开始",
+      "source": {
+        "start_line": 54011,
+        "end_line": 54110
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第366章导读】大逃亡开始：yao-lao, medusa, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大逃亡开始》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十七章 大逃亡开始茫茫密林，一眼望去，是那看不见尽头的葱郁绿色，偶尔一阵轻风吹过，顿时，在那葱郁林海之上，一道道巨大的绿浪，便是由远而近扩散而来，最后消失视线尽头，看上去颇为壮观武动乾坤。林海之上，是蔚蓝的天空，此时，空旷的天空上，正时不时的飞掠过几道身影，他们那犹如鹰般锐利的目光，仔细的在下方森林中扫过，不过由于这密林的面积实在是太过庞大，而且那连……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大逃亡开始核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        365,
+        366,
+        367
+      ],
+      "continuity_in": [
+        365
+      ],
+      "continuity_out": [
+        367
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 367,
+      "title": "养伤",
+      "source": {
+        "start_line": 54111,
+        "end_line": 54237
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第367章导读】养伤：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《养伤》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十八章 养伤树耸立的密林之中。$$茂密的枝叶将炽热的阳光遮掩而下★偶尔有着一些光斑从枝叶缝隙间射将而下。星点点的照在面上。组成一幅浑然天成的光斑图案。霎是美丽武动乾坤。丛林之中。一片安静。偶尔有着一道悠远且不知是何种魔兽所的低吼声。穿过密林阻挡。在林中徘徊不散武动乾坤。“唆”安静的森林间。一处树丛忽然一阵抖动。旋即一道黑影暴射而出。双脚轻点一处横移出……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "养伤核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《养伤》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        366,
+        367,
+        368
+      ],
+      "continuity_in": [
+        366
+      ],
+      "continuity_out": [
+        368
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 368,
+      "title": "节攀升!晋级!",
+      "source": {
+        "start_line": 54238,
+        "end_line": 54346
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第368章导读】节攀升!晋级!：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《节攀升!晋级!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百六十九章 节攀升!晋级!身处火炉，这是萧炎现在唯一的感受武动乾坤。在将那枚丹药吞下肚后，一股火热之感，便是猛然自小腹处爆发而起，旋即化为一道道炽热支流，汹涌的撞进体内一条条经脉中，因为热流的温度，最后竟然是导致经脉中出现了许些淡淡的氲气武动乾坤。热流的温度，随着运转速度的加剧，也是逐渐变得炽热，以至于每运转一圈，萧炎嘴角便是会忍不住的轻轻抽搐，药老所说……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "节攀升!晋级!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《节攀升!晋级!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        367,
+        368,
+        369
+      ],
+      "continuity_in": [
+        367
+      ],
+      "continuity_out": [
+        369
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 369,
+      "title": "天火三玄变!",
+      "source": {
+        "start_line": 54347,
+        "end_line": 54488
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第369章导读】天火三玄变!：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《天火三玄变!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十章 天火三玄变!山洞之中，在继接连两道轻吟之声后，出乎药老意外的，那原本还可以再提升一星实力的萧炎，却并未借着这股势，继续一路直冲，反而是缓缓稳下了气息，开始彻底消化着那忽然间猛涨的能量。/首/发手掌抚着胡须，药老望着那脸庞如温玉般的闭目青年，略微沉吟，旋即恍然，欣慰的点了点头，笑道：“在力量面前，还能把持本心，不贪不骄，知足而退，不错，不错接连两……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "天火三玄变!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        368,
+        369,
+        370
+      ],
+      "continuity_in": [
+        368
+      ],
+      "continuity_out": [
+        370
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 370,
+      "title": "秘法的妙处",
+      "source": {
+        "start_line": 54489,
+        "end_line": 54624
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第370章导读】秘法的妙处：yao-lao, xiao-xun-er, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《秘法的妙处》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十一章 秘法的妙处山洞内，宽大的光幕，悬浮在半空，其中整齐的漂浮着无数字体，并且，在字体一旁，还有着一副极其繁复的人体光像，光像内，一道道复杂的光线，互相连接，组成一副玄奥诡异的路线武动乾坤。萧炎目光略带着几分茫然的扫过光幕，旋即转头望着那眼中精光大盛的药老，心头忍不住的一跳，低声道：“老师，您知道这东西？”“嗯。”眼中精芒缓缓褪去，药老笑着点了点头……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "秘法的妙处核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《秘法的妙处》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        369,
+        370,
+        371
+      ],
+      "continuity_in": [
+        369
+      ],
+      "continuity_out": [
+        371
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 371,
+      "title": "血腥报复!",
+      "source": {
+        "start_line": 54625,
+        "end_line": 54868
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第371章导读】血腥报复!：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《血腥报复!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十二章 血腥报复!夜，随着时间的流逝，缓缓淡去，当遥远天边第一抹晨辉遍洒大地时，那沉寂了一夜的魔兽山脉，终于是再度迸发了生机，无数巨型鸟兽齐声长鸣，嘶鸣声，在森林中，久久不散陡峭的山涧处，一块巨石忽然滚落而下，沿途所发出的巨响，将附近盘旋的鸟兽惊得急忙振翅而逃武动乾坤。山石滚落，一个漆黑的洞口露了出来，旋即一袭黑袍身影，缓缓步出，微眯着狭长的眸子扫了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "血腥报复!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《血腥报复!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        370,
+        371,
+        372
+      ],
+      "continuity_in": [
+        370
+      ],
+      "continuity_out": [
+        372
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 372,
+      "title": "魔兽山脉中的围杀...",
+      "source": {
+        "start_line": 54869,
+        "end_line": 55016
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第372章导读】魔兽山脉中的围杀...：yao-lao, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魔兽山脉中的围杀...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十三章 魔兽山脉中的围杀...茫茫密林，葱郁的树木，遮掩了将近半壁天空，不过偶尔间，能够从树叶缝隙间，见到那从天空上不断呼啸而过而飞行魔兽以及那令人胆寒的刺骨杀意武动乾坤。巨大的林海上空，几十头飞行魔兽分散成圆形状，将一块极大的森林包围着，而此时，这些飞行魔兽，正远近呼应的缓缓对着中心位置收缩而去武动乾坤。一处茂密树丛中，一对视线悄悄的透出树叶缝隙，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魔兽山脉中的围杀...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        371,
+        372,
+        373
+      ],
+      "continuity_in": [
+        371
+      ],
+      "continuity_out": [
+        373
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 373,
+      "title": "突如其来的援兵",
+      "source": {
+        "start_line": 55017,
+        "end_line": 55170
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第373章导读】突如其来的援兵：yao-lao, medusa, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《突如其来的援兵》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十四章 突如其来的援兵森林中，萧炎咬着牙死死的望着天空上的云韵，他也知道，在后者刚刚出现之时，他恐怕便是彻底暴露了身形，只不过却是不知道，这个曾经与他有过纠葛的女人，是否天空上，云韵紧闭的眼眸逐渐睁开，纤指缓缓抬起，最后带着几分挣扎与颤抖，指向了萧炎的方向，而随着她手指之处，一道淡淡的白光忽然从黑暗中涌出，虽然白光并不强盛，可在这遍布的黑暗中，无是犹……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "突如其来的援兵核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《突如其来的援兵》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        372,
+        373,
+        374
+      ],
+      "continuity_in": [
+        372
+      ],
+      "continuity_out": [
+        374
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 374,
+      "title": "逃脱",
+      "source": {
+        "start_line": 55171,
+        "end_line": 55327
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第374章导读】逃脱：yao-lao, medusa, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《逃脱》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十五章 逃脱身体静静的矗立在树干之上，萧炎冷冷的望着森林出口处的云韵，手掌一晃，巨大的玄重尺闪现而出，重尺挥动，出撕破空气的压迫声响，直指向那美丽人儿武动乾坤。缓缓抬头，云韵美眸盯着树干上的黑袍青年，脸颊上闪过一抹复杂神色，低声道：“你没事吧？”“托你的福，差点葬身在这里。”萧炎微微笑了笑，然而那从嘴中吐出的话语，却是冰寒得没有丝毫温度武动乾坤。“我……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "逃脱核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《逃脱》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        373,
+        374,
+        375
+      ],
+      "continuity_in": [
+        373
+      ],
+      "continuity_out": [
+        375
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 375,
+      "title": "大岭城",
+      "source": {
+        "start_line": 55328,
+        "end_line": 55424
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第375章导读】大岭城：yao-lao, medusa, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大岭城》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十六章 大岭城大岭城，位于加玛帝国西北省份，其规模虽然比不上帝都那些大城市，可比起乌坦城来，却依然是要强上不少，而且由于近邻着那几乎横跨了大半个帝国的魔兽山脉，因此，无数冒险者以及商团来往以此，给城市注入了源源不断的人气。首发大岭城北面城门，来往的人流，几乎是将城门阻塞了去，在北门之外不远处，便是那一望无尽的魔兽山脉，三三两两阵容不一的佣兵队伍，正犹……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大岭城核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        374,
+        375,
+        376
+      ],
+      "continuity_in": [
+        374
+      ],
+      "continuity_out": [
+        376
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 376,
+      "title": "离开前的准备",
+      "source": {
+        "start_line": 55425,
+        "end_line": 55545
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "turning_point"
+      ],
+      "teaser": "【第376章导读】离开前的准备：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《离开前的准备》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十七章 离开前的准备缓步走进城市。，萧炎穿梭在人流汹涌的街道之上。目光扫动。眉头却是微微一皱。因为他发现。在那街道的某些柱子上。竟然也是贴着那由云岚宗所发出的通缉令。在那些白纸上。他的容貌被画的极为清晰。而那通缉令下方的阶功法报酬。也是引的不少人停留其下。眼中流露着许些贪婪。玄阶功法。对于很多人来说。都是属于可遇不可求的东西武动乾坤。“看来还真是有些……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "离开前的准备核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《离开前的准备》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        375,
+        376,
+        377
+      ],
+      "continuity_in": [
+        375
+      ],
+      "continuity_out": [
+        377
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 377,
+      "title": "黑角域",
+      "source": {
+        "start_line": 55546,
+        "end_line": 55636
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第377章导读】黑角域：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黑角域》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十八章 黑角域三天之后。大岭城之外的某一处隐蔽森林处。一袭黑袍缓步渡出。抬头望了望大路上偶尔赶过的路人。在分辨了路途方向之后。便是抬脚对着大路南方踏脚行去武动乾坤。黑袍人脚步的踏动。并不是如何快捷。然后若是有细心观察之人。则是能够发现。每一次黑袍人的脚步踏下。其身形便是将会有些诡异的前进将近一米多的距离。那情景。就如是在进行着|范围的挪移一般。颇为奇……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黑角域核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《黑角域》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        376,
+        377,
+        378
+      ],
+      "continuity_in": [
+        376
+      ],
+      "continuity_out": [
+        378
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 378,
+      "title": "暴露",
+      "source": {
+        "start_line": 55637,
+        "end_line": 55808
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第378章导读】暴露：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《暴露》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百七十九章 暴露大队人马从道路之上呼啸而过，带起一路黄尘，沿途嬉笑喝骂声，不绝于耳武动乾坤。在人马队伍的末端，是一些推着马车以及扛着旗跑的人，他们并没有身穿与前面那些佣兵同样的服饰，因为他们仅仅是佣兵团中一些负责洗衣做饭搭帐篷的下人而已，在这队满脸布满灰尘的仆人队伍中，一个推着车架，脑袋上戴着一顶破烂遮阳帽子的人忽然微微抬头，那张被灰尘布满的脸庞，除了一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "暴露核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        377,
+        378,
+        379
+      ],
+      "continuity_in": [
+        377
+      ],
+      "continuity_out": [
+        379
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 379,
+      "title": "离开加玛帝国!",
+      "source": {
+        "start_line": 55809,
+        "end_line": 55959
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第379章导读】离开加玛帝国!：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《离开加玛帝国!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十章 离开加玛帝国!城门之口，黑压压的大群人围拢再此，一道道目光，夹杂着许些期盼与好奇的停留在空旷地带的两人身上，这段时间，萧炎的名头，几乎已经让得所有加玛帝国的人所知晓，而对于这个胆敢以一己之力抗衡整个云岚宗的传奇人物，很多人都仅仅是听说过，而如今有幸亲眼见到他出手，当下无不是满脸期待，他们很想知道，那传得沸沸扬扬的消息，究竟是否属实？这个年龄不过……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "离开加玛帝国!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《离开加玛帝国!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        378,
+        379,
+        380
+      ],
+      "continuity_in": [
+        378
+      ],
+      "continuity_out": [
+        380
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 380,
+      "title": "神秘势力，魂殿?",
+      "source": {
+        "start_line": 55960,
+        "end_line": 56071
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第380章导读】神秘势力，魂殿?：yao-lao, na-lan-yan-ran, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《神秘势力，魂殿?》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十一章 神秘势力，魂殿?“镇鬼关”的东面城门，一位灰袍青年缓步走出，站在护城河之外，他眺目遥望了一下远处的重重山峦，然后再转头往了一眼这加玛帝国边境的最后一座城市，从这里出去之后，他便是真正的天高海阔任鸟飞了，外面的世界，定然会比这个帝国更加精彩深吸了一口气，他终于是不再有所留恋，大踏步的对着远处行去，削瘦的背影，缓缓消失在大道尽头武动乾坤。在灰袍青……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "神秘势力，魂殿?核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        379,
+        380,
+        381
+      ],
+      "continuity_in": [
+        379
+      ],
+      "continuity_out": [
+        381
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 381,
+      "title": "迦南学院，萧家有...",
+      "source": {
+        "start_line": 56072,
+        "end_line": 56246
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第381章导读】迦南学院，萧家有...：yao-lao, xiao-xun-er, medusa, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《迦南学院，萧家有...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十二章 迦南学院，萧家有...迦南学院，一个座落在大陆中心位置的古老学院，千百年来，从这里走出的巅峰强者，无一不是在大陆上拥有着赫赫威名，并且名震一方武动乾坤。一个学院，最可怕的地方并不是其师资力量有多么雄厚，而是从这个学院走出的那些成千上万的强者，若是哪一天迦南学院受到了毁灭危机，而将那些从学院出去的强者召集而回，难以想象，这股力量，将会有多恐怖虽……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "迦南学院，萧家有...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "medusa",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        380,
+        381,
+        382
+      ],
+      "continuity_in": [
+        380
+      ],
+      "continuity_out": [
+        382
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 382,
+      "title": "黑域大平原",
+      "source": {
+        "start_line": 56247,
+        "end_line": 56352
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第382章导读】黑域大平原：yao-lao, na-lan-yan-ran, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黑域大平原》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十三章 黑域大平原“黑角域”，一块因为混乱，而凝聚而在迦南学院之外构建起来的特殊地域，虽然大陆上很多人都对为什么在迦南学院这古老而悠久的学院之外，会存在着这么一种与学院气氛格格不入的混乱地域而感到惑，不过不管如何，存在便是真理，虽然经过这么多年的种种压制，可那“黑角域”却依然是在以一种让人目瞪口呆的速度，成倍扩张着，而它所展现出来的超级小强打不死特性……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黑域大平原核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《黑域大平原》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        381,
+        382,
+        383
+      ],
+      "continuity_in": [
+        381
+      ],
+      "continuity_out": [
+        383
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 383,
+      "title": "不需要慈悲的混乱...",
+      "source": {
+        "start_line": 56353,
+        "end_line": 56440
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第383章导读】不需要慈悲的混乱...：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《不需要慈悲的混乱...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十四章 不需要慈悲的混乱...一望无际的平原，放眼望去，尽是单调的黑色，印衬着那略微有些昏暗的天空，一股压抑并且令人心情烦躁的气氛，缭绕在平原之上，在这种有些诡异的地方，也难怪会滋生出那些混乱规则武动乾坤。安静的平原上，一道黑影忽然自远处飙射而来，黑影速度极为快捷，闪掠间犹如瞬移一般，只不过每一次落脚时，都会带起一道犹如闷雷般的炸响，炸响成涟漪状，在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "不需要慈悲的混乱...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《不需要慈悲的混乱...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        382,
+        383,
+        384
+      ],
+      "continuity_in": [
+        382
+      ],
+      "continuity_out": [
+        384
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 384,
+      "title": "黑榜，黑风暴",
+      "source": {
+        "start_line": 56441,
+        "end_line": 56576
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第384章导读】黑榜，黑风暴：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黑榜，黑风暴》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十五章 黑榜，黑风暴漆黑的大平原之上，一支车队带起一缕淡淡的黄尘，旋即奔驰而过，最后消失在视线尽头。/首/发略微有些颠簸的车内，萧炎盘膝而坐，在他的面前，便是那位叫做多玛的商队主事人，这支商队的护卫，也的确如同他所说，并不是很强，其中最强的一人，似乎实力也就在五星斗师左右，当然，作为原本便被多玛聘请为的护卫长，那个家伙自然是对忽然加入的萧炎有些不喜，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黑榜，黑风暴核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        383,
+        384,
+        385
+      ],
+      "continuity_in": [
+        383
+      ],
+      "continuity_out": [
+        385
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 385,
+      "title": "黑印城",
+      "source": {
+        "start_line": 56577,
+        "end_line": 56697
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第385章导读】黑印城：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黑印城》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十六章 黑印城趴在草丛中，四周的狂风呼啸作响，黑暗中，萧炎再不敢移动半点身体，生怕那隐藏在黑暗中神秘东西未曾远去，然后忽然暴起杀人。/首/发黑暗中，没有时间概念，就在萧炎心中略微泛起一丝淡淡的烦躁时，一缕微弱的阳光，却是忽然照射进入黑暗中，那嘲，就犹如一个没有丝毫漏缝的鸡蛋，被轻轻敲裂开来一般，温暖的阳光，驱逐了其中的黑暗武动乾坤。随着第一偻阳光出现……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黑印城核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《黑印城》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        384,
+        385,
+        386
+      ],
+      "continuity_in": [
+        384
+      ],
+      "continuity_out": [
+        386
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 386,
+      "title": "经济窘迫的萧炎",
+      "source": {
+        "start_line": 56698,
+        "end_line": 56806
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第386章导读】经济窘迫的萧炎：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《经济窘迫的萧炎》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十七章 经济窘迫的萧炎车队从山顶呼啸而下，十几分钟后，便是接近了那漆黑的城门，速度逐渐减缓，然后排在那人流之后，安静的等着队伍的进入武动乾坤。站在马车之前，萧炎抬头望着那黑漆漆的巨大城墙，目光扫了一眼城门正中央“黑印城”三个大字，视线缓缓下移，最后停在城门口的十几位身着黑衣劲装男子身上，他们似乎就犹如外界的守城兵一样，只不过这里，任何进入其中的人，都……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "经济窘迫的萧炎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《经济窘迫的萧炎》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        385,
+        386,
+        387
+      ],
+      "continuity_in": [
+        385
+      ],
+      "continuity_out": [
+        387
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 387,
+      "title": "炼丹脱贫",
+      "source": {
+        "start_line": 56807,
+        "end_line": 56927
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第387章导读】炼丹脱贫：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼丹脱贫》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十八章 炼丹脱贫从千药坊走出来。萧炎仰头望着略有些阴沉的天。长长的吐了一口气。从现在起。他正式成为赤贫一族了啊。四幅炼制三纹青灵丹的药材。不仅将他身上的十三万金币全部消耗殆尽。而且最后还是拿出了整整三瓶二十七粒回气丹。方才顺利的将那些药材从一脸诧异的服务员手中拿走。要清楚。按照市价。一枚回气丹也能买到五千多金币一枚。而这二十七粒一起售。就算除去了零头……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼丹脱贫核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        386,
+        387,
+        388
+      ],
+      "continuity_in": [
+        386
+      ],
+      "continuity_out": [
+        388
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 388,
+      "title": "黑印拍卖场",
+      "source": {
+        "start_line": 56928,
+        "end_line": 57045
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第388章导读】黑印拍卖场：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黑印拍卖场》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百八十九章 黑印拍卖场站在人流汹涌的街道尽头，萧炎抬头望着那出现在面前的巨无霸拍卖场，嘴中忍不住的发出一道惊叹之声，当初在加玛帝国帝都看见米特尔家族的拍卖总会时，还为其规模有些感到吃惊，而没想到如今到了这黑印城，方才知晓，米特尔拍卖场与这个名为“黑印”的拍卖场比起来，无是有些小巫见大巫武动乾坤。黑印拍卖场大门处，几十个脸色淡漠的黑衣劲装男子腰间佩着锋利武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黑印拍卖场核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        387,
+        388,
+        389
+      ],
+      "continuity_in": [
+        387
+      ],
+      "continuity_out": [
+        389
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 389,
+      "title": "拍卖会开始",
+      "source": {
+        "start_line": 57046,
+        "end_line": 57166
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第389章导读】拍卖会开始：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拍卖会开始》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十章 拍卖会开始出了黑印拍卖场。萧炎便是一路径直回了所住的旅馆。在小房间中休息了一段时间。直|卖唱始的时间快要到达后。方才退出修炼状态。精神抖的穿起宽大的黑。不急不缓的出了旅馆。再度对着拍卖场行去武动乾坤。当萧炎再次出现在拍卖场门口时。那近乎人山人海的人流以及冲天而起的吵杂声。骂架声。的他略微有些呆滞。没想到这拍卖大会竟然吸引了这么多人。果然不愧是黑……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拍卖会开始核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        388,
+        389,
+        390
+      ],
+      "continuity_in": [
+        388
+      ],
+      "continuity_out": [
+        390
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 390,
+      "title": "飞行斗技:雷蝠天...",
+      "source": {
+        "start_line": 57167,
+        "end_line": 57296
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第390章导读】飞行斗技:雷蝠天...：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《飞行斗技:雷蝠天...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十一章 飞行斗技:雷蝠天...清脆的钟吟。缓缓在拍卖场之内响彻。而随着钟声的响起。场的中那喧闹至极的吵杂声。是逐渐减弱。无数道目光。投向了水晶台上。满眼火热。“呵呵。诸位。想必也是等的有些不耐烦了。既然如此。我也就不再说些官面话来讨嫌了。”那位身着服的白发老者。眯眯的望着场的内黑压压的人头。最后隐晦的目光扫过坐于前排的那些势力。嘹亮的声音。在场中回荡……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "飞行斗技:雷蝠天...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        389,
+        390,
+        391
+      ],
+      "continuity_in": [
+        389
+      ],
+      "continuity_out": [
+        391
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 391,
+      "title": "雷蝠天翼的争夺以...",
+      "source": {
+        "start_line": 57297,
+        "end_line": 57444
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第391章导读】雷蝠天翼的争夺以...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《雷蝠天翼的争夺以...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十二章 雷蝠天翼的争夺以...漆黑的蝙蝠双翼之。隐隐透着些淡紫的雷光。许些弧度。看上去犹如有着实质形状的|-电一般。颇玄异武动乾坤。这所谓的雷蝠天翼一场。拍卖场中便是有些安静了下来。一些不太识货之人。略微有些茫然。而那些听说过飞行斗技之名的。例如前方的血宗。黑骷墓等势力。则是略有些骚动。显然。这所谓的雷蝠天翼。让他们心动了起。毕竟。只拥有了这个东西。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "雷蝠天翼的争夺以...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《雷蝠天翼的争夺以...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        390,
+        391,
+        392
+      ],
+      "continuity_in": [
+        390
+      ],
+      "continuity_out": [
+        392
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 392,
+      "title": "横生变故",
+      "source": {
+        "start_line": 57445,
+        "end_line": 57574
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "turning_point"
+      ],
+      "teaser": "【第392章导读】横生变故：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《横生变故》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十三章 横生变故水晶台上，白发拍卖师口沫横飞的介绍着这古老残破布片是如何如何的神秘，总之他是费尽所有力气的想将这古老布片的价值提升一些，可惜似乎效果不大，因为在他不耐其烦的介绍下，场中已经开始有些人不耐烦了起来，一些脾气火爆的人，更是直接骂了出来武动乾坤。听得下方那依然没有多热烈的反映，白发拍卖师也只得无奈的摇了摇头，咽了一口唾沫润着干涩的喉咙，苦笑……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "横生变故核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《横生变故》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        391,
+        392,
+        393
+      ],
+      "continuity_in": [
+        391
+      ],
+      "continuity_out": [
+        393
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 393,
+      "title": "地阶身法斗技:三...",
+      "source": {
+        "start_line": 57575,
+        "end_line": 57695
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第393章导读】地阶身法斗技:三...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《地阶身法斗技:三...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十四章 地阶身法斗技:三...拍卖。依然是在无数人期待之中缓缓度过。在经过那道神秘残破图片之后。期间又是出现了一些带动了全场气氛的好东西。而刚好的。萧炎的那枚三纹青灵丹。所掀起的**。更是其中翘楚武动乾坤。作为最顶级的青灵。即使是黑角域中。也很少有人见过真正的三种丹纹。毕竟。那所需要的三种不同火焰来炼制的条件。实在是有些苛刻。所以。当三纹青灵丹出场的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "地阶身法斗技:三...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        392,
+        393,
+        394
+      ],
+      "continuity_in": [
+        392
+      ],
+      "continuity_out": [
+        394
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 394,
+      "title": "重头戏!",
+      "source": {
+        "start_line": 57696,
+        "end_line": 57822
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第394章导读】重头戏!：yao-lao, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《重头戏!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十五章 重头戏!随着“三千雷动”的出场。拍卖场的气氛便是进入了最火爆的**时段。那些前方的大势力。也终于是开始了让无数人目瞪口呆的赤膊红脸竞价武动乾坤。“三千雷动”。并有设置最初的底价。不过在那拍卖师手中拍卖锤刚刚落下的霎那。价格便是猛然飙上了两百万高价。这等恐怖增速。几乎是萧炎自出生以来么多年。所见武动乾坤。一掷千金。如此豪气与气魄。被那些势力在这……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "重头戏!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《重头戏!》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        393,
+        394,
+        395
+      ],
+      "continuity_in": [
+        393
+      ],
+      "continuity_out": [
+        395
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 395,
+      "title": "七品丹药:阴阳玄...",
+      "source": {
+        "start_line": 57823,
+        "end_line": 57895
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第395章导读】七品丹药:阴阳玄...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《七品丹药:阴阳玄...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十六章 七品丹药:阴阳玄...三百六十六章七品丹药：阴阳玄龙丹！药老话语中那所噙的阴沉与暴怒，自然是没有逃出萧炎的感应，当下不由得一愣，在心中小心翼翼的道：“老师，您怎了？”心中一道深深吸气的声音响起，旋即药老那强行压抑着某种情感的淡淡话语也是传出:“没什么先看看吧，有些事，容我日后再告诉你，现在告诉你，有些早了。”说出这话后，药老便是陷入了沉默，而……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "七品丹药:阴阳玄...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《七品丹药:阴阳玄...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        394,
+        395,
+        396
+      ],
+      "continuity_in": [
+        394
+      ],
+      "continuity_out": [
+        396
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 396,
+      "title": "尾随",
+      "source": {
+        "start_line": 57896,
+        "end_line": 58034
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第396章导读】尾随：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《尾随》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十七章 尾随缓步走出拍卖场，萧炎站在门口处，抬头望着那略微昏暗的天空，长长的吐了一口气，然后转身对着拍卖场的一处客厅行去武动乾坤。“还是先把拍卖的钱以及拍买的东西拿到手吧。”萧炎边走边自言自语道武动乾坤。进入客厅，萧炎将自己的那二级贵宾卡交给了一位侍女，说清了来意之后，便是被后者恭敬的请了进去武动乾坤。“大人，请您稍等刻，拍卖会马上就要结束了，到时候……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "尾随核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        395,
+        396,
+        397
+      ],
+      "continuity_in": [
+        395
+      ],
+      "continuity_out": [
+        397
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 397,
+      "title": "埋伏截杀",
+      "source": {
+        "start_line": 58035,
+        "end_line": 58161
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第397章导读】埋伏截杀：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《埋伏截杀》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十八章 埋伏截杀茂密丛林中，一道黑影忽然闪掠上一处茂密树丛中，目光透过树枝缝隙，望向距此处仅有百米距离的一处大树下，那里，十几道人影正在做暂时的休息。/首/发丛林中，萧炎抬头望了一眼天色，略微迟了一下，呼吸平稳得没有丝毫波动，虽然目标就在面前，可他却并没有急着出手，不提范凌本身便是一名斗灵强者，就是其身旁的两位老者，实力明显也是在斗灵级别左右，再加上……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "埋伏截杀核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《埋伏截杀》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        396,
+        397,
+        398
+      ],
+      "continuity_in": [
+        396
+      ],
+      "continuity_out": [
+        398
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 398,
+      "title": "大路激战",
+      "source": {
+        "start_line": 58162,
+        "end_line": 58303
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第398章导读】大路激战：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大路激战》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三百九十九章 大路激战“杀！”对于范:的阴森喝声，那位天蛇府的青长老没有丝毫迟，脸色阴沉的一声厉喝，雄浑斗气自体内暴涌而出，强横气场，直接是将附近地面的树叶杂物，震得尽数倒射而出，看其这般气势，实力恐怕已晋斗王级别。首发而在她的这道喝声下，其身旁将近二十几名天蛇府的强者，也是呛的一声，拔出武器，斗气奔涌，一偻缕颜色各不相同的蛇形斗气，在体表循环游走，最后猛……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大路激战核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大路激战》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        397,
+        398,
+        399
+      ],
+      "continuity_in": [
+        397
+      ],
+      "continuity_out": [
+        399
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 399,
+      "title": "鹬蚌相争，萧炎得利!",
+      "source": {
+        "start_line": 58304,
+        "end_line": 58475
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第399章导读】鹬蚌相争，萧炎得利!：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《鹬蚌相争，萧炎得利!》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四百章 鹬蚌相争，萧炎得利!一群红影犹如一股肆虐洪水般，从山林间呼啸而过，那股浓郁的血腥气息，直接是使得一些外出觅食的低阶魔兽不敢靠上前来，只得远远的用着畏忌的目光望着那群从不远处奔掠而过的人群。首发在那红色人群闪掠而过之后不久，又是一道黑色影子从树立间跳跃闪现而出，他闪身停留在一处树干上，抬头远眺了一下那些埋头狂奔的红色人影，忍不住的皱了皱眉，低声道：“……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "鹬蚌相争，萧炎得利!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        398,
+        399,
+        400
+      ],
+      "continuity_in": [
+        398
+      ],
+      "continuity_out": [
+        400
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 400,
+      "title": "天火三玄变第一重:...",
+      "source": {
+        "start_line": 58476,
+        "end_line": 58611
+      },
+      "arc_id": "three-year-agreement",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第400章导读】天火三玄变第一重:...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《天火三玄变第一重:...》的关键进程。在three-year-agreement的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四百零一章 天火三玄变第一重:...从银色卷轴到手。再到被抢夺而去。期间不过是电光火石间而已。而在的那戏谑笑声传出后。范凌终于是从那突如其来的变故中回过神来。脸色陡然阴沉。缓缓抬头。目光森然的望着树干上的黑袍人。在瞧那在拍卖场所见过的熟悉打扮后。不由一怔。旋即阴冷的道：“是你？”在范凌说话之时。那场中还余有战斗力的十几名血卫。皆是极有默契的四下闪掠而开。刚……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "天火三玄变第一重:...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《天火三玄变第一重:...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        399,
+        400,
+        401
+      ],
+      "continuity_in": [
+        399
+      ],
+      "continuity_out": [
+        401
+      ],
+      "analysis_status": "final"
+    }
+  ]
+}

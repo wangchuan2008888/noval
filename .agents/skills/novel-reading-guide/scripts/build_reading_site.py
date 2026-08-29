@@ -146,8 +146,21 @@ def prepare_output(output: Path, replace: bool) -> None:
             raise ValueError(f"输出目录已存在：{output}。如确认覆盖，请添加 --replace。")
         if output.resolve() in {Path(output.anchor).resolve(), Path.cwd().resolve()}:
             raise ValueError("拒绝覆盖磁盘根目录或当前工作目录。")
-        shutil.rmtree(output)
-    output.mkdir(parents=True, exist_ok=False)
+        try:
+            shutil.rmtree(output)
+            output.mkdir(parents=True, exist_ok=False)
+        except OSError:
+            # 当目录被本地静态服务器作为 CWD 占用时，清理其内部所有文件与子目录
+            for item in output.iterdir():
+                if item.is_dir():
+                    shutil.rmtree(item, ignore_errors=True)
+                else:
+                    try:
+                        item.unlink(missing_ok=True)
+                    except OSError:
+                        pass
+    else:
+        output.mkdir(parents=True, exist_ok=False)
 
 
 def extract_text_assets(

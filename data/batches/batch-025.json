@@ -1,0 +1,1899 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "batch-025",
+  "status": "ready_for_integration",
+  "source_sha256": "ad75aa30839896f8df0ec550399720ab35452693fe66d49ced410bb4468cf706",
+  "owned_range": [
+    2401,
+    2438
+  ],
+  "read_range": [
+    2399,
+    2438
+  ],
+  "skeleton_version": "2026-08-29-final-v1",
+  "chapters": [
+    {
+      "id": 2401,
+      "title": "陪他疯狂一把",
+      "source": {
+        "start_line": 396283,
+        "end_line": 396469
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《陪他疯狂一把》展开，推动后续主线进展。",
+      "summary": "方尘在幽灵界时间加速秘境中修炼百年，灵魂境界已达四转大仙，第十二朵虚空之莲仍为花骨朵。他费尽周折将琉璃大仙和混沌大仙骗出幽灵界，目的是为了秘密试验自己新炼制的“天魔散”。方尘担心幽灵界界灵会察觉天魔散的存在，因此特意离开界灵感应范围，甚至提议将幽灵珠藏匿。琉璃和混沌起初不解其意，方尘取出装有天魔散的葫芦，琉璃认出此物后震惊不已。方尘解释需找魔族试验药效，两位大仙虽感无奈，但考虑到有他们护佑，遇到九转大仙级强敌的概率极低，最终决定陪他疯狂一把，一同前往寻找魔族试药。",
+      "key_events": [
+        "第2401章：方尘灵魂突破至四转大仙，为秘密试验天魔散，设计将琉璃、混沌两位大仙带离幽灵界。",
+        "交锋：方尘取出天魔散葫芦，琉璃大仙认出此物，方尘表明需找魔族试药，两位大仙虽震惊但同意陪同。",
+        "转折：方尘透露隐瞒界灵的真正动机，两位大仙决定陪他冒险，三人一同出发寻找魔族。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已炼制出天魔散，需找魔族试验威力，为此不惜隐瞒幽灵界界灵。",
+        "核心线索：天魔散是方尘在时间加速秘境中秘密炼制的特殊药物，其具体功效尚未揭晓，但方尘极为重视。"
+      ],
+      "evidence_chapters": [
+        2401
+      ],
+      "continuity_in": [
+        2400
+      ],
+      "continuity_out": [
+        2402
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2402,
+      "title": "卷入魔族巢穴",
+      "source": {
+        "start_line": 396470,
+        "end_line": 396656
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《卷入魔族巢穴》展开，推动后续主线进展。",
+      "summary": "方尘随琉璃大仙与混沌大仙在终焉之地寻找幽灵界，三日未遇魔族，正疑惑时突遭空间裂缝吞噬，被卷入一处魔族巢穴。面对上百位魔族强者，其中包括十余位八转及一位九转大仙级魔族，琉璃与混沌陷入绝境，连求援的幽灵珠也因环境干扰失效。然而方尘非但不惧反而兴奋，唤出灵鹤小鹤将众人收入灵鹤空间，凭借其超凡的空间穿梭能力遁入虚空，令魔族灵识完全无法察觉。随后方尘取出新炼制的无色无味天魔散，命小鹤撒遍整个巢穴。此药专克魔族，能渗透入体，而琉璃与混沌对其实际效果尚存疑虑，只能暗中观望，静待药效发作。",
+      "key_events": [
+        "第2402章：方尘一行被空间裂缝意外吸入魔族巢穴，陷入重围",
+        "交锋：方尘以灵鹤空间术隐匿行踪，避开魔族灵识扫描",
+        "关键突破：方尘释放天魔散渗透魔族巢穴，试图以毒药克敌"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天魔散是方尘专门针对魔族炼制的克星之药，无色无味，对其他种族无效",
+        "核心线索：灵鹤小鹤拥有超越魔族灵识探测的空间穿梭能力，是方尘脱困的关键倚仗"
+      ],
+      "evidence_chapters": [
+        2402
+      ],
+      "continuity_in": [
+        2401
+      ],
+      "continuity_out": [
+        2403
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2403,
+      "title": "天魔散发威",
+      "source": {
+        "start_line": 396657,
+        "end_line": 396882
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《天魔散发威》展开，推动后续主线进展。",
+      "summary": "方尘让小鹤在魔窟中撒下天魔散，意图大规模毒杀魔族。药效迅速发作，从低阶魔族开始，陷入疯狂并互相残杀，短短一天内连真仙级魔族也沦陷，十天后连大仙级强者都难以幸免。整个魔族巢穴化为修罗地狱，仅剩不到百名四转大仙以上的魔族在咬牙支撑，连九转大仙级的头领也双眼通红，被迫下令撤离。方尘察觉后，不顾混沌大仙和琉璃大仙的震惊，执意冲出小鹤空间，欲将这些身怀重宝的强大魔头一网打尽。面对众魔的围攻，方尘施展十连转身法消失，随后两位大仙也被放出助战。方尘直言要杀光所有魔头夺宝，琉璃大仙虽怒骂其胆大包天，但大战已不可避免。",
+      "key_events": [
+        "第2403章：方尘释放天魔散，魔族巢穴内从低阶到真仙、大仙级强者接连发狂，陷入自相残杀的绝境",
+        "交锋：九转大仙级魔族头领率残部试图撤离，方尘主动冲出空间拦截，遭众魔围攻后以十连转身法闪避",
+        "重大转折：方尘决意将剩余大仙级魔头全部击杀夺宝，混沌大仙与琉璃大仙被迫参战，双方对峙升级"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天魔散威力惊人，可影响真仙乃至大仙级强者，但四转大仙以上修为者仍能勉强压制毒性",
+        "核心线索：方尘的目标是彻底覆灭该魔族巢穴并夺取众魔身上的宝物，剩余魔族已不足百人且实力大损"
+      ],
+      "evidence_chapters": [
+        2403
+      ],
+      "continuity_in": [
+        2402
+      ],
+      "continuity_out": [
+        2404
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2404,
+      "title": "就剩下魔头了",
+      "source": {
+        "start_line": 396883,
+        "end_line": 397075
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《就剩下魔头了》展开，推动后续主线进展。",
+      "summary": "在魔族巢穴中，混沌大仙与琉璃大仙欲撤离，方尘却决意全歼魔头，并趁机将两枚咒印植入二人体内。面对魔族围攻，方尘取出黑色木鱼配合浮仙剑敲击，同时施展浮仙变与混沌巨人异象，气息攀升至接近四转大仙境界。降魔咒与木鱼声在封闭空间内威力几何倍增，令本就中了天魔散的魔头们头痛欲裂、实力大损。此时，琉璃大仙与混沌大仙在咒印驱动下首次合力施展浮仙战阵，凝聚出九转大仙级别的金色巨人，一拳重创九转魔头。战斗中，混沌大仙祭出本命仙器混沌钟，硬撼九转魔头的通天魔印，双方爆发恐怖能量，魔头吐血倒飞。随着降魔咒威力持续增强，低阶魔头已无力再战，方尘一方彻底掌控战局。",
+      "key_events": [
+        "第2404章：方尘植入咒印，驱动琉璃大仙与混沌大仙施展浮仙战阵",
+        "交锋：降魔咒与黑色木鱼声在封闭空间内威力激增，压制中毒魔头",
+        "重大转折：金色巨人重创九转魔头，混沌钟硬撼通天魔印扭转战局"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘利用咒印控制琉璃大仙与混沌大仙，使其首次合力施展浮仙战阵",
+        "核心线索：降魔咒与木鱼声在封闭环境下对魔族有几何倍数杀伤力，配合天魔散效果更佳"
+      ],
+      "evidence_chapters": [
+        2404
+      ],
+      "continuity_in": [
+        2403
+      ],
+      "continuity_out": [
+        2405
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2405,
+      "title": "九转大仙自爆",
+      "source": {
+        "start_line": 397076,
+        "end_line": 397274
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《九转大仙自爆》展开，推动后续主线进展。",
+      "summary": "九转大仙级别的魔头在遭受反噬、降魔咒与天魔散的多重打击后，对方尘动了杀机。方尘察觉危险，立刻让小鹤将琉璃大仙和混沌大仙收入灵鹤空间，随后金色巨人消散。魔头随即自爆，恐怖的血光能量风暴席卷整个魔族巢穴，方尘的肉身被彻底撕碎。然而，方尘的灵魂被浮仙剑吸附，与剑融为一体，不仅毫发无损，还能自如操控浮仙剑在风暴中吞噬能量。琉璃与混沌大仙起初误以为方尘已死并责骂小鹤，但小鹤淡定表示主人无恙。数日后，浮仙剑在风暴核心吞噬海量能量，并利用这些能量重塑了方尘的肉身。历经半年，方尘彻底复活，实力大增，其肉身、血气与灵魂之力均远超从前，整个魔族巢穴的能量几乎被他吸收殆尽。",
+      "key_events": [
+        "第2405章：九转大仙魔头自爆，方尘肉身被毁",
+        "交锋：方尘灵魂与浮仙剑融合，反控风暴吞噬能量",
+        "重大转折：浮仙剑借巢穴能量重塑方尘肉身，半年后实力暴涨复活"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘在九转大仙自爆中失去肉身，但灵魂依附浮仙剑存活，并最终吞噬巢穴能量完成重生，实力大增。",
+        "核心线索：浮仙剑具备吸附宿主灵魂并自主吞噬能量重塑肉身的能力，是方尘保命与突破的关键。"
+      ],
+      "evidence_chapters": [
+        2405
+      ],
+      "continuity_in": [
+        2404
+      ],
+      "continuity_out": [
+        2406
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2406,
+      "title": "界源石",
+      "source": {
+        "start_line": 397275,
+        "end_line": 397470
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《界源石》展开，推动后续主线进展。",
+      "summary": "方尘在经历一场有惊无险的危机后终于恢复，收回浮仙剑并发现自身灵魂可与浮仙剑结合，不再惧怕敌人自爆。小鹤将混沌大仙和琉璃大仙从灵鹤空间放出，两位前辈虽责备方尘太过冒险，但也为其恢复感到欣慰。方尘提议搜刮魔族巢穴内的资源，起初混沌大仙和琉璃大仙以未出力为由拒绝分成，但方尘坚持三人平分，最终说服二人接受四六分成。搜刮过程中，他们在巢穴核心空间发现一块彩色石头——界源石，混沌大仙认出此物是维持空间的核心，卖给界灵至少可获十亿贡献值，成为本章最大收获。",
+      "key_events": [
+        "第2406章：方尘危机后恢复，发现灵魂可与浮仙剑结合免疫自爆伤害",
+        "搜刮魔族巢穴：方尘说服混沌大仙和琉璃大仙接受资源四六分成",
+        "重大发现：在巢穴核心空间找到界源石，价值至少十亿贡献值"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘灵魂与浮仙剑融合后，即便身体被毁也不会受到伤害，不再惧怕敌人自爆",
+        "核心线索：界源石是维持魔族巢穴空间的核心宝物，卖给界灵可获十亿贡献值，为后续重要资源"
+      ],
+      "evidence_chapters": [
+        2406
+      ],
+      "continuity_in": [
+        2405
+      ],
+      "continuity_out": [
+        2407
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2407,
+      "title": "遇到大祸了?",
+      "source": {
+        "start_line": 397471,
+        "end_line": 397702
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《遇到大祸了?》展开，推动后续主线进展。",
+      "summary": "方尘与混沌大仙、琉璃大仙在终焉之地发现了一块价值连城的巨大界源石，但其周围存在强大磁场，连半步仙王都无法靠近。方尘尝试用吞天塔和小鹤收取均告失败。小鹤提醒方尘召唤异象“补天神女”，方尘照做后，补天神女轻易将界源石缩小并抛给方尘。界源石极重，方尘无法收入储物戒指，最终由小鹤勉强吞入灵鹤空间，却导致小鹤“吃撑”。界源石被收走后，魔族巢穴空间开始坍塌，众人趁机穿过空间裂缝返回终焉之地。混沌大仙激活幽灵珠引来界灵，众人被传送回幽灵界。方尘以“遇到大货（宝物）”的双关语调侃经历，并让小鹤吐出界源石给界灵查看，界灵见到界源石后震惊不已。",
+      "key_events": [
+        "第2407章：方尘团队发现无法收取的界源石，补天神女异象出手破解磁场难题",
+        "交锋：界源石被收导致魔族巢穴坍塌，众人借空间裂缝脱困",
+        "重大转折：方尘以“大货”双关语掩饰真实经历，界灵见到界源石后反应剧烈"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：补天神女异象可无视界源石磁场，是方尘独有的破局手段",
+        "核心线索：方尘团队刻意对界灵隐瞒天魔散的存在，界源石的获取可能引发后续风波"
+      ],
+      "evidence_chapters": [
+        2407
+      ],
+      "continuity_in": [
+        2406
+      ],
+      "continuity_out": [
+        2408
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2408,
+      "title": "分配贡献值",
+      "source": {
+        "start_line": 397703,
+        "end_line": 397901
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《分配贡献值》展开，推动后续主线进展。",
+      "summary": "方尘在终焉之地一行后，携混沌大仙与琉璃大仙返回幽灵界，将所获宝物兑换贡献值。他先向界灵出售一块拳头大的界源石，获十亿贡献值；随后在藏宝阁变卖魔族巢穴所得资源，仅得五亿贡献值，方尘虽嫌少，但在两位前辈劝说下接受。方尘自留两亿，余下三亿分给混沌与琉璃。分配完毕后，方尘叮嘱二人保密终焉之地经历，尤其是天魔散之事，随后独自进入时间秘境修炼。叶青瓷亦已在秘境中，方尘感叹后亦入秘境闭关。",
+      "key_events": [
+        "方尘出售界源石获十亿贡献值，变卖魔族资源再获五亿",
+        "方尘分配贡献值：自留两亿，混沌与琉璃各得一亿五千万",
+        "方尘叮嘱保密终焉之地经历，随后进入时间秘境修炼"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘一行在终焉之地获界源石与魔族资源，共换十五亿贡献值",
+        "核心线索：天魔散对魔族有致命威胁，方尘能炼制此药的消息必须封锁"
+      ],
+      "evidence_chapters": [
+        2408
+      ],
+      "continuity_in": [
+        2407
+      ],
+      "continuity_out": [
+        2409
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2409,
+      "title": "半步仙王?",
+      "source": {
+        "start_line": 397902,
+        "end_line": 398091
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《半步仙王?》展开，推动后续主线进展。",
+      "summary": "方尘为寻求突破，进入时间加速秘境，手持浮仙剑冲击秘境边缘的阵纹结界，借浮仙剑吞噬能量修炼融合之道。两万年后，他成功选定第四种本源——水系本源，随后继续闭关苦修。又过十万年，方尘终于将第四种本源融合成功，修为突破至半步仙王境界，气息暴涨。界灵现身祝贺，指出方尘虽仅为大帝境界，但已具备随时突破成仙并达到仙王层次的能力，堪称准仙王。方尘出关后，界灵决定召开全族大会鼓舞士气。方尘亦打算借此实力回归，铲除阻碍人族发展的五大家族。界灵随即施展全面召唤，将终焉之地闯荡的幽灵界修士全部召回。",
+      "key_events": [
+        "第2409章：方尘在时间加速秘境中融合第四种本源（水系本源），耗时十二万年，成功突破至半步仙王境界。",
+        "交锋：方尘以浮仙剑冲击秘境壁垒，借其吞噬之力获取能量，完成本源融合。",
+        "重大转折：界灵揭示方尘为准仙王，成仙即可达仙王层次，方尘决意出关铲除五大家族。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘融合第四种本源后实力达半步仙王，且为准仙王，成仙即入仙王。",
+        "核心线索：方尘准备对五大家族动手，界灵全面召唤幽灵界修士回归。"
+      ],
+      "evidence_chapters": [
+        2409
+      ],
+      "continuity_in": [
+        2408
+      ],
+      "continuity_out": [
+        2410
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2410,
+      "title": "人族准仙王",
+      "source": {
+        "start_line": 398092,
+        "end_line": 398311
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《人族准仙王》展开，推动后续主线进展。",
+      "summary": "界灵将幽灵界所有圣人境以上修士紧急召回幽灵山脉，众人对召集原因议论纷纷，叶青瓷等人询问后方尘并未现身，引发担忧。随后界灵与方尘一同出现，界灵宣布有重大消息公布且与方尘有关。在众人疑惑之际，方尘当众施展秘法，身上爆发四种颜色的璀璨光芒，释放出远超半步仙王的恐怖气息。众人震惊发现方尘虽仍是大帝境界，但已融合第四种本源，实力足以碾压仙王。此突破意味着人族终于诞生了准仙王级强者，彻底扭转了被五大家族长期压迫的困境。消息一出，混沌大仙、琉璃大仙等老一辈修士老泪纵横，叶青瓷等人喜极而泣，众人相拥庆祝，期待着方尘带领人族扬眉吐气、重返天外天。",
+      "key_events": [
+        "界灵紧急召集幽灵界所有圣人境以上修士至幽灵山脉",
+        "方尘当众展示融合四种本源的准仙王实力，震撼全场",
+        "人族诞生首位准仙王，彻底改变被五大家族压迫的格局"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已融合第四种本源，虽为大帝境界但实力达到准仙王层次，可碾压真正的仙王",
+        "核心线索：人族终于拥有顶尖战力，具备了反击五大家族、重返天外天的实力基础"
+      ],
+      "evidence_chapters": [
+        2410
+      ],
+      "continuity_in": [
+        2409
+      ],
+      "continuity_out": [
+        2411
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2411,
+      "title": "杀回天外天",
+      "source": {
+        "start_line": 398312,
+        "end_line": 398480
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《杀回天外天》展开，推动后续主线进展。",
+      "summary": "方尘突破至准仙王境界，幽灵界众人备受鼓舞，视其为真正的仙王。方尘决意不再隐忍，当即宣布要杀回天外天，灭掉长期压迫人族的五大家族。众人虽热血沸腾，但方尘为保护幽灵界有生力量，决定独自出战，仅通过幽灵珠记录战况。叶青瓷、八哥、火璃大帝等核心伙伴强烈要求随行，方尘最终同意让小鹤携带他们。随后，混沌大仙、琉璃大仙等老前辈也纷纷请战，方尘陷入两难。小鹤传音表示自身实力已大幅提升，可轻松承载众人，并指出关键时刻可凝聚浮仙战阵作为方尘的后盾，且此举与五大家族让炮灰送死的作风截然不同。方尘被说服，决定带领众人共赴天外天。",
+      "key_events": [
+        "第2411章：方尘突破至准仙王，幽灵界沸腾，众人尊称其为仙王",
+        "交锋：方尘宣布即刻杀回天外天灭五大家族，为保护幽灵界有生力量决定独自出战",
+        "转折：叶青瓷、火璃大帝等伙伴及混沌大仙等老前辈纷纷请战，小鹤传音可承载众人并提议凝聚浮仙战阵支援，方尘最终同意带领众人同行"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已为准仙王，实力超越妖族与冥族仙王，决意立刻复仇五大家族",
+        "核心线索：小鹤实力大增，可携带众人并通过浮仙战阵在关键时刻支援方尘，为人族反击战提供后盾"
+      ],
+      "evidence_chapters": [
+        2411
+      ],
+      "continuity_in": [
+        2410
+      ],
+      "continuity_out": [
+        2412
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2412,
+      "title": "浮游仙山",
+      "source": {
+        "start_line": 398481,
+        "end_line": 398682
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《浮游仙山》展开，推动后续主线进展。",
+      "summary": "方尘因修炼方式特殊，需通过战斗吸收浮仙剑能量提升实力，故主动承担战斗以保护众人并获取修为。他让小鹤施展秘法，将大仙、真仙、半仙及大帝等百万修士收入灵鹤空间，随后一同返回天外天并进入天河图空间。方尘离开灵鹤空间后，被一名陈家半仙认出身份，但他毫不畏惧，直接询问小金蝉陈家大本营位置，得知目标为浮游仙山后即刻动身。抵达浮游仙山后，方尘祭出浮仙剑，巨剑化作三万丈，剑体蕴含星河宇宙，吞噬周围本源之力，爆发出强大剑意，准备对陈家发起攻击。",
+      "key_events": [
+        "方尘让小鹤将百万修士收入灵鹤空间，独自前往陈家",
+        "方尘被陈家半仙认出身份，仍直指浮游仙山",
+        "方尘祭出浮仙剑，巨剑化三万丈，剑意爆发，准备进攻"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘的浮仙剑可通过战斗吸收能量提升修为，是他主动参战的核心动机",
+        "陈家大本营为浮游仙山，方尘已抵达并发动攻击"
+      ],
+      "evidence_chapters": [
+        2412
+      ],
+      "continuity_in": [
+        2411
+      ],
+      "continuity_out": [
+        2413
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2413,
+      "title": "一剑毁仙山",
+      "source": {
+        "start_line": 398683,
+        "end_line": 398902
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《一剑毁仙山》展开，推动后续主线进展。",
+      "summary": "方尘重返天河图空间，以浮仙剑施展“开天辟地”一击，剑光撕裂空间，瞬间击穿浮游仙山层层护山大阵，将高达十万丈的仙山彻底炸毁，山上建筑与修士尽数崩解。天河图器灵被惊动，察觉方尘实力已飙升至八转大仙级别，震惊于其千年内的恐怖突破。陈家强者从废墟中飞出，三转大仙葫芦大仙率先出手，却被方尘一剑劈成两半，再以“上苍之手”捏爆肉身，虽未能彻底炼化，但已震慑全场。陈家众人不敢再战，却将方尘团团围住。消息迅速传开，各方势力震惊于方尘竟敢离开庇护所独闯陈家大本营，纷纷前往浮游山脉观战，局势一触即发。",
+      "key_events": [
+        "第2413章：方尘以浮仙剑施展“开天覆地”一剑摧毁浮游仙山，护山大阵如纸糊般崩解",
+        "交锋：方尘瞬杀陈家三转大仙葫芦大仙，先以剑光劈裂其躯，再以“上苍之手”捏爆肉身",
+        "重大转折：天河图器灵察觉方尘实力已达八转大仙，千年内实力暴涨引发界灵震惊"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘实力已突破至八转大仙级别，具备单挑陈家顶尖强者的战力",
+        "核心线索：方尘有意将“上苍之手”与“黑暗噬神领域”融合，以实现彻底炼化敌人的效果"
+      ],
+      "evidence_chapters": [
+        2413
+      ],
+      "continuity_in": [
+        2412
+      ],
+      "continuity_out": [
+        2414
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2414,
+      "title": "无忧大仙出现",
+      "source": {
+        "start_line": 398903,
+        "end_line": 399098
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《无忧大仙出现》展开，推动后续主线进展。",
+      "summary": "方尘单枪匹马闯入陈家大本营，毁掉浮游仙山后并未急于离去，而是静待陈家高手齐聚，意图一网打尽。陈家家主铁河真仙率先现身，头顶金色大印护体，对方尘怒斥质问，方尘却嘲讽其如缩头乌龟。就在双方对峙之际，陈家老祖无忧大仙降临，全场震动。无忧大仙以无敌之姿威压方尘，斥其胆敢离开庇护之地。方尘毫无惧色，反唇相讥，更以迅雷不及掩耳之势突然出手，一拳将无忧大仙打得牙齿飞落。无忧大仙恼羞成怒挥拳反击，方尘挥动浮仙剑，一剑将其拳头劈成两半，鲜血迸溅。无忧大仙惨叫后退，方尘则以轻蔑姿态傲立虚空，展现出远超八转大仙的恐怖实力。",
+      "key_events": [
+        "方尘毁掉陈家浮游仙山后静候高手齐聚，意图一网打尽",
+        "陈家家主铁河真仙率先现身质问，方尘嘲讽挑衅",
+        "陈家老祖无忧大仙降临，方尘突然出手一拳打飞其两颗牙齿",
+        "无忧大仙反击时被方尘一剑劈开拳头，惨叫后退尽显狼狈"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘在正常形态下已能碾压八转大仙级别的无忧大仙，实力远超表面境界",
+        "方尘此次主动出击并非鲁莽，而是有恃无恐，背后必有强大依仗"
+      ],
+      "evidence_chapters": [
+        2414
+      ],
+      "continuity_in": [
+        2413
+      ],
+      "continuity_out": [
+        2415
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2415,
+      "title": "五大老祖齐现",
+      "source": {
+        "start_line": 399099,
+        "end_line": 399339
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《五大老祖齐现》展开，推动后续主线进展。",
+      "summary": "方尘与无忧大仙激战，以剑碎星河重创对方后，用黑暗噬神领域将其残躯笼罩。陈家修士紧急凝聚无忧战阵，残躯融入后战力暴涨至半步仙王，破开领域并对方尘发起致命一击。方尘为彻底震慑五大家族，运转浮仙诀融合四种本源，施展浮仙变与浮仙战阵，并叠加混沌巨人异象，爆发出的气息远超半步仙王门槛，一击便击溃无忧战阵，令无忧大仙及陈家修士尽数暴露。此时，唐家、白家、秦家、陆家四位老祖齐现，封锁四方去路，五大家族最强战力齐聚，将方尘团团围住，大战一触即发。",
+      "key_events": [
+        "方尘以剑碎星河重创无忧大仙，并用黑暗噬神领域吞噬其残躯",
+        "陈家修士凝聚无忧战阵，残躯融入后战力达半步仙王，破开领域反击",
+        "方尘施展浮仙变叠加浮仙战阵与混沌巨人异象，一击击溃无忧战阵",
+        "唐家、白家、秦家、陆家四位老祖齐现，封锁四方，五大家族最强战力齐聚围杀方尘"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘以浮仙变叠加浮仙战阵与混沌巨人异象，爆发超越半步仙王门槛的战力，一击击溃无忧战阵",
+        "五大家族老祖全部现身并封锁四方，方尘陷入被五大势力围杀的绝境"
+      ],
+      "evidence_chapters": [
+        2415
+      ],
+      "continuity_in": [
+        2414
+      ],
+      "continuity_out": [
+        2416
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2416,
+      "title": "灭五大家族",
+      "source": {
+        "start_line": 399340,
+        "end_line": 399529
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《灭五大家族》展开，推动后续主线进展。",
+      "summary": "方尘突破为准仙王，五大家族深知大祸临头，决定拼死一搏。青莲、清虚、白家、秦家、陈家五族老祖齐声下令，命族中弟子燃烧血脉，凝聚青莲、虚空、金光、蓬莱、无忧五座顶级战阵，将方尘团团包围。方尘本欲给其投降机会，但见对方负隅顽抗，便冷眼等待战阵气势攀升至巅峰，随后挥动浮仙剑，仅出一剑便令五座超级战阵瞬间崩溃。五族老祖面如死灰，深知即便逼方尘突破至真仙，在仙王面前亦毫无胜算。方尘质问其是否知错，五族老祖却以成王败寇之态拒不低头。方尘不再留情，施展噬魂风暴，无数剑光贯穿五族强者，吞噬其灵魂本源，反哺自身。不到十个呼吸，五大家族核心强者尽数陨落，尸体坠落。远处修士虽恨透五族，但见此雷霆手段亦心情复杂。天河图中死者百年后可复活，但五大家族制霸人族的时代已彻底终结。",
+      "key_events": [
+        "第2416章：五大家族凝聚五座顶级战阵围攻方尘",
+        "交锋：方尘一剑破五阵，五族老祖彻底绝望",
+        "结局：方尘施展噬魂风暴，五大家族核心强者全灭"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘为准仙王，五大家族联手亦不堪一击，核心强者被全灭",
+        "核心线索：天河图内死者百年后可复活，但五大家族统治人族的格局已彻底瓦解"
+      ],
+      "evidence_chapters": [
+        2416
+      ],
+      "continuity_in": [
+        2415
+      ],
+      "continuity_out": [
+        2417
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2417,
+      "title": "天河图器灵召唤",
+      "source": {
+        "start_line": 399530,
+        "end_line": 399725
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《天河图器灵召唤》展开，推动后续主线进展。",
+      "summary": "五大家族覆灭后，方尘释放幽灵界修士进驻天河图，意图以贡献值公平竞争模式取代旧有压迫体制。正当众人猜测方尘是否会成为新霸主时，他感应到虚空深处的注视，被一道空间旋涡召唤至天河图核心。在纯白虚无的空间中，方尘见到了神秘的天河图器灵——一位绝美却非人的女子。器灵道破天机：其主人曾是一位极致升华后超越仙王、平时维持在九转仙王境界的存在。天河图在当年大劫中被天奴重创，本源受损严重，器灵倾尽全力仅能维持空间不崩溃，无力制止五大家族作恶。曾经一日即可复活修士的神器，如今需百年之久。如今方尘成为准仙王，器灵终于看到希望，召唤他前来，正是为了请求他帮助修复天河图这件庇佑人族至宝的创伤。",
+      "key_events": [
+        "第2417章：方尘覆灭五大家族后释放幽灵界修士，建立贡献值公平竞争新秩序",
+        "交锋：方尘被天河图器灵召唤至核心空间，首次直面这件人族至宝的意志",
+        "重大转折：器灵揭示天河图本源被天奴重创的真相，请求准仙王方尘协助修复"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天河图器灵的主人生前实力超越仙王，平时为九转仙王境界，天河图在大劫中被天奴损毁",
+        "核心线索：器灵无力制止五大家族是因为本源受创，维持空间稳定已尽全力，修复天河图需仙王级强者"
+      ],
+      "evidence_chapters": [
+        2417
+      ],
+      "continuity_in": [
+        2416
+      ],
+      "continuity_out": [
+        2418
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2418,
+      "title": "三根尖刺",
+      "source": {
+        "start_line": 399726,
+        "end_line": 399873
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《三根尖刺》展开，推动后续主线进展。",
+      "summary": "方尘应天河图器灵之邀，随其进入天河图核心的本源空间。该空间压力极强，唯有仙王方可承受，但方尘凭借浮仙剑涌入的特殊能量迅速适应，令器灵惊叹其为准仙王。器灵揭示天河图受损根源：三根超越仙王级别的天奴所留黑色尖刺刺穿了天河图本源，导致其主人在本源战场（蛮荒世界本源空间）受重创陨落。器灵坦言此伤需仙王实力方可解决，仅带方尘先行了解。方尘主动请缨尝试拔刺，并透露自身对魔气、魔毒免疫且能吸收炼化的特殊能力。器灵虽惊讶但仍担忧其安危。最终，在器灵控制本源不排斥方尘的前提下，方尘成功接近尖刺，握紧浮仙剑刺入扭曲空间，剑身震动间再次涌入特殊能量，为拔除尖刺迈出关键一步。",
+      "key_events": [
+        "第2418章：方尘随天河图器灵进入本源空间，承受仙王级压力并适应",
+        "交锋：方尘主动尝试拔除天奴遗留的三根黑色尖刺，展露免疫魔毒与吸收炼化的能力",
+        "重大转折：方尘在器灵协助下接近尖刺，以浮仙剑刺入扭曲空间，获得特殊能量支持"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天河图本源被三根超越仙王级天奴的黑色尖刺刺穿，需仙王实力方可解决",
+        "核心线索：方尘对魔气、魔毒免疫且能吸收炼化，浮仙剑在高压环境下可涌入特殊能量辅助其行动"
+      ],
+      "evidence_chapters": [
+        2418
+      ],
+      "continuity_in": [
+        2417
+      ],
+      "continuity_out": [
+        2419
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2419,
+      "title": "千倍的时间流速",
+      "source": {
+        "start_line": 399874,
+        "end_line": 400030
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《千倍的时间流速》展开，推动后续主线进展。",
+      "summary": "方尘在本源空间特殊能量的淬炼下，肉身与灵魂之力快速增长，并尝试靠近那根散发恐怖威压的尖刺。尽管他实力未达仙王，却奇迹般抵挡住了威压，但自知短时间内无法拔刺，遂果断退回。天河图器灵惊讶于其表现，并告知此处时间流速是外界的一千倍。方尘决定先出空间向外界交代情况，再回来专心拔刺并修炼融合之道。器灵叮嘱其暂勿泄露自身存在。方尘返回后，外界仅过去片刻。面对众人询问，他只称与器灵交谈。随后，方尘宣布五大家族已灭，命混沌大仙等人以幽灵界模式革新天河图内部管理，推行按贡献分配资源的公平制度。众修士欢欣鼓舞，高呼仙王英明。方尘虽知百年后五大家族将复活，但已为人族铺就新局，若其再作恶，必将彻底抹杀。",
+      "key_events": [
+        "第2419章：方尘适应尖刺威压并尝试靠近，发现短期无法拔刺后主动退出，寻求先安顿外界事务。",
+        "转折：天河图器灵揭示本源空间时间流速为外界千倍，为方尘提供了绝佳的修炼与拔刺时间差。",
+        "结局：方尘返回外界，宣布以公平贡献制取代五大家族霸权，革新天河图管理，赢得人族修士拥护。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：本源空间时间流速是外界的一千倍，方尘可利用此时间差修炼并拔除尖刺。",
+        "核心线索：天河图器灵的存在需暂时保密；五大家族百年后会复活，方尘已做好后续应对准备。"
+      ],
+      "evidence_chapters": [
+        2419
+      ],
+      "continuity_in": [
+        2418
+      ],
+      "continuity_out": [
+        2420
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2420,
+      "title": "震惊天外天",
+      "source": {
+        "start_line": 400031,
+        "end_line": 400181
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《震惊天外天》展开，推动后续主线进展。",
+      "summary": "方尘在与天河图器灵交流后获得极大启发，决定再次进入天河图本源空间闭关，试图突破至更高境界。他将此前在幽灵界时间加速秘境中炼制的海量流星泪与噬魔灵宝交给叶青瓷、琉璃大仙和混沌大仙，嘱托他们用这些宝物为人族强者换取修炼资源，并可将部分噬魔灵宝与异族交易，以换取更多资源，同时借助自己准仙王的威慑力保障交易安全。处理完事务后，方尘进入天河图本源空间，借助尖刺散发的威压与浮仙剑的能量，全力推演融合之道，试图在大帝境界实现第五种本源的融合，从而跨越半步仙王与仙王之间的鸿沟。与此同时，人族出现准仙王的消息迅速传遍天外天，方尘徒手击溃五大家族超级战阵的留影画面令各族震惊，人族地位飙升。天外天本源空间深处，冥族仙王冥狱仙王与妖族黑凤仙王现身对话，对方尘这位大帝境准仙王的天赋惊叹不已，同时也表达了自身止步六转仙王、难敌天地意志一方的隐忧，期盼方尘尽快成长以分担压力。",
+      "key_events": [
+        "第2420章：方尘将海量流星泪与噬魔灵宝交给琉璃大仙等人，安排资源分配与异族交易事宜",
+        "方尘进入天河图本源空间闭关，借助尖刺威压与浮仙剑推演第五种本源融合之道",
+        "人族出现准仙王的消息传遍天外天，冥狱仙王与黑凤仙王对话，既惊叹方尘天赋又担忧天地意志威胁"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以大帝境界成为准仙王，人族地位在天外天大幅提升，仅次于冥族和妖族",
+        "核心线索：方尘试图融合第五种本源，目标是在大帝境界拥有仙王级实力，以应对未来天地意志苏醒的危机"
+      ],
+      "evidence_chapters": [
+        2420
+      ],
+      "continuity_in": [
+        2419
+      ],
+      "continuity_out": [
+        2421
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2421,
+      "title": "五大老祖复活",
+      "source": {
+        "start_line": 400182,
+        "end_line": 400332
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《五大老祖复活》展开，推动后续主线进展。",
+      "summary": "方尘在时间流速千倍的天河图本源空间内潜心修炼，目标直指仙王之上。外界百年间，人族因五大家族被推翻而焕然一新，新政激励天才们通过贡献值获取资源，叶青瓷、混沌大仙等人在方尘提供的资源支持下实力大增，混沌大仙更是突破至九转大仙境界，超越昔日五大家族老祖。然而，被方尘斩杀的五大家族老祖——无忧大仙、青莲大仙、金光大仙、蓬莱大仙、清虚大仙——竟从天河图重生池内复活。面对实力已达九转大仙的混沌大仙及其身后准仙王方尘的威压，五大家族老祖虽心知大势已去、意难平，却不得不低头认错。混沌大仙代表方网开一面，免去其死罪，但勒令他们即刻离开天河图，前往终焉之地赚取贡献值以赎清罪行。",
+      "key_events": [
+        "修炼与变革：方尘在天河图本源空间修炼，外界百年人族实力因新政大幅提升，混沌大仙突破至九转大仙。",
+        "复活与交锋：五大家族老祖从重生池复活，面对实力碾压的混沌大仙及方尘的威压。",
+        "结局：五大家族老祖被迫认错，被发往终焉之地将功赎罪。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：五大家族老祖复活后，因方尘势力的绝对实力压制而屈服，被流放终焉之地赎罪。",
+        "核心线索：混沌大仙实力已达九转大仙，方尘为准仙王，人族权力格局彻底逆转。"
+      ],
+      "evidence_chapters": [
+        2421
+      ],
+      "continuity_in": [
+        2420
+      ],
+      "continuity_out": [
+        2422
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2422,
+      "title": "打工还债",
+      "source": {
+        "start_line": 400333,
+        "end_line": 400489
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《打工还债》展开，推动后续主线进展。",
+      "summary": "混沌大仙与其他势力大仙早已商定对五大家族的处置方案：每族需无偿完成三千亿点贡献值任务，限期十万年，方可获得平等权利。无忧大仙、青莲大仙等老祖虽愤怒，但在方尘已成准仙王的压力下，皆被迫接受。随后，混沌大仙带领五大家族强者参观百年后的天河图，展示方尘所获的噬魔仙器，此宝能吞噬魔族与魔气，甚至已租赁给异族强者。五大家族老祖震惊之余，获知可使用此宝化解体内魔毒，但需缴纳双倍贡献值。接着，混沌大仙又带他们体验无忧战阵，其精妙远超五族原有战阵。至此，五大家族老祖彻底心服口服，放弃翻盘念头，纷纷向虚空膜拜方尘。蓬莱大仙询问秦家能否修炼战阵，混沌大仙同意，但同样需双倍贡献值。五大家族正式踏上打工还债之路。",
+      "key_events": [
+        "第2422章：五大家族被迫接受三千亿贡献值赎罪方案",
+        "交锋：混沌大仙展示噬魔仙器与无忧战阵，彻底折服五族老祖",
+        "转折：五族放弃翻盘念头，接受双倍贡献值规则以换取使用资格"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：五大家族需完成三千亿贡献值任务，使用噬魔宝贝与战阵均需双倍贡献值",
+        "核心线索：方尘已成准仙王，其所获噬魔仙器与无忧战阵极大提升人族实力，五族彻底臣服"
+      ],
+      "evidence_chapters": [
+        2422
+      ],
+      "continuity_in": [
+        2421
+      ],
+      "continuity_out": [
+        2423
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2423,
+      "title": "人族像疯子",
+      "source": {
+        "start_line": 400490,
+        "end_line": 400640
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《人族像疯子》展开，推动后续主线进展。",
+      "summary": "本章围绕五大家族归顺人族阵营后的赎罪与崛起展开。混沌大仙等高层与五大家族老祖达成协议，允许其族人修炼浮仙战阵并使用噬魔宝贝，但需支付双倍贡献值以偿还昔日罪债。五大家族老祖回归后，向族人传达了这一条件，众弟子誓死追随，决心通过疯狂做任务来提升实力、加速还债。消息传开后，五大家族修士涌入终焉之地，凭借战阵与噬魔宝贝的加持，对魔族和天奴展开近乎疯狂的猎杀，其拼命程度令其他种族修士震惊。与此同时，大量人族修士以幽灵界为跳板进行历练，虽给界灵带来压力，却也为幽灵界带来了海量资源，加速了其成长。人族整体呈现出前所未有的团结与疯狂修炼态势，为后续对抗魔族积蓄了强大力量。",
+      "key_events": [
+        "第2423章：五大家族归顺，以双倍贡献值换取修炼战阵与噬魔宝贝的资格",
+        "交锋：五大家族修士疯狂涌入终焉之地，以战阵和噬魔宝贝对魔族展开疯狂猎杀",
+        "重大转折：人族整体进入疯狂修炼模式，幽灵界因大量修士涌入而加速成长"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：五大家族以双倍贡献值赎罪，获准修炼浮仙战阵和使用噬魔宝贝",
+        "核心线索：人族修士凭借战阵与噬魔宝贝在终焉之地疯狂猎杀魔族，幽灵界因此获得大量资源加速成长"
+      ],
+      "evidence_chapters": [
+        2423
+      ],
+      "continuity_in": [
+        2422
+      ],
+      "continuity_out": [
+        2424
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2424,
+      "title": "突破，仙王战力",
+      "source": {
+        "start_line": 400641,
+        "end_line": 400818
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "intensive",
+      "priority_reason": "高能核心章节：包含重要突破/认主/重大胜负，建议逐字精读。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "payoff"
+      ],
+      "teaser": "【帝境与界海篇】围绕《突破，仙王战力》展开，推动后续主线进展。",
+      "summary": "方尘在天河图本源空间内苦修百万年，虽实力大增却始终无法跨越半步仙王与仙王之间的鸿沟，他意识到必须融合第五种木属性本源才能实现质变。此后他又闭关三百万年，终于将五行本源彻底融合，身体爆发五色光芒，识海凝聚出第十三朵虚空之莲，灵魂境界正式踏入仙王层次，实力暴涨至仙王战力。突破后，方尘决定帮助天河图器灵拔除插在本源空间内的三根神秘尖刺。他顶着恐怖威压上前，伸手触碰尖刺时遭受剧烈冲击，口溢鲜血，随即召唤浮仙剑刺入尖刺，剑体浮现星河图案疯狂吞噬尖刺能量，大量能量涌入方尘体内，为后续拔除尖刺埋下伏笔。",
+      "key_events": [
+        "第2424章：方尘在天河图本源空间苦修四百万年，融合五行本源，成功突破至仙王战力",
+        "突破后，方尘主动出手拔除天河图内的神秘尖刺，以浮仙剑吞噬尖刺能量"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘融合第五种木属性本源后，实力正式达到仙王级别，成为当世极少数大帝境界便拥有仙王战力的强者",
+        "核心线索：天河图本源空间内的三根尖刺蕴含霸道法则之力，浮仙剑可吞噬其能量，拔除尖刺是后续关键剧情"
+      ],
+      "evidence_chapters": [
+        2424
+      ],
+      "continuity_in": [
+        2423
+      ],
+      "continuity_out": [
+        2425
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2425,
+      "title": "拔尖刺",
+      "source": {
+        "start_line": 400819,
+        "end_line": 401041
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《拔尖刺》展开，推动后续主线进展。",
+      "summary": "方尘在天河图本源空间内，为器灵拔除体内已停留七千多万年的三根尖刺。他先适应尖刺散发的强大波动，随后施展浮仙变、浮仙战阵与混沌巨人异象，肉身暴涨至千丈，全力拔刺。每拔出一根尖刺，天河图空间便剧烈震荡，天空出现裂缝，器灵亦承受剧痛，但方尘一鼓作气将三根尖刺全部拔出。尖刺离体后，天河图本源如心脏般强劲跳动，器灵不再需要压制尖刺，可全力运转天河图。空间随即恢复平静，天空降下浓郁仙灵之气，人族修士震惊不已。器灵对方尘深表感谢，方尘则谦称自己亦在此获益良多，双方皆大欢喜。",
+      "key_events": [
+        "第2425章：方尘拔除天河图器灵体内三根尖刺",
+        "交锋：方尘施展浮仙变、浮仙战阵与混沌巨人异象，肉身暴涨至千丈，全力拔刺，期间天河图空间剧烈震荡",
+        "重大转折：三根尖刺全部拔出后，天河图本源恢复活力，器灵不再受压制，空间内仙灵之气暴涨"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘成功拔除天河图器灵体内三根尖刺，天河图功能全面恢复，空间内灵气与仙灵之气大幅提升",
+        "核心线索：三根尖刺此前压制了天河图大部分本源之力，拔除后器灵可全力运转天河图辅助人族修士修炼"
+      ],
+      "evidence_chapters": [
+        2425
+      ],
+      "continuity_in": [
+        2424
+      ],
+      "continuity_out": [
+        2426
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2426,
+      "title": "豪猪真魔皇",
+      "source": {
+        "start_line": 401042,
+        "end_line": 401216
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《豪猪真魔皇》展开，推动后续主线进展。",
+      "summary": "方尘拔除天河图内的三根尖刺后，器灵恢复全力运转能力。器灵告知方尘，其已达仙王境界，可进入时间流速万倍的天外天本源空间修炼，远超天河图的千倍流速。随后，器灵带方尘查看那三根尖刺，揭示其主人为超越仙王境界的豪猪真魔皇，此魔投靠天地意志，极难杀死，当年天河图主人都非其敌手。器灵认为方尘天赋更胜旧主，未来有望斩杀此魔。方尘召唤擅长空间法则的特殊生命体小鹤尝试收取尖刺，但小鹤施法后空间扭曲剧烈，未能成功将尖刺收入灵鹤空间。",
+      "key_events": [
+        "第2426章：方尘拔除天河图尖刺，器灵恢复全力，指引其前往万倍时间流速的天外天本源空间修炼。",
+        "交锋：器灵揭示尖刺源自豪猪真魔皇，此魔实力超越仙王，投靠天地意志，当年重创天河图主人。",
+        "方尘召唤小鹤尝试收取蕴含剧毒与威压的魔皇尖刺，小鹤施法引发空间扭曲但未能成功收纳。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已达仙王境界，可进入天外天本源空间，时间流速为外界一万倍。",
+        "核心线索：三根尖刺属于豪猪真魔皇，此魔投靠天地意志仍存活，是未来必须铲除的强敌。"
+      ],
+      "evidence_chapters": [
+        2426
+      ],
+      "continuity_in": [
+        2425
+      ],
+      "continuity_out": [
+        2427
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2427,
+      "title": "把尖刺收了",
+      "source": {
+        "start_line": 401217,
+        "end_line": 401406
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《把尖刺收了》展开，推动后续主线进展。",
+      "summary": "方尘尝试收取真魔皇级别的三根尖刺，小鹤、吞天塔、炼天炉均告失败，最终凭借浮仙戒成功将其收纳。浮仙戒内的分解之力剥离出大量道纹与魔毒，被浮仙剑吞噬，反哺方尘一股强大力量，助其突破至仙王境界。天河图器灵如释重负，方尘随后召集混沌大仙等好友，公开了隐藏多年的秘密：天河图在上次大劫中被魔族重创，器灵为压制三根尖刺无力管辖空间，才导致五家族趁机坐大。众人恍然大悟，方尘也正式宣告自己已踏入仙王境。",
+      "key_events": [
+        "方尘以浮仙戒成功收取真魔皇级尖刺，吸收反哺之力突破至仙王境界",
+        "方尘向众人揭露天河图受损真相，解释五家族坐大的真正原因"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘实力已突破至仙王境界，天河图本源彻底恢复",
+        "核心线索：天河图器灵因压制尖刺才放任五家族，如今隐患已除"
+      ],
+      "evidence_chapters": [
+        2427
+      ],
+      "continuity_in": [
+        2426
+      ],
+      "continuity_out": [
+        2428
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2428,
+      "title": "天河图的主人",
+      "source": {
+        "start_line": 401407,
+        "end_line": 401566
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《天河图的主人》展开，推动后续主线进展。",
+      "summary": "方尘召集众人，透露自己仍处大帝境界，因修为越低未来战场作用越大，暂不突破真仙。他宣布欲借天河图本源空间万倍时间流速修炼，在大劫前冲击超越仙王的仙皇境界。方尘指出，天河图原主人即陨落于第二次大劫的仙皇级强者，而当前己方连一位仙皇都没有，若天地意志苏醒必败。众人疑惑为何天地意志与魔族、天奴未趁虚而入，方尘推测天地意志尚未完全恢复，并计划会见妖族与冥族仙王以探明虚实。随后他得知五大家族已浪子回头，人族整体实力因噬魔宝贝与浮仙大阵大幅提升，新增三位九转大仙。最后方尘与叶青瓷独处，询问其修炼境界，暗示她已在五百倍时间秘境中苦修两百多万年。",
+      "key_events": [
+        "第2428章：方尘决定暂不突破真仙，欲入天河图本源空间以万倍时间流速冲击仙皇境界",
+        "交锋：方尘揭示己方无仙皇级强者，天地意志一方曾有多位仙皇，当前实力对比悬殊",
+        "重大转折：方尘推测天地意志未完全恢复故未出手，计划联合妖族与冥族仙王探查真相"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：天河图本源空间时间流速为外界万倍，方尘欲借此修炼至仙皇境",
+        "核心线索：天地意志可能尚未完全恢复，魔族与天奴未主动进攻的原因成谜"
+      ],
+      "evidence_chapters": [
+        2428
+      ],
+      "continuity_in": [
+        2427
+      ],
+      "continuity_out": [
+        2429
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2429,
+      "title": "想看你炼丹",
+      "source": {
+        "start_line": 401567,
+        "end_line": 401783
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《想看你炼丹》展开，推动后续主线进展。",
+      "summary": "叶青瓷向方尘透露自己已达半步仙王境界，即将突破，方尘为其天赋感到由衷敬佩。二人论道后，方尘决定暂缓进入天外天本源空间修炼，因其中时间加速万倍，寿元消耗极剧，他计划自行炼制一炉长生丹以作准备。方尘传讯混沌大仙，请求收集一百万粒长生丹的药材，混沌大仙耗时三日备齐并亲自送来，并提出想观看方尘炼丹。方尘欣然应允，带叶青瓷与混沌大仙进入天河图空间，天河图器灵也现身同观。方尘取出炼天炉，将海量药材尽数投入，却在动手炼丹时陷入尴尬——他竟从未看过长生丹的丹方，令在场众人错愕不已。",
+      "key_events": [
+        "第2429章：叶青瓷显露半步仙王实力，方尘决意炼制长生丹以应对天外天本源空间的寿元消耗",
+        "交锋：方尘向混沌大仙索要百万粒长生丹药材，混沌大仙三日备齐并请求观丹",
+        "重大转折：方尘在炼天炉前投入全部药材后，尴尬承认自己从未看过长生丹的丹方"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘因天外天本源空间时间加速万倍，需大量长生丹补充寿元，决定自行炼制",
+        "核心线索：方尘虽自信炼丹术，却连长生丹丹方都未看过，为后续炼丹埋下悬念"
+      ],
+      "evidence_chapters": [
+        2429
+      ],
+      "continuity_in": [
+        2428
+      ],
+      "continuity_out": [
+        2430
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2430,
+      "title": "天机塔的塔灵",
+      "source": {
+        "start_line": 401784,
+        "end_line": 401970
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《天机塔的塔灵》展开，推动后续主线进展。",
+      "summary": "天河图器灵主动提出将天机塔内的长生丹方及全部藏书传授给方尘。方尘虽担忧在外界传输需耗时百年，会耽误自身在天外天本源空间的修炼，但考虑到这些秘籍对炼制长生丹及通灵剑符（用于终焉之地传讯）的巨大价值，最终决定接受。在安排叶青瓷和混沌大仙先行离开后，方尘随天河图器灵进入天机塔空间。塔灵（黄衣女子）初见方尘时，对其能否承受海量信息表示怀疑，并透露出希望方尘帮天河图器灵拔除尖刺的请求，得知方尘已解决此事后大喜。传输开始后，方尘凭借仙王级灵魂强度及浮仙戒的辅助，不仅未显痛苦，灵魂承载力反而在过程中持续增强。塔灵因此不断加大传输力度，最终仅用三十年便完成了原需百年的全部藏书传输，效率远超预期。天河图器灵对方尘的强大灵魂潜力赞叹不已。",
+      "key_events": [
+        "第2430章：方尘为获取长生丹方及炼制通灵剑符的秘籍，决定接受天机塔全部藏书传输",
+        "交锋：塔灵质疑方尘的承受能力，方尘凭借浮仙戒辅助实现灵魂承载力逆向增长",
+        "重大转折：传输时间从预估百年压缩至三十年，方尘灵魂潜力震惊天河图器灵与塔灵"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘已获得天机塔全部藏书，包括长生丹方及可能用于终焉之地传讯的通灵剑符相关秘籍",
+        "核心线索：浮仙戒具备增强灵魂本源的能力，方尘灵魂承载力在传输中持续进化"
+      ],
+      "evidence_chapters": [
+        2430
+      ],
+      "continuity_in": [
+        2429
+      ],
+      "continuity_out": [
+        2431
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2431,
+      "title": "长生道果",
+      "source": {
+        "start_line": 401971,
+        "end_line": 402166
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《长生道果》展开，推动后续主线进展。",
+      "summary": "方尘接收完天机塔信息后，开始整理长生丹方。他将多种丹方优点融合，创造出更完美的长生丹药方。随后，方尘与天河图器灵、天机塔塔灵离开天机塔空间，来到炼丹岛屿，并通知混沌大仙和叶青瓷前来观看。方尘召唤炼天炉，以独特方式炼丹，期间与异象一起吃火锅，吸收能量提升实力。一年后，异象们攻击炼天炉，方尘凝聚道纹，八卦阵图中心男子接替他工作，持续三年。最终，炼天炉爆发强大气息，被天河图传送出天外天渡劫。三个月后，炼天炉回归，变得更加强大，炉上长出青色藤蔓，结出青色果实，后变红散发大道韵律。混沌大仙认出这是传说中的长生道果，食之可长生不死，乃不死药中的极品。",
+      "key_events": [
+        "第2431章：方尘融合多种长生丹方，创造出更完美的长生丹药方",
+        "方尘以独特方式炼丹，与异象吃火锅吸收能量，提升实力",
+        "炼天炉渡劫后回归，结出传说中的长生道果"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘成功炼制出长生道果，这是传说中的极品不死药，食之可长生不死",
+        "核心线索：方尘的炼丹方式独特，与异象互动，吸收能量提升实力，最终炼天炉渡劫后结出长生道果"
+      ],
+      "evidence_chapters": [
+        2431
+      ],
+      "continuity_in": [
+        2430
+      ],
+      "continuity_out": [
+        2432
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2432,
+      "title": "命轮修复，寿元无尽",
+      "source": {
+        "start_line": 402167,
+        "end_line": 402332
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《命轮修复，寿元无尽》展开，推动后续主线进展。",
+      "summary": "本章围绕传说中的长生道果展开。方尘在炼丹时，炼天炉的藤蔓上意外结出红色果实，经确认正是能赋予凡人无尽寿元却无法提升实力的长生道果。方尘因自身命轮有缺，决定尝试食用。他吃下一颗后，发现命轮裂痕被大量修复，随后连服九颗，命轮彻底愈合，散发出璀璨金光，不仅停止外泄，更能主动吸收外界生命元气，实现了寿元无尽的长生。他将此喜讯告知叶青瓷，并邀请她一同服用。叶青瓷食用一颗后，同样获得了长生能力。方尘随后请已成仙的混沌大仙检查二人命轮，以探究这种通过道果获得的长生与仙人长生之间的差异。",
+      "key_events": [
+        "第2432章：方尘炼丹时，炼天炉意外结出传说中的长生道果。",
+        "突破：方尘连服九颗长生道果，彻底修复了有缺的命轮，获得长生。",
+        "叶青瓷服用一颗长生道果后，同样获得长生能力。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "核心事实：方尘和叶青瓷通过食用长生道果，在未成仙的情况下获得了寿元无尽的长生。",
+        "核心线索：方尘和叶青瓷的长生命轮与仙人的长生命轮可能存在差异，混沌大仙正在检查。"
+      ],
+      "evidence_chapters": [
+        2432
+      ],
+      "continuity_in": [
+        2431
+      ],
+      "continuity_out": [
+        2433
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2433,
+      "title": "无法保存",
+      "source": {
+        "start_line": 402333,
+        "end_line": 402510
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《无法保存》展开，推动后续主线进展。",
+      "summary": "方尘与混沌大仙检查命轮，发现长生道果使众人命轮变为金色且生命元气不再外泄。方尘采摘长生道果欲存入炼天炉，却发现炉内丹药已空，天河图器灵解释炼丹材料已被道果吸收为养料。此时天机塔塔灵指出道果正开始分解飘散，方尘确认古籍记载属实：长生道果无法长时间保存，成熟后若不采摘便会腐烂归于天地。方尘当机立断，将大部分道果交给混沌大仙分发，自留两百个召集火璃大帝、叶空、八哥、李清瑶、岳沧澜等人。众人震惊于方尘竟能炼制出传说中的长生道果，方尘催促众人立即服用。八哥因体内有封印本可不食，但方尘表示道果充足，八哥遂开怀大吃起来。火璃大帝服下后内视命轮，确认已化为金色完美之态，生命元气不再流失且能主动吸收外界元气，众人皆叹其神效。",
+      "key_events": [
+        "第2433章：方尘发现长生道果无法保存，成熟后迅速分解飘散",
+        "方尘召集火璃大帝等核心伙伴分发长生道果，众人当场服用",
+        "火璃大帝服用后命轮化为金色，生命元气不再外泄且能主动吸收"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：长生道果无法长时间保存，必须采摘后立即服用，否则会腐烂化为精气归于天地",
+        "核心线索：方尘共炼制出一万多个长生道果，大部分交给混沌大仙分发，自留两百个给核心伙伴"
+      ],
+      "evidence_chapters": [
+        2433
+      ],
+      "continuity_in": [
+        2432
+      ],
+      "continuity_out": [
+        2434
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2434,
+      "title": "见仙王",
+      "source": {
+        "start_line": 402511,
+        "end_line": 402712
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《见仙王》展开，推动后续主线进展。",
+      "summary": "方尘与同伴在天河图中服用长生道果，众人皆获长生，不再受寿元困扰。八哥因命轮被封印，服下后毫无变化。方尘为求突破，决定前往天外天本源空间修炼，与众人辞别。他离开天河图后，天河图射出一道金光指引方向，方尘循光飞入星空深处的星云旋涡，进入本源空间。此地威压恐怖，方尘运转浮仙诀抵抗，气息惊动了在此修炼的冥狱仙王与黑凤仙王。两位仙王现身，对方尘这位新晋仙王表示热烈欢迎，并误以为他已突破仙人境界。方尘向前辈请教此地修炼事宜，冥狱仙王爽快答应，本章以方尘正式踏入仙王修炼之地作结。",
+      "key_events": [
+        "方尘与岳沧澜、李清瑶等人在天河图中服用长生道果，全员获得长生，解除寿元压力。",
+        "方尘为突破修为，辞别众人，在天河图金光指引下穿越旋涡，进入天外天本源空间。",
+        "方尘的降临惊动冥狱仙王与黑凤仙王，两位仙王现身欢迎，方尘正式踏入仙王修炼之地。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "方尘已进入天外天本源空间，此地时间流速是外界一万倍，适合长期闭关修炼。",
+        "冥狱仙王与黑凤仙王误以为方尘已突破仙人境界，因其身上无生命元气外泄且能吸收外界元气。"
+      ],
+      "evidence_chapters": [
+        2434
+      ],
+      "continuity_in": [
+        2433
+      ],
+      "continuity_out": [
+        2435
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2435,
+      "title": "偷天",
+      "source": {
+        "start_line": 402713,
+        "end_line": 402920
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "must_read",
+      "priority_reason": "主线关键推进行程：包含重要因果连接与战斗/机缘进展。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《偷天》展开，推动后续主线进展。",
+      "summary": "方尘向冥狱仙王和黑凤仙王展示帝印，证实自己仍处大帝境界却已拥有仙王实力。两位仙王震惊之余，解释终焉之地因天地意识沉睡，规则对高修为者压制极强，而方尘受压制极小，故在此地堪称无敌。黑凤仙王趁机提议主动出击，冥狱仙王更抛出惊人计划——带方尘去终焉之地“偷天”，即盗取蛮荒世界最精纯的天地本源。方尘追问下，冥狱仙王阐述天地意志并非全知全能，并回顾两次大劫：第一次修士与天地意识两败俱伤；第二次远古天庭攻入本源空间却因魔族背叛功亏一篑。本章在方尘震撼与两位仙王的激昂谋划中收尾，为后续深入终焉之地埋下伏笔。",
+      "key_events": [
+        "第2435章：方尘展露帝印，证实大帝境界拥有仙王实力，令冥狱、黑凤两位仙王极度震惊。",
+        "交锋：两位仙王揭示终焉之地规则压制真相，指出方尘在此地近乎无敌，随即提出“偷天”计划。",
+        "重大转折：冥狱仙王详述两次大劫历史，点明天地意志的弱点，将方尘的逆天战力与盗取天地本源的宏大目标直接挂钩。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘走融合之道，已完美融合五行本源，大帝境即达仙王战力，在受规则压制的终焉之地优势巨大。",
+        "核心线索：“偷天”计划指向盗取天地本源，天地意识曾历经两次大劫陷入沉睡，其力量并非绝对，为后续剧情核心冲突。"
+      ],
+      "evidence_chapters": [
+        2435
+      ],
+      "continuity_in": [
+        2434
+      ],
+      "continuity_out": [
+        2436
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2436,
+      "title": "器灵的建议",
+      "source": {
+        "start_line": 402921,
+        "end_line": 403065
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《器灵的建议》展开，推动后续主线进展。",
+      "summary": "冥狱仙王与黑凤仙王向方尘透露了第二次大劫的遗憾，指出天地意志苏醒后将威胁所有强者，而天地本源是提升实力、加速时间秘境的关键资源。两位仙王认为方尘虽仅大帝境界却拥有仙王实力，进入终焉之地偷取天地本源几乎不受法则压制，风险极低，并提议合作冲击仙皇境界。方尘返回天河图后向器灵求证，器灵确认其天赋在太古时期也属罕见，偷天确实可行且天地本源价值巨大，但提醒仍有风险。器灵建议方尘不必急于行动，应先在天外天本源空间沉淀实力，待提升后再前往终焉之地。方尘采纳建议，决定暂缓偷天计划，优先巩固自身修为。",
+      "key_events": [
+        "第2436章：冥狱仙王与黑凤仙王向方尘揭示天地意志的威胁，并提议利用其大帝境界仙王实力的优势前往终焉之地偷取天地本源。",
+        "交锋：方尘返回天河图向器灵求证偷天计划的可行性与风险，器灵确认其天赋罕见、法则压制极小，但提醒仍需谨慎。",
+        "重大转折：器灵建议方尘先在天外天本源空间修炼沉淀，不必急于偷天，方尘采纳建议决定暂缓行动。"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘以大帝境界拥有仙王实力，进入终焉之地偷取天地本源几乎不受法则压制，是冲击仙皇境界的关键机缘。",
+        "核心线索：器灵建议方尘先在天外天本源空间提升实力，暂缓偷天计划，为后续剧情埋下伏笔。"
+      ],
+      "evidence_chapters": [
+        2436
+      ],
+      "continuity_in": [
+        2435
+      ],
+      "continuity_out": [
+        2437
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2437,
+      "title": "天外天本源空间修炼",
+      "source": {
+        "start_line": 403066,
+        "end_line": 403240
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "quick_read",
+      "priority_reason": "过渡与支线推进章节：可根据摘要快速阅读，掌握核心事实即可。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "setup"
+      ],
+      "teaser": "【帝境与界海篇】围绕《天外天本源空间修炼》展开，推动后续主线进展。",
+      "summary": "方尘决定返回天外天本源空间修炼以增强实力，为后续的“偷天”行动做准备。他辞别天河图器灵后，独自施展身法抵达本源空间入口，发现冥狱仙王与黑凤仙王正在此等候。两位仙王得知人族前辈支持方尘的计划，并赞同其先提升实力的安排，随即热情引领他前往空间深处。在那里，方尘见到了两位仙王的本命灵珠，并在其建议下召唤出炼天炉、吞天塔、通天魔绳、本命飞剑、阴阳仙剑、仙弓及吞天螺壳等法宝，使其吸收本源之力。其中吞天塔与炼天炉的吸收速度令仙王惊叹。随后，方尘又召出浮仙剑，其吞噬本源之力的速度竟超越仙王们的本命灵宝，引发更大震惊。最后，方尘召唤出筑基道台，化作万丈巨台，正式开启在本源空间的修炼。",
+      "key_events": [
+        "第2437章：方尘返回天外天本源空间，冥狱仙王与黑凤仙王迎接并赞同其修炼计划",
+        "方尘召唤多件法宝吸收本源之力，浮仙剑展现超越仙王灵宝的恐怖吞噬速度",
+        "方尘召唤万丈筑基道台，正式进入本源空间修炼状态"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘为“偷天”行动做准备，在天外天本源空间内通过法宝与筑基道台吸收本源之力修炼",
+        "核心线索：浮仙剑吸收本源之力的速度超越冥狱仙王与黑凤仙王的本命灵宝，暗示其品阶极高"
+      ],
+      "evidence_chapters": [
+        2437
+      ],
+      "continuity_in": [
+        2436
+      ],
+      "continuity_out": [
+        2438
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2438,
+      "title": "六转仙王",
+      "source": {
+        "start_line": 403241,
+        "end_line": 403438
+      },
+      "arc_id": "arc-xianjie",
+      "reading_priority": "intensive",
+      "priority_reason": "关键剧情节点与重大转折，对【帝境与界海篇】主线起决定性推进作用。",
+      "content_tags": [
+        "adventure",
+        "battle",
+        "cultivation",
+        "dialogue",
+        "treasure"
+      ],
+      "narrative_roles": [
+        "progression",
+        "turning_point"
+      ],
+      "teaser": "【帝境与界海篇】围绕《六转仙王》展开，推动后续主线进展。",
+      "summary": "方尘在天外天本源空间内修炼，其筑基道台展现出远超天道筑基的恐怖底蕴，令冥狱仙王和黑凤仙王深感震撼。方尘闭关三千万年，试图将第六种本源——光之本源与五行本源融合，但始终无法突破瓶颈，光之本源与五行本源之间存在本质排斥，寸功未进。冥狱仙王和黑凤仙王指出，五行本源属于物质层面的基础法则，而光之本源是更高层次的规则与秩序，两者在法则层面存在根本差异。他们进一步揭示，世间所有本源的源头是天道本源，它是包容和调和一切对立的原始能量，九大本源皆由其分化而来。方尘恍然大悟，意识到自己试图以仙王级别的力量完成需要更高层次能量才能实现的事，如同以木柴熔炼精铁，注定徒劳。本章以方尘领悟到融合之道的真正瓶颈在于层次不足而告终。",
+      "key_events": [
+        "第2438章：方尘筑基道台展现恐怖底蕴，令冥狱仙王和黑凤仙王震惊",
+        "交锋：方尘闭关三千万年尝试融合光之本源与五行本源，始终无法突破瓶颈",
+        "重大转折：冥狱仙王和黑凤仙王揭示天道本源是九大本源之源，方尘领悟到瓶颈在于层次不足"
+      ],
+      "characters_involved": [
+        "fangchen"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "主线事实：方尘融合第六种本源（光之本源）失败，瓶颈在于光之本源是规则层面存在，与五行物质法则本质不同",
+        "核心线索：天道本源是九大本源的源头，具有包容和调和特性，是融合更高层次本源的关键"
+      ],
+      "evidence_chapters": [
+        2438
+      ],
+      "continuity_in": [
+        2437
+      ],
+      "continuity_out": [],
+      "analysis_status": "final"
+    }
+  ]
+}

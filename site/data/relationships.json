@@ -1,0 +1,80 @@
+[
+  {
+    "id": "fangchen-yeqingci",
+    "from": "fangchen",
+    "to": "yeqingci",
+    "type": "romance",
+    "one_sentence": "从救赎到并肩：方尘助叶青瓷摆脱叶家掌控与幽冥反噬，二人互为道侣与战友。",
+    "supporting_chapters": [
+      56,
+      700,
+      983
+    ],
+    "status": "ongoing"
+  },
+  {
+    "id": "fangchen-yunqianxue",
+    "from": "fangchen",
+    "to": "yunqianxue",
+    "type": "allied",
+    "one_sentence": "方尘为云千雪修复道台、助其斩心魔成圣，云千雪成为团队核心战力。",
+    "supporting_chapters": [
+      15,
+      716,
+      718
+    ],
+    "status": "ongoing"
+  },
+  {
+    "id": "fangchen-bage",
+    "from": "fangchen",
+    "to": "bage",
+    "type": "master_disciple",
+    "one_sentence": "方尘与八哥的互损搭档：八哥提供搜魂与嘲讽，方尘提供庇护与机缘。",
+    "supporting_chapters": [
+      102,
+      1115,
+      2200
+    ],
+    "status": "ongoing"
+  },
+  {
+    "id": "fangchen-huoli",
+    "from": "fangchen",
+    "to": "huoli",
+    "type": "master_disciple",
+    "one_sentence": "火璃圣人是方尘最重要的护道人，多次以身挡劫，方尘反哺其渡劫。",
+    "supporting_chapters": [
+      250,
+      675,
+      800
+    ],
+    "status": "ongoing"
+  },
+  {
+    "id": "fangchen-lichangsheng",
+    "from": "fangchen",
+    "to": "lichangsheng",
+    "type": "enmity",
+    "one_sentence": "方尘与李长生自南荒结怨，贯穿圣土与叶家争夺的宿敌对决。",
+    "supporting_chapters": [
+      815,
+      1400,
+      1700
+    ],
+    "status": "unresolved"
+  },
+  {
+    "id": "fangchen-hundun",
+    "from": "fangchen",
+    "to": "hundunmotengteng",
+    "type": "allied",
+    "one_sentence": "方尘以炼天炉与浮仙戒喂养魔星藤，魔星藤成为其最强群战底牌。",
+    "supporting_chapters": [
+      263,
+      1101,
+      1570
+    ],
+    "status": "ongoing"
+  }
+]

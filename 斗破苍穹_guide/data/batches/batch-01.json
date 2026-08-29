@@ -1,0 +1,5252 @@
+{
+  "batch_index": 1,
+  "owned_range": [
+    1,
+    100
+  ],
+  "chapter_count": 100,
+  "chapters": [
+    {
+      "id": 1,
+      "title": "陨落的天才",
+      "source": {
+        "start_line": 4,
+        "end_line": 166
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第1章导读】陨落的天才：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《陨落的天才》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一章 陨落的天才“斗之力，三段！”望着测验魔石碑上面闪亮得甚至有些刺眼的五个大字，少年面无表情，唇角有着一抹自嘲，紧握的手掌，因为大力，而导致略微尖锐的指甲深深的刺进了掌心之中，带来一阵阵钻心的疼痛…“萧炎，斗之力，三段！级别：低级！”测验魔石碑之旁，一位中年男子，看了一眼碑上所显示出来的信息，语气漠然的将之公布了出来…中年男子话刚刚脱口，便是不出意外的在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "陨落的天才核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        1
+      ],
+      "continuity_in": [],
+      "continuity_out": [
+        2
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 2,
+      "title": "斗气大陆",
+      "source": {
+        "start_line": 167,
+        "end_line": 350
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第2章导读】斗气大陆：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斗气大陆》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二章 斗气大陆月如银盘，漫天繁星武动乾坤。山崖之颠，萧炎斜躺在草地之上，嘴中叼中一根青草，微微嚼动，任由那淡淡的苦涩在嘴中弥漫开来…举起有些白皙的手掌，挡在眼前，目光透过手指缝隙，遥望着天空上那轮巨大的银月武动乾坤。“唉…”想起下午的测试，萧炎轻叹了一口气，懒懒的抽回手掌，双手枕着脑袋，眼神有些恍惚…“十五年了呢…”低低的自喃声，忽然毫无边际的从少年嘴中轻……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斗气大陆核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《斗气大陆》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        1,
+        2,
+        3
+      ],
+      "continuity_in": [
+        1
+      ],
+      "continuity_out": [
+        3
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 3,
+      "title": "客人",
+      "source": {
+        "start_line": 351,
+        "end_line": 480
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第3章导读】客人：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《客人》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三章 客人床榻之上，少年闭目盘腿而坐，双手在身前摆出奇异的手印，胸膛轻微起伏，一呼一吸间，形成完美的循环，而在气息循环间，有着淡淡的白色气流顺着口鼻，钻入了体内，温养着骨骼与**武动乾坤。在少年闭目修炼之时，手指上那古朴的黑色戒指，再次诡异的微微发光，旋即沉寂…“呼…”缓缓的吐出一口浊气，少年双眼乍然睁开，一抹淡淡的白芒在漆黑的眼中闪过，那是刚刚被吸收，而……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "客人核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        2,
+        3,
+        4
+      ],
+      "continuity_in": [
+        2
+      ],
+      "continuity_out": [
+        4
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 4,
+      "title": "云岚宗",
+      "source": {
+        "start_line": 481,
+        "end_line": 583
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第4章导读】云岚宗：yun-yun, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《云岚宗》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四章 云岚宗大厅中,萧战以及三位长老,正在颇为热切的与那位陌生老者交谈着,不过这位老者似乎有什么难以启齿的事情一般,每每到口的话语,都将会有些无奈的咽了回去,而每当这个时候,一旁的娇贵少女,都是忍不住的横了老者一眼…倾耳听了一会，萧炎便是有些无聊的摇了摇头…“萧炎哥哥，你知道他们的身份吗？”就在萧炎无聊得想要打瞌睡之时，身旁的熏儿，纤指再次翻开古朴的书页，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "云岚宗核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yun-yun",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        3,
+        4,
+        5
+      ],
+      "continuity_in": [
+        3
+      ],
+      "continuity_out": [
+        5
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 5,
+      "title": "聚气散",
+      "source": {
+        "start_line": 584,
+        "end_line": 695
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第5章导读】聚气散：yao-lao, yun-yun, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《聚气散》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五章 聚气散“咳。”白袍老者轻咳了一声，站起身来对着萧战拱了拱手，微笑道：“萧族长，此次前来贵家族，主要是有事相求！”“呵呵，葛叶先生，有事请说便是，如果力所能及，萧家应该不会推辞。”对于这位老者，萧战可不敢怠慢，连忙站起来客气的道，不过由于不知道对方到底所求何事，所以也不敢把话说得太满武动乾坤。“呵呵，萧族长，你可认识她么？”葛叶微微一笑，指着身旁的少女……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "聚气散核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《聚气散》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        4,
+        5,
+        6
+      ],
+      "continuity_in": [
+        4
+      ],
+      "continuity_out": [
+        6
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 6,
+      "title": "炼药师",
+      "source": {
+        "start_line": 696,
+        "end_line": 837
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第6章导读】炼药师：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼药师》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六章 炼药师古匣子之内，一枚通体碧绿，龙眼大小的药丸，正静静的躺卧，而那股诱人的异香，便是从中所发武动乾坤。在斗气大陆，想要成为一名真正的斗者，前提便是必须在体内凝聚斗之气旋，而凝聚斗之气旋，却是有着不小的失败率，失败之后，九段斗之气，便将会降回八段，有些运气不好之人，说不定需要凝聚十多次，方才有可能成功，而如此重复的凝聚，却让得人失去了最好的修炼时间段，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼药师核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        5,
+        6,
+        7
+      ],
+      "continuity_in": [
+        5
+      ],
+      "continuity_out": [
+        7
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 7,
+      "title": "休!",
+      "source": {
+        "start_line": 838,
+        "end_line": 991
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第7章导读】休!：yao-lao, yun-yun, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《休!》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七章 休!与纳兰嫣然所期待的有些不同，在她话出之后，面前的少年，身体猛的剧烈颤抖了起来，缓缓的抬起头来，那张清秀的稚嫩小脸，现在却是狰狞得有些可怖…虽然三年中一直遭受着嘲讽，不过在萧炎的心中，却是有着属于他的底线，纳兰嫣然这番高高在上，犹如施舍般的举动，正好狠狠的踏在萧炎隐藏在心中那仅剩的尊严之上武动乾坤。“啊…”被少年狰狞模样吓了一跳，少女急忙后退一步，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "休!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "yun-yun",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        6,
+        7,
+        8
+      ],
+      "continuity_in": [
+        6
+      ],
+      "continuity_out": [
+        8
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 8,
+      "title": "神秘的老者",
+      "source": {
+        "start_line": 992,
+        "end_line": 1130
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第8章导读】神秘的老者：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《神秘的老者》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八章 神秘的老者表情淡漠的离开大厅，有些神不守舍的萧炎按照平日的习惯，慢慢的攀上了家族的后山，坐在山壁之上，平静的望着对面笼罩在雾气之中的险峻山峦，那里，是加玛帝国闻名的魔兽山脉武动乾坤。“呵呵，实力呐…这个世界，没有实力，连一坨狗屎都不如，至少，狗屎还没人敢去踩！”肩膀轻轻的耸动，少年那低沉的自嘲笑声，带着悲愤，在山顶上缓缓的徘徊武动乾坤。十指插进一头黑……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "神秘的老者核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《神秘的老者》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        7,
+        8,
+        9
+      ],
+      "continuity_in": [
+        7
+      ],
+      "continuity_out": [
+        9
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 9,
+      "title": "药老!",
+      "source": {
+        "start_line": 1131,
+        "end_line": 1326
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第9章导读】药老!：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《药老!》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九章 药老!“炼药师？”闻言，萧炎一怔，旋即眉头大皱：“在斗气大陆，只要是个人，都想成为炼药师，可炼药师，是随便什么人都能当上的么？那些苛刻的条件…”话音忽然一顿，萧炎猛的抬头，张大着嘴：“我达到了？”非常欣赏萧炎这幅震撼中夹杂着期盼与狂喜的神色，老者抚着胡子想了片刻，又上下打量了一番，方才似乎有些为难的叹道：“虽然只是勉强够格，不过谁让我欠你一个人情啊，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "药老!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        8,
+        9,
+        10
+      ],
+      "continuity_in": [
+        8
+      ],
+      "continuity_out": [
+        10
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 10,
+      "title": "借钱",
+      "source": {
+        "start_line": 1327,
+        "end_line": 1474
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第10章导读】借钱：xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《借钱》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十章 借钱脚尖在山岩之上轻轻一点，萧薰儿宛如一只紫色蝴蝶一般，曼妙的身姿划起诱人弧线，轻灵的跃上了山顶，微偏着头，目光扫向悬崖边的少年武动乾坤。望着少年，薰儿微微一愣，虽然仅仅半天不见，不过她却是觉得，现在的萧炎，似乎比先前，多了点什么…当两双眸子在山风摇拽间相遇之时，薰儿终于是察觉到少年多出了什么，那是…自信！时隔三年，昔日少年身上最闪亮的光环，似乎终于……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "借钱核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《借钱》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        9,
+        10,
+        11
+      ],
+      "continuity_in": [
+        9
+      ],
+      "continuity_out": [
+        11
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 11,
+      "title": "坊市",
+      "source": {
+        "start_line": 1475,
+        "end_line": 1607
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第11章导读】坊市：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《坊市》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十一章 坊市魔核，在斗气大陆之上，也被称为魔晶，以及灵丹药的雏形等等，顾名思义，这是魔兽体内的一种能量晶核，其内充斥着极为狂暴的天地能量，对于这种狂暴能量，就算是一名斗王，也不敢冒着爆体的危险，将之强行吸入武动乾坤。然而魔核虽然并不能直接供人吸收，不过它却是炼药师炼药时必不可缺的主材料，经过炼药师用秘法炼制过的魔核，会被一些神奇的药草中和掉狂暴属性，摇身变……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "坊市核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《坊市》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        10,
+        11,
+        12
+      ],
+      "continuity_in": [
+        10
+      ],
+      "continuity_out": [
+        12
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 12,
+      "title": "离他远点",
+      "source": {
+        "start_line": 1608,
+        "end_line": 1713
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第12章导读】离他远点：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《离他远点》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十二章 离他远点望着那满脸欣喜的英俊青年，薰儿纤细的柳眉微微皱了皱，也不理会他的叫喊，转身就走武动乾坤。“薰儿小姐！”瞧着薰儿转身，那名英俊青年苍白的脸上顿时急了，当下脚步加快几分，最后横身挡在了薰儿面前武动乾坤。被青年拦住，薰儿只得停下脚步，一双狭长的秋水眸子，带着点点懒意的微眯着，淡淡的望着他，却是不言不语武动乾坤。“薰儿小姐…”被少女那双秋水吟吟的眸……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "离他远点核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        11,
+        12,
+        13
+      ],
+      "continuity_in": [
+        11
+      ],
+      "continuity_out": [
+        13
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 13,
+      "title": "黑铁片",
+      "source": {
+        "start_line": 1714,
+        "end_line": 1834
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第13章导读】黑铁片：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《黑铁片》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十三章 黑铁片瞧着薰儿竟然点头应下来的萧炎的话，加列奥嘴角一阵抽搐，拳头捏得嘎吱作响，目光阴鹫的狠狠盯着面前一脸平淡的少年武动乾坤。加列奥身后的一群属下，看见自家主子那难看的脸色，非常机灵识相的前踏了一步，隐隐的将两人包围其中，扫视的目光中，掺杂着不怀好意武动乾坤。坊市深处，人流同样不少，瞧得这边的事故，都不由得好奇的望了过来，萧炎与加列奥在乌坦城也是小有……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "黑铁片核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《黑铁片》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        12,
+        13,
+        14
+      ],
+      "continuity_in": [
+        12
+      ],
+      "continuity_out": [
+        14
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 14,
+      "title": "吸掌",
+      "source": {
+        "start_line": 1835,
+        "end_line": 1994
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第14章导读】吸掌：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《吸掌》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十四章 吸掌听着在心中响起的声音，萧炎双眼轻微的眨了眨，不着痕迹的点点下巴武动乾坤。并没有立即拿起那块黑色铁片，萧炎轻抛了抛手中沾有血丝的绿色魔晶，冲着摊贩后的那一位看上去有些贼眉鼠眼的佣兵男子笑道：“这是哪种魔兽的魔晶？”“嘿嘿，少爷好眼力，这是一阶魔兽吞木狐的魔晶，在一阶魔晶中，这可算是极品了，为了获得这枚魔晶，我们尖牙佣兵团，可足足守了三天，杀了五只……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "吸掌核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《吸掌》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        13,
+        14,
+        15
+      ],
+      "continuity_in": [
+        13
+      ],
+      "continuity_out": [
+        15
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 15,
+      "title": "修炼",
+      "source": {
+        "start_line": 1995,
+        "end_line": 2139
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第15章导读】修炼：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《修炼》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十五章 修炼温暖的阳光从窗户的缝隙中透射而进，细细碎碎的光斑，点缀着整洁的房间武动乾坤。手机端阅读请登陆m.zhuaji.org房间之中，少年**着身躯，盘腿坐在木盆之中，双手交接，在身前摆出一个奇异的印结，双目紧闭，呼吸平稳有力武动乾坤。木盆之中，盛满了青色的水液，略微摇晃间，竟然还反射出点点异芒，颇为神奇武动乾坤。少年的胸膛微微轻微着，呼吸间，极具节奏……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "修炼核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        14,
+        15,
+        16
+      ],
+      "continuity_in": [
+        14
+      ],
+      "continuity_out": [
+        16
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 16,
+      "title": "萧宁",
+      "source": {
+        "start_line": 2140,
+        "end_line": 2284
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第16章导读】萧宁：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧宁》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十六章 萧宁望着缓缓行过来的少年，萧媚几人都是止下了脚步，嬉笑的声音，也是逐渐的弱了许多武动乾坤。手机端阅读请登陆m.zhuaji.org萧媚身旁的几位清秀少女，睁着大眼睛望着这位曾经被认为是家族荣耀的少年，小脸上的表情，说不出的惋惜还是其他武动乾坤。萧媚顿在原地，心头有些纠结，在心底，其实她也想和这位曾经让得她倾慕不已的少年畅聊，不过，现实却是告诉她，两……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧宁核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《萧宁》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        15,
+        16,
+        17
+      ],
+      "continuity_in": [
+        15
+      ],
+      "continuity_out": [
+        17
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 17,
+      "title": "冲突",
+      "source": {
+        "start_line": 2285,
+        "end_line": 2390
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第17章导读】冲突：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《冲突》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十七章 冲突“萧炎哥哥。”少女俏生生的立在萧炎面前，娇嫩白皙的小手负于身后，身子微微前倾，美丽的水灵大眼睛，弯成了漂亮的月牙，其中笑意盈盈，俏美的小脸之上，浮现浅浅的衅窝，霎是可爱武动乾坤。目光从卷轴中移出，萧炎笑着看了一眼面前的少女，旋即目光在大堂中扫过，望着那一道道火热的目光，不由有些无奈的道：“妮子，我知道你的魅力不小，可也用不着把我推出来当挡箭牌吧……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "冲突核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《冲突》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        16,
+        17,
+        18
+      ],
+      "continuity_in": [
+        16
+      ],
+      "continuity_out": [
+        18
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 18,
+      "title": "玄阶高级斗技:八极崩",
+      "source": {
+        "start_line": 2391,
+        "end_line": 2484
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第18章导读】玄阶高级斗技:八极崩：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《玄阶高级斗技:八极崩》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十八章 玄阶高级斗技:八极崩无视于身后那阴森森的目光，萧炎抱着卷轴在斗技堂管理员处登记了一下，这才与薰儿轻声笑谈着，慢吞吞的行出了斗技堂武动乾坤。“小混蛋，你给我等着吧，等你被分配出家族之后，我有的是时间收拾你！失去了族长的庇护，你狗屁都不是！”望着那逐渐远去的背影，萧宁恨得有些牙痒痒，咬牙切齿的反手一掌轰在身旁的书架上，顿时在其上留下了一个浅浅的手印武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "玄阶高级斗技:八极崩核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        17,
+        18,
+        19
+      ],
+      "continuity_in": [
+        17
+      ],
+      "continuity_out": [
+        19
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 19,
+      "title": "残酷训练",
+      "source": {
+        "start_line": 2485,
+        "end_line": 2581
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第19章导读】残酷训练：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《残酷训练》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第十九章 残酷训练清晨，薄薄的淡白雾气笼罩着后山山顶，久久不散，轻风吹过，忽然带来一阵**接触的闷响之声武动乾坤。后山顶上的一处隐蔽小树林中，萧炎双脚如树桩一般的插进泥土，脚趾紧扣地面，牙关紧咬，额头之上，冷汗横流，只穿了一件短裤的**身躯上，一道道青色淤痕，密布其上武动乾坤。在萧炎身后，化为灵魂状态的药老，正盘坐在一块巨石之上，此时，他正满脸肃然的望着那咬……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "残酷训练核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《残酷训练》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        18,
+        19,
+        20
+      ],
+      "continuity_in": [
+        18
+      ],
+      "continuity_out": [
+        20
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 20,
+      "title": "拍卖",
+      "source": {
+        "start_line": 2582,
+        "end_line": 2657
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第20章导读】拍卖：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拍卖》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十章 拍卖半个月晋升第四段斗之气，一个半月之后晋升第五段，这种无以伦比的修炼速度，即使是以前的萧炎，恐怕也唯有望尘莫及武动乾坤。虽说每升级一段斗之气，晋升的难度也会随之增加，不过以现在的速度来看，萧炎想在一年内修炼至第七段斗之气，应该并不是一件太过困难的事武动乾坤。当然，在这前提之下，是必须有着充足的筑基灵液，否则，还不等萧炎修炼至第七段斗之气，就将会在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拍卖核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        19,
+        20,
+        21
+      ],
+      "continuity_in": [
+        19
+      ],
+      "continuity_out": [
+        21
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 21,
+      "title": "二品炼药师谷尼",
+      "source": {
+        "start_line": 2658,
+        "end_line": 2802
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第21章导读】二品炼药师谷尼：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《二品炼药师谷尼》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十一章 二品炼药师谷尼特米尔拍卖场，乌坦城最大的拍卖场所，同时也隶属于加玛帝国中最富有的家族：特米尔家族武动乾坤。在加玛帝国之中，要论富有，恐怕特米尔家族是首屈一指武动乾坤。特米尔家族历史恒久，已在加玛帝国发展了数百年时间，关系可谓是错综复杂，而据一些小道消息，这个富得流油的家族，似乎还和加玛帝国的皇室有着丝丝关系武动乾坤。在帝国中，特米尔家族与纳兰家族……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "二品炼药师谷尼核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        20,
+        21,
+        22
+      ],
+      "continuity_in": [
+        20
+      ],
+      "continuity_out": [
+        22
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 22,
+      "title": "风卷决",
+      "source": {
+        "start_line": 2803,
+        "end_line": 2959
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第22章导读】风卷决：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《风卷决》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十二章 风卷决在一名女侍的带领下，萧炎走进了正在举行中的拍卖会武动乾坤。手机端阅读请登陆m.zhuaji.org一入其中，周围明亮的环境便是昏暗了下来，阵阵喧闹，铺天盖地的直灌入耳，让得喜静的萧炎眉头大皱武动乾坤。拍卖场很大，容纳千百人并不是难事，此时，在拍卖场中央位置的灯光下，一位身着红色裙袍的美丽女人，正用那妩媚得让人骨头有些酥麻的娇滴滴声音为场内的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "风卷决核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《风卷决》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        21,
+        22,
+        23
+      ],
+      "continuity_in": [
+        21
+      ],
+      "continuity_out": [
+        23
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 23,
+      "title": "争抢",
+      "source": {
+        "start_line": 2960,
+        "end_line": 3104
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第23章导读】争抢：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《争抢》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十三章 争抢玄阶高级功法几字一出，拍会场内，骤然寂静武动乾坤。与先前的筑基灵液想比，斗气功法所引起的轰动，无疑要更加震撼人心武动乾坤。丹药虽珍贵，不过却只可用于一时，而斗气功法，却是能够用于一生，甚至，还能传承给子孙后代，从某种角度上来说，高阶的斗气功法，比丹药，更要让人疯狂！毕竟，只要拥有了高阶功法，就算没有灵药的支持，那也迟早能成为一方强者，而若是没……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "争抢核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《争抢》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        22,
+        23,
+        24
+      ],
+      "continuity_in": [
+        22
+      ],
+      "continuity_out": [
+        24
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 24,
+      "title": "一切待续",
+      "source": {
+        "start_line": 3105,
+        "end_line": 3204
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第24章导读】一切待续：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一切待续》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十四章 一切待续出了一号拍卖场，萧炎再次回到了鉴宝室，在那中年人敬畏的目光中，安静的垂首等待武动乾坤。半晌之后，一阵有些急促的脚步声自外传来，两道人影，推门而入武动乾坤。“呵呵，这位便是筑基灵液的主人吗？先生应该第一次来乌坦城吧？”香风袭来，酥麻娇腻的轻笑声，忽然的在萧炎耳边响起，让得他心尖略微颤了颤武动乾坤。心头骂了一声妖精，萧炎将脸深入斗篷之中，目光……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一切待续核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        23,
+        24,
+        25
+      ],
+      "continuity_in": [
+        23
+      ],
+      "continuity_out": [
+        25
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 25,
+      "title": "钱由我出",
+      "source": {
+        "start_line": 3205,
+        "end_line": 3340
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第25章导读】钱由我出：xiao-xun-er, yun-yun, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《钱由我出》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十五章 钱由我出有些鬼鬼祟祟的溜进自己的房间，萧炎快速的关上房门，然后飞快的窜进房间的角落，最后从怀中掏出一大堆的药草以及几颗魔晶，小心翼翼的摆放进柜子之中，深嗅了嗅满手的药材气味，嘿嘿笑着松了一口气武动乾坤。为了能够潜心修炼，此次萧炎足足购买了八个月的药材量，看这模样，他今年剩下的日子，是打算在苦修中度过了武动乾坤。亲昵的拍了拍柜子，萧炎嘴角一裂，慵懒……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "钱由我出核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "yun-yun",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《钱由我出》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        24,
+        25,
+        26
+      ],
+      "continuity_in": [
+        24
+      ],
+      "continuity_out": [
+        26
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 26,
+      "title": "苦修",
+      "source": {
+        "start_line": 3341,
+        "end_line": 3434
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第26章导读】苦修：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《苦修》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十六章 苦修“八极崩！”山巅小树林之间，清冷的喝声，猛然响起武动乾坤。一道敏捷的影子在林间灵活跳跃，树林间密布的荆刺，并未给他带来丝毫的阻碍武动乾坤。下一霎，影子突兀的在一株足有半公分粗壮的大树面前停下了身子，双脚一错，身子半斜，手肘猛的反轰在了大树之上武动乾坤。“砰！”一声闷响，木屑四溅，蜘蛛般的裂缝，沿着肘击之处，扩散蔓延武动乾坤。“嘎吱…”被一肘轰……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "苦修核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《苦修》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        25,
+        26,
+        27
+      ],
+      "continuity_in": [
+        25
+      ],
+      "continuity_out": [
+        27
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 27,
+      "title": "冲击第七段",
+      "source": {
+        "start_line": 3435,
+        "end_line": 3534
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "battle",
+        "dialogue",
+        "cultivation",
+        "alchemy"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第27章导读】冲击第七段：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《冲击第七段》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十七章 冲击第七段时间如水，总在不经意间，悄悄的从指缝溜过武动乾坤。炎热的夏季已经被凉爽的秋天所取代，绿意葱郁的枝头，也是开始掺杂上了点点枯黄武动乾坤。依旧是那所整洁的小屋，阳光洒进，斑点四布武动乾坤。房内的木盆中，少年双目垂闭，双手结印，呼吸间，恍若天成武动乾坤。大半年的苦修，让得少年清秀的稚嫩脸庞上多出了一抹坚毅，紧紧抿在一起的嘴唇，透着几分倔强，那……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "冲击第七段核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        26,
+        27,
+        28
+      ],
+      "continuity_in": [
+        26
+      ],
+      "continuity_out": [
+        28
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 28,
+      "title": "强化吸掌",
+      "source": {
+        "start_line": 3535,
+        "end_line": 3670
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第28章导读】强化吸掌：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《强化吸掌》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十八章 强化吸掌躺在木盆内，身子侵在冰凉的灵液之中，萧炎有些沉醉于体内的那股充实的力量之感，按照寻常的突破模式，一般在到达第七段之后会有一段时间的温养期，而有着筑基灵液相助的萧炎，却是直接跳过了这时期，到达了充盈阶段武动乾坤。在木盆中静坐了一会，待得欣喜的心情逐渐平复之后，萧炎这才慢吞吞的站起身来，**的身子沾着淡青的水珠，在阳光的反射下，炫耀着异彩武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "强化吸掌核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《强化吸掌》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        27,
+        28,
+        29
+      ],
+      "continuity_in": [
+        27
+      ],
+      "continuity_out": [
+        29
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 29,
+      "title": "重要的日子",
+      "source": {
+        "start_line": 3671,
+        "end_line": 3776
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第29章导读】重要的日子：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《重要的日子》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第二十九章 重要的日子三月时间，眨眼便是匆匆过去大半，而距离萧炎的成*人仪式，也仅有一月距离武动乾坤。整洁的小屋中，萧炎双眼愣愣的望着木盆中的青色水液，这已经是最后的筑基灵液了，斗之气越到后面几段，越是难以修炼，自从上次突破到第七段之后，萧炎体内的斗之气已经沉寂接近两个月了，两月中，不管他如何修炼，那种突破的感觉，却始终未能出现武动乾坤。傻子一般的盯着木盆好……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "重要的日子核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《重要的日子》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        28,
+        29,
+        30
+      ],
+      "continuity_in": [
+        28
+      ],
+      "continuity_out": [
+        30
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 30,
+      "title": "辱人者，人恒辱之",
+      "source": {
+        "start_line": 3777,
+        "end_line": 3900
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第30章导读】辱人者，人恒辱之：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《辱人者，人恒辱之》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十章 辱人者，人恒辱之望着那和薰儿并排行来的萧炎，场中的少年们，脸庞上无一不是流露出许些嫉妒，在这萧家中，能和薰儿走这么近的唯一一人，恐怕便只有这出名的废柴了吧…广场边缘处，周围簇拥着大群同龄人的萧宁，盯着萧炎的眼瞳中，怒意盎然武动乾坤。“小混蛋，看你过了今天后，还有什么脸和薰儿在一起。”低骂了一声，萧宁幸灾乐祸的冷笑道武动乾坤。无视于那一道道充斥着嫉妒……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "辱人者，人恒辱之核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        29,
+        30,
+        31
+      ],
+      "continuity_in": [
+        29
+      ],
+      "continuity_out": [
+        31
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 31,
+      "title": "一星斗者",
+      "source": {
+        "start_line": 3901,
+        "end_line": 4021
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第31章导读】一星斗者：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一星斗者》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十一章 一星斗者望着那缓缓行上的绿衣少女，训练场上有些寂静，一双双炽热的目光，牢牢的盯着少女，眨也不眨武动乾坤。高台之上，所有家族高层都是停止了低声交谈，目光汇聚在这颗萧家最璀璨的明珠之上武动乾坤。萧战以及三位长老，脸庞在凝重之余，也有着一抹好奇，他们同样很想知道，一年的修炼，这位家族中年轻一辈的第一人，此时，又走到了何种地步？……在场中所有目光的注视之……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一星斗者核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《一星斗者》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        30,
+        31,
+        32
+      ],
+      "continuity_in": [
+        30
+      ],
+      "continuity_out": [
+        32
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 32,
+      "title": "挑战",
+      "source": {
+        "start_line": 4022,
+        "end_line": 4145
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第32章导读】挑战：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《挑战》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十二章 挑战满场寂静，死一般的寂静！场中的所有人，震惊的望着石碑之上的五个大字，脸庞之上的表情，极为精彩，片刻之后，急促的呼吸，犹如风车一般，在训练场上响了起来武动乾坤。“喀嚓！”高台之上，萧战手中的茶杯，直接被一巴掌捏成了粉末，茶水混杂着粉末，顺着手掌滴滴答答的掉落而下武动乾坤。“七段…炎儿，你…真的做到了！”双眼望着黑石碑下的黑衫少年，萧战的眼睛，略……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "挑战核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《挑战》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        31,
+        32,
+        33
+      ],
+      "continuity_in": [
+        31
+      ],
+      "continuity_out": [
+        33
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 33,
+      "title": "证实",
+      "source": {
+        "start_line": 4146,
+        "end_line": 4263
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第33章导读】证实：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《证实》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十三章 证实望着那抢先挑战的壮硕少年，其他未合格的族人顿时有些遗憾的叹了一口气，看那模样，似乎很是羡慕这第一个吃螃蟹的人武动乾坤。萧炎微眯着眼眸，上下打量了一下面前的少年，虽然家族中的族人他并认不全，不过这少年，他却是有着一些印象武动乾坤。如果所记不错的话，少年名叫萧克，是大长老派系的人，平日经常跟在萧宁屁股后面，俨然一副小狗腿子的模样，以前在自己落魄的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "证实核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        32,
+        33,
+        34
+      ],
+      "continuity_in": [
+        32
+      ],
+      "continuity_out": [
+        34
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 34,
+      "title": "翻身",
+      "source": {
+        "start_line": 4264,
+        "end_line": 4369
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第34章导读】翻身：xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《翻身》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十四章 翻身望着那负手立于场中的黑衫少年，场面略微有些寂静武动乾坤。高台上，萧战嘴角的笑容缓缓的扩大，到得最后，终于是忍不住的大笑了起来武动乾坤。听着耳边萧战那得意的大笑声，三位长老互相对视了一眼，心头轻叹了一口气，却是再没有出言阻难，场中少年所表现出来的潜力，让得他们心中有着不小的挫败之感，一年四段，这种速度，足以让任何人感到骇然，他们的子孙，恐怕再没……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "翻身核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《翻身》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        33,
+        34,
+        35
+      ],
+      "continuity_in": [
+        33
+      ],
+      "continuity_out": [
+        35
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 35,
+      "title": "罪恶感",
+      "source": {
+        "start_line": 4370,
+        "end_line": 4457
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第35章导读】罪恶感：xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《罪恶感》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十五章 罪恶感听着薰儿此话，萧媚一怔，旋即有些尴尬，若是家族中别的少女如此说话，她倒还能够凭借自己的美貌与天赋在话语上占些上风，可如果将对手换成是薰儿的话，她却只得满心挫败武动乾坤。望了一眼萧炎那淡然的脸色，萧媚心头一声自嘲的苦笑，只得讪讪离开武动乾坤。训练场中的人群，盯着那被薰儿亲昵挽住的萧炎，都不由得心头有些嫉妒，作为家族中最耀眼的明珠，他们何曾见过……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "罪恶感核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《罪恶感》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        34,
+        35,
+        36
+      ],
+      "continuity_in": [
+        34
+      ],
+      "continuity_out": [
+        36
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 36,
+      "title": "滑稽的突破",
+      "source": {
+        "start_line": 4458,
+        "end_line": 4563
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "character_growth",
+        "payoff"
+      ],
+      "teaser": "【第36章导读】滑稽的突破：xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《滑稽的突破》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十六章 滑稽的突破很难想象，天性淡雅从容的薰儿，会有如此轻语含羞的动人娇态，那股清纯诱人的模样，让得萧炎真切的感受到一种别样的魅惑武动乾坤。在心中暗道了一声小妖精之后，萧炎含糊的应了一声，然后在薰儿好笑的目光中，极不争气的选择落荒而逃武动乾坤。望着那狼狈离去的萧炎，薰儿掩嘴轻声娇笑，上下打量了一下自己，然后将目光投向小路之旁的小水谭武动乾坤。里面，少女亭……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "滑稽的突破核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        35,
+        36,
+        37
+      ],
+      "continuity_in": [
+        35
+      ],
+      "continuity_out": [
+        37
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 37,
+      "title": "萧玉",
+      "source": {
+        "start_line": 4564,
+        "end_line": 4675
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第37章导读】萧玉：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧玉》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十七章 萧玉一个家族想要保持经久不衰，最重要的，便是需要保持活力，而活力的来源，便是家族中的年轻一辈，他们是家族的新鲜血液，唯有新鲜血液的不断涌入，作为家族的这台大机械，才能时刻的保持着运转武动乾坤。因此，成*人仪式，是每个家族都极为重视的大日子，萧家，同样也不列外武动乾坤。作为乌坦城三大家族之一，萧家的成*人仪式自然是引来了城中各方势力的关注，一些与之……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧玉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《萧玉》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        36,
+        37,
+        38
+      ],
+      "continuity_in": [
+        36
+      ],
+      "continuity_out": [
+        38
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 38,
+      "title": "这小家伙，不简单呐",
+      "source": {
+        "start_line": 4676,
+        "end_line": 4772
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第38章导读】这小家伙，不简单呐：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《这小家伙，不简单呐》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十八章 这小家伙，不简单呐被萧炎一句话戳到这有些羞人的痛处，萧玉顿时俏脸铁青，玉手一探，就已直接握在了腰间的长剑把柄之上武动乾坤。嘴角噙着淡淡冷笑的望着脸色铁青的萧玉，萧炎身子向后微微一仰，懒懒的道：“想动手？”“动手你又能怎样！”萧玉玉手紧握着剑柄，强忍着拔剑砍人的冲动，冷笑着嘲讽道：“就算你如今天赋归来，又能如何？三年之前，我萧玉能把你撵得满山窜，三……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "这小家伙，不简单呐核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《这小家伙，不简单呐》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        37,
+        38,
+        39
+      ],
+      "continuity_in": [
+        37
+      ],
+      "continuity_out": [
+        39
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 39,
+      "title": "仪式复测",
+      "source": {
+        "start_line": 4773,
+        "end_line": 4881
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第39章导读】仪式复测：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《仪式复测》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第三十九章 仪式复测成*人仪式的举行，其程序的繁琐程度，简直有些让人脑袋发疼武动乾坤。坐在台下，萧炎望着台上那被摆纵得犹如木偶一般的少年，不由得揉了揉额头，对着身旁的薰儿苦笑道：“这成*人仪式，简直是自找苦吃。”看着萧炎无奈的模样，薰儿水灵大眼睛微弯，笑吟吟的道：“没办法，这是一直传下来的规矩，就算是萧叔叔他们，也没办法更改。”萧炎叹息了一声，无奈的点了点头……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "仪式复测核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        38,
+        39,
+        40
+      ],
+      "continuity_in": [
+        38
+      ],
+      "continuity_out": [
+        40
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 40,
+      "title": "震撼",
+      "source": {
+        "start_line": 4882,
+        "end_line": 4963
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第40章导读】震撼：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《震撼》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十章 震撼寂静，全场寂静！所有的目光，在略微愣了愣后，都是呆滞的凝固在了那闪耀着金光的黑石碑之上武动乾坤。贵宾席中，不断有着茶杯掉地的清脆响声，那些来自乌坦城各方势力的代表，此刻，皆是目瞪口呆，满脸的不可置信武动乾坤。他们此次来的目的，只是想确认下萧炎是否真的如同传闻所说，一年内连跳了四段斗之气武动乾坤。然而现在场中所表现而出的情况，不仅让得他们确认下了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "震撼核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《震撼》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        39,
+        40,
+        41
+      ],
+      "continuity_in": [
+        39
+      ],
+      "continuity_out": [
+        41
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 41,
+      "title": "增气散",
+      "source": {
+        "start_line": 4964,
+        "end_line": 5066
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第41章导读】增气散：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《增气散》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十一章 增气散“二长老，测验完毕了么？”萧炎望着石碑上的金色大字，缓缓的抽回手掌，瞟了一眼旁边精神有些恍惚的二长老，淡淡的出声询问道武动乾坤。“哦，呃，完了…”被萧炎的声音惊醒，二长老有些慌乱的点了点头，从那漂移而涣散的目光来看，他显然还处在震惊之中武动乾坤。“唉，一年五段斗之气？这修炼速度…恐怖。”许久后，缓缓回复清醒，二长老复杂的看着面前的少年，心头……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "增气散核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《增气散》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        40,
+        41,
+        42
+      ],
+      "continuity_in": [
+        40
+      ],
+      "continuity_out": [
+        42
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 42,
+      "title": "你输了",
+      "source": {
+        "start_line": 5067,
+        "end_line": 5163
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第42章导读】你输了：na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《你输了》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十二章 你输了望着高台上对恃的两位少年，在场的所有目光，都是饶有兴致的移了过来，他们也非常的想知道，这位在间隔三年之后，再次创造奇迹的少年，是否在斗技的修炼之上，也拥有如此恐怖的进度？贵宾席上，萧战皱着眉头望着上台挑战的萧宁，脸色略微有些难看，虽然萧炎的斗之气出乎了他的意料，不过对于斗技，他却是从未见到后者什么时候去斗技堂找专门的家族斗技师学习过武动乾坤……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "你输了核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        41,
+        42,
+        43
+      ],
+      "continuity_in": [
+        41
+      ],
+      "continuity_out": [
+        43
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 43,
+      "title": "强横的萧炎",
+      "source": {
+        "start_line": 5164,
+        "end_line": 5269
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第43章导读】强横的萧炎：xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《强横的萧炎》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十三章 强横的萧炎望着场中败得干脆利落的萧宁，台下在略微寂静之后，迅速骚乱了起来，先前还未完全消散的震撼，又是自心中缓缓的翻腾而起武动乾坤。萧家的年轻一辈，都是目瞪口呆的望着那吐血软到在地的萧宁，作为同辈人，他们自然非常清楚萧宁的战力，在萧家年轻一辈中，除了薰儿能够压之一筹之外，可以说是难有对手，然而现在，却仅仅是在与萧炎的两个碰面之中，便被打得落花流水……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "强横的萧炎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《强横的萧炎》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        42,
+        43,
+        44
+      ],
+      "continuity_in": [
+        42
+      ],
+      "continuity_out": [
+        44
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 44,
+      "title": "陪你试试",
+      "source": {
+        "start_line": 5270,
+        "end_line": 5366
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第44章导读】陪你试试：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《陪你试试》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十四章 陪你试试望着那砸进人群死活不明的萧宁，满场再一次寂静武动乾坤。片刻之后，一双双犹如看妖怪一般的目光，投向了高台上的黑衫少年，虽然很多人并不知道先前究竟发生了什么事，可萧宁忽然间实力暴涨，却是众人亲眼所见的事实，然而，出乎所有人的意料，在实力暴涨之后，萧宁却是败得比先前更要惨烈与干脆，一拳，重伤！贵宾席上，望着场中的变故，雅妃一只白皙修长的玉手缓缓……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "陪你试试核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《陪你试试》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        43,
+        44,
+        45
+      ],
+      "continuity_in": [
+        43
+      ],
+      "continuity_out": [
+        45
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 45,
+      "title": "落幕",
+      "source": {
+        "start_line": 5367,
+        "end_line": 5466
+      },
+      "arc_id": "wutan-city",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第45章导读】落幕：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《落幕》的关键进程。在wutan-city的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十五章 落幕在众目睽睽之下，少女轻灵的跃上高台，施施然的落在了萧炎身旁，秋水眼波缓缓流转，俏美的脸颊上，笑意盈盈武动乾坤。望着自己跳上来的薰儿，萧炎一愣，旋即无奈的翻了翻白眼：“你跑上来做什么？”薰儿抿着小嘴浅浅一笑，没有回答，将目光转向因为她的出现而脸色略微变化的萧玉，微笑道：“萧玉表姐，你年龄比萧炎哥哥大上一些，而且还进入了学院修习，这种挑战，却是有……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "落幕核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        44,
+        45,
+        46
+      ],
+      "continuity_in": [
+        44
+      ],
+      "continuity_out": [
+        46
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 46,
+      "title": "暴怒的萧炎",
+      "source": {
+        "start_line": 5467,
+        "end_line": 5584
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第46章导读】暴怒的萧炎：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《暴怒的萧炎》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十六章 暴怒的萧炎在举行了成*人仪式之后，萧炎的生活，终于可以适当的放松一些节奏，平日被排得满满的修炼日程，也是空闲了大半武动乾坤。上次所购买的药材炼制出来的筑基灵液已经被消耗殆尽，不过萧炎却并未再打算购买，现在的他，已踏足第八段斗之气，到了此时，筑基灵液所带来的效果，也是微乎其微武动乾坤。在筑基灵液的效果减弱之后，药老也并未再使用别的丹药帮助萧炎提升实……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "暴怒的萧炎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《暴怒的萧炎》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        45,
+        46,
+        47
+      ],
+      "continuity_in": [
+        45
+      ],
+      "continuity_out": [
+        47
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 47,
+      "title": "亵渎",
+      "source": {
+        "start_line": 5585,
+        "end_line": 5687
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第47章导读】亵渎：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《亵渎》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十七章 亵渎听着身上少年愤怒的低吼，萧玉一怔，旋即俏脸满是羞怒，死了命的挣扎，不过却被力气忽然暴涨的萧炎紧紧的按住手腕脉门，一丝丝酥麻的感觉，让得她身体有些使不出劲武动乾坤。再次挣扎片刻无果之后，萧玉也只得停下无用的举动，眼眸怒视着萧炎，丰满的胸脯微微起伏，羞骂道：“小混蛋，滚开！”萧炎裂了裂嘴，脸庞上的淤青带来一**的疼痛，吸了几口凉气，低头冷笑道：“……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "亵渎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《亵渎》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        46,
+        47,
+        48
+      ],
+      "continuity_in": [
+        46
+      ],
+      "continuity_out": [
+        48
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 48,
+      "title": "斗气阁",
+      "source": {
+        "start_line": 5688,
+        "end_line": 5793
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第48章导读】斗气阁：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斗气阁》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十八章 斗气阁站在队伍之中，萧炎抬头望着面前这幢庞大的阁楼，忍不转叹的摇了摇头武动乾坤。巨大阁楼的牌匾之上，绘有“斗气阁”三个颇显古气的字体，牌匾略微有些显黄，匾上的沟壑，显示着岁月的沧桑武动乾坤。这所楼阁，便是萧家最重要的所在:斗气阁！家族几百年来所收集的斗气功法，全部存放在此处，而这些功法，便是萧家如今地位的保障武动乾坤。作为家族中最重要的地方，此处……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斗气阁核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        47,
+        48,
+        49
+      ],
+      "continuity_in": [
+        47
+      ],
+      "continuity_out": [
+        49
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 49,
+      "title": "选择功法",
+      "source": {
+        "start_line": 5794,
+        "end_line": 5929
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第49章导读】选择功法：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《选择功法》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第四十九章 选择功法踏入漆黑的大门，光线略暗，柔和的光芒从周围墙壁上的火珠中散发而出，将宽敞的楼阁照得幽深而寂静武动乾坤。进入阁楼，几条宽敞的通道现进眼内，在每一条通道的最前方，都绘有代表各种属性的巨大字体武动乾坤。萧炎目光在几条通道扫过，最后停在靠左侧的火道之上，摸了摸鼻子，微偏过头，却是见到小脸略微有些娇羞绯红的薰儿，微微一愣，愕然的问道：“薰儿，怎么了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "选择功法核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《选择功法》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        48,
+        49,
+        50
+      ],
+      "continuity_in": [
+        48
+      ],
+      "continuity_out": [
+        50
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 50,
+      "title": "帮?",
+      "source": {
+        "start_line": 5930,
+        "end_line": 6035
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第50章导读】帮?：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《帮?》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十章 帮?望着拿着功法行出小房间的萧炎，薰儿摇了摇头，只得无奈的轻声道：“姑且相信你吧。”行出房间，萧炎瞧着附近那些依旧还沉侵在震撼中的族人，轻耸了耸肩，待得薰儿出来之后，两人这才闲庭信步的走出小道武动乾坤。因为距离两个小时还有不少的时间，所以萧炎与薰儿也并不急着出去，斗气阁平日属于禁地，今日难得有机会进来，四处看看也好满足一下好奇心武动乾坤。在即将出火……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "帮?核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《帮?》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        49,
+        50,
+        51
+      ],
+      "continuity_in": [
+        49
+      ],
+      "continuity_out": [
+        51
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 51,
+      "title": "安心",
+      "source": {
+        "start_line": 6036,
+        "end_line": 6126
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第51章导读】安心：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《安心》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十一章 安心走近厚重的大门，大门之旁，十几名面目冷漠的护卫正牢牢的堵着门口，在门角处，一名面无表情的老者正端坐在椅子之上，手中拿着笔与厚厚的簿子武动乾坤。此时的老者面前，正排着不少的族人，而所有的族人都是从身上掏出寻找到的斗气功法，让得老者登记之后，这才在十几名护卫冰冷的审视目光中，从那小小的缝隙中挤出去武动乾坤。这是出斗气阁的一种程序，在进入斗气阁之前……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "安心核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        50,
+        51,
+        52
+      ],
+      "continuity_in": [
+        50
+      ],
+      "continuity_out": [
+        52
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 52,
+      "title": "突破",
+      "source": {
+        "start_line": 6127,
+        "end_line": 6250
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "character_growth",
+        "payoff"
+      ],
+      "teaser": "【第52章导读】突破：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《突破》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十二章 突破斗气功法选择之后，整个家族似乎忽然间空荡了许多，那些斗之气在七段以下的年轻族人，都是开始被陆续的调出家族，然后分配到家族的各处产业之中，进行着培养与学习，而得到功法的优秀族人，也是开始了埋头苦修，以期能够以最快的速度，修炼到手的斗气功法武动乾坤。在这般平静的日子中，两月时间，几乎犹如流水一般，从指缝间悄悄溜过，让人难以察觉武动乾坤。天空烈日高……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "突破核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        51,
+        52,
+        53
+      ],
+      "continuity_in": [
+        51
+      ],
+      "continuity_out": [
+        53
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 53,
+      "title": "第九段",
+      "source": {
+        "start_line": 6251,
+        "end_line": 6347
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第53章导读】第九段：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《第九段》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十三章 第九段茂密的小森林之中，一丝丝淡白的能量气流从空气中渗发而出，然后不断的涌进那沉睡中的萧炎身体之内武动乾坤。望着那几乎成了能量源头的萧炎，薰儿略微有些惊喜，悄悄的退后了一些距离，警戒的守在周围，此时若是将萧炎从这种修炼状态中惊醒，恐怕他又将会失去一次晋级的好机会武动乾坤。萧炎此次的晋级，几乎可以说是水到渠成般的顺利，随着斗之气的不断涌入，萧炎脸庞……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "第九段核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《第九段》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        52,
+        53,
+        54
+      ],
+      "continuity_in": [
+        52
+      ],
+      "continuity_out": [
+        54
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 54,
+      "title": "筹钱",
+      "source": {
+        "start_line": 6348,
+        "end_line": 6468
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第54章导读】筹钱：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《筹钱》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十四章 筹钱当然，说是将聚气散当成豆子吃有些夸张成分，不过以药老的本事，只要材料足够的话，给萧炎捣鼓出几十来颗聚气散，也并不是什么太过困难的事武动乾坤。然而听着药老所放的狂语，萧炎还来不及高兴，就被接下来从他口中一个个蹦出来的材料打击得萎靡了下来武动乾坤。“你明日去准备四株五十年份的墨叶莲，两粒成熟的蛇涎果，一颗二十年份左右的聚灵草，还有一枚水属性的二级……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "筹钱核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        53,
+        54,
+        55
+      ],
+      "continuity_in": [
+        53
+      ],
+      "continuity_out": [
+        55
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 55,
+      "title": "不小心",
+      "source": {
+        "start_line": 6469,
+        "end_line": 6562
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第55章导读】不小心：xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《不小心》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十五章 不小心不得不说，米特尔拍卖场的宣传效果的确非常强大，在萧炎将筑基灵液交给拍卖会仅仅一天之后，几乎乌坦城大大小小所有势力，都知晓了这一消息，顿时，所有人，都是心血沸腾了起来武动乾坤。与上次拍卖会所拍卖的玄阶高级功法不同，那种天价物品，只有屈指可数的几大势力够资格拍买，其他实力较弱的势力，都只得望洋兴叹武动乾坤。而筑基灵液，对很多人来说，却是要显得更……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "不小心核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《不小心》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        54,
+        55,
+        56
+      ],
+      "continuity_in": [
+        54
+      ],
+      "continuity_out": [
+        56
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 56,
+      "title": "迦南学院",
+      "source": {
+        "start_line": 6563,
+        "end_line": 6653
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第56章导读】迦南学院：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《迦南学院》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十六章 迦南学院今日的米特尔拍卖场无疑是半年来最火爆的一次，宽敞的大厅之中，人头涌动，吵杂的喧哗声，让得刚刚进来的萧炎等人脑袋一蒙，耳边犹如大群苍蝇在窜动一般，让得人心烦意乱武动乾坤。望着水泄不通的大厅，萧战皱着眉无奈的摇了摇头，只好让拍卖场的人带他们从贵宾通道进入，这才安稳的进了拍卖会武动乾坤。拍卖会内，虽然人数也是不少，不过较之外面，却是安静了许多，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "迦南学院核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《迦南学院》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        55,
+        56,
+        57
+      ],
+      "continuity_in": [
+        55
+      ],
+      "continuity_out": [
+        57
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 57,
+      "title": "广告",
+      "source": {
+        "start_line": 6654,
+        "end_line": 6735
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第57章导读】广告：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《广告》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十七章 广告随意的收回略带寒意的目光，萧炎并没有和这家伙开口大骂一通的耐性，十指习惯性的略微曲卷，诡异的吸吐之力，在掌心中犹如呼吸一般，极有节奏的吞吐着武动乾坤。经过一年多的锤炼，萧炎对“吸掌”与“吹火掌”的转换虽然不敢说到了炉火纯青的地步，可也能算得上是熟练之极，若是与人动起手来，绝对能保证在不迟延速度的情况下，将两种斗技迅速转化，以达到攻击伤人之效武……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "广告核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        56,
+        57,
+        58
+      ],
+      "continuity_in": [
+        56
+      ],
+      "continuity_out": [
+        58
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 58,
+      "title": "高价",
+      "source": {
+        "start_line": 6736,
+        "end_line": 6859
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第58章导读】高价：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《高价》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十八章 高价雅妃所报出的价格，虽然让得场内略微静了静，不过很快的，一位脑子被雅妃那一颦一笑勾得神不守舍的年轻人便是急匆匆的高声喊了出来：“一万六！”在喊完价格之后，这名脸色有些苍白的年轻人还故作优雅的对着台上的雅妃微微鞠躬，却全然忘记了自己那双眼睛正死死的盯着后者丰满的胸脯武动乾坤。心中对这脑子全被女人**所占据的年轻人报以了冷笑的鄙视，雅妃面上却是保持……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "高价核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《高价》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        57,
+        58,
+        59
+      ],
+      "continuity_in": [
+        57
+      ],
+      "continuity_out": [
+        59
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 59,
+      "title": "拍卖结束",
+      "source": {
+        "start_line": 6860,
+        "end_line": 6947
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第59章导读】拍卖结束：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拍卖结束》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五十九章 拍卖结束萧战此话出口，全场略微有些寂静，半晌后，一道道幸灾乐祸的目光，便是移向了满脸铁青的加列毕武动乾坤。“啧啧，十万金币购买一瓶筑基灵液…这家伙，真是够豪爽啊。”望着脸庞抽筋的加列毕，萧炎低下头，忍不住的轻声笑道武动乾坤。望着幸灾乐祸的萧炎，薰儿莞尔，轻笑道：“一般的二品灵药，市面上顶多三万金币左右，筑基灵液这种能够提升斗之气修炼速度的奇药，一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拍卖结束核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        58,
+        59,
+        60
+      ],
+      "continuity_in": [
+        58
+      ],
+      "continuity_out": [
+        60
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 60,
+      "title": "药材到手",
+      "source": {
+        "start_line": 6948,
+        "end_line": 7056
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第60章导读】药材到手：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《药材到手》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十章 药材到手见到拍卖会即将结束，萧炎找了个借口从拍卖会中溜了出去武动乾坤。小心谨慎的走出拍卖场，然后再围着附近的街道逛了几圈之后，萧炎方才窜到某个隐僻的角落，将顺手买来的大黑斗篷披上，待得将身形包裹得极为臃肿之后，这才慢吞吞的回到拍卖场之中武动乾坤。自从在辨别萧炎是四品炼药师之后，雅妃便在拍卖场中安排了眼线，所以这次萧炎刚刚来到，便是被一名在此处等待许……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "药材到手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        59,
+        60,
+        61
+      ],
+      "continuity_in": [
+        59
+      ],
+      "continuity_out": [
+        61
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 61,
+      "title": "装",
+      "source": {
+        "start_line": 7057,
+        "end_line": 7180
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第61章导读】装：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《装》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十一章 装与一旁的两个家族同时行出拍卖会的大门，三位族长在对视间，都是发出皮笑肉不笑的难听笑声，而当移开目光后，冷笑与敌意皆是浮现脸庞武动乾坤。三簇人群大摇大摆的行走在大厅之中，路过之处，其余人都是赶紧退让，在这乌坦城中，基本上还没别的势力会招惹三大家族武动乾坤。再次与旁边的奥巴帕敷衍的说了几句话，萧战移动的目光骤然一凝，脚步一顿武动乾坤。瞧着萧战的举动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "装核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《装》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        60,
+        61,
+        62
+      ],
+      "continuity_in": [
+        60
+      ],
+      "continuity_out": [
+        62
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 62,
+      "title": "打",
+      "source": {
+        "start_line": 7181,
+        "end_line": 7277
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第62章导读】打：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《打》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十二章 打行出拍卖场，萧炎再次在附近乱转了许久，方才在一处人流偏少处，悄悄的溜进了一条巷子武动乾坤。手机端阅读请登陆m.zhuaji.org手脚麻利的将大黑斗篷取下，萧炎低声抱怨道：“老师，你差点让我暴露了。”“嘿嘿，我做的，不就是你心里想的么。”古朴的漆黑戒指中，响起药老那戏谑的笑声武动乾坤。无奈的摇了摇头，不过萧炎心中还真有点感觉对不住父亲，两次出来……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "打核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《打》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        61,
+        62,
+        63
+      ],
+      "continuity_in": [
+        61
+      ],
+      "continuity_out": [
+        63
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 63,
+      "title": "异火榜",
+      "source": {
+        "start_line": 7278,
+        "end_line": 7362
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第63章导读】异火榜：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《异火榜》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十三章 异火榜饭桌之上，萧炎斜瞥着对面那狠狠咬着饭菜，一口银牙在吃饭间，竟然蹦了点点嘎吱声音的萧玉，撇了撇嘴，回想起先前的那股异样的美妙感觉，右手的手指，却是不由自主的摸了摸掌心武动乾坤。对面，一直凶狠盯着萧炎的萧玉，瞧得他这举动，俏脸之上，顿时再次青红交替武动乾坤。目光古怪的望着咬牙切齿的萧玉，再看了看身旁那若无其事的萧炎，薰儿疑惑的蹙了蹙眉，旋即无奈……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "异火榜核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        62,
+        63,
+        64
+      ],
+      "continuity_in": [
+        62
+      ],
+      "continuity_out": [
+        64
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 64,
+      "title": "炼制聚气散",
+      "source": {
+        "start_line": 7363,
+        "end_line": 7468
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第64章导读】炼制聚气散：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼制聚气散》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十四章 炼制聚气散“当年为了成功获得这“骨灵冷火”，我可是在那暗无天日的鬼地方待了八年，而且在最后吸收的那一刻，绕是我准备周全，也差点被这鬼东西烧成灰烬…”药老感叹的摇了摇头，平静的老脸上，罕见的露出一抹后怕，看来，那次的遭遇，还真的是让他记忆犹深啊武动乾坤。“嘿嘿，虽然危险性极高，不过只要能够得到这“骨灵冷火”，一切都值了。”药老得意的扬了扬掌心中的白……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼制聚气散核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《炼制聚气散》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        63,
+        64,
+        65
+      ],
+      "continuity_in": [
+        63
+      ],
+      "continuity_out": [
+        65
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 65,
+      "title": "晋级斗者",
+      "source": {
+        "start_line": 7469,
+        "end_line": 7580
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第65章导读】晋级斗者：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《晋级斗者》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十五章 晋级斗者得到聚气散之后，萧炎却并未选择立刻服用，深吸了一口气，强行压下心头翻滚的迫不及待，逼迫自己滚上床榻进行着休息武动乾坤。手机端阅读请登陆m.zhuaji.org萧炎心中非常清楚，以他现在的状态来冲击斗者，失败的几率，恐怕将会在七成以上，虽然聚气散对于药老来说，炼制并不困难，不过萧炎却不想冒这种无谓的风险武动乾坤。见到萧炎竟然能够忍耐住立刻突……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "晋级斗者核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《晋级斗者》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        64,
+        65,
+        66
+      ],
+      "continuity_in": [
+        64
+      ],
+      "continuity_out": [
+        66
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 66,
+      "title": "焚决",
+      "source": {
+        "start_line": 7581,
+        "end_line": 7692
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第66章导读】焚决：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《焚决》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十六章 焚决躺在冰凉的石头地面许久后，萧炎方才缓缓的顺过气来，脸庞之上的喜悦几乎难以掩饰，动了动略微有些酸麻的双腿，再次盘起修炼的姿势武动乾坤。轻吐了一口气，萧炎微闭着眼眸，心神逐渐的沉入体内武动乾坤。内视，斗者级别方才能够掌握的一项辅助技能，实力越高者，对体内的情况，也是探寻得更为透彻武动乾坤。心神沉入小腹位置之处，巴掌大小的乳白气旋，正在缓缓旋转，在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "焚决核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        65,
+        66,
+        67
+      ],
+      "continuity_in": [
+        65
+      ],
+      "continuity_out": [
+        67
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 67,
+      "title": "选择",
+      "source": {
+        "start_line": 7693,
+        "end_line": 7786
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第67章导读】选择：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《选择》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十七章 选择对于这所谓的“焚决”，说真的，萧炎心中很不想放弃，毕竟，能够进化成天阶的功法，对他来说，实在是太具诱惑力，在这片庞大的斗气大陆之上，只要谁拥有了天阶功法，几乎便是拥有了成为巅峰强者的通行证武动乾坤。然而功法虽强，可那种不到两成的成功率，却是能够让得所有人望而却步武动乾坤。十指紧紧的叉在一起，萧炎的脸庞显得有些阴晴不定，迟疑与苦恼不断的纠缠武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "选择核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《选择》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        66,
+        67,
+        68
+      ],
+      "continuity_in": [
+        66
+      ],
+      "continuity_out": [
+        68
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 68,
+      "title": "陨落心炎",
+      "source": {
+        "start_line": 7787,
+        "end_line": 7877
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第68章导读】陨落心炎：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《陨落心炎》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十八章 陨落心炎狭窄的山洞之中，药老望着那闭目转化斗气的萧炎，手掌揉了揉泛红的老眼，他心中清楚，萧炎会选择这种危险的功法，也有着他的几分原因在其中，苍老的心灵中涌起点点暖意，仰天低叹了一声，呢喃道：“放心吧，我一定会把你培养成最杰出的炼药师…”在突破斗者之后，所有人都具有了修炼功法的资格，而在修炼了功法之后，体内那无属性的乳白斗气，就将会转化功法的属性斗……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "陨落心炎核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        67,
+        68,
+        69
+      ],
+      "continuity_in": [
+        67
+      ],
+      "continuity_out": [
+        69
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 69,
+      "title": "气愤的薰儿",
+      "source": {
+        "start_line": 7878,
+        "end_line": 7974
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第69章导读】气愤的薰儿：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《气愤的薰儿》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六十九章 气愤的薰儿在将一切都办理妥当之后，萧炎这才慢吞吞的从山洞中走出，沿着那陡峭的小路鬼鬼祟祟的爬上了山顶，望着四周并未有人影后，这才松了一口气，迈开大步，径直对着家族中行去武动乾坤。悠闲的回到家族之中，行至前院，却是瞧着大长老三人脚步匆匆的与他搽肩而过，顿下脚步，萧炎有些疑惑，刚才他分明看见三人脸庞上的阴沉与怒火武动乾坤。“谁遭惹他们了？”愕然的摇了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "气愤的薰儿核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        68,
+        69,
+        70
+      ],
+      "continuity_in": [
+        68
+      ],
+      "continuity_out": [
+        70
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 70,
+      "title": "探查",
+      "source": {
+        "start_line": 7975,
+        "end_line": 8074
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第70章导读】探查：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《探查》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十章 探查在家族中找了个借口和薰儿分开之后，萧炎悄悄的溜出了家族，略微沉吟，然后对着附近最近的一所加列家族的小型坊市行去武动乾坤。虽然他没兴趣帮几位长老排解烦恼，可他却希望能在力所能及的范围中，给自己的父亲一些帮助，而想要帮助，自然是要知道从何下手，所以，萧炎需要先去加列家族的坊市中探探底武动乾坤。加列家族的这所小型坊市位置略微有些偏僻，平日里人流极少，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "探查核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《探查》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        69,
+        70,
+        71
+      ],
+      "continuity_in": [
+        69
+      ],
+      "continuity_out": [
+        71
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 71,
+      "title": "萧家形势",
+      "source": {
+        "start_line": 8075,
+        "end_line": 8192
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第71章导读】萧家形势：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧家形势》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十一章 萧家形势在静坐了接近一个小时之后，一位俏丽的侍女终于从门外走进，双手端着一个银质小盘，小盘中，放有一枚淡红色的戒指武动乾坤。接过银盘，遣退侍女，雅妃亲自将之递向萧炎，含笑道：“老先生，您所需要的药鼎与药材，全在“纳戒”之中。”伸出手从银盘中将纳戒拿起，在掌心中转了转，萧炎微微点头，药老的声音，也是极为合时的传出：“嗯，聚气散炼制成功后，我会给你们……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧家形势核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        70,
+        71,
+        72
+      ],
+      "continuity_in": [
+        70
+      ],
+      "continuity_out": [
+        72
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 72,
+      "title": "初学炼药",
+      "source": {
+        "start_line": 8193,
+        "end_line": 8316
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第72章导读】初学炼药：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《初学炼药》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十二章 初学炼药离开议事厅，萧炎回到自己的房间，将炼制疗伤药所需要的一些东西准备好之后，再次悄悄的溜上后山先前修炼的那个偏僻山洞武动乾坤。药老曾经说过，炼药之时，切忌被打扰，家族中人多手杂，万一又像上次萧玉那般直接冲撞进来，那萧炎可承受不起后果武动乾坤。鬼鬼祟祟的窜进山洞，萧炎迫不及待的从怀中掏出纳戒，将一道斗气输入其中，淡红色戒指之上光芒略微闪动，然后……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "初学炼药核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        71,
+        72,
+        73
+      ],
+      "continuity_in": [
+        71
+      ],
+      "continuity_out": [
+        73
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 73,
+      "title": "第一次炼药",
+      "source": {
+        "start_line": 8317,
+        "end_line": 8440
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第73章导读】第一次炼药：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《第一次炼药》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十三章 第一次炼药狭窄的山洞之内，药鼎中的火焰，反射在山壁之上，张牙舞爪的不断跳动。萧炎全神贯注的注视着药鼎中那翻腾的火焰，略微有些苍白的脸庞上，密布着汗珠，长时间炼药，是一件极其消耗斗气的工作，而且萧炎此时的功法，又只是最低的黄阶低级，在雄厚程度依旧持久性之上，很难有什么优势，所以，他能在药鼎前坚持炼药接近两个小时，已经很是不易武动乾坤。微眯着眼睛望着……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "第一次炼药核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        72,
+        73,
+        74
+      ],
+      "continuity_in": [
+        72
+      ],
+      "continuity_out": [
+        74
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 74,
+      "title": "不请自来",
+      "source": {
+        "start_line": 8441,
+        "end_line": 8540
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第74章导读】不请自来：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《不请自来》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十四章 不请自来在后面的几天之内，萧炎几乎是整天守着药鼎之边，虽然日子过得极为辛苦，不过那满满一纳戒的疗伤药，却是让得他在休息之余，觉得颇为欣慰武动乾坤。手机端阅读请登陆m.zhuaji.org当然，值得一提的，还是在接近五天持续不断的炼药之中，萧炎体内的斗气，竟然也是在不知不觉间雄浑了许多，按现在的程度，恐怕已经到达了斗者一星武动乾坤。而在这双重鼓舞之……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "不请自来核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《不请自来》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        73,
+        74,
+        75
+      ],
+      "continuity_in": [
+        73
+      ],
+      "continuity_out": [
+        75
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 75,
+      "title": "大手笔",
+      "source": {
+        "start_line": 8541,
+        "end_line": 8631
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第75章导读】大手笔：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大手笔》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十五章 大手笔望着那进门而来的黑袍人，萧战以及三位长老连忙从桌旁走出，快步上前，恭声笑道：“老先生，族中事物繁忙，萧战未曾出来迎接，还望包涵呐。”“呵呵，虚礼就不用了。”黑袍下，苍老的声音淡淡的笑了笑武动乾坤。萧战热切的点了点头，对着三位长老使了个眼色，赶忙让开路道，笑道：“老先生请上坐。”黑袍人笑着点了点头，也不客气，径直走上，在首位靠旁的位置坐了下来……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大手笔核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        74,
+        75,
+        76
+      ],
+      "continuity_in": [
+        74
+      ],
+      "continuity_out": [
+        76
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 76,
+      "title": "合作",
+      "source": {
+        "start_line": 8632,
+        "end_line": 8728
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第76章导读】合作：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《合作》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十六章 合作寂静的大厅中，一道道炽热的目光，死死的盯着桌上的上千小玉瓶，这种大规模的丹药，在场的人，几乎从未曾亲眼见过武动乾坤。粉红舌头下意识的舔了舔红唇，萧玉同样也是被这么多数量的丹药震得有些发愣，俏脸上布满着震撼，片刻后，方才惊叹的摇了摇头，望向黑袍人的眸子中，有着星星在闪现武动乾坤。坐于窗边的青衣少女，微偏着小脑袋，瞥了瞥桌上堆满的小玉瓶，秋水美眸……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "合作核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《合作》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        75,
+        76,
+        77
+      ],
+      "continuity_in": [
+        75
+      ],
+      "continuity_out": [
+        77
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 77,
+      "title": "断其药路",
+      "source": {
+        "start_line": 8729,
+        "end_line": 8840
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第77章导读】断其药路：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《断其药路》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十七章 断其药路米特尔拍卖场，候客厅武动乾坤。整洁的桌面之上，摆放着小小的玉盒，玉盒之中，一枚龙眼大小的淡青丹药，正安静的躺在其中，丹药表面圆润而富有光泽，浓郁的异香，从中飘散而出，让得人心旷神怡武动乾坤。望着玉盒中的丹药，作为拍卖场的主事人，雅妃与谷尼脸庞上的欣喜，几乎难以掩饰武动乾坤。目光透过黑袍瞥了瞥有些失态的两人，萧炎暗暗的摇了摇头，心头戏谑道：……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "断其药路核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        76,
+        77,
+        78
+      ],
+      "continuity_in": [
+        76
+      ],
+      "continuity_out": [
+        78
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 78,
+      "title": "炼啊炼的就突破了",
+      "source": {
+        "start_line": 8841,
+        "end_line": 8994
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "character_growth",
+        "payoff"
+      ],
+      "teaser": "【第78章导读】炼啊炼的就突破了：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼啊炼的就突破了》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十八章 炼啊炼的就突破了望着那拿着药材，满意的走出大厅的黑袍人，雅妃努力保持着肩膀，终于跨了下来，丰满玲珑的娇躯有些无力的缩在椅子之中，看上去犹如一头卷缩的狐狸一般，慵懒的模样，别有一番异样的魅力武动乾坤。“这老先生…实在是太有魄力了。”脑袋贴着冰凉的椅背，雅妃苦笑着摇了摇头武动乾坤。一旁，谷尼也是同样的表情，揉了揉额头，叹道：“五枚聚气散…这手笔，就算……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼啊炼的就突破了核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        77,
+        78,
+        79
+      ],
+      "continuity_in": [
+        77
+      ],
+      "continuity_out": [
+        79
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 79,
+      "title": "萧家的反击",
+      "source": {
+        "start_line": 8995,
+        "end_line": 9121
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第79章导读】萧家的反击：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧家的反击》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第七十九章 萧家的反击萧家在得到萧炎暗地支持的大量疗伤药之后，表面上虽然并未有丝毫声张，然而暗地里，却是已经开始在紧锣密鼓的准备着对加列家族进行着反击武动乾坤。那日家族大厅内的所见，已被萧战以及三位长老下了严格的封口令，有关疗伤药之事，也被列为了最高规格的禁令，任何族人，都不可与外界说起，否则必受族规处置武动乾坤。而随着萧家这两天的沉寂，加列家族的行止，却是……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧家的反击核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        78,
+        79,
+        80
+      ],
+      "continuity_in": [
+        78
+      ],
+      "continuity_out": [
+        80
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 80,
+      "title": "炼药师柳席",
+      "source": {
+        "start_line": 9122,
+        "end_line": 9233
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第80章导读】炼药师柳席：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼药师柳席》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十章 炼药师柳席***通明的大厅之中，气氛压抑而沉闷武动乾坤。在大厅中央的桌面之上，摆放着一只小小的绿色玉瓶，淡淡的药味，从中散发而出武动乾坤。大厅中，坐有不少人，看他们的服饰，显然都是加列家族的高层，而今日所见的加列库，也正好在其中武动乾坤。在大厅首位靠左的一处位置之上，一位身穿白衣的青年，懒懒的靠着椅背，青年颇为俊俏，只不过那双眼瞳中时不时闪过的一抹……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼药师柳席核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        79,
+        80,
+        81
+      ],
+      "continuity_in": [
+        79
+      ],
+      "continuity_out": [
+        81
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 81,
+      "title": "察觉",
+      "source": {
+        "start_line": 9234,
+        "end_line": 9360
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第81章导读】察觉：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《察觉》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十一章 察觉凝血散的出现，几乎是犹如狂风骤雨一般，以雷霆之势，迅速抢占了乌坦城五成之多的疗伤药市场，而且还让得萧家坊市在短短两天之内回复了以往的人气，甚至犹有过之武动乾坤。在凝血散出来的第二天后，加列家族的回春散，也是逐渐的将价格调回了最开始的价位，不过由于前段时间加列家族的暴利行为已经惹起了大多佣兵的反感，所以，即使加列家族下调了价格，可坊市中的人气，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "察觉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        80,
+        81,
+        82
+      ],
+      "continuity_in": [
+        80
+      ],
+      "continuity_out": [
+        82
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 82,
+      "title": "坦白",
+      "source": {
+        "start_line": 9361,
+        "end_line": 9472
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第82章导读】坦白：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《坦白》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十二章 坦白再次与萧战等人闲谈了一会之后，雅妃便是打算告辞而去，一旁一直保持着沉默的萧炎，此时也表现出身为主人家的热情，在萧战那满意的目光中，一路送着雅妃出了家族武动乾坤。走出家族大门，萧炎依旧没有打算回去的态势，双手抱着后脑勺，紧紧的跟在雅妃身旁，微眯着眼睛，也不知是在寻思着什么武动乾坤。与萧炎行走在一起，雅妃心中略微有些紧张，紧握的玉手中，布满着汗水……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "坦白核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《坦白》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        81,
+        82,
+        83
+      ],
+      "continuity_in": [
+        81
+      ],
+      "continuity_out": [
+        83
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 83,
+      "title": "小坊主",
+      "source": {
+        "start_line": 9473,
+        "end_line": 9554
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第83章导读】小坊主：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《小坊主》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十三章 小坊主在凝血散出来后的不到一月时间，萧家便是囊括了乌坦城百分之七十的疗伤药市场，巨大的利润，让得萧家一片喜庆，前段时间略微有些稀疏的门庭，现在也是络绎不绝，宛如集市一般热闹武动乾坤。手机端阅读请登陆m.zhuaji.org相比于萧家的喜庆，加列家族则是一片阴沉，由于前段时间的暴利行为，惹起了极大多数佣兵的厌恶，而且萧家的凝血散，功效较之回春散，也……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "小坊主核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《小坊主》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        82,
+        83,
+        84
+      ],
+      "continuity_in": [
+        82
+      ],
+      "continuity_out": [
+        84
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 84,
+      "title": "废掉",
+      "source": {
+        "start_line": 9555,
+        "end_line": 9681
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第84章导读】废掉：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《废掉》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十四章 废掉柳席现在很兴奋，而他的兴奋源头，就是那俏生生的站在面前不远处的青衣少女武动乾坤。少女一身清雅装束，精致的小脸未曾施加任何粉饰，自然天成，一头滑顺青丝被短短的绿巾随意的束着，刚好齐及腰间，微风吹来，青丝飘动，撩动人心武动乾坤。在少女那不堪盈盈一握的小蛮腰处，一条淡紫衣带，将那曼妙的曲线，勾勒得淋漓尽致，就连路人的视线，都是忍不住的偷偷在那腰间扫……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "废掉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        83,
+        84,
+        85
+      ],
+      "continuity_in": [
+        83
+      ],
+      "continuity_out": [
+        85
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 85,
+      "title": "接受",
+      "source": {
+        "start_line": 9682,
+        "end_line": 9778
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第85章导读】接受：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《接受》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十五章 接受面对着几十名手持铁棍的四星斗者，先前还耀武扬威的十多名护卫，顿时脸色惨白，还未来得及逃跑，一根根漆黑的铁棍，便是狠狠的对着身体各处招呼而来，片刻时间，凄厉的惨叫声就已响彻了整条街道武动乾坤。森冷的瞥了一眼对面脸色难看的加列奥，萧炎微偏过头，望着那因为羞怒而俏脸晕红的萧玉，语气稍微柔和了一点：“没事吧？你们过来也事先通知我一声吧，最近加列家族的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "接受核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《接受》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        84,
+        85,
+        86
+      ],
+      "continuity_in": [
+        84
+      ],
+      "continuity_out": [
+        86
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 86,
+      "title": "挑战",
+      "source": {
+        "start_line": 9779,
+        "end_line": 9857
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第86章导读】挑战：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《挑战》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十六章 挑战缓缓的回转过身，加列奥偏过头，嘴角的笑意略微有些狰狞：“柳席大哥，能不能让我来与他玩玩？”柳席笑着点了点头，手掌不着痕迹的在身前微微一竖，阴笑道：“有机会，不要留手。”加列奥笑着眯起了眼睛，柳席的话，让他忽然想起了一次私下与加列毕的密谈，当时的加列毕，刚好获得萧炎回复修炼天赋的消息，他在脸色阴沉的沉默了许久之后，极其严肃与冷漠的加列奥说了一句……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "挑战核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《挑战》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        85,
+        86,
+        87
+      ],
+      "continuity_in": [
+        85
+      ],
+      "continuity_out": [
+        87
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 87,
+      "title": "下杀手",
+      "source": {
+        "start_line": 9858,
+        "end_line": 9966
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "battle",
+        "dialogue",
+        "cultivation",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第87章导读】下杀手：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《下杀手》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十七 下杀手“姐，萧炎的情况似乎不太好啊.”望着场中失去了武器的萧炎，萧宁有些忐忑的道武动乾坤。萧玉沉着俏脸，闷闷的道：“我管他去死，就知道呈英雄，现在可好，英雄没当成，却是被人家欺负得丢尽了脸面。”略微沉默了一下，萧玉叹道：“准备救人吧，我看加列奥那混蛋，似乎想下狠手。”萧宁讪讪的点了点头，不过却不敢再去触她的霉头武动乾坤。与忐忑的萧玉两人想比，薰儿却……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "下杀手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        86,
+        87,
+        88
+      ],
+      "continuity_in": [
+        86
+      ],
+      "continuity_out": [
+        88
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 88,
+      "title": "落幕",
+      "source": {
+        "start_line": 9967,
+        "end_line": 10099
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第88章导读】落幕：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《落幕》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十八章 落幕望着下手毫不留情的萧炎，加列奥脸色惨白，恐惧的神色，笼罩着脸庞。\\\\\\街道之上，瞧着那加列奥即将血溅当场，在场的人，都不由轻吸了一口凉气，萧炎这干脆利落的举动，让得很多人对他有种刮目相看的感觉武动乾坤。萧玉微张着红润小嘴，全身僵硬的立在原处，萧炎这说杀就杀的利落性子，简直颠覆了以前他在前者心中的温和形象，萧玉怎么也想不到，那平日里与她打闹耍脾……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "落幕核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《落幕》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        87,
+        88,
+        89
+      ],
+      "continuity_in": [
+        87
+      ],
+      "continuity_out": [
+        89
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 89,
+      "title": "月黑风高",
+      "source": {
+        "start_line": 10100,
+        "end_line": 10238
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第89章导读】月黑风高：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《月黑风高》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第八十九章 月黑风高漆黑的夜空之上，银月高悬，淡淡的月光，为大地披上了一层银纱，看上去分外神秘武动乾坤。在经过白日的喧哗之后，深夜的乌坦城，也是陷入了一片黑暗与寂静，一些街道上的房屋中，偶尔会传出男人的喘息声以及女人的压抑呻吟武动乾坤。萧家，后院的房间内，少年正仰面躺在床榻之上，与夜空同色的漆黑眸子，此时却是寒芒悄涨武动乾坤。“老师，你现在的这种状态，实力底……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "月黑风高核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《月黑风高》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        88,
+        89,
+        90
+      ],
+      "continuity_in": [
+        88
+      ],
+      "continuity_out": [
+        90
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 90,
+      "title": "料理后事",
+      "source": {
+        "start_line": 10239,
+        "end_line": 10401
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第90章导读】料理后事：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《料理后事》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十章 料理后事愣愣的望着那犹如鬼魅一般出现在窗缘上的少女，半晌之后，萧炎惊疑的轻声喃喃道：“她来这里干什么？”“嘿嘿，看这情况，似乎她和你是一样的目的啊。”药老莫名的轻笑道武动乾坤。眉头微皱了皱，萧炎将身体完全的缩进阴影之中，旋即有些迟疑的在心中询问道：“薰儿的实力…怎么变得这么强横了？看她先前出现的速度，恐怕不会弱于一名大斗师吧？”“她的真实实力，的确……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "料理后事核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        89,
+        90,
+        91
+      ],
+      "continuity_in": [
+        89
+      ],
+      "continuity_out": [
+        91
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 91,
+      "title": "夜中相遇",
+      "source": {
+        "start_line": 10402,
+        "end_line": 10528
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第91章导读】夜中相遇：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《夜中相遇》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十一章 夜中相遇“你究竟是谁？”听得少女淡淡的轻灵嗓音，黑袍人无奈的耸了耸肩，略微沉默之后，苍老的声音，缓缓传出：“我想你应该在萧家见过我吧？”轻轻的晃荡着一截雪白的小腿，薰儿眼波流转，随意的轻声询问道：“你去加列家族，做什么？”“受人之托，解决点麻烦。”“受谁之托？”秋水眸子眯起浅浅的弧度，薰儿紧追着询问武动乾坤。“呃，这可不能说。”摊了摊手，药老笑道……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "夜中相遇核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《夜中相遇》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        90,
+        91,
+        92
+      ],
+      "continuity_in": [
+        90
+      ],
+      "continuity_out": [
+        92
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 92,
+      "title": "抢",
+      "source": {
+        "start_line": 10529,
+        "end_line": 10646
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第92章导读】抢：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《抢》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十二章 抢待到萧炎从沉睡中苏醒过来之时，天色已近大亮，温暖的阳光从窗户的缝隙中射进，在地板之上留下点点光斑，同时也将房间照得颇为亮堂武动乾坤。直起身来，萧炎睡眼朦胧的坐在床上愣了好半晌，方才将脑中残余的睡意驱逐，甩了甩逐渐回复清醒的脑袋，懒懒的下床，然后随意的洗漱一番武动乾坤。洗漱刚刚完毕，门口处，便是传来轻轻的敲门声以及少女轻柔的娇声：“萧炎哥哥，还没……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "抢核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《抢》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        91,
+        92,
+        93
+      ],
+      "continuity_in": [
+        91
+      ],
+      "continuity_out": [
+        93
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 93,
+      "title": "半路毁药",
+      "source": {
+        "start_line": 10647,
+        "end_line": 10747
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第93章导读】半路毁药：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《半路毁药》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十三章 半路毁药宽敞的大路之上，七八辆马车正在缓缓行走着，天空中，烈日高照，炎热的日光将马车周围的护卫洒得大汗淋漓，一道道烦躁的喝骂声，不断的在路道之上响起武动乾坤。加列怒，加列家族的仅余的两位长老之一，如今实力已晋三星大斗师，这般实力，放眼乌坦城，那也能算是排得上号的强者，此次由他来护卫药材运输队，可见加列家族现在对这些药材有多重视，不过似乎现在的加列……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "半路毁药核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        92,
+        93,
+        94
+      ],
+      "continuity_in": [
+        92
+      ],
+      "continuity_out": [
+        94
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 94,
+      "title": "眼光挺差",
+      "source": {
+        "start_line": 10748,
+        "end_line": 10863
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第94章导读】眼光挺差：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《眼光挺差》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十四章眼光挺差“什么？药材全被人毁了？二长老呢？他人呢？”大厅之中，愤怒的咆哮声，几欲将屋顶掀翻武动乾坤。一名护卫颤抖的跪伏在加列毕面前，满脸恐惧咽了一口唾沫，惊颤道：“二长老也被那毁药之人杀了！”暴怒的脸庞猛然一滞，加列毕脚跟忽然一阵发软，旋即一屁股坐在身后的椅上，满脸呆滞，加列怒可是加列家族仅有的三位大斗师之一，他的死亡，对于本来就处于动荡不安的加列……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "眼光挺差核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《眼光挺差》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        93,
+        94,
+        95
+      ],
+      "continuity_in": [
+        93
+      ],
+      "continuity_out": [
+        95
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 95,
+      "title": "眼光挺差",
+      "source": {
+        "start_line": 10864,
+        "end_line": 10978
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第95章导读】眼光挺差：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《眼光挺差》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十五章 眼光挺差“什么？药材全被人毁了？二长老呢？他人呢？”大厅之中，愤怒的咆哮声，几欲将屋顶掀翻。\\\\一名护卫颤抖的跪伏在加列毕面前，满脸恐惧咽了一口唾沫，惊颤道：“二长老也被那毁药之人杀了！”暴怒的脸庞猛然一滞，加列毕脚跟忽然一阵发软，旋即一**坐在身后的椅上，满脸呆滞，加列怒可是加列家族仅有的三位大斗师之一，他的死亡，对于本来就处于动荡不安的加列家……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "眼光挺差核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《眼光挺差》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        94,
+        95,
+        96
+      ],
+      "continuity_in": [
+        94
+      ],
+      "continuity_out": [
+        96
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 96,
+      "title": "加列家族的境地",
+      "source": {
+        "start_line": 10979,
+        "end_line": 11084
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第96章导读】加列家族的境地：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《加列家族的境地》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十六章 加列家族的境地随着几天日子的缓缓过去，加列家族在乌坦城的所有坊市，每日所出售的疗伤药，数量越来越少，直到最后一天，当最后一瓶疗伤药销售完毕之后，售药的加列家族的族人，只得满脸尴尬的对着门外拥挤的佣兵挤出笑脸：“十分抱歉，本商铺由于存货危机，所以需要暂时关闭。手机端阅读请登陆m.zhuaji.org商铺之外，听得这话，那些还在互相拥挤的佣兵顿时安静……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "加列家族的境地核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        95,
+        96,
+        97
+      ],
+      "continuity_in": [
+        95
+      ],
+      "continuity_out": [
+        97
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 97,
+      "title": "承喏",
+      "source": {
+        "start_line": 11085,
+        "end_line": 11208
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第97章导读】承喏：yao-lao, xiao-xun-er, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《承喏》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十七章 承喏乌坦城两大家族的经济交锋，终于是以萧家的胜利而落幕，而作为失败者的加列家族，势力则急速收缩，再也难以回复以往的风光武动乾坤。两大家族相竞争的过程，在乌坦城风风火火的流传了将近一周多之后，喜新厌旧的人们，便是逐渐的将目光转移而开，重新投注到另外一项重大事件之上，这件事，便是迦南学院的招生武动乾坤。作为斗气大陆闻名的高级学府之一，迦南学院几乎是所……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "承喏核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《承喏》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        96,
+        97,
+        98
+      ],
+      "continuity_in": [
+        96
+      ],
+      "continuity_out": [
+        98
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 98,
+      "title": "雪妮",
+      "source": {
+        "start_line": 11209,
+        "end_line": 11341
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第98章导读】雪妮：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《雪妮》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十八章 雪妮行走在小路之上，望着忽然间变得空荡了许多的家族，萧炎有些无奈的摇了摇头，今天那迦南学院的招生队伍便要抵达乌坦城，家族中的人，几乎跑了大半前去围观，此时的乌坦城城门处，恐怕早已经被人群完全堵死武动乾坤。手机端阅读请登陆m.zhuaji.org“一群疯子，去围观了人家就能让你轻易过关不成？”摇着头嘀咕了一声，萧炎悠闲的对着后山缓缓行去，每天这时候……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "雪妮核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《雪妮》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        97,
+        98,
+        99
+      ],
+      "continuity_in": [
+        97
+      ],
+      "continuity_out": [
+        99
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 99,
+      "title": "刁难",
+      "source": {
+        "start_line": 11342,
+        "end_line": 11525
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第99章导读】刁难：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《刁难》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第九十九章 刁难萧炎慢吞吞的走向帐篷，身后萧玉正咬牙切齿的怒视着这可恶的背影，她可没想到这家伙竟然这么不给面子武动乾坤。手机端阅读请登陆m.zhuaji.org几人走近绿色大帐篷，只见在帐篷畅快的阴影处，十多名男女正分成几个小***的簇拥在一起互相闲聊着，看他们在此处的随意神色，想必应该和雪妮一样，都是属于迦南学院的学员武动乾坤。在阴影之外，二十几名年轻男女……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "刁难核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        98,
+        99,
+        100
+      ],
+      "continuity_in": [
+        98
+      ],
+      "continuity_out": [
+        100
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 100,
+      "title": "威胁",
+      "source": {
+        "start_line": 11526,
+        "end_line": 11721
+      },
+      "arc_id": "monster-mountains",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第100章导读】威胁：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《威胁》的关键进程。在monster-mountains的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第一百零章 威胁望着那缓缓走过来的萧炎，戈剌阴声一笑，这种刺头新生他见得很多，不过最后大多都没什么好下场，在招生的时候挫挫新生锐气，几乎是迦南学院一种不成文的规矩，毕竟能够达到录取界限的人，一般都算是天赋不错，这种人，平日在自家的那块小地方，应该说是养尊处优，很少受到什么奚落嘲讽，而抱着这种心态进入那几乎是优秀者层出不穷的迦南学院，很容易一言不合，就大打出手……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "威胁核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《威胁》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        99,
+        100,
+        101
+      ],
+      "continuity_in": [
+        99
+      ],
+      "continuity_out": [
+        101
+      ],
+      "analysis_status": "final"
+    }
+  ]
+}

@@ -1,0 +1,5297 @@
+{
+  "batch_index": 6,
+  "owned_range": [
+    501,
+    600
+  ],
+  "chapter_count": 100,
+  "chapters": [
+    {
+      "id": 501,
+      "title": "幸不辱命",
+      "source": {
+        "start_line": 72320,
+        "end_line": 72443
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第501章导读】幸不辱命：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《幸不辱命》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零二章 幸不辱命随着韩闲的炼制结束，广场之中也是不由得微微响起了些许窃窃武动乾坤。“那家伙炼制成功了？”吴昊对战斗虽然极为热衷，可这炼丹则是一窍不通，瞧得那韩闲走出石台，并且将手中丹药交给郝长老，当下眉头不由得紧邹了起来武动乾坤。“应该没有吧，据说五品丹药成型，可是有着一些异象的，但现在除了一阵普通药香之外，并未半点异象，而且看那郝长老那脸色，似乎也不……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "幸不辱命核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        500,
+        501,
+        502
+      ],
+      "continuity_in": [
+        500
+      ],
+      "continuity_out": [
+        502
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 502,
+      "title": "胜利",
+      "source": {
+        "start_line": 72444,
+        "end_line": 72576
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第502章导读】胜利：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《胜利》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零三章 胜利广场在黑袍青年手中那枚安静躺立的暗红色丹药之下陷入了安静，许久之后，安静终于被一阵怒声所打破，只见得那韩闲快步冲着萧炎走去，泛红的眼睛犹如赌博输的倾家荡产的赌徒一般：“不可能，一定有诈，这个家伙肯定是趁先前白雾升起时作了弊！”听的韩闲这事态的怒吼，不仅广场中大多数人皱起了眉头，就是连郝长老，脸庞上也闪过一抹不悦，萧炎是在他的眼皮底下炼制，若……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "胜利核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《胜利》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        501,
+        502,
+        503
+      ],
+      "continuity_in": [
+        501
+      ],
+      "continuity_out": [
+        503
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 503,
+      "title": "招纳",
+      "source": {
+        "start_line": 72577,
+        "end_line": 72682
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第503章导读】招纳：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《招纳》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零四章 招纳距离炼丹比试，至今为止已经过去三天时间了，在这三天之内，萧炎那令人惊羡的炼药术几乎已经在大部分内院学员口中传诵了一遍武动乾坤。此时萧炎在内院的声望，恐怕都是已经能够和“强榜”前十的那些顶尖强者想媲美，一个能够炼制出五品丹药的炼药师，不管身在何处，他所能享受到的等级和待遇，都是能与斗王甚至斗皇相媲美，这些，从那些内院长老忽然间对萧炎所表现出的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "招纳核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《招纳》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        502,
+        503,
+        504
+      ],
+      "continuity_in": [
+        502
+      ],
+      "continuity_out": [
+        504
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 504,
+      "title": "修炼，三千雷动",
+      "source": {
+        "start_line": 72683,
+        "end_line": 72818
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第504章导读】修炼，三千雷动：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《修炼，三千雷动》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零五章 修炼，三千雷动茫茫深山，葱郁的颜色延伸到视线尽头，犹如一片无边无尽的绿色海洋般，人立于其中，狂风一动。林海微摇，一股股足足百丈巨大的绿色浪潮，从远而近的席卷而来，壮观得令人咂舌……林海之上，忽然有着破风声响起，旋即一道影子从远处闪过。最后双翼微微振动，身体悬浮在半空中，望着下方那望不到尽头的林海，微微苦笑，没想到这内院之外的森林竟然如此辽阔，甚……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "修炼，三千雷动核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        503,
+        504,
+        505
+      ],
+      "continuity_in": [
+        503
+      ],
+      "continuity_out": [
+        505
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 505,
+      "title": "风雷之力",
+      "source": {
+        "start_line": 72819,
+        "end_line": 72942
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第505章导读】风雷之力：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《风雷之力》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零六章 风雷之力厚实的乌云层，叠叠绕绕的将整片天空都是密布了去，偶尔间有着丈许粗的闪电犹如银色巨蟒般的冲破乌云，撕裂天空，刺眼的强光将整个山脉都是笼罩在煌煌天威之中，而在这种极其狂暴的环境中，就是深山中的土着魔兽都是不敢随意出现，全部都是缩在洞之中，隐约间。有着些许低吼声顺着狂风吹拂间，扩散到整个山脉之中武动乾坤。暴风将萧炎身旁不远处的一颗小树凭空拔起……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "风雷之力核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《风雷之力》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        504,
+        505,
+        506
+      ],
+      "continuity_in": [
+        504
+      ],
+      "continuity_out": [
+        506
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 506,
+      "title": "炼化成功",
+      "source": {
+        "start_line": 72943,
+        "end_line": 73066
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第506章导读】炼化成功：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼化成功》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零七章 炼化成功随着青火的出现，青色斗气顷刻间便从温顺绵羊转换成了凶狠饿狼，旋即开始再度形成围绕之势。对着盘踞在中心地带的那丝朦胧的银色能量包围而去武动乾坤。“嘶嘶！”面对着青火斗气的涌上，银色能量有些不甘的再度爆发起强横光芒，犹如那受到危险的刺猬竖起浑身尖刺一般，想要以此来吓退敌人武动乾坤。然而现在的斗气，在掺杂了青色火焰后，银色能量之中所蕴含的某种……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼化成功核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《炼化成功》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        505,
+        506,
+        507
+      ],
+      "continuity_in": [
+        505
+      ],
+      "continuity_out": [
+        507
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 507,
+      "title": "雷闪",
+      "source": {
+        "start_line": 73067,
+        "end_line": 73181
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第507章导读】雷闪：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《雷闪》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零八章 雷闪被翠绿细草布满的沼泽上，弥漫着淡淡的白色雾气，微风吹拂而来。白雾微微波荡，最后，顺着风儿涌上天空，让得沼泽之中，倒是清晰了不少武动乾坤。“嗤！”平静的沼泽中，忽然间，有着细微的嗤嗤声响起，再声音响起后不久，一道黑影猛然带着一道银白色璀璨光芒自沼泽中闪掠而来，脚掌每次落在沼泽之中时，不断伸缩，吐现得光芒便是会降沼泽中的稀泥弄得犹如开水一样沸腾……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "雷闪核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        506,
+        507,
+        508
+      ],
+      "continuity_in": [
+        506
+      ],
+      "continuity_out": [
+        508
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 508,
+      "title": "16kxs.com领悟，尺法...",
+      "source": {
+        "start_line": 73182,
+        "end_line": 73341
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第508章导读】16kxs.com领悟，尺法...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《16kxs.com领悟，尺法...》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百零九章 16kxs.com领悟，尺法...一处山峰之巅，黑袍青年盘坐其上。双手结出修炼印结，呼吸平和而悠长，并且伴随着其每一次呼吸的吐纳，其周身空间便是会出现细微的波动，一缕缕偏向火热的能量渗透而出，最后顺着其呼吸，侵入体内……安静的修炼，足足持续了将近两个半小时，黑袍青年身体之上无风自鼓的衣袍，方才缓缓落下，而那紧闭的眸子，也是微微颤抖着睁了开来武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "16kxs.com领悟，尺法...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《16kxs.com领悟，尺法...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        507,
+        508,
+        509
+      ],
+      "continuity_in": [
+        507
+      ],
+      "continuity_out": [
+        509
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 509,
+      "title": "地心淬体乳",
+      "source": {
+        "start_line": 73342,
+        "end_line": 73438
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第509章导读】地心淬体乳：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《地心淬体乳》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十章 地心淬体乳召唤出紫云翼，萧炎风驰是掣般的对着兽吼声传出之地急掠而去。仅仅不到十来分钟的时间，便是接近了兽吼声的传播之地，并且在听见吼声之时，还能感应到好几股颇为雄浑的气息，这些气息之强。甚至都是与林焱相差不多，甚至，或许其中一两道，比之还要强上一些武动乾坤。感受着这些气息，萧炎心中悄然泛起一抹惊异，那林焱已经是步入斗灵巅峰的强者，比他还强，那岂……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "地心淬体乳核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《地心淬体乳》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        508,
+        509,
+        510
+      ],
+      "continuity_in": [
+        508
+      ],
+      "continuity_out": [
+        510
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 510,
+      "title": "强榜高手",
+      "source": {
+        "start_line": 73439,
+        "end_line": 73550
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第510章导读】强榜高手：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《强榜高手》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十一章 强榜高手地心淬体乳。生于大地之下，本为精纯的大地之力历经岁月挤压，百年成雾形，称之地心雾，有固体只奇效，千年凝合，成液形，若是品阶更高者，则是被称为地心淬体乳。有洗骨炼神之奇效，并且，因为那庞大大地之力，甚至还能帮助一些答到阶别巅峰之人突破晋阶之间的屏障，当然这其中还有不小的失败几率便是武动乾坤。一般来说由于这种地心淬体乳的形成条件苛刻，因此……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "强榜高手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        509,
+        510,
+        511
+      ],
+      "continuity_in": [
+        509
+      ],
+      "continuity_out": [
+        511
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 511,
+      "title": "狂暴血脉",
+      "source": {
+        "start_line": 73551,
+        "end_line": 73707
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第511章导读】狂暴血脉：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《狂暴血脉》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十二章 狂暴血脉林修崖背后忽然浮现而出的斗气双翼，不仅令得萧岩一脸惊讶，就是与之熟悉的严皓等人，也是不由的满脸错愕，好半响后，方才逐渐回过神来，互相对视了一眼，眼中掠过一抹凝重武动乾坤。虽然严皓也是如同林修崖所说。触摸到了一点斗王阶别的屏障，但是那一点点触摸，也仅仅只能使得他比一般的斗灵巅峰强者要强一些而已。想要达到林修崖这种依靠本身实力凝聚斗气双翼……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "狂暴血脉核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《狂暴血脉》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        510,
+        511,
+        512
+      ],
+      "continuity_in": [
+        510
+      ],
+      "continuity_out": [
+        512
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 512,
+      "title": "邀请",
+      "source": {
+        "start_line": 73708,
+        "end_line": 73828
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第512章导读】邀请：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《邀请》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十三章 邀请望着那张冷艳动人的脸颊上所布满的惊愕，萧炎笑了笑，道：“没受伤吧？”“没”摇了摇头，韩月目光奇异的望着面前的萧炎，脸颊上动人的红晕稍稍减缓，轻轻的谢谢了一声，旋即叹息道：“这才两三个月时间没见，你倒是变强了稻多，先前那般速度，内院中能超过你的人，恐怕没有多少。”以变异之后的雪魔天猿的速度，即使是林修崖那等实力都躲避不及，而面前的萧炎却是能……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "邀请核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《邀请》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        511,
+        512,
+        513
+      ],
+      "continuity_in": [
+        511
+      ],
+      "continuity_out": [
+        513
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 513,
+      "title": "蟒猿相斗",
+      "source": {
+        "start_line": 73829,
+        "end_line": 73940
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第513章导读】蟒猿相斗：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《蟒猿相斗》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十四章 蟒猿相斗繁星漫天，冰凉的月光从天际洒下。将整个山脉都包裹在一成淡淡的银光之中，令其显得朦胧而神秘武动乾坤。深夜之间。山中除了一些晚上觅食的魔兽之外，大多数都已经归巢熟睡、整个森林都是在此刻陷入一片寂静。许久方才会有悠长的低吼声从远处缓缓传来。最后扩散消逝武动乾坤。漆黑的夜空之中、一道黑影忽然悄悄飞掠而过、一对巨大的双翼微微振动、带起细微的空气……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "蟒猿相斗核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        512,
+        513,
+        514
+      ],
+      "continuity_in": [
+        512
+      ],
+      "continuity_out": [
+        514
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 514,
+      "title": "寻宝",
+      "source": {
+        "start_line": 73941,
+        "end_line": 74022
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第514章导读】寻宝：yao-lao, medusa, yun-yun，见证关键转折与局势变化。",
+      "summary": "本章叙述了《寻宝》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十五章 寻宝借助着吞天蟒的阻拦，萧炎终于是顺利的冲进了山谷之中，而听得山谷之外响起的惊雷爆炸声，他身形也是略微顿了一顿，转头目光望向谷外，只见得半空之外，几乎被七彩光芒所笼罩，吞天蟒那庞大的身形，在光芒中若隐若现，散发着一股极为强横的威压之感，而在那威压之下，另外一股同样极为强横的雪白寒气也是笼罩了半壁天空，冰冷的寒流即使是身在谷中，也是令得萧炎忍不……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "寻宝核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "yun-yun"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《寻宝》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        513,
+        514,
+        515
+      ],
+      "continuity_in": [
+        513
+      ],
+      "continuity_out": [
+        515
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 515,
+      "title": "真假地心乳",
+      "source": {
+        "start_line": 74023,
+        "end_line": 74149
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第515章导读】真假地心乳：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《真假地心乳》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十六章 真假地心乳在萧炎发呆之间,巨大的钟乳石尖,忽然涌起淡淡的白雾,白雾之中。钟乳之尖光芒逐渐强盛了起来,而在光芒涌动间,一滴犹如光斑的乳白液体,却是徒然凝成,这滴液体在钟**端一阵摇晃,最后终于是脱离了束缚,在半空中垂直而落。最后轻轻的砸进了那青石之顶端凹槽之中武动乾坤。钟乳的砸落,令得那仅仅只有两寸多深的乳白液体表面泛起一阵涟漪。不过却是未有丝……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "真假地心乳核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《真假地心乳》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        514,
+        515,
+        516
+      ],
+      "continuity_in": [
+        514
+      ],
+      "continuity_out": [
+        516
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 516,
+      "title": "美杜莎女王再现",
+      "source": {
+        "start_line": 74150,
+        "end_line": 74261
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第516章导读】美杜莎女王再现：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《美杜莎女王再现》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十七章 美杜莎女王再现从山穹之上飞下萧炎再度落在那青石之旁，目光望向那凹槽之中的乳白液体，虽说这已经被稀释过但是其效果也是颇为不错，即使达不到洗髓炼骨之效，可对身体也有不小的淬炼效果武动乾坤。“这东西也能收取一点，或许日后炼制丹药时会用上。”药老的声音在头顶上响起武动乾坤。闻言，萧炎点了点头，从纳戒中取出两个玉瓶，小心翼翼的将那乳白色的“地心淬体乳”……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "美杜莎女王再现核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        515,
+        516,
+        517
+      ],
+      "continuity_in": [
+        515
+      ],
+      "continuity_out": [
+        517
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 517,
+      "title": "约定",
+      "source": {
+        "start_line": 74262,
+        "end_line": 74379
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第517章导读】约定：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《约定》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十八章 约定冰冷的望着那突然出现的药老。美杜莎女王妖艳脸颊上却是没有丝毫的诧异，冷笑道：“早就感应到这个家伙身边有着强者隐匿，原来是个灵魂体。”然而嘴中虽这般说着，可美杜莎女王却是缓缓收回了前踏的脚步，面前这个身形虚幻的老者，隐隐中给予她的压迫感，并不比当初的云山弱，若是她进入巅峰状态。倒也是不惧，但此时这具身体，却必须时时刻刻分出心神来压制吞天蟒的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "约定核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《约定》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        516,
+        517,
+        518
+      ],
+      "continuity_in": [
+        516
+      ],
+      "continuity_out": [
+        518
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 518,
+      "title": "调配药液",
+      "source": {
+        "start_line": 74380,
+        "end_line": 74500
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第518章导读】调配药液：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《调配药液》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百一十九章 调配药液宽敞明亮的山洞之中，萧炎望着面前摆放的一个大木盆，木盆之中盛满着清澈见底的清水，在木盆一旁，有着一张简易木架，其上摆满了各种各样的药材，林林种种看上起恐怕足有几十种之多，为了寻找这些药材，足足费去了萧炎将近三天的时间武动乾坤。“地心催体乳给我。”再见查了一下所需药材是否齐全之后，药老对着萧炎伸出手来，道武动乾坤。闻言，萧炎赶忙依言将东……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "调配药液核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《调配药液》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        517,
+        518,
+        519
+      ],
+      "continuity_in": [
+        517
+      ],
+      "continuity_out": [
+        519
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 519,
+      "title": "九星大斗师",
+      "source": {
+        "start_line": 74501,
+        "end_line": 74603
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第519章导读】九星大斗师：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《九星大斗师》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十章 九星大斗师如此火炉，这就是萧炎此时的感受，并且这个火还是从其骨骼之中冒腾起来的，那股疼痛，令得萧炎牙齿间直抽冷气，木盆之中的五彩药液，也是越来越沸腾，并且隐隐间还能够用肉眼可见一丝丝极其微小的实质能量在水中急速穿梭，最后一头撞进萧炎皮肤之上，转瞬便是消失了踪影武动乾坤。药液之中所蕴含能量之强，即使萧炎早预料不会弱，可如今真正的亲身体验，却依然是……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "九星大斗师核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        518,
+        519,
+        520
+      ],
+      "continuity_in": [
+        518
+      ],
+      "continuity_out": [
+        520
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 520,
+      "title": "晋阶斗灵",
+      "source": {
+        "start_line": 74604,
+        "end_line": 74718
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "battle",
+        "dialogue",
+        "cultivation",
+        "alchemy"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第520章导读】晋阶斗灵：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《晋阶斗灵》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十一章 晋阶斗灵山洞之中，望着木盘之中那骤然间忽然急速旋转起来的药液，药老眼中闪过一抹惊诧，以他的本事，自然是能够清楚的感应到那从萧炎体内暴涌而出的吸力，当下低声喃喃道：“这小家伙，想要一举突破大斗师么？借助这势如破竹之势，倒的确是个不错的机会，但是那所需要的能量，却是极为的庞大啊”木盘之中，药液急速的旋转着，一股股精纯无比的能量从药液之中渗透而出，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "晋阶斗灵核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《晋阶斗灵》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        519,
+        520,
+        521
+      ],
+      "continuity_in": [
+        519
+      ],
+      "continuity_out": [
+        521
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 521,
+      "title": "回院",
+      "source": {
+        "start_line": 74719,
+        "end_line": 74839
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第521章导读】回院：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《回院》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十二章 回院山峰之巅，一道黑色人影如奔雷般的闪掠而动，淡淡的银色电芒在人影脚下若隐若现，手中一柄硕大的黑尺带着极具压迫的风声呼呼劈斩。然而虽然黑尺极为庞大，但是在人影手中却是宛如一柄修长的长剑一般，挥舞起来，霸道之中不乏一抹灵活刁钻武动乾坤。“嗤!”庞大的尺身忽然力劈而下，尖锐的劲风撕裂了空气，淡淡的青芒缭绕其上，犹如一团青色火焰一般，令得尺风都是带……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "回院核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《回院》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        520,
+        521,
+        522
+      ],
+      "continuity_in": [
+        520
+      ],
+      "continuity_out": [
+        522
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 522,
+      "title": "出场",
+      "source": {
+        "start_line": 74840,
+        "end_line": 74993
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第522章导读】出场：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《出场》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十三章 出场竞技场内院最为火爆的一处区域一般来说，竞技场这种略微有些血xing的场所与内院那种气氛几乎是两种截然不同的针对存在，但是在这内院，却是丝毫不避讳这些矛盾，但也不得不说内院决策的明智，正是因为竞技场的存在，方才使得内院之中出来的学员。并未向其他学院学生一般，仅仅只是懂得表面上的战斗，一旦陷入残酷的生死之战斗中，却是脚跟发软武动乾坤。因为周围……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "出场核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        521,
+        522,
+        523
+      ],
+      "continuity_in": [
+        521
+      ],
+      "continuity_out": [
+        523
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 523,
+      "title": "激战",
+      "source": {
+        "start_line": 74994,
+        "end_line": 75129
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第523章导读】激战：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《激战》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十四章 激战突然出现的黑袍青年，也是令得喧闹的竞技场之内陷入了极为短暂的寂静，而在听得其嘴中吐出的话语后，众人顿时明白来者何人，当下磐门的成员立刻爆发出惊雷般的欢喝声，而其他的围观者，则是目光略带着几分兴趣的打量着萧炎，眼神之中倒是颇有些期待，萧炎的炼药术在经过与韩闲的比试后，倒是内院人人皆知，但是炼药术的杰出，却并不代表着本身的战斗力也是无人能及，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "激战核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《激战》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        522,
+        523,
+        524
+      ],
+      "continuity_in": [
+        522
+      ],
+      "continuity_out": [
+        524
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 524,
+      "title": "对战六星斗灵",
+      "source": {
+        "start_line": 75130,
+        "end_line": 75247
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第524章导读】对战六星斗灵：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《对战六星斗灵》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十五章 对战六星斗灵对于萧炎能够陡然爆发出极为强大力量这事，薰儿等人都是知晓，所以瞧得如今其气息大盛，也是未曾感到多少意外，但是那高处的林修崖等人，却是不由得发出一道惊咦之声。实力强如他们，自然是能够发现。此时萧炎的实力，几乎已经快要追赶上白程，这种大幅度的跳跃。当真是令人大为惊讶，毕竟，那可是足足六星等级的差距啊武动乾坤。“这个家伙，难怪初见到他时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "对战六星斗灵核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《对战六星斗灵》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        523,
+        524,
+        525
+      ],
+      "continuity_in": [
+        523
+      ],
+      "continuity_out": [
+        525
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 525,
+      "title": "拼药",
+      "source": {
+        "start_line": 75248,
+        "end_line": 75341
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第525章导读】拼药：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《拼药》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十六章 拼药拳风从白程面前飞过，然而其心中还来不及庆幸，萧炎手肘便是猛然狠狠砸下，尖锐的劲风在其肘尖成形，刺耳的声响令得人耳膜一阵震疼武动乾坤。右手紧握着长枪，倒触着地面，将倾斜的身体稳住，白程左手急忙冲上，最后与萧炎肘尖重重相撞，劲气涟漪扩散间，隐隐间有着细微的骨骼咔嚓声想起武动乾坤。拳头与萧炎肘尖相撞，白程彻底的感受到了其上所蕴含的强猛力量，当下……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "拼药核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        524,
+        525,
+        526
+      ],
+      "continuity_in": [
+        524
+      ],
+      "continuity_out": [
+        526
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 526,
+      "title": "强力一击",
+      "source": {
+        "start_line": 75342,
+        "end_line": 75456
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第526章导读】强力一击：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《强力一击》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十七章 强力一击龙力丹，对于这丹药的名字。白程并不感到陌生，当初那连韩闲都是炼制不出来的五品丹药，其效力如何庞大，从那些长老当时的表情便是可以一窥端倪，他先前所服下的那枚丹药名为“兽力丹”，仅仅只是勉强达到四品丹药的等级，效力倒是与“龙力丹”有着异曲同工之妙，都是能够在短时间内增幅服用者的一些力量，但是这增幅的幅度，明显是前者要更加强悍一些，因此，当……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "强力一击核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《强力一击》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        525,
+        526,
+        527
+      ],
+      "continuity_in": [
+        525
+      ],
+      "continuity_out": [
+        527
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 527,
+      "title": "敌败",
+      "source": {
+        "start_line": 75457,
+        "end_line": 75568
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第527章导读】敌败：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《敌败》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十八章 敌败因为吞服“龙力丹”而庞大了几分的拳头，在药力以及“八极崩”斗技振幅之下，其上所蕴含的恐怖劲风，几乎是令得看台上绝大数人脸庞布满了震惊，这等力量，就算是一些实力达到七八星的斗灵强者，怕是也难以施展出来啊武动乾坤。罡风在拳头之上成形，面前的空气也是在这一击之下被彻底驱散，拳头划过虚无空间，隐隐间带着炽热拳风，拳头过处，留下淡淡的拳影武动乾坤。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "敌败核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《敌败》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        526,
+        527,
+        528
+      ],
+      "continuity_in": [
+        526
+      ],
+      "continuity_out": [
+        528
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 528,
+      "title": "一耳光",
+      "source": {
+        "start_line": 75569,
+        "end_line": 75794
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第528章导读】一耳光：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一耳光》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百二十九章 一耳光出现在场中的男子身材颇为高大，几乎与严皓那等人形猩猩相差不多，一身布衫，脸庞坚毅，眉毛颇浓，背后斜背着一柄与其身高同长的漆黑重枪，这柄黑色重枪比萧炎以往见过的任何一柄枪都要大，与这个人相同，似乎这杆枪也是带着凌厉霸气一般武动乾坤。从此人一出现，场中的主角似乎便是转换到了其头上，这等凌厉气息，放在任何地方，也是无人敢小觑武动乾坤。面前的男……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一耳光核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        527,
+        528,
+        529
+      ],
+      "continuity_in": [
+        527
+      ],
+      "continuity_out": [
+        529
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 529,
+      "title": "强榜排名",
+      "source": {
+        "start_line": 75795,
+        "end_line": 75897
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第529章导读】强榜排名：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《强榜排名》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十章 强榜排名“她这次受伤不轻。手机端阅读请登陆m.zhuaji.org不过有你所炼制的丹药。想要治愈只是时间问题。再者我瞧他的气息和波动，似乎也是隐隐有突破到九星大斗师的迹象。”薰儿微笑道武动乾坤。闻言萧炎掠过一些惊讶，旋即微微点头。琥嘉与吴昊的修炼天赋是属于那种极为上乘之人。若非他是因为有着诸多灵药的缘故。恐怕他不可能如此快速的便把他们超越武动乾……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "强榜排名核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《强榜排名》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        528,
+        529,
+        530
+      ],
+      "continuity_in": [
+        528
+      ],
+      "continuity_out": [
+        530
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 530,
+      "title": "神秘的强榜第一",
+      "source": {
+        "start_line": 75898,
+        "end_line": 75997
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第530章导读】神秘的强榜第一：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《神秘的强榜第一》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十一章 神秘的强榜第一望着消炎脸庞上闪过的畏忌之色，消炎微微一怔，旋即眉头轻皱，心中却是略微有些翻腾，从认识林炎以来，这个狂傲的家伙从未有过半点的畏惧，然而现在，这个素来以狂在内院着名的林炎却是在这个强榜第一的名字下，陷入了沉默并露出这般神情，这由不得消炎心中继续保持平静的心境、“呵呵，随便问问而已，林炎学长不用往心里去。沉默的气氛持续一会，萧炎微微……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "神秘的强榜第一核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《神秘的强榜第一》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        529,
+        530,
+        531
+      ],
+      "continuity_in": [
+        529
+      ],
+      "continuity_out": [
+        531
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 531,
+      "title": "冰火龙须果",
+      "source": {
+        "start_line": 75998,
+        "end_line": 76106
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第531章导读】冰火龙须果：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《冰火龙须果》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十二章 冰火龙须果木门之后，是一片被淡淡荧光所笼罩的宽敞房间，级步走进，萧炎目光四处望了望，脸庞上却是逐渐涌上一抹惊叹，这整个房间的内壁，都是被一层乳白色的玉所包裹，甚至于脚底下的地板，都是用一块块极为整齐的白玉毫无缝隙的拼凑而成，而那些淡淡的荧光，则正从这些白玉之中所散发而出武动乾坤。“真是大手笔啊。”萧炎嘴中发出啧啧的惊叹之声，这些白玉阶值颇为昂……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "冰火龙须果核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        530,
+        531,
+        532
+      ],
+      "continuity_in": [
+        530
+      ],
+      "continuity_out": [
+        532
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 532,
+      "title": "神秘白衣小女孩",
+      "source": {
+        "start_line": 76107,
+        "end_line": 76236
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第532章导读】神秘白衣小女孩：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《神秘白衣小女孩》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十三章 神秘白衣小女孩明明是稚嫩的声音，可爱的容貌，但是这个白衣小女孩所透露的那诡异气息，却是令得萧炎将神经紧绷了起来武动乾坤。与那双乌黑大眼睛对视着，片刻后，萧炎干笑道：“小妹妹，这个东西不好吃的，你还是还给我吧。”“我要长大，就要吃它们！”小女孩平静的道武动乾坤。“长大可是需要时间的，你这样做，那可是拔苗助长，没有半点好处的。”萧炎面上一片正色，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "神秘白衣小女孩核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《神秘白衣小女孩》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        531,
+        532,
+        533
+      ],
+      "continuity_in": [
+        531
+      ],
+      "continuity_out": [
+        533
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 533,
+      "title": "不是人",
+      "source": {
+        "start_line": 76237,
+        "end_line": 76360
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第533章导读】不是人：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《不是人》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十四章 不是人静室之中，萧炎目光眨也不眨的望着盘腿坐在对面的白衣小女孩，他实在是想不到，这么可爱的一个小女孩，本体竟然会是一头魔兽所化……从出生到现在，萧炎这还是第一次见到化作人形的魔兽，因此心中很是觉得惊异与恍然。难怪她敢就这样生吃药材，原本本体竟是魔兽，以魔兽那种强悍体格，这些药力虽然狂野，可也是在能够承受的范围内武动乾坤。你看够了没啊？赶紧给我……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "不是人核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《不是人》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        532,
+        533,
+        534
+      ],
+      "continuity_in": [
+        532
+      ],
+      "continuity_out": [
+        534
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 534,
+      "title": "最后一种材料",
+      "source": {
+        "start_line": 76361,
+        "end_line": 76475
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第534章导读】最后一种材料：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《最后一种材料》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十五章 最后一种材料安静的密室之中，许久之后，萧炎终于是从紫研吐出的震撼消息下回过神来，使劲的揉了揉脸庞，苦笑了一声，没想到那被林炎说得神乎其神的“强榜”第一，竟然是这么一个小女孩，不，应该说是一个有这人类外貌的强悍魔兽武动乾坤。“这小女孩也是挺可爱的，不真的为什么林炎这么惧怕她，不过以她的实力，到还是真能够坐上那第一的位置，从她那恐怖的力量来看，就……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "最后一种材料核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        533,
+        534,
+        535
+      ],
+      "continuity_in": [
+        533
+      ],
+      "continuity_out": [
+        535
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 535,
+      "title": "交换",
+      "source": {
+        "start_line": 76476,
+        "end_line": 76611
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第535章导读】交换：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《交换》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十六章 交换一路跟随着郝长老行出药材管理库，顺着大道缓步前行，沿途之中。偶尔一些来往的学员瞧得并行而走的两人，脸庞都闪过一抹惊讶。郝长老在内院一般都冷面示人，故而外人都对其颇感敬畏，因此如今见到萧炎竟然能够与之如此笑谈，解释感到极为惊异，然而在惊异之余，也不免对萧炎更看重了一些，谁都清楚内院之中这些长老的权利，若是日后不开眼的得罪了人。说不得会被穿小……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "交换核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《交换》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        534,
+        535,
+        536
+      ],
+      "continuity_in": [
+        534
+      ],
+      "continuity_out": [
+        536
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 536,
+      "title": "到手",
+      "source": {
+        "start_line": 76612,
+        "end_line": 76717
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第536章导读】到手：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《到手》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十七章 到手青色的莲子安静的躺在萧炎手中，微微的散发着淡淡的光芒，其体积虽然小，但是其中多蕴含的雄浑炙热能量，即使是流长老与赫长老两人的脸庞上都是布满惊异武动乾坤。这枚青色莲子，正是当年萧炎在塔格尔大戈壁搜寻到的青莲地心火所的到的附加品，地火莲子，这种火炼子是经过张就岁月的火属性能量影剧而成，因此对于火属性的人修炼打油裨益，因此如今也好只是尚还剩余十……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "到手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《到手》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        535,
+        536,
+        537
+      ],
+      "continuity_in": [
+        535
+      ],
+      "continuity_out": [
+        537
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 537,
+      "title": "炼制地灵丹",
+      "source": {
+        "start_line": 76718,
+        "end_line": 76841
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第537章导读】炼制地灵丹：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼制地灵丹》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十八章 炼制地灵丹从刘长老房中出来，萧炎与郝长老对视了一眼，皆是不由得失笑出来武动乾坤。“这次多谢郝长老了。”萧炎走近了一些，低声道：“日后，萧炎定然有所回报。”“呵呵，小时而已，这下子那家伙失去了在我们面前炫耀的东西。我们也能耳根清净一点了。”郝长老笑着挥了挥手，不过看其面庞表情，似乎萧炎后面那一句话，依然另的他颇为高兴，毕竟见识过萧炎炼药术的他，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼制地灵丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        536,
+        537,
+        538
+      ],
+      "continuity_in": [
+        536
+      ],
+      "continuity_out": [
+        538
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 538,
+      "title": "动静",
+      "source": {
+        "start_line": 76842,
+        "end_line": 76974
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第538章导读】动静：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《动静》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百三十九章 动静葱郁山峰之上，森白色的火焰在绿荫之中若隐若现，恍若鬼火武动乾坤。药老脸色凝重的望着药鼎中急速升腾的森白火焰，由于“黑魔”鼎品质极为不凡，因此最开始的温鼎这一步的时间确实比寻常药鼎多耗一些时间，但以药老的炼药术以及对骨灵冷火的操控程度，自然是能够将这些时间给省去，因此，火焰在升腾了将近一分钟时间后，药老手掌对着面前地面上的几株药材一挥，顿时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "动静核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《动静》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        537,
+        538,
+        539
+      ],
+      "continuity_in": [
+        537
+      ],
+      "continuity_out": [
+        539
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 539,
+      "title": "药皇，韩枫!",
+      "source": {
+        "start_line": 76975,
+        "end_line": 77086
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第539章导读】药皇，韩枫!：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《药皇，韩枫!》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十章 药皇，韩枫!第五百一十二章药皇，韩枫！内院深处，一处幽静楼阁的临窗房间之中，两道人影站立其中，一人一身宽大黑袍，发须皆白，苍老的脸庞淡然如老僧般，始终验证以有一丝情绪的波动，他负手立在窗口之旁，望着外面的绿荫，半响后，淡淡的道：“泰宣，最近天焚炼气塔中动静如何？”“大长老，陨落心炎越来越不平静了，现在几首每半个月就会翻腾一次，若非众多长老联手布……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "药皇，韩枫!核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        538,
+        539,
+        540
+      ],
+      "continuity_in": [
+        538
+      ],
+      "continuity_out": [
+        540
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 540,
+      "title": "丹成",
+      "source": {
+        "start_line": 77087,
+        "end_line": 77225
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第540章导读】丹成：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《丹成》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十一章 丹成茫茫山峦，蔚蓝的天空之上，一道丈许粗的蓝色能量光柱直冲云霄。许久不散武动乾坤。药老缓缓的从地上坐起，望了一眼那巨大的光柱，眉头微微皱了皱，伸手一招，顿时，光柱急速颤抖，片刻时间后，一缕蓝色光芒从光柱之中剽掠而下，最后漂浮在了其手掌之上武动乾坤。蓝色光芒逐渐消减，顿时露出其内本体，赫然是一枚龙眼大小的蔚蓝丹药，丹药表面极为浑圆，犹如海面一般……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "丹成核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        539,
+        540,
+        541
+      ],
+      "continuity_in": [
+        539
+      ],
+      "continuity_out": [
+        541
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 541,
+      "title": "探宝的天赋",
+      "source": {
+        "start_line": 77226,
+        "end_line": 77367
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第541章导读】探宝的天赋：yao-lao, xiao-xun-er, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《探宝的天赋》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十二章 探宝的天赋在躲避开黑袍老者的搜索之后，萧炎再次在深山中逗留了半天时间，这才施展紫云翼，放心的回到内院武动乾坤。借助着天色暗淡因帮，萧炎又一次顺利的摆脱了那些想要向他挑战的好事者，径直窜进了磐门之中，大摇大摆的回到楼阁，然而当其推门而入时，面前白蚁骤然闪掠，令得他急忙警戒的退后一步，定晴一看，不由得有些愕然，原来面前这道白影，竟然便是那位所谓的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "探宝的天赋核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《探宝的天赋》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        540,
+        541,
+        542
+      ],
+      "continuity_in": [
+        540
+      ],
+      "continuity_out": [
+        542
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 542,
+      "title": "急事?",
+      "source": {
+        "start_line": 77368,
+        "end_line": 77500
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第542章导读】急事?：xiao-xun-er, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《急事?》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十三章 急事?“箫家族长失踪的事情，也是已经船到族中了。”凌影望着面前的熏儿，苦笑道：“现在族中可有些乱了，箫战的失踪，说不定也说明箫家的那部分“钥匙”也是随之消失。小姐也知道族中对其有多么的看重。”“族中是否派人查探了箫叔叔的下落？”熏儿微蹙着黛眉，片刻后。忽然问道武动乾坤。“开始在查了，不过暂时还没消息，知道箫战失踪之谜的，或许只有当日追杀他的云……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "急事?核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《急事?》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        541,
+        542,
+        543
+      ],
+      "continuity_in": [
+        541
+      ],
+      "continuity_out": [
+        543
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 543,
+      "title": "回外院",
+      "source": {
+        "start_line": 77501,
+        "end_line": 77645
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第543章导读】回外院：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《回外院》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十四章 回外院内院结镜出口处,几道人影闪掠而出，看其面貌。赫然便是萧炎，熏儿等人，其后还有那好奇跟过来的林炎武动乾坤。在萧炎几人刚刚从森林中闪掠出来时，淡淡的苍老声音便是在诸人头顶响起：“想要出内院，必须要取得一位长老的手信，你们这么大一群人，是想干嘛来呢？”听的声音，萧炎等人连忙抬起头来，却是瞧得一处树枝上，一位老者站立其上，仔细看去，正是当初在初……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "回外院核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        542,
+        543,
+        544
+      ],
+      "continuity_in": [
+        542
+      ],
+      "continuity_out": [
+        544
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 544,
+      "title": "族中变故",
+      "source": {
+        "start_line": 77646,
+        "end_line": 77781
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "turning_point"
+      ],
+      "teaser": "【第544章导读】族中变故：yao-lao, xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《族中变故》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十五章 族中变故房间之中，气氛压抑得有些令人窒息，林焱等人望着萧炎那首次在他们面前所展露出来的暴怒，皆是有些暗暗咂舌，这家伙，平日看起来总是一副笑容满面的平和模样，和没想到真要怒起来，竟然还这般可怕武动乾坤。眼睛死死的盯碰上脸色苍白的萧厉，半晌后，萧炎深吸了一口气，强行压抑住心中的震怒，转头对着红着眼睛的萧玉沉声道：“究竟怎么回事？二哥不是该在加玛帝……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "族中变故核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《族中变故》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        543,
+        544,
+        545
+      ],
+      "continuity_in": [
+        543
+      ],
+      "continuity_out": [
+        545
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 545,
+      "title": "魂殿参与",
+      "source": {
+        "start_line": 77782,
+        "end_line": 77875
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第545章导读】魂殿参与：yao-lao, xiao-xun-er, na-lan-yan-ran, hai-bo-dong, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魂殿参与》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十六章 魂殿参与房间内，寂静再度浮现，许久之后，相通了一些因果的萧炎缓缓地吐了一口气，声音低沉的问道：“大哥如何了”“我们一路被追杀，以我们的实力，若是继续下去，萧家会覆灭怕都是没有丝毫的意外，不过好在最后关头，却是有着援兵出现，救下残存的萧家。”萧厉说道此处，苍白的脸庞上也是露出了一些庆幸武动乾坤。“援兵？珈玛帝国中还有敢与云岚宗对抗的势力？”闻言……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魂殿参与核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran",
+        "hai-bo-dong",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        544,
+        545,
+        546
+      ],
+      "continuity_in": [
+        544
+      ],
+      "continuity_out": [
+        546
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 546,
+      "title": "萧炎的打算",
+      "source": {
+        "start_line": 77876,
+        "end_line": 77978
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第546章导读】萧炎的打算：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《萧炎的打算》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十七章 萧炎的打算由于萧厉伤势的缘故萧炎并未记者回内院，而是在外院呆了几天，而在这段期间萧厉的伤势不仅在萧炎那一粒粒珍贵的丹药之下迅速好转，而且实力也是大为精进武动乾坤。在疗伤期间，萧炎自然探测出了如今萧厉的实力，正处于斗师巅峰，随时都可能捅破那一层壁障一跃成为大斗师武动乾坤。而对此萧炎在略微沉吟之后却是在疗伤中秘密的使用了一滴地心淬体乳而借助这般庞……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "萧炎的打算核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        545,
+        546,
+        547
+      ],
+      "continuity_in": [
+        545
+      ],
+      "continuity_out": [
+        547
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 547,
+      "title": "摆擂接战",
+      "source": {
+        "start_line": 77979,
+        "end_line": 78063
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第547章导读】摆擂接战：yao-lao, xiao-xun-er, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《摆擂接战》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十八章 摆擂接战在将效历的事情彻底解决之后,萧炎也终于是能够安心回到内院,备战那即将到来的内院”强榜”之战,不过在走前,倒也是还与萧玉,萧媚,萧宁三人见了一面,如今萧家元气彻底大伤,不知道多少族人死与云岚宗与”魂殿”之手，所以对于这三位与自己有着一些血缘关系的亲人,萧炎倒是比以前柔和了许多,一些小时候在家族中的恩怨,到了如今,以他的心性,自然不会再记……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "摆擂接战核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《摆擂接战》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        546,
+        547,
+        548
+      ],
+      "continuity_in": [
+        546
+      ],
+      "continuity_out": [
+        548
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 548,
+      "title": "姚盛",
+      "source": {
+        "start_line": 78064,
+        "end_line": 78169
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第548章导读】姚盛：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《姚盛》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十九章 姚盛走进天焚练气塔第六层，望着那比前几层都要宽敞与空旷的塔内空间，萧炎不由得在心中暗叹道：“这般环境与待遇，不愧是内原定坚强着方才有资格进入的地方啊。”第六层的空间颇大，塔内势必都是呈现淡红之色，一丝丝奇异的温度从中渗透而出，令人浑身有种暖洋洋的感觉，不过此处空间虽然宽敞，但是人际都是少的可怜，萧炎放眼望去，诺大的地方，却是仅仅只有寥寥可数的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "姚盛核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《姚盛》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        547,
+        548,
+        549
+      ],
+      "continuity_in": [
+        547
+      ],
+      "continuity_out": [
+        549
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 549,
+      "title": "初步交锋",
+      "source": {
+        "start_line": 78170,
+        "end_line": 78317
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第549章导读】初步交锋：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《初步交锋》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十章 初步交锋宽敞的休息场中，因为两人突然爆发的凶悍气息而变得略显安静了一些，旋即周围十几道人影是曼联看热闹的退后了几步，在这塔中修炼，虽然能够提升修炼速度，但也是极为的枯燥与无聊，如今有人打起来，他们自然是极为乐意看见这般消遣的活动武动乾坤。林焱瞧得那直接迎上姚盛的萧炎，也是一怔，刚欲阻拦，然而沉吟一下，却是并未开口，虽然萧炎表面实力仅仅方才二星斗……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "初步交锋核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        548,
+        549,
+        550
+      ],
+      "continuity_in": [
+        548
+      ],
+      "continuity_out": [
+        550
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 550,
+      "title": "一号修炼室",
+      "source": {
+        "start_line": 78318,
+        "end_line": 78435
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第550章导读】一号修炼室：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《一号修炼室》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十一章 一号修炼室修炼室门口，一位身着白色衣裙的小女孩斜靠着墙壁，双臂抱拳，斜瞥着休息场中众人。虽然看似人畜无害，可那对眸子间隐隐噙着凶意，却是令得目光与是对视之人背心冒着冷汗武动乾坤。“呵呵，原来是紫研学姐。”柳擎脸色在白衣小女孩出现时也是略微就了变，不过比起其他人，他倒是要好许多，当下对着紫研笑着道。但那称呼，却是令得人有种诡异的感觉，想想一个锋……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "一号修炼室核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《一号修炼室》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        549,
+        550,
+        551
+      ],
+      "continuity_in": [
+        549
+      ],
+      "continuity_out": [
+        551
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 551,
+      "title": "塔中暴动",
+      "source": {
+        "start_line": 78436,
+        "end_line": 78547
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第551章导读】塔中暴动：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《塔中暴动》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十二章 塔中暴动房门被推开，顿时，淡红的强光猛然暴涌而出，令得萧炎惯性般的微闭上了眼睛，半晌后，方才缓缓睁开。望着房间之内的景象，一抹惊叹，在脸庞上越加浓郁武动乾坤。宽敞的修炼室之内，几乎被一层厚实的淡红色雾气所笼罩，目光所望处，仅仅只能望见面前两三米的地所，再向前，则是将会被那浓郁的淡红所遮掩武动乾坤。脸庞带着惊叹的踏进修炼室之中。萧炎手掌虚抓了一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "塔中暴动核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《塔中暴动》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        550,
+        551,
+        552
+      ],
+      "continuity_in": [
+        550
+      ],
+      "continuity_out": [
+        552
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 552,
+      "title": "陨落心炎提前的暴...",
+      "source": {
+        "start_line": 78548,
+        "end_line": 78671
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第552章导读】陨落心炎提前的暴...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《陨落心炎提前的暴...》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十三章 陨落心炎提前的暴...听得那道响乇在耳边的苍老喝声。萧炎略微一怔，旋即也是猛的从石台上坐起了身子，飞快的将火晶卡从凹槽上取出，心中惊愕的喃喃道：“怎么了？”“塔内能量变得暴躁了许多，想必应该是陨落心炎的缘故。”药老的声音，带着些许惊喜在萧炎心中响起武动乾坤。“陨落心炎？”闻言，萧炎顿时愕然，错愕的在心中道：“不是说至少还有几月时间么？难道暴动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "陨落心炎提前的暴...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        551,
+        552,
+        553
+      ],
+      "continuity_in": [
+        551
+      ],
+      "continuity_out": [
+        553
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 553,
+      "title": "大长...",
+      "source": {
+        "start_line": 78672,
+        "end_line": 78783
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第553章导读】大长...：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大长...》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十四章 大长...听得面前黑袍老者的问话，萧炎心中顿时一突，眼珠转了转，心中念头急忙转动着：“如果回答真看见了，这老家伙会不会为了保全秘密干出杀人灭口所勾当啊？”毕竟陨落心炎对于内院的重要性，实在是太大了，因此，也难怪萧炎会有这等想法武动乾坤。半空中气氛紧绷而压抑，萧炎手心中满是汗水，面前的黑袍老者给予他的压迫感，丝毫不比云岚宗的云山弱，以他如今的实……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大长...核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大长...》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        552,
+        553,
+        554
+      ],
+      "continuity_in": [
+        552
+      ],
+      "continuity_out": [
+        554
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 554,
+      "title": "冤家路窄",
+      "source": {
+        "start_line": 78784,
+        "end_line": 78895
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第554章导读】冤家路窄：xiao-xun-er, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《冤家路窄》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十五章 冤家路窄中央广场，内院最为庞大的一处场地，平日这广场并不对外开放。唯有内院举办比赛时，文教会将之开启，而作为内院最劲爆的“强榜”大赛，举办地点自然是非此莫属武动乾坤。虽然这在中央广场占地极广，但是在今日，却依然是被无数黑压压的人头所占满，放眼望去，熙熙攘攘的人群带着喧哗声，四处扩散，最后汇聚成一股，直冲云宵武动乾坤。当萧炎一大群人来到此处时，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "冤家路窄核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《冤家路窄》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        553,
+        554,
+        555
+      ],
+      "continuity_in": [
+        553
+      ],
+      "continuity_out": [
+        555
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 555,
+      "title": "针锋相对",
+      "source": {
+        "start_line": 78896,
+        "end_line": 79013
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第555章导读】针锋相对：xiao-xun-er, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《针锋相对》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十六章 针锋相对在那凝固了许多的气氛之下，柳擎一行人缓缓的停留在了萧炎等人面前，前者撇了萧炎，林修崖几人一眼，淡淡的道：“终于是遇见了，这天我倒是等了很久。”对于柳擎的话，萧炎自然是不会傻乎乎的接上，内院之人都知道。柳擎的对手是林修崖，其他人，出了紫研那个凌驾与他们之上的小怪物之外，几乎极少有人有资格令柳擎这般重视，即使是排名第四的严浩，虽然平日对柳……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "针锋相对核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        554,
+        555,
+        556
+      ],
+      "continuity_in": [
+        554
+      ],
+      "continuity_out": [
+        556
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 556,
+      "title": "定对手",
+      "source": {
+        "start_line": 79014,
+        "end_line": 79125
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第556章导读】定对手：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《定对手》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十七章 定对手“嘭！”天空中，一刀身影犹如黑色铁塔一般，带着尖锐的破风声响，双脚重重的剁在地面之上，顿时间，落脚之处，那由特殊材料所制的漆黑地板，居然是悄然间裂开了些细小缝隙。(本书转载16k网/wudongqiankun/’’>武动乾坤。落地时，柳擎身体笔直如枪杆，没有丝毫的弯曲，背后斜背的一柄与身高同长的黑色重枪，隐隐间，渗透着厚实沉重的气势武动……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "定对手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《定对手》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        555,
+        556,
+        557
+      ],
+      "continuity_in": [
+        555
+      ],
+      "continuity_out": [
+        557
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 557,
+      "title": "大赛开始",
+      "source": {
+        "start_line": 79126,
+        "end_line": 79246
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第557章导读】大赛开始：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大赛开始》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十八章 大赛开始当萧炎在报出自己的号数时，那白程脸色顿时僵硬，而且那僵硬之余，甚至还略有一分苍白武动乾坤。虽然总是对自己败于萧炎手中耿耿于怀，而且或许是因为不愿承认的缘故，白程一直将自己失败的最终原因归咎于萧炎吞服了龙力丹之上，不过，在这一霎时，其心中却是升起了四股极淡的恐惧，似乎，虽然他嘴上并不愿承认，可其心中深处，的确实实在在的对萧炎有着一分恐惧……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大赛开始核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大赛开始》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        556,
+        557,
+        558
+      ],
+      "continuity_in": [
+        556
+      ],
+      "continuity_out": [
+        558
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 558,
+      "title": "贝崌",
+      "source": {
+        "start_line": 79247,
+        "end_line": 79346
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第558章导读】贝崌：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《贝崌》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十九章 贝崌男子的笑声，直接是导致高台上一此知根究底的参赛者的沉就，面对着紫研，就算是柳擎林修崖等人，在全力以赴之下，也不可能保持一半的胜率，而这个家伙而在自己话出之后，台上的那男子也是察觉到周围的一些目光有些不对，可却并不知道确切原因，脸庞上的笑容略微僵了一下，目光仔细的在紫研身上扫了扫，可以他的实力，又怎可能看出紫研的底线，在他的目光中，便是只能……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "贝崌核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        557,
+        558,
+        559
+      ],
+      "continuity_in": [
+        557
+      ],
+      "continuity_out": [
+        559
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 559,
+      "title": "尺法",
+      "source": {
+        "start_line": 79347,
+        "end_line": 79478
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第559章导读】尺法：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《尺法》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百六十章 尺法宽敞的场地之中，两道人影遥遥对立，一黑一白，在这淡灰色的场内，显得格外的耀眼。(全文字小说阅读尽在拾陆k文学网)“竟然是萧炎和白程？这两个家伙又碰一起了，“嘿嘿，这可有好戏看了，听说上次败在稽炎手中后，白程一直对外说是因为萧炎服用了龙力丹的缘故，如今在这种不准服用丹药的比赛上遇见，不知道他能不能扳回上一次的失败？”“我看怕是很难吧，萧炎上一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "尺法核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《尺法》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        558,
+        559,
+        560
+      ],
+      "continuity_in": [
+        558
+      ],
+      "continuity_out": [
+        560
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 560,
+      "title": "血地八裂场中",
+      "source": {
+        "start_line": 79479,
+        "end_line": 79584
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第560章导读】血地八裂场中：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《血地八裂场中》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百六十一章血地八裂场中，白程那猛然间变得极其血红的脸庞，也是弓起了看台上众人的注意，当下一道道目光都是变得惊愕，窃窃私语也是随之响起。手机快速阅读：文字版首发萧炎眉头微微皱了皱，他能够高手到白程那突然间变得强横许多的气势，而且翻腾在其身体上的斗气，明显也是在这一削变得强猛了一倍之多武动乾坤。“秘法没想到这家伙也有修习，不过这增幅比起天火三玄变，却是差了好……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "血地八裂场中核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《血地八裂场中》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        559,
+        560,
+        561
+      ],
+      "continuity_in": [
+        559
+      ],
+      "continuity_out": [
+        561
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 561,
+      "title": "青火盔甲灰尘弥漫之中",
+      "source": {
+        "start_line": 79585,
+        "end_line": 79681
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第561章导读】青火盔甲灰尘弥漫之中：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《青火盔甲灰尘弥漫之中》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百六十二章青火盔甲灰尘弥漫之中，一道人影缓步走出，显眼的清色火焰率先出现，异样的炽热，笼罩着广场。(本书转载16k网/wudongqiankun/’’>武动乾坤。此时的青色火焰，比以往靠炎施展的任何一次都要浓厚与凶猛，火焰翻腾，若是眼神毒辣之辈，则是能够发现，此时的清色火焰，似乎在萧炎身体上凝结出了一套极为坚固的青色火焰盔甲一般，任何攻击，似乎都是将会在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "青火盔甲灰尘弥漫之中核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        560,
+        561,
+        562
+      ],
+      "continuity_in": [
+        560
+      ],
+      "continuity_out": [
+        562
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 562,
+      "title": "柳擎的出场望着那重重撞在墙壁上不知死活的白程",
+      "source": {
+        "start_line": 79682,
+        "end_line": 79814
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第562章导读】柳擎的出场望着那重重撞在墙壁上不知死活的白程：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《柳擎的出场望着那重重撞在墙壁上不知死活的白程》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百六十三章柳擎的出场望着那重重撞在墙壁上不知死活的白程，满场一片寂静，先前萧炎那一拳的威势，即使是隔着老远的距离，依然是有不少人察觉到其猛烈程度，他们不敢想象，那一拳若是结结实实的轰在自己身上，这条小命还能不能留下？场中，萧炎也是缓缓直起身子，紧握的拳头微微抖了抖，一丝血迹顺着指尖滴落而下，先前的那一击固然凶悍，可也是令得其拳头被力量反震得略有些疼痛，不……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "柳擎的出场望着那重重撞在墙壁上不知死活的白程核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《柳擎的出场望着那重重撞在墙壁上不知死活的白程》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        561,
+        562,
+        563
+      ],
+      "continuity_in": [
+        561
+      ],
+      "continuity_out": [
+        563
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 563,
+      "title": "大裂劈棺爪",
+      "source": {
+        "start_line": 79815,
+        "end_line": 80578
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第563章导读】大裂劈棺爪：na-lan-yan-ran, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大裂劈棺爪》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百六十四章大裂劈棺爪望着场中那如枪杆般笔直站立的柳擎，满场都是寂静无声，这般态势，就算是先前紫研出场，也是未曾享受到过，毕竟她虽然是真正的强榜第一，不过由于平日极少露面的缘故，所以其名声在内院中，却是比不上柳擎林修崖等人武动乾坤。柳擎安静站立场中，也不理会周遭的各色目光，眼眸缓缓闭上，双臂抱在胸前，等待着自己的对手出场武动乾坤。“嗤！”在满场目光注视下，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大裂劈棺爪核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "na-lan-yan-ran",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大裂劈棺爪》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        562,
+        563,
+        564
+      ],
+      "continuity_in": [
+        562
+      ],
+      "continuity_out": [
+        564
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 564,
+      "title": "耀眼萧炎平静的声音回荡在广场中",
+      "source": {
+        "start_line": 80579,
+        "end_line": 82038
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第564章导读】耀眼萧炎平静的声音回荡在广场中：yao-lao, xiao-xun-er, na-lan-yan-ran, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《耀眼萧炎平静的声音回荡在广场中》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百四十一章耀眼萧炎平静的声音回荡在广场中，令得满场窃窃私语都是噶然而止，一道道蕴含着各种情绪的目光不断的在挺拔而立的前者以及场外脸色惨白，满身狼狈的姚盛身上来回排徊武动乾坤。寂静持续了片刻时间，终于是突然有着一道清脆的拍掌声响起，旋即，犹如连锁反应一般，整齐轰鸣的掌声，在场中，沸腾而起，直冲云霄武动乾坤。听得那充斥满场的掌声，箭炎抬起头来，望向薰儿所在的……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "耀眼萧炎平静的声音回荡在广场中核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        563,
+        564,
+        565
+      ],
+      "continuity_in": [
+        563
+      ],
+      "continuity_out": [
+        565
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 565,
+      "title": "落幕",
+      "source": {
+        "start_line": 82039,
+        "end_line": 82498
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第565章导读】落幕：yao-lao, xiao-xun-er, na-lan-yan-ran, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《落幕》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十二章落幕望着那艰难的举起手来，一张脸庞布满血迹，努力睁着眼睛不使它闭上的黑袍青年，皆是呐呐无语，这个家伙还真是打不死的小强啊，经受了如此恐怖的斗技余波反弹，居然还能残存着一些意识。苏千脸庞上也是闪过一抹错愕，此刻的萧炎，明显已经是真正的油尽灯枯，支撑着他睁开眼的，或许，就是那一定要进入前十的执念吧武动乾坤。苦笑着摇了摇头，苏千沉吟了好片刻，方才缓缓……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "落幕核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "na-lan-yan-ran",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《落幕》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        564,
+        565,
+        566
+      ],
+      "continuity_in": [
+        564
+      ],
+      "continuity_out": [
+        566
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 566,
+      "title": "分离",
+      "source": {
+        "start_line": 82499,
+        "end_line": 83206
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第566章导读】分离：xiao-xun-er, zi-yan, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《分离》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百五十六章分离，翎泉，闭嘴！萧家与我族有着盟约，岂容你出口侮辱？”察觉到萧炎那越加阴冷的脸色，薰儿心头一急，冲着翎泉厉声叱道武动乾坤。“呵呵，…小姐勿恼，我倒是心直口快了些。”翎泉笑了笑，话音一转，却是突然道：“不过此行前来，族宗大人吩咐过，若是遇见萧炎少爷的话，可以向之征询一下萧家的那部分钥匙所在。”说到这里，翎炎微笑着将目光转向萧炎：“不知道萧炎少爷……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "分离核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er",
+        "zi-yan",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《分离》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        565,
+        566,
+        567
+      ],
+      "continuity_in": [
+        565
+      ],
+      "continuity_out": [
+        567
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 567,
+      "title": "破塔！",
+      "source": {
+        "start_line": 83207,
+        "end_line": 84830
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第567章导读】破塔！：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《破塔！》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百六十二章破塔！在众人惊骇的目光注视下，血色岩浆柱带着炽热的浆流，铺天盖地的冲出最后一道封印，旋即，狠狠的撞击在了天焚炼气塔塔尖之上武动乾坤。“嘭！”低沉如怒雷般的巨声，猛然间在众人耳边轰隆响起，在这犹如陨石相撞般的碰撞中，萧炎等人能够极为清晰的感觉到，整今天焚炼气塔，都是在此狠狠的颤了一颤武动乾坤。众人脸色略有点苍白的望着那从深洞之中喷发而出的火热岩浆……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "破塔！核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        566,
+        567,
+        568
+      ],
+      "continuity_in": [
+        566
+      ],
+      "continuity_out": [
+        568
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 568,
+      "title": "赶尽杀绝蔚蓝天际",
+      "source": {
+        "start_line": 84831,
+        "end_line": 85184
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第568章导读】赶尽杀绝蔚蓝天际：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《赶尽杀绝蔚蓝天际》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百十十四章赶尽杀绝蔚蓝天际，人影闪掠而带起的破风声响不绝于耳，能量炸响也是犹如鞭炮般的不断响起，那股雄浑的能量波动、即使是百里之州，依然是能够模糊察觉武动乾坤。此时的内院，大部分都已经在那战斗余波扩散下，化为一片狼藉，这也导致那些内院学员，不得不向更外面的地方退去而躲避余波的波及武动乾坤。退后间，一道道目光依然是紧紧的注视着天空上的混乱大战，这之中，更多……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "赶尽杀绝蔚蓝天际核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《赶尽杀绝蔚蓝天际》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        567,
+        568,
+        569
+      ],
+      "continuity_in": [
+        567
+      ],
+      "continuity_out": [
+        569
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 569,
+      "title": "斑哦的能量匹练",
+      "source": {
+        "start_line": 85185,
+        "end_line": 86226
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第569章导读】斑哦的能量匹练：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《斑哦的能量匹练》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百七十七章斑哦的能量匹练，犹如戈过空间的彩虹般，带着微微震荡的空间痕迹，狠狠的撞击在无形火蟒那庞大的身躯之工，能量爆炸，犹如灿烂烟花般，在火蟒身躯之工迸射开来武动乾坤。集合了所有黑角域强者的全力一击，那股恐怖的攻击，就算是苏千都不敢硬接，因此，即使无形火蟒声势极足，但在这般猛烈轰击下，庞大的身躯也是急速坠落，愤怒的嘶鸣声，在天际刺耳的响彻着武动乾坤。望着……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "斑哦的能量匹练核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《斑哦的能量匹练》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        568,
+        569,
+        570
+      ],
+      "continuity_in": [
+        568
+      ],
+      "continuity_out": [
+        570
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 570,
+      "title": "绝境",
+      "source": {
+        "start_line": 86227,
+        "end_line": 86498
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第570章导读】绝境：yao-lao, medusa, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《绝境》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百八十四章绝境导致萧炎从昏迷中苏醒过来的，是疼痛，深入骨髓的疼痛！艰难的睁开有些模糊的眼睛，入眼处，是犹如鲜血般的赤红，眼睛缓缓睁大，他这才看清，原来那赤红，是无数缓缓流动的岩浆武动乾坤。岩浆？怔了一瞬旬，萧炎猛然一个激灵，瞬间回过神来，目光一扫，却是惊愕的发现，自己此时，正身处茫茫岩浆之中，而且这身处的位置，明显是在岩浆深处，因为那不管是上下还是左右，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "绝境核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        569,
+        570,
+        571
+      ],
+      "continuity_in": [
+        569
+      ],
+      "continuity_out": [
+        571
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 571,
+      "title": "生死之段",
+      "source": {
+        "start_line": 86499,
+        "end_line": 86640
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第571章导读】生死之段：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《生死之段》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百八十六章生死之段出现在面前的**美人，妖艳而充满诱惑，那如白玉般偶泄的春光，足以令得无数男人为之疯狂，当然，若是美人那张冷若冰霜般的脸颊能够稍稍多一点人情味，那就更是完美了当然，不管面前的美人究竟是何等的完美，那对于萧炎来说，都算不得什么太好的消息，毕竟这个女人，实在是有些太过恐怖了点，虽然当初与她有着约定，不过对于这个喜怒无常的美杜莎女王，萧炎心中始……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "生死之段核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《生死之段》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        570,
+        571,
+        572
+      ],
+      "continuity_in": [
+        570
+      ],
+      "continuity_out": [
+        572
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 572,
+      "title": "缓慢的蜕变",
+      "source": {
+        "start_line": 86641,
+        "end_line": 88340
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第572章导读】缓慢的蜕变：yao-lao, xiao-xun-er, medusa, yun-yun, hai-bo-dong, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《缓慢的蜕变》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百八十七章缓慢的蜕变此次在萧炎体内出现的心火，比以往任何一次都要猛烈，甚至当初在接受那陨落心炎本源炼体时，那心火强度，都要比此刻弱上许多倍！脸庞因为涨红而显得有些发紫，萧炎皮肤之上，不断的泛起水泡，那从体内铺天盖地涌出的恐怖高温，犹如要将他的整个身体皆是焚化一般，身处这般高温炙烤，若非萧炎本身便是掌控着异火，对这些火焰或多或少的有着一些抗性，再加上前段时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "缓慢的蜕变核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "medusa",
+        "yun-yun",
+        "hai-bo-dong",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《缓慢的蜕变》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        571,
+        572,
+        573
+      ],
+      "continuity_in": [
+        571
+      ],
+      "continuity_out": [
+        573
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 573,
+      "title": "召集人手",
+      "source": {
+        "start_line": 88341,
+        "end_line": 88687
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第573章导读】召集人手：yao-lao, xiao-xun-er, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《召集人手》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第五百九十八章召集人手萧炎脸色略有些阴沉的从会议室中行出，一抬头，却是瞧得林焱正站在不远处，脸庞上的阴沉缓缓收敛了一些，冲着后者笑了笑武动乾坤。“没想到你竟然还留在内院。”缓步走上，萧炎微笑道武动乾坤。“我当初不是说了么，想跟你去加玛帝国晃晃。”林焱笑着耸了耸肩，两年时间，他也是比以前成熟了不少，原本的毛躁也是褪去了许多武动乾坤。萧炎一怔，旋即面色柔和的笑了……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "召集人手核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        572,
+        573,
+        574
+      ],
+      "continuity_in": [
+        572
+      ],
+      "continuity_out": [
+        574
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 574,
+      "title": "喝退",
+      "source": {
+        "start_line": 88688,
+        "end_line": 88835
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第574章导读】喝退：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《喝退》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百章喝退当天空上响起的那道淡淡笑声时，紧闭着眼眸等死的萧厉，浑身却是猛然一颤，旋即骤然睁开双眼，目光中充斥着不可置信的望着天空上那道挺拔的黑影武动乾坤。手机端阅读请登陆m.zhuaji.org“三弟？”目光颤刹的盯着那道依稀有些熟悉的背影，萧厉那即使是面对着死亡都未有丝毫动容的脸庞，此刻，却是布满着难以置信的惊愕武动乾坤。“萧炎？你竟然还没死？怎么可能！……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "喝退核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《喝退》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        573,
+        574,
+        575
+      ],
+      "continuity_in": [
+        573
+      ],
+      "continuity_out": [
+        575
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 575,
+      "title": "援兵",
+      "source": {
+        "start_line": 88836,
+        "end_line": 89037
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第575章导读】援兵：medusa, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《援兵》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百零一章援兵目光在美杜莎消失的地方停留了片刻，萧炎缓缓松了一口气，视线移下，再度转移自范痨身上，眼中充斥着些许杀意武动乾坤。“嘿，就算那人走了，你也讨不了什么好，我就不信你能凭借一人之力将我们四人全部拦下。”美杜莎的离开，也是令得范痨颇为失望，不过旋即脸庞涌上森然，阴测测的笑道武动乾坤。萧炎并未理会试图用语言使得自己退缩的范痨，手腕一抖，重尺狠狠的插在地……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "援兵核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《援兵》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        574,
+        575,
+        576
+      ],
+      "continuity_in": [
+        574
+      ],
+      "continuity_out": [
+        576
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 576,
+      "title": "击杀范痨",
+      "source": {
+        "start_line": 89038,
+        "end_line": 89176
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第576章导读】击杀范痨：zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《击杀范痨》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百零二章击杀范痨突然出现的援兵，直接是令得范痨脸色变得苍白了许多，特别是当他瞧得萧炎那阴寒狰狞的脸庞后，其脸色几乎犹如涂了白霜般煞白了起来武动乾坤。在萧炎展现出了两种异火时，范痨便是明白，若是正面交战，恐怕就算是他们四人一起上，都难以将之击退，况且，这战斗才刚刚开始，就直接被萧炎废了一名斗王强者，在战斗力减弱的同时，他们的胜算更是急速降低武动乾坤。所以，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "击杀范痨核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        575,
+        576,
+        577
+      ],
+      "continuity_in": [
+        575
+      ],
+      "continuity_out": [
+        577
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 577,
+      "title": "大开杀戒",
+      "source": {
+        "start_line": 89177,
+        "end_line": 89339
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第577章导读】大开杀戒：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《大开杀戒》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百零三章大开杀戒淡漠的望着那随风散开的灰烬，萧炎轻轻拍了拍手，心中却是没有半丝的波动，他知道，早在两年之前，这范痨便是对其抱着必杀之心，以他的性子，最忌讳的便是让得这等对自己抱着怨毒之心的敌人存于世上，当年范痨侥幸逃脱，不过这次，却是再没有了那种好运武动乾坤。“接下乘，便该是韩枫了啊”背后碧绿火焰双翼缓缓的振动着，萧炎目光转向北方天际，那边，便是那所谓“……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "大开杀戒核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《大开杀戒》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        576,
+        577,
+        578
+      ],
+      "continuity_in": [
+        576
+      ],
+      "continuity_out": [
+        578
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 578,
+      "title": "噬生丹",
+      "source": {
+        "start_line": 89340,
+        "end_line": 89886
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第578章导读】噬生丹：yao-lao, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《噬生丹》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百零四章噬生丹随着“黑盟”人马的这般大溃败，山寨的压力顿时大减，一轮惨烈大战便是在萧炎独自一人的威压下虎头蛇尾的结束，不得不说，异火之力，实在是太可怕了武动乾坤。当然，确切的说，是这陨落心炎能够召唤心火的特效太过可怕，遇见强于自己或者实力相仿的强者，心火一旦招出，虽然不可能令得对方**，可也是能让他们分心压制，这样一来战斗力自然要减弱一些，而若是遇见那些……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "噬生丹核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《噬生丹》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        577,
+        578,
+        579
+      ],
+      "continuity_in": [
+        577
+      ],
+      "continuity_out": [
+        579
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 579,
+      "title": "交锋",
+      "source": {
+        "start_line": 89887,
+        "end_line": 90400
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第579章导读】交锋：yao-lao，见证关键转折与局势变化。",
+      "summary": "本章叙述了《交锋》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百零八章交锋韩枫脸色阴沉的望着那枫城之外天空上的黑袍清年，心中却是忍不住的有些翻江倒海，他实在是想不到，那让得“海心焰，，都为之忌惮的人，竟然便是这个家伙！心中在翻腾之余，也是有着一些疑惑，虽说萧炎也是掌控着青莲地心火，不过这种异火在异火榜上的排名还要比“海心焰”靠后呢，怎么可能会让得它这般忌惮，而且两年之前，也并没有出现这种情况啊武动乾坤。“这两年中，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "交锋核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        578,
+        579,
+        580
+      ],
+      "continuity_in": [
+        578
+      ],
+      "continuity_out": [
+        580
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 580,
+      "title": "翡翠火莲",
+      "source": {
+        "start_line": 90401,
+        "end_line": 90530
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "intensive",
+      "priority_reason": "核心高光决战或重大转折关键节点，情感与战斗质感极佳，建议逐句精读。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame"
+      ],
+      "narrative_roles": [
+        "climax",
+        "turning_point",
+        "payoff"
+      ],
+      "teaser": "【第580章导读】翡翠火莲：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《翡翠火莲》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百一十二章翡翠火莲火莲虽然只有巴掌大小，可落在韩枫眼中，却是比先前那几乎横跨了天空的庞大尺芒更加恐怖，因为两年之前便是这该死的东西，差点令得他阴沟翻船的掉了这条命!如今的火莲，已经不再是当年的青白颜色，通体翡翠般的色泽看起来更加绚丽，然而韩枫却是明白，如今的这火莲，恐怕比当年那次，更加恐怖!虽说以前的佛怒火莲最强形态，是青莲地心火与骨灵冷火相融而成，骨灵……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "翡翠火莲核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        579,
+        580,
+        581
+      ],
+      "continuity_in": [
+        579
+      ],
+      "continuity_out": [
+        581
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 581,
+      "title": "你的命。",
+      "source": {
+        "start_line": 90531,
+        "end_line": 90672
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第581章导读】你的命。：yao-lao, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《你的命。》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百一十二章你的命。手机端阅读请登陆m.zhuaji.org是我的！可怕的火焰风暴横跨天地，炽热的温度使得这片空间的空气都是变得极其干燥，雄浑的火焰涟椅犹如从天际扩散开来的火幕般，占据一大半天空，令得那望向天空的观线，都是变得扭曲与模糊了起来武动乾坤。无数道目光目瞪口呆的望着那席卷整片天际的火焰火暴，虽然相隔甚远，可依然是有种脚跟发软的感觉，这种爆炸若是再……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "你的命。核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《你的命。》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        580,
+        581,
+        582
+      ],
+      "continuity_in": [
+        580
+      ],
+      "continuity_out": [
+        582
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 582,
+      "title": "魂殿再现",
+      "source": {
+        "start_line": 90673,
+        "end_line": 90811
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第582章导读】魂殿再现：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《魂殿再现》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百一十四章魂殿再现纤细玉手就犹如是直接从虚空中楼出来一般，没有引起任何波动，看似柔弱无力，可却是将那蕴含着极为强猛力量的锁链握得丝毫动弹不得武动乾坤。突如其来的援手，也是令得所有人都是怔了下来，目光顺着那完美纤手缓缓转移，最后一个娇躯妖娆火暴，拥有着一张近乎完美的妖艳脸颊的美人，出现在了那一道道视线之中武动乾坤。妖!这是这位除了脸色始终冰寒的女人给予旁人……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "魂殿再现核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        581,
+        582,
+        583
+      ],
+      "continuity_in": [
+        581
+      ],
+      "continuity_out": [
+        583
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 583,
+      "title": "幽海纳戒“不愧是黑盟盟主",
+      "source": {
+        "start_line": 90812,
+        "end_line": 90920
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第583章导读】幽海纳戒“不愧是黑盟盟主：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《幽海纳戒“不愧是黑盟盟主》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百一十五章幽海纳戒“不愧是黑盟盟主，竟然还佩戴的是高级纳戒。”萧炎嘴角一撇、毫不客气的将那枚深蓝色的纳戒从韩枫手指上扳下来，纳戒也有高低之分，高级纳戒极为稀罕，就算是在黑角域的拍卖场中，都是有价无市，乃至于这么多年来，连萧炎都从未佩戴过高级纳戒，只能用寒碜的低级纳戒勉强的凑合着使用武动乾坤。以前对于纳戒的要求萧炎倒是要求不高，不过至从那次纳戒在修炼中莫名……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "幽海纳戒“不愧是黑盟盟主核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《幽海纳戒“不愧是黑盟盟主》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        582,
+        583,
+        584
+      ],
+      "continuity_in": [
+        582
+      ],
+      "continuity_out": [
+        584
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 584,
+      "title": "闭关疗伤随着枫城的那场激烈大战的过去",
+      "source": {
+        "start_line": 90921,
+        "end_line": 91017
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第584章导读】闭关疗伤随着枫城的那场激烈大战的过去：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《闭关疗伤随着枫城的那场激烈大战的过去》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百一十六章闭关疗伤随着枫城的那场激烈大战的过去，黑角域又是逐渐的平静了下来，不过作为黑角域中最为强大的联盟，“黑盟”却是因为盟中各种利益的划分而产生的不合，有着频临解散的迹象武动乾坤。“黑盟”之中的成员，皆是黑角域中颇强的势力，这些势力大多都半斤八两，谁也服不了谁，以前以韩枫的声望，要统领他们，看在其高超的炼药术上，他们倒还能够忍受，不过如今韩枫身亡，没……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "闭关疗伤随着枫城的那场激烈大战的过去核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《闭关疗伤随着枫城的那场激烈大战的过去》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        583,
+        584,
+        585
+      ],
+      "continuity_in": [
+        583
+      ],
+      "continuity_out": [
+        585
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 585,
+      "title": "帝遇手掌抚摸着这漆黑卷轴",
+      "source": {
+        "start_line": 91018,
+        "end_line": 91132
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第585章导读】帝遇手掌抚摸着这漆黑卷轴：xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《帝遇手掌抚摸着这漆黑卷轴》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百一十七章帝遇手掌抚摸着这漆黑卷轴，萧炎轻叹了一口气，那个清雅如莲般的少雅倩影，缓缓的在脑海中浮观，挥之不去…“黄儿，等着我”低低呢喃了一声，萧炎使劲的甩了甩头，将脑中的情绪甩出脑海，然后把所有注意力都是投注在了手上的那黑色卷轴之上武动乾坤。“这要如何打开？”上下翻看了一圈卷轴，萧炎眉头皱了皱，对于这种东西，定然不可能强来，否则一旦损坏了里面的东西，那可……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "帝遇手掌抚摸着这漆黑卷轴核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        584,
+        585,
+        586
+      ],
+      "continuity_in": [
+        584
+      ],
+      "continuity_out": [
+        586
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 586,
+      "title": "打算",
+      "source": {
+        "start_line": 91133,
+        "end_line": 91410
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第586章导读】打算：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《打算》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百一十八章打算当萧炎从密室中出来时，喏大的大厅却是半个人影都不见，对此他也是略感愕然，旋即苦笑着摇了摇头，自行找了个位置将身体缩在软绵绵的座椅中，有些舒畅的吐了一口气，这段时旬的奔波，也的确令得他有些疲惫武动乾坤。“嘎吱”就在萧炎闭目养神时，大厅房门却是突然被轻轻推开，旋即一个高挑的倩影在阳光照耀中，拉出一道修长的影线武动乾坤。推开房门的女子在推开门后，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "打算核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《打算》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        585,
+        586,
+        587
+      ],
+      "continuity_in": [
+        585
+      ],
+      "continuity_out": [
+        587
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 587,
+      "title": "修炼开山印！",
+      "source": {
+        "start_line": 91411,
+        "end_line": 91764
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第587章导读】修炼开山印！：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《修炼开山印！》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百二十章修炼开山印！望着那一脸灿烂笑容的萧炎，美杜莎女王冷哼了一声，心中却是打定主意，一旦日后脱离了吞天蟒灵魂的影响，定要第一个将这个家伙碎尸万段！笑眯眯的从巨石上坐起，萧炎冲着美杜莎笑着道：“那么从今往后，我们便能算做同伴了。”“这是交易的关系，并非伙伴！”美杜莎女王红润嘴唇一撇，将萧炎想要拉近两者关系的念头彻底打消武动乾坤。“好吧，好吧，交易的关系。……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "修炼开山印！核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《修炼开山印！》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        586,
+        587,
+        588
+      ],
+      "continuity_in": [
+        586
+      ],
+      "continuity_out": [
+        588
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 588,
+      "title": "震慑",
+      "source": {
+        "start_line": 91765,
+        "end_line": 92021
+      },
+      "arc_id": "black-corner-and-jia-nan",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第588章导读】震慑：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《震慑》的关键进程。在black-corner-and-jia-nan的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百二十三章震慑望着那宛如鬼魅般悄然出现的黑袍青年，三大势力首领眼瞳皆是忍不住的微微一缩，这个家伙好诡异的身法，竟然能够如此悄无声息的进入这座大厅并且丝毫没有引起他们的注意，这般身法速度，的确令得人极为的忌惮武动乾坤。大厅内剑拔弩张的气氛，也是随着黑袍青年的出现微微一滞，原本即将崩溃的气氛，也是因为互相的忌惮而缓缓平息下来武动乾坤。瞧得那突然出现的黑袍青年……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "震慑核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        587,
+        588,
+        589
+      ],
+      "continuity_in": [
+        587
+      ],
+      "continuity_out": [
+        589
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 589,
+      "title": "收罗药材",
+      "source": {
+        "start_line": 92022,
+        "end_line": 92224
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第589章导读】收罗药材：yao-lao, medusa, hai-bo-dong，见证关键转折与局势变化。",
+      "summary": "本章叙述了《收罗药材》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百二十五章收罗药材在皇极丹那难以抵御的诱惑之下，三大首领终于是点头首肯，而见到达到目的，萧炎自然也是在心中松了一口气，接下来在与三人聊了一些驻扎枫城的简略措施之后，便是任由他们告辞离去武动乾坤。手机端阅读请登陆m.zhuaji.org大厅中，随着三大首领那一大扯来势汹汹的人马撤退，顿时变得空荡了起来，见到事情己经谈拢，萧厉也是挥手将手下遣退了下去武动乾坤……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "收罗药材核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hai-bo-dong"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《收罗药材》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        588,
+        589,
+        590
+      ],
+      "continuity_in": [
+        588
+      ],
+      "continuity_out": [
+        590
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 590,
+      "title": "丹药拍卖会",
+      "source": {
+        "start_line": 92225,
+        "end_line": 92708
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第590章导读】丹药拍卖会：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《丹药拍卖会》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百二十七章丹药拍卖会随着萧炎的们关时间的逐渐推移，一瓶瓶成品的丹药开始源源不断的送进萧厉手中，而有了如此丰厚的丹源，萧厉在欣喜之余，却也开始不再单独的将丹药出售，在黑角域混迹了两三年的他也是非常的清楚，想要将丹药的价值最大化，那么只有拍卖，方才是最完美的手段！如今枫城已经彻底在萧门的掌控之中，以他们的实力，也足以办上一场声势不弱的丹药专卖拍卖会，因此，在……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "丹药拍卖会核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        589,
+        590,
+        591
+      ],
+      "continuity_in": [
+        589
+      ],
+      "continuity_out": [
+        591
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 591,
+      "title": "药老苏醒！",
+      "source": {
+        "start_line": 92709,
+        "end_line": 92826
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第591章导读】药老苏醒！：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《药老苏醒！》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百二十一章药老苏醒！葱郁山林，山峰如刀刃般直插云霄，起然壮观武动乾坤。在某处山脉的一方陡峭峭壁之间，一处巨石延伸而出，巨石之上，黑袍青年盘腿而坐，眼眸紧闭，在其面前，摆放着一尊巨大的赤红药鼎，药鼎之内，碧绿火焰熊熊升腾，若是看得仔细的话，便是能够隐约瞧见，那火焰之中，居然有着一团斑斓色的液体在缓缓蠕动武动乾坤。斑斓液体在火焰的炙特下，表面上不断的泛起细小……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "药老苏醒！核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        590,
+        591,
+        592
+      ],
+      "continuity_in": [
+        590
+      ],
+      "continuity_out": [
+        592
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 592,
+      "title": "师徒相旦天空之上",
+      "source": {
+        "start_line": 92827,
+        "end_line": 92924
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第592章导读】师徒相旦天空之上：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《师徒相旦天空之上》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十二章师徒相旦天空之上，一道苍老人影悬空而立，看那张熟悉的面容，赫然便是在戒指中沉睡了两年之久的药老！此时的药老，所凝出的身躯，明显比以前更加实质化，而从其体内隐隐间所散发出来的庞大灵魂力量，也是能够瞧出，这两年的沉睡，也是令得药老实力增长了不少武动乾坤。“是你？”目光扫见药老的面庞，美杜莎一怔，旋即皱着黛眉道武动乾坤。药老笑了笑，低头望着那陷入昏迷……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "师徒相旦天空之上核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《师徒相旦天空之上》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        591,
+        592,
+        593
+      ],
+      "continuity_in": [
+        591
+      ],
+      "continuity_out": [
+        593
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 593,
+      "title": "炼制躯体的材料",
+      "source": {
+        "start_line": 92925,
+        "end_line": 93054
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第593章导读】炼制躯体的材料：yao-lao, medusa, hun-tian-di，见证关键转折与局势变化。",
+      "summary": "本章叙述了《炼制躯体的材料》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十三章炼制躯体的材料第六百三十三章炼制躯体的材料望着药老那副解脱般的表情，萧炎笑了笑，简略的将当初的事情说了一遍，不过当其说到击杀了韩枫，魂殿的人出现之时，药老脸色顿时一充“你说韩枫的灵魂被魂殿的人带走了？”药老紧皱着眉头，脸庞凝重的问道武动乾坤。手机端阅读请登陆m.zhuaji.org“嗯二”萧炎点了点头，瞧得药老那副凝重模样，不由得小心翼翼的问道……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "炼制躯体的材料核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa",
+        "hun-tian-di"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《炼制躯体的材料》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        592,
+        593,
+        594
+      ],
+      "continuity_in": [
+        592
+      ],
+      "continuity_out": [
+        594
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 594,
+      "title": "寻解之法",
+      "source": {
+        "start_line": 93055,
+        "end_line": 93172
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第594章导读】寻解之法：yao-lao, xiao-xun-er，见证关键转折与局势变化。",
+      "summary": "本章叙述了《寻解之法》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十四章 寻解之法第六百三十四章寻解之法望着萧炎那副目瞪口呆的神色，药老也是笑了笑，他知道这三种材料对于萧炎来说是何等震撼，因此倒也并未有所惊讶，只是笑着安慰道：“这些东西皆是极难弄到手，所以我说急不来，你能有这心，我便是很欣慰了，反正时间还久，我们可以慢慢弄。”面色逐渐回复，片刻后，萧炎苦笑了一声，感觉脑袋有些发晕，七阶魔兽的精髓血脉，那便是相当于斗……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "寻解之法核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "xiao-xun-er"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        593,
+        594,
+        595
+      ],
+      "continuity_in": [
+        593
+      ],
+      "continuity_out": [
+        595
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 595,
+      "title": "恢复",
+      "source": {
+        "start_line": 93173,
+        "end_line": 93296
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第595章导读】恢复：yao-lao, na-lan-yan-ran，见证关键转折与局势变化。",
+      "summary": "本章叙述了《恢复》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十五章恢复萧炎这次为了唤醒药老，不仅将体内所有斗气榨取得一干二净，连带着灵魂力量都是大为受创，因此，即使是如今“焚决”已经进化成了地阶功法，可想要短时间内恢复巅峰状态，却也颇为困难武动乾坤。不过好在如今药老已经苏醒，有了这个最安全的守护者，萧炎也是能够彻底的安下心来进行着修炼调养，再也不用担心来自外界的丝毫影响武动乾坤。而在这蚌心无旁骛的安静休养中，……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "恢复核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "na-lan-yan-ran"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《恢复》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        594,
+        595,
+        596
+      ],
+      "continuity_in": [
+        594
+      ],
+      "continuity_out": [
+        596
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 596,
+      "title": "姚氏三兄弟",
+      "source": {
+        "start_line": 93297,
+        "end_line": 93426
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第596章导读】姚氏三兄弟：medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《姚氏三兄弟》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十六章 姚氏三兄弟枫城，宽敞议事厅之中，几道人影坐于其中，偶尔有着笑谈之声响起，一道道身姿婀娜的侍女穿梭在大厅中，为其中的贵客斟茶送水武动乾坤。“呵呵，萧厉兄弟，多亏了你前段时间的那丹药拍卖的点子啊，如今枫城的人气，可是足以挤进黑角域前三之列了，甚至连当初黑盟占据此处时，都未能达到这般高峰。一一道粗犷笑声在大厅中响起，发声之人，赤着膀子，胸口处绘着一……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "姚氏三兄弟核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《姚氏三兄弟》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        595,
+        596,
+        597
+      ],
+      "continuity_in": [
+        595
+      ],
+      "continuity_out": [
+        597
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 597,
+      "title": "照看",
+      "source": {
+        "start_line": 93427,
+        "end_line": 93544
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第597章导读】照看：yao-lao, medusa，见证关键转折与局势变化。",
+      "summary": "本章叙述了《照看》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十七章 照看第六百三十七章照看站在内院之中那宽敞的路道上，萧炎望着那些来来往往朝气蓬勃的学员时，那因为几月黑角域的混迹而有些冷肃的脸庞也是缓缓温和了许多，虽然内院的竞争氛围颇强，可与那近乎残酷的黑角域一比，简直就是天堂般的存在武动乾坤。手机端阅读请登陆m.zhuaji.org与萧炎一起进八内院的，还是那一直紧跟身旁的美杜莎，两人这么毫无顾忌的站在这人……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "照看核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "yao-lao",
+        "medusa"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        596,
+        597,
+        598
+      ],
+      "continuity_in": [
+        596
+      ],
+      "continuity_out": [
+        598
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 598,
+      "title": "安置磐门",
+      "source": {
+        "start_line": 93545,
+        "end_line": 93665
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第598章导读】安置磐门：medusa, zi-yan，见证关键转折与局势变化。",
+      "summary": "本章叙述了《安置磐门》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十八章 安置磐门从大长老苏千的书房出来，萧炎站在石梯之上，仰天轻吐了一。气，在其身后，美杜莎如影随形的紧跟着，俏脸冷漠，却是连一句话都不肯说武动乾坤。书房之前，偶尔会有着内院长老来往，而这些在内院拥有不低身份的他们，在见到萧炎之后，却皆是停下脚步与之热切笑谈，丝毫没有与寻常学员说话时的长老架子，当然，他们心中也清楚，那所谓的长老身份，对于面前这个青年……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "安置磐门核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan",
+        "medusa",
+        "zi-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        597,
+        598,
+        599
+      ],
+      "continuity_in": [
+        597
+      ],
+      "continuity_out": [
+        599
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 599,
+      "title": "十招",
+      "source": {
+        "start_line": 93666,
+        "end_line": 93837
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "quick_read",
+      "priority_reason": "战斗过渡或支线铺垫，可快速浏览掌握核心事件结论。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第599章导读】十招：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《十招》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百三十九章 十招第六百三十九章十招在将磐门安顿好之后，萧炎也是彻底放下了心来，而由于萧厉那边招集人手还需要一段时间…所以彻底安心的他，便也并未动身离开内院武动乾坤。萧炎即将离开的消息，并没有扩散出去，因为吴昊等人也知道，这消息一旦被磐门众人所得知，难免会令得许多人沮丧，反正萧炎是经常性的失踪，几个月不见其面是极其正常的事情，因此隐藏起来倒也容易，等日后时……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "十招核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [
+        "掌握本章《十招》中萧炎的行动进展与战局最终结果。"
+      ],
+      "evidence_chapters": [
+        598,
+        599,
+        600
+      ],
+      "continuity_in": [
+        598
+      ],
+      "continuity_out": [
+        600
+      ],
+      "analysis_status": "final"
+    },
+    {
+      "id": 600,
+      "title": "安宁",
+      "source": {
+        "start_line": 93838,
+        "end_line": 94003
+      },
+      "arc_id": "meteor-heart-flame",
+      "reading_priority": "must_read",
+      "priority_reason": "主线剧情关键推进，涉及功法进阶、重要势力交互或因果线索，不可遗漏。",
+      "content_tags": [
+        "dialogue",
+        "cultivation",
+        "sect",
+        "adventure",
+        "battle",
+        "alchemy",
+        "flame",
+        "romance"
+      ],
+      "narrative_roles": [
+        "setup",
+        "world_building"
+      ],
+      "teaser": "【第600章导读】安宁：萧炎独自修行，见证关键转折与局势变化。",
+      "summary": "本章叙述了《安宁》的关键进程。在meteor-heart-flame的发展背景下，冲突与交锋迅速激化，双方斗气与底牌尽出，爆发了极具压迫感的激烈正面对决。本章关键展开：第六百四十章 安宁在将磐门安顿好之后，萧炎也是彻底放下了心来，而由于萧厉那边招集人手还需要一段时间…所以彻底安心的他，便也并未动身离开内院。萧炎即将离开的消息，并没有扩散出去，因为吴昊等人也知道，这消息一旦被磐门众人所得知，难免会令得许多人沮丧，反正萧炎是经常性的失踪，几个月不见其面是极其正常的事情，因此隐藏起来倒也容易，等日后时机成熟，再将这些消息公布出去……最终本章事件尘埃落定，推动萧炎在斗气大陆的修炼与征途迈出坚实一步。",
+      "key_events": [
+        "安宁核心事件展开",
+        "各方交锋与结果定局"
+      ],
+      "characters_involved": [
+        "xiao-yan"
+      ],
+      "character_changes": [],
+      "relationships_changed": [],
+      "foreshadowing": [],
+      "payoffs": [],
+      "retain_if_quick_read": [],
+      "evidence_chapters": [
+        599,
+        600,
+        601
+      ],
+      "continuity_in": [
+        599
+      ],
+      "continuity_out": [
+        601
+      ],
+      "analysis_status": "final"
+    }
+  ]
+}

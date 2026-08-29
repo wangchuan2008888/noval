@@ -1,0 +1,42 @@
+{
+  "note": "原文件存在编号错位与重复打印，已按行号顺序建立连续编号；parsed_number保留原文编号，number为阅读导航使用的连续ID",
+  "mismatches": [
+    {
+      "seq": 1047,
+      "parsed": 1046,
+      "title": "风铃树"
+    },
+    {
+      "seq": 1048,
+      "parsed": 1047,
+      "title": "疯狂的混沌魔星藤"
+    },
+    {
+      "seq": 1049,
+      "parsed": 1048,
+      "title": "树奴"
+    },
+    {
+      "seq": 1050,
+      "parsed": 1049,
+      "title": "发现无敌圣兽"
+    },
+    {
+      "seq": 1051,
+      "parsed": 1050,
+      "title": "火璃圣人vs神翼霸王狮王"
+    },
+    {
+      "seq": 1052,
+      "parsed": 1051,
+      "title": "你们是不是对方尘自信过头了?"
+    },
+    {
+      "seq": 1278,
+      "parsed": 128,
+      "title": "玩一点刺激的"
+    }
+  ],
+  "total_mismatch": 7,
+  "dedup_removed": 30
+}
