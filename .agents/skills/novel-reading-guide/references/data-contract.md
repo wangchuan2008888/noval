@@ -71,7 +71,7 @@ JSON 或 JSONL 是规范的中间数据格式。CSV 适合导出简单的“章�
   "content_tags": ["battle", "dialogue"],
   "narrative_roles": ["turning_point", "setup"],
   "teaser": "无剧透的阅读引导。",
-  "summary": "简洁、允许剧透的本章转述。",
+  "summary": "200–500 个中文字符、允许剧透的完整本章转述：起因、人物行动、冲突/信息变化、结果与承接。",
   "key_events": ["事件一", "事件二"],
   "characters_involved": ["hero", "rival"],
   "character_changes": [
@@ -88,7 +88,7 @@ JSON 或 JSONL 是规范的中间数据格式。CSV 适合导出简单的“章�
 }
 ```
 
-`reading_priority` 只允许使用 `intensive`、`must_read`、`quick_read`。不能把“打斗”“言情”等内容类型放进该字段。`characters_involved` 使用人物稳定 ID，供网站按人物筛选；`evidence_chapters` 记录得出本章判断时实际核对过的相邻/支撑章节；它不是叙事链接。
+`reading_priority` 只允许使用 `intensive`、`must_read`、`quick_read`。不能把“打斗”“言情”等内容类型放进该字段。`summary` 默认为 200–500 个中文字符，必须基于本章原文写成连贯的剧情转述，涵盖起因、人物行动、冲突或信息变化、结果及必要承接；不得以标题套话、首尾段拼接、引语罗列或泛化评价代替剧情。`characters_involved` 使用人物稳定 ID，供网站按人物筛选；`evidence_chapters` 记录得出本章判断时实际核对过的相邻/支撑章节；它不是叙事链接。
 
 ## 篇章记录
 

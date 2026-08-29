@@ -21,6 +21,45 @@ input { min-width: 12rem; flex: 1 1 14rem; }
 .tag { display: inline-block; padding: .1rem .42rem; border-radius: .35rem; margin: .2rem .28rem 0 0; font-size: .85rem; background: #ece2d5; }
 details { margin-top: .75rem; }
 summary { cursor: pointer; color: #6b3f2a; }
+.chapter-summary { white-space: pre-line; line-height: 1.8; }
 pre.full-text { white-space: pre-wrap; overflow-wrap: anywhere; line-height: 1.85; padding: 1rem; background: #f7f3eb; border-radius: .5rem; }
 .chapter-meta { display: block; margin-top: .25rem; }
 .empty { padding: 1.5rem; text-align: center; color: #73695d; }
+.arc-card { cursor: pointer; transition: transform .15s, box-shadow .15s; }
+.arc-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(107,63,42,.12); border-color: #c9b8a3; }
+.arc-card:focus { outline: 2px solid #6b3f2a; outline-offset: 2px; }
+.multi-select { position: relative; min-width: 180px; }
+.multi-trigger { width: 100%; text-align: left; background: #fffdf9; }
+.multi-menu { position: absolute; top: calc(100% + 6px); left: 0; right: 0; background: #fffdf9; border: 1px solid #cfc2b2; border-radius: .5rem; padding: .5rem; box-shadow: 0 8px 20px rgba(0,0,0,.08); z-index: 10; display: flex; flex-direction: column; gap: .35rem; }
+.multi-menu.hidden { display: none; }
+.multi-menu label { display: flex; align-items: center; gap: .4rem; font-size: .9rem; cursor: pointer; }
+.multi-menu input[type="checkbox"] { min-width: 0; flex: none; accent-color: #6b3f2a; }
+.priority-pills { display: flex; gap: .4rem; flex-wrap: wrap; }
+.priority-pills .pill { padding: .35rem .75rem; border-radius: 999px; background: #fffdf9; border: 1px solid #cfc2b2; font-size: .85rem; cursor: pointer; transition: all .15s; }
+.priority-pills .pill.active { background: #6b3f2a; color: #fff; border-color: #6b3f2a; }
+.chapter-anchor { text-decoration: none; color: #b8a898; margin-left: .35rem; font-weight: 400; }
+.chapter-anchor:hover { color: #6b3f2a; }
+/* 抽屉式筛选：不占主区宽度 */
+.chapters-header { position: sticky; top: 0; z-index: 5; background: #f6f2ea; padding: .6rem 0 .4rem; display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; border-bottom: 1px solid #e2d8ca; margin-bottom: .8rem; }
+.filter-toggle { background: #6b3f2a; color: #fff; border-color: #6b3f2a; }
+.active-chips { display: flex; flex-wrap: wrap; gap: .35rem; align-items: center; flex: 1 1 auto; }
+.active-chips .chip { display: inline-flex; align-items: center; gap: .3rem; background: #ece2d5; border-radius: 999px; padding: .2rem .55rem; font-size: .8rem; }
+.active-chips .chip button { border: none; background: transparent; padding: 0 .15rem; font-size: .9rem; line-height: 1; cursor: pointer; color: #6b3f2a; }
+.drawer { position: fixed; top: 0; left: 0; width: 320px; max-width: 86vw; height: 100vh; background: #fffdf9; border-right: 1px solid #e2d8ca; box-shadow: 8px 0 24px rgba(0,0,0,.12); transform: translateX(-100%); transition: transform .22s ease; z-index: 20; display: flex; flex-direction: column; }
+.drawer.open { transform: translateX(0); }
+.drawer-header { display: flex; justify-content: space-between; align-items: center; padding: 1rem; border-bottom: 1px solid #e2d8ca; }
+.drawer-body { flex: 1; overflow: auto; padding: 1rem; display: flex; flex-direction: column; gap: .7rem; }
+.drawer-body input, .drawer-body select, .drawer-body .multi-select { width: 100%; min-width: 0; flex: none; box-sizing: border-box; }
+.drawer-body input#search { min-width: 0; flex: none; width: 100%; padding: .45rem .6rem; font-size: .9rem; }
+.drawer-body select { padding: .45rem .6rem; font-size: .9rem; }
+.drawer .multi-trigger { padding: .45rem .6rem; font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.drawer .multi-menu { position: static; margin-top: .35rem; box-shadow: none; border: 1px solid #e2d8ca; max-height: none; width: 100%; box-sizing: border-box; display: flex; }
+.drawer .multi-menu label { justify-content: flex-start; width: 100%; box-sizing: border-box; padding: .15rem 0; }
+.drawer .multi-menu label span { flex: none; }
+.drawer-footer { padding: .8rem 1rem; border-top: 1px solid #e2d8ca; display: flex; justify-content: space-between; align-items: center; }
+.backdrop { position: fixed; inset: 0; background: rgba(0,0,0,.28); z-index: 15; }
+.backdrop.hidden, .drawer.hidden { display: none; }
+.drawer.open.hidden { display: flex; transform: translateX(-100%); }
+@media (max-width: 860px) {
+  .drawer { width: 88vw; }
+}
