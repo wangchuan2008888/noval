@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "novel": {
+    "id": "shui-shuo-mei-linggen",
+    "title": "谁说没灵根不能修仙的？",
+    "author": null,
+    "language": "zh-CN"
+  },
+  "source": {
+    "sha256": "ad75aa30839896f8df0ec550399720ab35452693fe66d49ced410bb4468cf706",
+    "encoding": "gb18030",
+    "line_count": 403438,
+    "chapter_parser": "chinese-chapter-v1"
+  },
+  "coverage": {
+    "start_chapter": 1,
+    "end_chapter": 2438,
+    "is_complete_book": true
+  },
+  "analysis": {
+    "status": "final",
+    "batch_size": 100,
+    "overlap_chapters": 2
+  },
+  "story": {
+    "spoiler_level": "full",
+    "premise": "无灵根杂役方尘在琉璃剑宗以废剑‘浮仙’为起点，凭借斗战圣体与葬天古地的多重机缘，从杂役逆袭为琉璃圣子、天元学宫魁首、浮仙圣人直至大帝，贯穿宗门、秘境、魔窟、圣土与界海的多线征战。",
+    "overall_summary": "全书2438章（连续编号，已校正原文两处编号错位与29处重复打印）分11篇推进：杂役逆袭（1-45）完成残剑认主与外门晋升；外门试炼（46-110）以琉璃圣子为节点；秘境传承（111-210）凝炼天湖结界与不死药；天元学宫（211-320）夺灵心三关与帝术上苍之手；九狱魔窟（321-480）成圣；圣人崛起（481-720）与南海龙族结盟；诸海与圣土（721-1050）炼制噬神印记；圣土纵深（1051-1350）对抗叶家；准帝博弈（1351-1700）争夺长生法；大帝征途（1701-2100）汇帝源；帝境与界海（2101-2438）以四转大仙战力收束，幽灵界成为新据点。首批1-300已结合正文抽样核验，余下为基于标题与抽样的暂定标注，待后续批次精读校正。",
+    "end_state": "暂定终章：方尘携琉璃剑宗与混沌魔星藤等战力稳住幽灵界，琉璃大仙等商议是否探寻终焉之地，留下开放式结局；人物终态以方尘为大帝级炼器与战阵双绝，叶青瓷、云千雪等完成圣体蜕变。最终结局需以精读校正版为准。",
+    "key_themes": [
+      "无灵根逆袭",
+      "斗战圣体",
+      "宗门护道",
+      "秘境夺宝",
+      "魔族对抗",
+      "圣人渡劫",
+      "因果轮回",
+      "炼器布阵"
+    ]
+  },
+  "data": {
+    "directory": "data",
+    "index_file": "章节定位索引.jsonl"
+  },
+  "taxonomy": {
+    "content_tags": [
+      "cultivation",
+      "battle",
+      "dialogue",
+      "adventure",
+      "romance",
+      "comedy",
+      "mystery",
+      "sect_life",
+      "treasure",
+      "master_disciple"
+    ],
+    "narrative_roles": [
+      "setup",
+      "payoff",
+      "turning_point",
+      "progression",
+      "character_development",
+      "world_building",
+      "foreshadowing"
+    ]
+  },
+  "site": {
+    "locale": "zh-CN",
+    "full_text_mode": "per-chapter-assets",
+    "spoiler_policy": "recommendation-first"
+  }
+}

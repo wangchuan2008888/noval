@@ -1,0 +1,118 @@
+[
+  {
+    "id": "fangchen",
+    "name": "方尘",
+    "one_sentence": "无灵根杂役出身、以浮仙剑与斗战圣体逆袭为浮仙圣人/大帝的核心主角，执念是证明无灵根亦可通天。",
+    "first_chapter": 1,
+    "last_confirmed_chapter": 2438,
+    "aliases": [
+      "小师叔",
+      "浮仙圣人",
+      "浮仙大帝"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "yeqingci",
+    "name": "叶青瓷",
+    "one_sentence": "幽冥圣体与寂灭仙瞳拥有者，叶家明珠，从被迫害到与方尘并肩征战的女主机缘线。",
+    "first_chapter": 56,
+    "last_confirmed_chapter": 2438,
+    "aliases": [
+      "青瓷"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "yunqianxue",
+    "name": "云千雪",
+    "one_sentence": "道台破碎后在方尘帮助下重塑、渡劫成圣的关键伙伴，情感与战力双支线。",
+    "first_chapter": 15,
+    "last_confirmed_chapter": 2438,
+    "aliases": [],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "bage",
+    "name": "八哥",
+    "one_sentence": "嘴贱但战力诡异的黑羽鸟/搜魂专家，贯穿全书的喜剧与情报担当。",
+    "first_chapter": 102,
+    "last_confirmed_chapter": 2438,
+    "aliases": [
+      "秃毛鸟"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "xiaohe",
+    "name": "小鹤",
+    "one_sentence": "灵鹤空间的主宰，承载方尘机动与资源中转的本命灵兽。",
+    "first_chapter": 78,
+    "last_confirmed_chapter": 2438,
+    "aliases": [
+      "灵鹤",
+      "白鹤"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "huoli",
+    "name": "火璃圣人",
+    "one_sentence": "亦师亦友的护道圣人，多次为方尘挡劫并渡第九劫成准帝。",
+    "first_chapter": 250,
+    "last_confirmed_chapter": 2438,
+    "aliases": [
+      "火璃前辈"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "lichengyao",
+    "name": "李清瑶",
+    "one_sentence": "方尘早期在魔窟与圣土结识的助力型女修，情报与丹道支线。",
+    "first_chapter": 209,
+    "last_confirmed_chapter": 800,
+    "aliases": [],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "yuecanglan",
+    "name": "岳沧澜",
+    "one_sentence": "长生谷/混沌圣地的准帝级对手，后转为利益同盟的灰度人物。",
+    "first_chapter": 814,
+    "last_confirmed_chapter": 1700,
+    "aliases": [],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "lichangsheng",
+    "name": "李长生",
+    "one_sentence": "叶家玄黄一脉的宿敌准帝，持玄黄符与九幽噬魂钉的阶段性大敌。",
+    "first_chapter": 815,
+    "last_confirmed_chapter": 1800,
+    "aliases": [],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "hundunmotengteng",
+    "name": "混沌魔星藤",
+    "one_sentence": "可吞噬万物的伴生魔植，从魔窟藤蔓成长为帝级战力。",
+    "first_chapter": 263,
+    "last_confirmed_chapter": 2438,
+    "aliases": [
+      "魔星藤"
+    ],
+    "spoiler_level": "full"
+  },
+  {
+    "id": "liulichengzhu",
+    "name": "琉璃剑宗",
+    "one_sentence": "方尘的宗门根基，承载师承、护道与信仰的集体角色。",
+    "first_chapter": 1,
+    "last_confirmed_chapter": 2438,
+    "aliases": [
+      "琉璃剑宗"
+    ],
+    "spoiler_level": "full"
+  }
+]
