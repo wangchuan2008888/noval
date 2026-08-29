@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>小说阅读导航</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main>
+      <header id="header"></header>
+      <nav class="tabs" aria-label="阅读导航">
+        <button class="tab active" data-view="overview">故事总览</button>
+        <button class="tab" data-view="chapters">章节浏览</button>
+        <button class="tab" data-view="characters">人物关系</button>
+      </nav>
+      <section id="app" aria-live="polite"></section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

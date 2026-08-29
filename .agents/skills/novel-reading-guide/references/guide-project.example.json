@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "novel": {
+    "id": "my-novel",
+    "title": "小说标题",
+    "author": null,
+    "language": "zh-CN"
+  },
+  "source": {
+    "path": "../小说原文.txt",
+    "sha256": "填写章节索引输出的 source_sha256",
+    "encoding": "gb18030",
+    "line_count": 0,
+    "chapter_parser": "chinese-chapter-v1"
+  },
+  "coverage": {
+    "start_chapter": 1,
+    "end_chapter": 100,
+    "is_complete_book": false
+  },
+  "analysis": {
+    "status": "provisional",
+    "batch_size": 100,
+    "overlap_chapters": 2
+  },
+  "story": {
+    "spoiler_level": "full",
+    "premise": "处理完成后填写全书前提。",
+    "overall_summary": "处理完成后填写覆盖范围的主线总结。",
+    "end_state": "部分处理时说明当前停点；全书完成后填写结局。",
+    "key_themes": []
+  },
+  "data": { "directory": "data", "index_file": "章节定位索引.jsonl" },
+  "taxonomy": {
+    "content_tags": ["battle", "dialogue", "romance", "cultivation"],
+    "narrative_roles": ["setup", "payoff", "turning_point", "progression"]
+  },
+  "site": {
+    "locale": "zh-CN",
+    "full_text_mode": "per-chapter-assets",
+    "spoiler_policy": "recommendation-first"
+  }
+}

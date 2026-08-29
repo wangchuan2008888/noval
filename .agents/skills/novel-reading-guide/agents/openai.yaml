@@ -1,0 +1,4 @@
+interface:
+  display_name: "长篇小说阅读导航"
+  short_description: "把长篇小说变成可筛选、可定位的阅读网站"
+  default_prompt: "请为这部小说建立故事骨架、分批章节阅读标注，并生成本地静态阅读导航网站。"
